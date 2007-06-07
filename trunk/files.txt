@@ -1,0 +1,16 @@
+This document says what all the files are, if you add a file please describe it here:
+
+Root Folder:
+
+dump.sjs	- The script dump
+newtitle.png	- A canditate for the English title screen
+notes.txt	- Spikeman's hacking notes
+table.sjs.tbl	- The table file
+title.png	- The original title screen
+wh.sjs.tbl	- The table file to use with WindHex (how the script was dumped)
+
+IPS Folder - IPS patches:
+
+menu_titles.ips	- Translates the title graphics in the menu in game
+
+Bo(r)kEd	- Spikeman's attempt at a script dumper/inserter

@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Borked.MainForm.resources
+obj\Debug\TableLib.csproj.GenerateResource.Cache
+bin\Debug\Borked.exe
+bin\Debug\Borked.pdb
+obj\Debug\Borked.exe
+obj\Debug\Borked.pdb
