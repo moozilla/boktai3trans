@@ -1,127 +1,182 @@
  =========
-<LABEL=COACH>コーチ</LABEL>
-「そいつは棺桶獣(かんおけじ
-ゅう)にしてマネージャーの、
+//<LABEL=COACH>コーチ</LABEL>
+//「そいつは棺桶獣(かんおけじ
+//ゅう)にしてマネージャーの、
+<LABEL=COACH>Coach</LABEL>
+"That guy's the Coffin
+Monster manager,
  =========
-エレファンだ
+//エレファンだ
+Elefan.
  =========
-おまえがバイクアクションやバ
-イクバトルで手に入れたバイク
-ポイントを、
+//おまえがバイクアクションやバ
+//イクバトルで手に入れたバイク
+//ポイントを、
+He'll take the points you
+obtain from bike action and
+battle,
  =========
-アイテムやバイクのパーツと交
-換(こうかん)してくれる
+//アイテムやバイクのパーツと交
+//換(こうかん)してくれる
+and exchange them for items
+and bike parts.
  =========
-交換(こうかん)のコースは3つ
+//交換(こうかん)のコースは3つ
+There are three exchange
+courses:
  =========
-300ポイント、600ポイント、
-1200ポイントだ
+//300ポイント、600ポイント、
+//1200ポイントだ
+300 points, 600 points, and
+1200 points.
  =========
-手に入るアイテムはコースごと
-に決められているが、
+//手に入るアイテムはコースごと
+//に決められているが、
+As for the item received
+from each course,
  =========
-どのアイテムが手に入るかは、
-おまえの運しだいだ
+//どのアイテムが手に入るかは、
+//おまえの運しだいだ
+Which item you get depends
+on your luck.
  =========
-ポイントが貯まったら交換(こ
-うかん)してみるといい
+//ポイントが貯まったら交換(こ
+//うかん)してみるといい
+If you save up enough points
+you should try exchanging
+them,
  =========
-バイクのパーツには、エレファ
-ンからでしか手に入らないもの
-も多いからな」
+//バイクのパーツには、エレファ
+//ンからでしか手に入らないもの
+//も多いからな」
+Since there are a lot of
+items that can't be obtained
+except from Elefan."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>エレファン</LABEL>
-「パオーッ!!」
+//<LABEL=NONE>エレファン</LABEL>
+//「パオーッ!!」
+<LABEL=NONE>Elefan</LABEL>:
+"PAOH!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>エレファン</LABEL>
-「パオ!」
- <ALTER>パオ!</ALTER><ALTER>パオ?</ALTER>
+//<LABEL=NONE>エレファン</LABEL>
+//「パオ!」
+// <ALTER>パオ!</ALTER><ALTER>パオ?</ALTER>
+<LABEL=NONE>Elefan</LABEL>:
+"PAO!"
+ <ALTER>PAO!</ALTER><ALTER>PAO?</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-現在のバイクポイントは、
-<VAR=0>ポイントです
+//現在のバイクポイントは、
+//<VAR=0>ポイントです
+Current bike points: <VAR=0>
  =========
 <PROC=0>
 <END>
  =========
-何ポイント使って交換(こうか
-ん)しますか?
+//何ポイント使って交換(こうか
+//ん)しますか?
+// <ALTER>300</ALTER><ALTER>600</ALTER><ALTER>1200</ALTER>
+Exchange how many points?
  <ALTER>300</ALTER><ALTER>600</ALTER><ALTER>1200</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-バックがいっぱいです。
-アイテムをへらしてください
+//バックがいっぱいです。
+//アイテムをへらしてください
+Bag is full. Please remove
+an item.
  =========
 <PROC=0>
 <END>
  =========
-ポイント交換(こうかん)をする
-には、あと<VAR=3>ポイント必要です
+//ポイント交換(こうかん)をする
+//には、あと<VAR=3>ポイント必要です
+At least <VAR=3> points
+are required for point
+exchange.
  =========
 <PROC=0>
 <END>
  =========
-「<EXTEND=0>」
-を手に入れた!!
+//「<EXTEND=0>」
+//を手に入れた!!
+Obtained "<EXTEND=0>"!!
  =========
 <PROC=0>
 <END>
  =========
-バイクスペシャル
-「<EXTEND=0>」
-を手に入れた!!
+//バイクスペシャル
+//「<EXTEND=0>」
+//を手に入れた!!
+Obtained bike special
+"<EXTEND=0>"!!
  =========
 <PROC=0>
 <END>
  =========
-バイクオプション
-「<EXTEND=0>」
-を手に入れた!!
+//バイクオプション
+//「<EXTEND=0>」
+//を手に入れた!!
+Obtained bike option
+"<EXTEND=0>"!!
  =========
 <PROC=0>
 <END>
  =========
 ???
  =========
-アデプト
+//アデプト
+Adept
  =========
-グラディエーター
+//グラディエーター
+Gladiator
  =========
-SPエージェント
+//SPエージェント
+SP Agent 
  =========
-チャンピオン
+//チャンピオン
+Champion
  =========
-ダークハンター
+//ダークハンター
+Dark Hunter
  =========
-アルケミスト
+//アルケミスト
+Alchemist
  =========
-コレクター
+//コレクター
+Collector
  =========
-ドールマスター
+//ドールマスター
+Doll Master
  =========
-ストーリーテラー
+//ストーリーテラー
+Storyteller
  =========
-グランドマスター
+//グランドマスター
+Grand Master
  =========
-封印(ふういん)されている。
-まだ、この本を読むことはでき
-ないようだ・・・
+//封印(ふういん)されている。
+//まだ、この本を読むことはでき
+//ないようだ・・・
+It's sealed.
+Looks like you won't be able
+to read this book yet...
  =========
 <PROC=0>
 <END>
  =========
 <MOJISE=MOJISE_SYSTEM>
-          称号記録          
+//          称号記録          
+        TITLE RECORD
  =========
 <EXTEND=0>
 <EXTEND=1>
@@ -141,7 +196,8 @@ SPエージェント
 <END>
  =========
 <MOJISE=MOJISE_SYSTEM>
-        ★称号記録★        
+//        ★称号記録★        
+       ★TITLE RECORD★
  =========
 <EXTEND=0>
 <EXTEND=1>
@@ -160,502 +216,775 @@ SPエージェント
 <PROC=0>
 <END>
  =========
-封印(ふういん)されている。
-まだ、この本を読むことはでき
-ないようだ・・・
+//封印(ふういん)されている。
+//まだ、この本を読むことはでき
+//ないようだ・・・
+It's sealed.
+Looks like you won't be able
+to read this book yet...
  =========
 <PROC=0>
 <END>
  =========
 
-追憶の書
+//追憶の書
+RECORD BOOK
 
  =========
 <PROC=0>
 <END>
  =========
- <ALTER>総合記録</ALTER><ALTER>浄化記録</ALTER>
- <ALTER>バイクバトル</ALTER>
+// <ALTER>総合記録</ALTER><ALTER>浄化記録</ALTER>
+// <ALTER>バイクバトル</ALTER>
+ <ALTER>Synthesis</ALTER><ALTER>Purification</ALTER>
+ <ALTER>Bike Battle</ALTER>
  =========
 <PROC=0>
 <END>
  =========
- <ALTER>総合記録</ALTER><ALTER>浄化記録</ALTER>
- <ALTER>バイクバトル</ALTER>
- <ALTER>クロスオーバーバトル</ALTER>
+// <ALTER>総合記録</ALTER><ALTER>浄化記録</ALTER>
+// <ALTER>バイクバトル</ALTER>
+// <ALTER>クロスオーバーバトル</ALTER>
+ <ALTER>Synthesis</ALTER><ALTER>Purification</ALTER>
+ <ALTER>Bike Battle</ALTER>
+ <ALTER>Crossover Battle</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-稼動時間    <VAR=0>：<VAR=1><VAR=2>
-プレイタイム    <VAR=3><VAR=4>：<VAR=5><VAR=6>
-クリア回数<VAR=11>回
+//稼動時間    <VAR=0>：<VAR=1><VAR=2>
+//プレイタイム    <VAR=3><VAR=4>：<VAR=5><VAR=6>
+//クリア回数<VAR=11>回
+Total Time    <VAR=0>：<VAR=1><VAR=2>
+Play Time     <VAR=3><VAR=4>：<VAR=5><VAR=6>
+Clear Count   <VAR=11> times
  =========
-<PROC=1>コンティニュー    <VAR=4>回
-やり直し          <VAR=5>回
-見つかった回数    <VAR=6>回
+//<PROC=1>コンティニュー    <VAR=4>回
+//やり直し          <VAR=5>回
+//見つかった回数    <VAR=6>回
+<PROC=1>Continued   <VAR=4> times
+Retried     <VAR=5> times
+Spotted     <VAR=6> times
  =========
-太陽エネルギー    <VAR=7>ソル
-太陽鍛冶          <VAR=8>回
+//太陽エネルギー    <VAR=7>ソル
+//太陽鍛冶          <VAR=8>回
+Solar Energy  <VAR=7> Soll
+Solar Smith   <VAR=8> times
  =========
-暗黒ローン        <VAR=9>ソル
-おしおき回数      <VAR=10>回
- =========
-<PROC=0>
-<END>
- =========
-倒した敵の数      <VAR=0>体
- =========
-プラント          <VAR=1>体
-スパイダー        <VAR=2>体
-ビー              <VAR=3>体
- =========
-バット            <VAR=4>体
-クロウ            <VAR=5>体
- =========
-センチピード      <VAR=6>体
-ハウンド          <VAR=7>体
- =========
-アイビー          <VAR=8>体
-オクトパス        <VAR=9>体
- =========
-グール           <VAR=10>体
-マミー           <VAR=11>体
-ヴォーン         <VAR=12>体
- =========
-<PROC=1>スタチュー        <VAR=0>体
-ロボット          <VAR=1>体
- =========
-スケルトン        <VAR=2>体
-ゴーレム          <VAR=3>体
-ミミック          <VAR=4>体
- =========
-ソード            <VAR=5>体
-アックス          <VAR=6>体
-アーマー          <VAR=7>体
- =========
-ホルルン          <VAR=8>体
-スライム          <VAR=9>体
- =========
-ゴースト         <VAR=10>体
- =========
-イモータル        <VAR=11>体
+//暗黒ローン        <VAR=9>ソル
+//おしおき回数      <VAR=10>回
+Dark Loan  <VAR=9> Soll
+Borrowed   <VAR=10> times
  =========
 <PROC=0>
 <END>
  =========
-バイクポイント<VAR=0>pt
+//倒した敵の数      <VAR=0>体
+Enemies defeated   <VAR=0>
  =========
-対戦回数          <VAR=1>回
-勝利回数          <VAR=2>勝
-勝率              <VAR=3>%
+//プラント          <VAR=1>体
+//スパイダー        <VAR=2>体
+//ビー              <VAR=3>体
+PLANT           <VAR=1>
+SPIDER          <VAR=2>
+BEE             <VAR=3>
+ =========
+//バット            <VAR=4>体
+//クロウ            <VAR=5>体
+BAT             <VAR=4>
+CROW            <VAR=5>
+ =========
+//センチピード      <VAR=6>体
+//ハウンド          <VAR=7>体
+CENTIPEDE       <VAR=6>
+HOUND           <VAR=7>
+ =========
+//アイビー          <VAR=8>体
+//オクトパス        <VAR=9>体
+IVY             <VAR=8>
+OCTOPUS         <VAR=9>
+ =========
+//グール           <VAR=10>体
+//マミー           <VAR=11>体
+//ヴォーン         <VAR=12>体
+GHOUL           <VAR=10>
+MUMMY           <VAR=11>
+VORN            <VAR=12>
+ =========
+//<PROC=1>スタチュー        <VAR=0>体
+//ロボット          <VAR=1>体
+<PROC=1>STATUE          <VAR=0>
+ROBOT           <VAR=1>
+ =========
+//スケルトン        <VAR=2>体
+//ゴーレム          <VAR=3>体
+//ミミック          <VAR=4>体
+SKELETON        <VAR=2>
+GOLEM           <VAR=3>
+MIMIC           <VAR=4>
+ =========
+//ソード            <VAR=5>体
+//アックス          <VAR=6>体
+//アーマー          <VAR=7>体
+SWORD           <VAR=5>
+AXE             <VAR=6>
+ARMOR           <VAR=7>
+ =========
+//ホルルン          <VAR=8>体
+//スライム          <VAR=9>体
+KLOROFOLUN      <VAR=8>
+SLIME           <VAR=9>
+ =========
+//ゴースト         <VAR=10>体
+GHOST           <VAR=10>
+ =========
+//イモータル        <VAR=11>体
+IMMORTAL        <VAR=11>
  =========
 <PROC=0>
 <END>
  =========
-クロスオーバーポイント
+//バイクポイント<VAR=0>pt
+Bike Points   <VAR=0>
+ =========
+//対戦回数          <VAR=1>回
+//勝利回数          <VAR=2>勝
+//勝率              <VAR=3>%
+Battles         <VAR=1>
+Wins            <VAR=2>
+Win %           <VAR=3>%
+ =========
+<PROC=0>
+<END>
+ =========
+//クロスオーバーポイント
+Crossover Points
 <VAR=0>pt
  =========
-対戦回数          <VAR=1>回
-勝利回数          <VAR=2>勝
-勝率              <VAR=3>%
+//対戦回数          <VAR=1>回
+//勝利回数          <VAR=2>勝
+//勝率              <VAR=3>%
+Battles         <VAR=1>
+Wins            <VAR=2>
+Win %           <VAR=3>%
  =========
 <PROC=0>
 <END>
  =========
-???
-「あっ、<NAME>さま!!
+//???
+//「あっ、<NAME>さま!!
+???:
+"Ah, Master <NAME>!!
  =========
-暗子ちゃん!!
-<NAME>さまだよ!」
+//暗子ちゃん!!
+//<NAME>さまだよ!」
+Doomy!!
+It's Master <NAME>!"
  =========
-???
-「ううん・・・
+//???
+//「ううん・・・
+???:
+"Yeah...
  =========
-女王さまとおよび!!」
+//女王さまとおよび!!」
+And the Queen, too!!"
  =========
-???
-「・・・
+//???
+//「・・・
+???:
+"...
  =========
-どんな夢見てんのよ、もう!
+//どんな夢見てんのよ、もう!
+Stop daydreaming, sheesh!
  =========
-アナタがお熱の<NAME>さまがいらしたのよ!!」
+//アナタがお熱の<NAME>さまがいらしたのよ!!」
+*** ??? (something about  Django having a fever)!!"
  =========
-???
-「ふぇ!?
+//???
+//「ふぇ!?
+???:
+"Ehhh!?
  =========
-わわわ、
-どうしよう陽子ちゃん!!」
+//わわわ、
+//どうしよう陽子ちゃん!!」
+Ack!
+What should we do, Luxana!?"
  =========
-???
-「しっかりなさい!
-さあ、お仕事よ!!」
+//???
+//「しっかりなさい!
+//さあ、お仕事よ!!」
+???:
+"Get a hold of yourself!
+Let's get to work!!"
  =========
-<PROC=2><LABEL=NONE>???</LABEL>
-「<PROC=8><LOCK=48>いらっしゃいませ!!
-<PROC=6>太陽バンクにようこそ!」
+//<PROC=2><LABEL=NONE>???</LABEL>
+//「<PROC=8><LOCK=48>いらっしゃいませ!!
+//<PROC=6>太陽バンクにようこそ!」
+<PROC=2><LABEL=NONE>???</LABEL>:
+<PROC=8><LOCK=48>"Hello, and welcome to
+<PROC=6>Solar Bank!"
  =========
-<PROC=1><LABEL=NONE>???</LABEL>
-「<PROC=7><LOCK=48>いらっしゃいませ!!
-<PROC=5>暗黒ローンにようこそ!」
+//<PROC=1><LABEL=NONE>???</LABEL>
+//「<PROC=7><LOCK=48>いらっしゃいませ!!
+//<PROC=5>暗黒ローンにようこそ!」
+<PROC=1><LABEL=NONE>???</LABEL>:
+<PROC=7><LOCK=48>"Greetings, and welcome to
+<PROC=5>Dark Loans!"
  =========
-<PROC=4><LABEL=NONE>???</LABEL>
-「ワタシは太陽バンク受付の陽
-子です」<LOCK=30>
+//<PROC=4><LABEL=NONE>???</LABEL>
+//「ワタシは太陽バンク受付の陽
+//子です」<LOCK=30>
+<PROC=4><LABEL=NONE>???</LABEL>:
+"I am Luxana, receptionist
+for Solar Bank."<LOCK=30>
  =========
-<PROC=3><LABEL=NONE>???</LABEL>
-「暗黒ローン受付の暗子です」<LOCK=30>
+//<PROC=3><LABEL=NONE>???</LABEL>
+//「暗黒ローン受付の暗子です」<LOCK=30>
+<PROC=3><LABEL=NONE>???</LABEL>:
+"I'm Doomy, receptionist for
+Dark Loans."<LOCK=30>
  =========
-<PROC=1><PROC=2><LABEL=NONE>陽子ちゃんと暗子ちゃん</LABEL>
-「ここではワタシたち2人が、
+//<PROC=1><PROC=2><LABEL=NONE>陽子ちゃんと暗子ちゃん</LABEL>
+//「ここではワタシたち2人が、
+<PROC=1><PROC=2><LABEL=NONE>Luxana and Doomy</LABEL>:
+"Now we'll give you an
+introduction to what Solar
  =========
-太陽バンクと暗黒ローンについ
-て説明いたします
+//太陽バンクと暗黒ローンについ
+//て説明いたします
+Bank and Dark Loans are
+all about. <PROC=5><PROC=6>Looking forward
+to doing business with you!<note>"
  =========
-<PROC=5><PROC=6>よろしくお付き合いくださいね
-<note>」
- =========
-<PROC=0>
-<END>
- =========
-バンクとローンについて
- <ALTER>太陽スタンド</ALTER><ALTER>太陽バンク</ALTER>
- <ALTER>暗黒ローン</ALTER><ALTER>暗黒カード</ALTER>
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=NONE>太陽バンクの陽子ちゃん</LABEL><PROC=2>
-「それでは、ワタシから説明さ
-せていただきます!
- =========
-<PROC=4>右側にあります緑色の機械、太
-陽スタンドは、
- =========
-太陽センサーがキャッチした太
-陽の光を、
- =========
-エナジー(ENE)として自動的に
-貯めておいてくれる魔法機械で
-す
- =========
-<PROC=2>スタンドに貯まったエナジーは
- =========
-スタンドの前で<WEIGHT>Ａボタン</WEIGHT>を押(
-お)すことにより、チャージす
-ることができます
- =========
-夜間でもチャージすることがで
-きますので、昼間の内に太陽の
-光を集めておくのが害(きち)<note>
- =========
-太陽スタンドはダンジョンの各
-所にも設置されておりますので
-有効にご活用ください」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=NONE>太陽バンクの陽子ちゃん</LABEL><PROC=2>
-「それでは、ワタシから説明さ
-せていただきます!
- =========
-<PROC=4>太陽バンクには太陽スタンドに
-貯めたエナジー(ENE)を、
- =========
-通貨、ソル(SOLL)としてあずけ
-ておくことができます
- =========
-バンクにあずけられたソルは、<PROC=2>
-お金としてショップでのお買い
-物にご利用いただけます
- =========
-ソルには利息も付きますので、
- =========
-使わないエナジーは、バンクに
-あずけておくのが害、ですよ<note>
-」
+//<PROC=5><PROC=6>よろしくお付き合いくださいね
+//<note>」
+***REMOVE BOX***
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>暗黒ローンの暗子ちゃん</LABEL><PROC=1>
-「それでは、ワタシから説明さ
-せていただきます!
- =========
-<PROC=3>暗黒ローンでは、エナジー(ENE
-)をお貸(か)ししています
- =========
-24時間いつでもエナジーをチャ
-ージできます。便利ですね<note>
- =========
-ただし、借りたモノは返すのが<PROC=1>
-世の中のルール
- =========
-お貸(か)ししたエナジーは3日
-後、
- =========
-ソル(SOLL)として太陽バンクか
-ら引き落とさせていただきます
- =========
-残高が足りない場合は、さらに
-太陽スタンドから引き落とさせ
-ていただきますが、
- =========
-それでも足りない場合は・・・
- =========
-とっても大変なことになります
-楽しみですね<note>」
+//バンクとローンについて
+// <ALTER>太陽スタンド</ALTER><ALTER>太陽バンク</ALTER>
+// <ALTER>暗黒ローン</ALTER><ALTER>暗黒カード</ALTER>
+About banking and loans:
+ <ALTER>Solar Station</ALTER><ALTER>Solar Bank</ALTER>
+ <ALTER>Dark Loans</ALTER><ALTER>Dark Card</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>暗黒ローンの暗子ちゃん</LABEL><PROC=1>
-「それでは、ワタシから説明さ
-せていただきます!
+//<LABEL=NONE>太陽バンクの陽子ちゃん</LABEL><PROC=2>
+//「それでは、ワタシから説明さ
+//せていただきます!
+<LABEL=NONE>Luxana of the Solar Bank</LABEL>:<PROC=2>
+"Allow me to explain to you
+about Solar Stations!
  =========
-<PROC=3>暗黒ローンのゴールドカード、
-暗黒カードには、2つのサービ
-ス機能(きのう)が付いています
+//<PROC=4>右側にあります緑色の機械、太
+//陽スタンドは、
+Take a look at the green
+machine to the right. That's
+a Solar Station.
  =========
-1つは暗黒ローンのよび出しサ
-ービス
+//太陽センサーがキャッチした太
+//陽の光を、
+Solar Stations are Magic
+Machines that allow you
+to automatically
  =========
-これを使えば、いつでもどこで
-も暗黒ローンをご利用いただけ
-ます。便利ですね<note>
+//エナジー(ENE)として自動的に
+//貯めておいてくれる魔法機械で
+//す
+save the sun's rays caught
+by your solar sensor.
  =========
-もう1つはゴールド会員限定の<PROC=1>
-やり直しサービス
+//<PROC=2>スタンドに貯まったエナジーは
+<PROC=2>If you press the <WEIGHT>A Button</WEIGHT>
+while standing in front of a
+Solar Station,
  =========
-ダンジョンの中で思わぬ失敗を
-してしまった!
+//スタンドの前で<WEIGHT>Ａボタン</WEIGHT>を押(
+//お)すことにより、チャージす
+//ることができます
+you can use the solar energy
+saved there to charge up
+your energy levels.
  =========
-そんなときに便利なのが、この
-やり直しサービスです
+//夜間でもチャージすることがで
+//きますので、昼間の内に太陽の
+//光を集めておくのが害(きち)<note>
+Collect lots of rays in
+the daytime, then you
+can charge up at night!<note>
  =========
-やり直しを行えば、ダンジョン
-のそのエリアに入ったところか
-ら、
- =========
-冒険(ぼうけん)をやり直すこと
-ができます
- =========
-ただし、やり直しにはそれなり
-の費用がかかります
- =========
-かかった費用は3日後、太陽バ
-ンクから引き落とさせていただ
-きます。楽しみですね<note>」
+//太陽スタンドはダンジョンの各
+//所にも設置されておりますので
+//有効にご活用ください」
+You'll find Solar Stations
+in all of the dungeons,
+so make good use of them!"
  =========
 <PROC=0>
 <END>
  =========
-ここにはまだ、手配書が張(は)
-られていない
+//<LABEL=NONE>太陽バンクの陽子ちゃん</LABEL><PROC=2>
+//「それでは、ワタシから説明さ
+//せていただきます!
+<LABEL=NONE>Luxana of the Solar Bank</LABEL>:<PROC=2>
+"Hello! Allow me to
+explain!
+ =========
+//<PROC=4>太陽バンクには太陽スタンドに
+//貯めたエナジー(ENE)を、
+<PROC=4>You can take the energy
+you've saved at Solar
+Stations
+ =========
+//通貨、ソル(SOLL)としてあずけ
+//ておくことができます
+and deposit it as SOLL in
+the Solar Bank.
+ =========
+//バンクにあずけられたソルは、<PROC=2>
+//お金としてショップでのお買い
+//物にご利用いただけます
+You can use SOLL just<PROC=2>
+like money when you go
+shopping at the Mall.
+ =========
+//ソルには利息も付きますので、
+SOLL in the bank will earn
+interest,
+ =========
+//使わないエナジーは、バンクに
+//あずけておくのが害、ですよ<note>
+//」
+so it's smart to
+save surplus solar energy.<note>"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=NONE>暗黒ローンの暗子ちゃん</LABEL><PROC=1>
+//「それでは、ワタシから説明さ
+//せていただきます!
+<LABEL=NONE>Doomy of Dark Loans</LABEL>:<PROC=1>
+Right then! Let me explain!
+ =========
+//<PROC=3>暗黒ローンでは、エナジー(ENE
+//)をお貸(か)ししています
+<PROC=3>Here at Dark Loans we can
+lend you energy.
+ =========
+//24時間いつでもエナジーをチャ
+//ージできます。便利ですね<note>
+You can refill your energy
+24 hours a day.
+Pretty convenient, right?!<note>
+ =========
+//ただし、借りたモノは返すのが<PROC=1>
+//世の中のルール
+But obviously it's the way<PROC=1>
+of the world that you have
+to pay back what you borrow.
+ =========
+//お貸(か)ししたエナジーは3日
+//後、
+Borrowed energy is taken out
+as SOLL payments from the
+Solar Bank three days later.
+ =========
+//ソル(SOLL)として太陽バンクか
+//ら引き落とさせていただきます
+If the Solar Bank doesn't
+contain sufficient funds,
+payment will be taken from
+ =========
+//残高が足りない場合は、さらに
+//太陽スタンドから引き落とさせ
+//ていただきますが、
+what you've saved in Solar
+Stations. If that's still
+not enough...
+ =========
+//それでも足りない場合は・・・
+//a really terrible thing will
+//happen. Sounds fun, huh?!<note>"
+something awful will happen.
+Sounds fun, huh?!<note>"
+ =========
+//とっても大変なことになります
+//楽しみですね<note>」
+***REMOVE BOX***
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=NONE>暗黒ローンの暗子ちゃん</LABEL><PROC=1>
+//「それでは、ワタシから説明さ
+//せていただきます!
+<LABEL=NONE>Doomy of Dark Loans</LABEL>:<PROC=1>
+"Right then! Let me explain!
+ =========
+//<PROC=3>暗黒ローンのゴールドカード、
+//暗黒カードには、2つのサービ
+//ス機能(きのう)が付いています
+<PROC=3>The Dark Loans gold card,
+the Dark Card, provides
+two different services.
+ =========
+//1つは暗黒ローンのよび出しサ
+//ービス
+The first  is our Dark Loan
+request service.
+ =========
+//これを使えば、いつでもどこで
+//も暗黒ローンをご利用いただけ
+//ます。便利ですね<note>
+This means you can get a
+Dark Loan anywhere and any
+time you wish! Convenient!<note>
+ =========
+//もう1つはゴールド会員限定の<PROC=1>
+//やり直しサービス
+The second is our Replay
+service which is reserved<PROC=1>
+for gold card members only.
+ =========
+//ダンジョンの中で思わぬ失敗を
+//してしまった!
+Let's say you're in a
+Dungeon and you run into
+some unexpected trouble!
+ =========
+//そんなときに便利なのが、この
+//やり直しサービスです
+That's when our Replay
+service will really help
+you out.
+ =========
+//やり直しを行えば、ダンジョン
+//のそのエリアに入ったところか
+//ら、
+Use this in a Dungeon and
+you will be able to replay
+your adventure
+ =========
+//冒険(ぼうけん)をやり直すこと
+//ができます
+From the moment you set foot
+in that particular area.
+ =========
+//ただし、やり直しにはそれなり
+//の費用がかかります
+Fees do apply for this
+service, however.
+ =========
+//かかった費用は3日後、太陽バ
+//ンクから引き落とさせていただ
+//きます。楽しみですね<note>」
+We will withdraw the fees
+from the Solar Bank three
+days after you have
+***ADD BOX***
+used the service.
+That should be fun!"
+ =========
+<PROC=0>
+<END>
+ =========
+//ここにはまだ、手配書が張(は)
+//られていない
+A Request Sheet has not yet
+been posted here.
  =========
 <PROC=0>
 <END>
  =========
 
-[手配書]
+//[手配書]
+[Request Sheet]
  =========
 <EXTEND=0>
-討伐完了(とうばつかんりょう)
+//討伐完了(とうばつかんりょう)
+Complete Suppression
  =========
 <PROC=0>
 <END>
  =========
 
-[手配書]
+//[手配書]
+[Request Sheet]
  =========
-地下をさまよう、赤きムクロを
-討(う)て!
+//地下をさまよう、赤きムクロを
+//討(う)て!
+Defeat the crimson MUKURO***
+wandering the basement!
  =========
-賞品
-レアアイテム
- =========
-<PROC=0>
-<END>
- =========
-
-[手配書]
- =========
-街をさまよう、赤きムクロを討
-(う)て!
- =========
-賞品
-300ソルのアクセサリー 
+//賞品
+//レアアイテム
+PRIZE
+Rare Item
  =========
 <PROC=0>
 <END>
  =========
 
-[手配書]
+//[手配書]
+[Request Sheet]
  =========
-樹上(じゅじょう)をさまよう、
-赤き人形を討(う)て!
+//街をさまよう、赤きムクロを討
+//(う)て!
+Defeat the crimson MUKURO***
+wandering the town!
  =========
-賞品
-400ソルのアクセサリー 
- =========
-<PROC=0>
-<END>
- =========
-
-[手配書]
- =========
-雪の中をさまよう、赤き猟犬(
-りょうけん)を討(う)て!
- =========
-賞品
-500ソルの非売品アクセサリー
+//賞品
+//300ソルのアクセサリー 
+PRIZE
+300 SOLL accessory
  =========
 <PROC=0>
 <END>
  =========
 
-[手配書]
+//[手配書]
+[Request Sheet]
  =========
-城の中をさまよう、赤き小悪魔
-を討(う)て!
+//樹上(じゅじょう)をさまよう、
+//赤き人形を討(う)て!
+Defeat the crimson puppet
+wandering up a tree!
  =========
-賞品
-600ソルの非売品アクセサリーB
+//賞品
+//400ソルのアクセサリー 
+PRIZE
+400 SOLL accessory
  =========
 <PROC=0>
 <END>
  =========
 
-[手配書]
+//[手配書]
+[Request Sheet]
  =========
-船の中をさまよう、赤きドクロ
-を討(う)て!
+//雪の中をさまよう、赤き猟犬(
+//りょうけん)を討(う)て!
+Defeat the crimson Hound
+wandering in the snow!
  =========
-賞品
-600ソルの非売品アクセサリーA
- =========
-<PROC=0>
-<END>
- =========
-グール+
- =========
-マミー+
- =========
-ゴーレム+
- =========
-ハウンド+
- =========
-ヴォーン+
- =========
-スケルトン+
- =========
-太陽の使者「おてんこさま」のぬいぐるみ。ライフを回複(かいふく)してくれる。
- =========
-太陽のいしゃ「おけんこさま」のぬいぐるみ。ステータス異常(いじょう)を治してくれる。
- =========
-太陽のはぐれもの「かげんこさま」のぬいぐるみ。暗黒虫の出現をおさえてくれる。
- =========
-太陽の音楽家「おがんくさま」のぬいぐるみ。音楽を聞かせてくれる。
- =========
-太陽のよっぱらい「どろんぼさま」のぬいぐるみ。おみやげを買ってきて(?)くれる。
- =========
-太陽のたんてい「おたんてさま」のぬいぐるみ。ワンテッドモンスターをさがしてくれる。
- =========
-太陽バンクと暗黒ローンの受付嬢(うけつけじょう)、「陽子ちゃんと暗子ちゃん」のぬいぐるみ。あずけるとき、借りるときの利率とおしおきをサービスしてくれる。
- =========
-ネットナビ「ロックマン」のぬいぐるみ。エナジーを回複(かいふく)してくれる。
- =========
-ネットナビ「ブルース」のぬいぐるみ。太陽鍛冶(たいようかじ)において、GREAT!を出やすく、SP(特殊効果)を付きやすくしてくれる。
- =========
-ネットナビ「カーネル」のぬいぐるみ。トランスゲージを満タンにしてくれる。
- =========
-どのランクに挑みますか?
- <ALTER>ブロンズ</ALTER>
+//賞品
+//500ソルの非売品アクセサリー
+PRIZE
+500 SOLL unbuyable accessory
  =========
 <PROC=0>
 <END>
  =========
-どのランクに挑みますか?
- <ALTER>★ブロンズ</ALTER>  <ALTER>シルバー</ALTER>
+
+//[手配書]
+[Request Sheet]
+ =========
+//城の中をさまよう、赤き小悪魔
+//を討(う)て!
+Defeat the crimson MiniDevil***
+wandering inside the castle!
+ =========
+//賞品
+//600ソルの非売品アクセサリーB
+PRIZE
+600 SOLL unbuyable accessory
  =========
 <PROC=0>
 <END>
  =========
-どのランクに挑みますか?
- <ALTER>★ブロンズ</ALTER>  <ALTER>★シルバー</ALTER>
- <ALTER>ゴールド</ALTER>
+
+//[手配書]
+[Request Sheet]
+ =========
+//船の中をさまよう、赤きドクロ
+//を討(う)て!
+Defeat the crimson DOKURO***
+wandering inside the ship!
+ =========
+//賞品
+//600ソルの非売品アクセサリーA
+PRIZE
+600 SOLL unbuyable accessory
  =========
 <PROC=0>
 <END>
  =========
-どのランクに挑みますか?
- <ALTER>★ブロンズ</ALTER>  <ALTER>★シルバー</ALTER>
- <ALTER>★ゴールド</ALTER>  <ALTER>プラチナ</ALTER>
+//グール+
+Ghoul+
+ =========
+//マミー+
+Mummy+
+ =========
+//ゴーレム+
+Golem+
+ =========
+//ハウンド+
+Hound+
+ =========
+//ヴォーン+
+Vorn+
+ =========
+//スケルトン+
+Skeleton+
+ =========
+//太陽の使者「おてんこさま」のぬいぐるみ。ライフを回複(かいふく)してくれる。
+Solar Messenger "Otenko" Doll. Fully restores your Life.
+ =========
+//太陽のいしゃ「おけんこさま」のぬいぐるみ。ステータス異常(いじょう)を治してくれる。
+Solar Doctor "Okenko" Doll. Heals status effects.
+ =========
+//太陽のはぐれもの「かげんこさま」のぬいぐるみ。暗黒虫の出現をおさえてくれる。
+Solar Stray "Kagenko" Doll. Prevents Dark Bugs from appearing.
+ =========
+//太陽の音楽家「おがんくさま」のぬいぐるみ。音楽を聞かせてくれる。
+Solar Musician "Oganku" Doll. Gives you access to Sound Test.
+ =========
+//太陽のよっぱらい「どろんぼさま」のぬいぐるみ。おみやげを買ってきて(?)くれる。
+Solar Drunkard "Dorenbo" Doll. Occasionally buys you gifts.
+ =========
+//太陽のたんてい「おたんてさま」のぬいぐるみ。ワンテッドモンスターをさがしてくれる。
+Solar Detective "Otante" Doll. Finds Wanted monsters.
+ =========
+//太陽バンクと暗黒ローンの受付嬢(うけつけじょう)、「陽子ちゃんと暗子ちゃん」のぬいぐるみ。あずけるとき、借りるときの利率とおしおきをサービスしてくれる。
+Solar Bank and Dark Loans receptionist "Luxana and Gloomy" Dolls. Adjust interest rates in your favor.
+ =========
+//ネットナビ「ロックマン」のぬいぐるみ。エナジーを回複(かいふく)してくれる。
+Net Navi "Rockman" Doll. Fully restores your ENE.
+ =========
+//ネットナビ「ブルース」のぬいぐるみ。太陽鍛冶(たいようかじ)において、GREAT!を出やすく、SP(特殊効果)を付きやすくしてくれる。
+Net Navi "Blues" Doll. Makes it easier to get GREATs and SP-Rank weapons at the Solar Smith.
+ =========
+//ネットナビ「カーネル」のぬいぐるみ。トランスゲージを満タンにしてくれる。
+Net Navi "Colonel" Doll. Fills your Trance Gauge.
+ =========
+//どのランクに挑みますか?
+// <ALTER>ブロンズ</ALTER>
+Attempt which rank?
+ <ALTER>Bronze</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-どのランクに挑みますか?
- <ALTER>★ブロンズ</ALTER>  <ALTER>★シルバー</ALTER>
- <ALTER>★ゴールド</ALTER>  <ALTER>★プラチナ</ALTER>
+//どのランクに挑みますか?
+// <ALTER>★ブロンズ</ALTER>  <ALTER>シルバー</ALTER>
+Attempt which rank?
+ <ALTER>★Bronze</ALTER>  <ALTER>Silver</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-レベルが足りません
+//どのランクに挑みますか?
+// <ALTER>★ブロンズ</ALTER>  <ALTER>★シルバー</ALTER>
+// <ALTER>ゴールド</ALTER>
+Attempt which rank?
+ <ALTER>★Bronze</ALTER>  <ALTER>★Silver</ALTER>
+ <ALTER>Gold</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-<EXTEND=0>に挑みます。
+//どのランクに挑みますか?
+// <ALTER>★ブロンズ</ALTER>  <ALTER>★シルバー</ALTER>
+// <ALTER>★ゴールド</ALTER>  <ALTER>プラチナ</ALTER>
+Attempt which rank?
+ <ALTER>★Bronze</ALTER>  <ALTER>★Silver</ALTER>
+ <ALTER>★Gold</ALTER>  <ALTER>Platinum</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-ブロンズ
+//どのランクに挑みますか?
+// <ALTER>★ブロンズ</ALTER>  <ALTER>★シルバー</ALTER>
+// <ALTER>★ゴールド</ALTER>  <ALTER>★プラチナ</ALTER>
+Attempt which rank?
+ <ALTER>★Bronze</ALTER>  <ALTER>★Silver</ALTER>
+ <ALTER>★Gold</ALTER>  <ALTER>★Platinum</ALTER>
  =========
-シルバー
+<PROC=0>
+<END>
  =========
-ゴールド
+//レベルが足りません
+Insufficient level.
  =========
-プラチナ
+<PROC=0>
+<END>
  =========
- ブロンズアーマー 
+//<EXTEND=0>に挑みます。
+Challenging <EXTEND=0>.
  =========
-アイアンアーマー
+<PROC=0>
+<END>
  =========
-アースアーマー
+//ブロンズ
+Bronze
  =========
- フレイムアーマー 
+//シルバー
+Silver
  =========
- クラウドアーマー 
+//ゴールド
+Gold
  =========
-デュアルアーマー
+//プラチナ
+Platinum
  =========
-アースアーマー+
+// ブロンズアーマー 
+Bronze Armor
  =========
-フロストアーマー+
+//アイアンアーマー
+Iron Armor
  =========
-フレイムアーマー+
+//アースアーマー
+Earth Armor
  =========
-クラウドアーマー+
+// フレイムアーマー 
+Flame Armor
  =========
-デュアルアーマー+
+// クラウドアーマー 
+Cloud Armor
  =========
-黒騎土
+//デュアルアーマー
+Dual Armor
  =========
- 伯爵 
+//アースアーマー+
+Earth Armor+
  =========
-フレスベルグ
+//フロストアーマー+
+Frost Armor+
  =========
- サバタ 
+//フレイムアーマー+
+Flame Armor+
  =========
-ニーズホッグ
+//クラウドアーマー+
+Cloud Armor+
  =========
- ラタトスク 
+//デュアルアーマー+
+Dual Armor+
  =========
- ヴァナルガンド 
+//黒騎土
+Black Knight
+ =========
+// 伯爵 
+Count
+ =========
+//フレスベルグ
+Hresvelgr
+ =========
+// サバタ 
+Sabata
+ =========
+//ニーズホッグ
+Nidhoggr
+ =========
+// ラタトスク 
+Ratatosk
+ =========
+// ヴァナルガンド 
+Vanargand
  =========
  
  =========
@@ -677,325 +1006,479 @@ SPエージェント
  =========
  
  =========
-会話リソースエラー
-エラーコード:<VAR=0>
+//会話リソースエラー
+//エラーコード:<VAR=0>
+DIALOG RESOURCE ERROR
+ERROR CODE: <VAR=0>
  =========
 <PROC=0>
 <END>
  =========
-トリニティのメッセージ
+//トリニティのメッセージ
+Trinity Messages
  =========
 <PROC=0>
 <END>
  =========
-トリニティ
-「・・・」
+//トリニティ
+//「・・・」
+Trinity:
+"..."
  =========
 <PROC=0>
 <END>
  =========
-トリニティ
-「何だよ、
-さっさと行けよ・・・」
+//トリニティ
+//「何だよ、
+//さっさと行けよ・・・」
+Trinity:
+"What is it? Hurry up and
+go..."
  =========
 <PROC=0>
 <END>
  =========
-おてんこさま
-「<NAME>、
-少年を助けるんだ!!
+//おてんこさま
+//「<NAME>、
+//少年を助けるんだ!!
+Master Otenko:
+"<NAME>,
+save that boy!!
  =========
-少年の近くで<WEIGHT>Ａボタン</WEIGHT>を押(お)
-して少年をつかみ、
+//少年の近くで<WEIGHT>Ａボタン</WEIGHT>を押(お)
+//して少年をつかみ、
+Press the <WEIGHT>A Button</WEIGHT near him
+to grab him,
  =========
-そのまま<WEIGHT><＋>ボタン</WEIGHT>で移動(いど
-う)すれば、少年を運ぶことが
-できる
+//そのまま<WEIGHT><＋>ボタン</WEIGHT>で移動(いど
+//う)すれば、少年を運ぶことが
+//できる
+Then use the <WEIGHT><＋>Control Pad</WEIGHT>
+to drag him around.
  =========
-風に運ばれた少年が、エリア周
-囲のイバラでダメージを受けな
-いように、注意するんだ!」
- =========
-<PROC=0>
-<END>
- =========
-おてんこさま
-「<NAME>、
-少年があぶない!!
- =========
-少年の命を守るんだ!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「オイラならだいじょうぶだ
-オメェらはさっさと行きな!」
+//風に運ばれた少年が、エリア周
+//囲のイバラでダメージを受けな
+//いように、注意するんだ!」
+The wind can push him into
+the damaging thorns on the
+walls, so be careful!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「・・・」
+//おてんこさま
+//「<NAME>、
+//少年があぶない!!
+Master Otenko:
+"<NAME>,
+the boy is in trouble!!
+ =========
+//少年の命を守るんだ!」
+Protect him!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニーのメッセージ
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「オイラならだいじょうぶだ
+//オメェらはさっさと行きな!」
+<LABEL=TRINITY>Trinity</LABEL>:
+"I'll be fine. You guys
+hurry up and get going!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「・・・」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「・・・」
+<LABEL=TRINITY>Trinity</LABEL>:
+"..."
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「やり直すのか?
-ヒヒッ!!」
+//ジョニーのメッセージ
+Johnny Messages
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「やり直すのか?」
+//ジョニー
+//「・・・」
+Johnny:
+"..."
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「やり直すのか?
+//ヒヒッ!!」
+Johnny:
+"Start over?
+Heehee!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「やり直すのか?」
+// <ALTER>はい</ALTER><ALTER>いいえ</ALTER>
+Johnny:
+"Start over?"
+ <ALTER>Yes</ALTER><ALTER>No</ALTER>
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「最後にたどり着くべき小部屋
+//はどこなのか?
+Johnny:
+*** "Just where could that last room be?
+ =========
+//それを良く考えることだな!
+//ヒヒヒヒヒッ!!」
+Think hard! Heeheeheehee!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「ヒヒッ!!
+//やっちまったようだな?
+Johnny:
+"Heehee!!
+You screwed up, didn't you?
+ =========
+//進み方をまちがえて、小部屋か
+//ら出られなくなっちまっても、
+You went the wrong way, and
+now you can't get out of the
+room.
+ =========
+//そこに現れるワープ魔方陣(ま
+//ほうじん)を使えば、この部屋
+//にもどって来るこたぁできる
+If you use the Warp Magic
+Square that appears there,
+you can return to this room.
+ =========
+//オレさまの慈悲(じひ)深さに感
+//謝(かんしゃ)するんだな?」
+Aren't you thankful for
+my profound mercy?"
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「ヒヒッ!!
+//また、やっちまったようだな?
+Johnny:
+"Heehee!!
+You screwed up again, huh?
+ =========
+//頭の中にマップをえがけなけれ
+//ば、
+If you don't draw a map in
+your head,
+ =========
+//この迷宮(めいきゅう)をクリア
+//することはできねぇぜ?」
+you'll never get through
+this labyrinth, will you?"
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「ヒヒッ!!
+//また、やっちまったようだな?
+Johnny:
+"Heehee!!
+You screwed up again, huh?
+ =========
+//やっぱオマエの頭にゃあ、むず
+//かしすぎたか?」
+I guess it's beyond your
+abilities after all."
+ =========
+//しょうがねぇ・・・
+//これを使いな!<PROC=1>
+Can't be helped... use this!<PROC=1>
+ =========
+//黒ひげのアニキにゃあ、内緒(
+//ないしょ)だぜ?」
+*** A secret Black Beard
+Brother?
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「ヒヒッ!!
+//また、やっちまったようだな?
+Johnny
+Heehee!! You screwed up again, huh?
+ =========
+//やっぱオマエの頭にゃあ、むず
+//かしすぎたか?」
+Seems that it's over your head after all.
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「また会ったな・・・
+Johnny
+We meet again...
+ =========
+//こんなところにまでたどり着く
+//たぁ、
+After trying so hard to get to such a place,
+ =========
+//オレさまの迷宮(めいきゅう)を
+//クリアしただけのことはある
+*** you managed to clear my labyrinth.
+ =========
+//だがしかしっ!!
+However!!
+ =========
+//黒ひげのアニキたちに挑戦(ち
+//ょうせん)しようたぁ、無謀(む
+//ぼう)がすぎるぜ!
+To challenge the Black Beard
+Brothers is beyond reckless!
+ =========
+//まあ、どうしてもやるってんな
+//ら止めはしねぇ
+Well, whatever you do, I won't stop you.
+ =========
+//移動(いどう)ブロックを落とし
+//終わったら、オレさまに言いな
+** Moving block wo otoshi owattara, oresama ni ii na
+ =========
+//正解(せいかい)か不正解(ふせ
+//いかい)か、判定(はんてい)を
+//下してやるぜ!!」
+Right or wrong, you decide!!
+ =========
+<PROC=0>
+<END>
+ =========
+//ジョニー
+//「ヒヒッ!!
+//もういいんだな?
+Johnny
+Heehee!! Is that alright?
+ =========
+<PROC=0>
+<END>
+ =========
+//オマエの答えを判定(はんてい)
+//するぞ?」
  <ALTER>はい</ALTER><ALTER>いいえ</ALTER>
+Have you decided on your answer?
+ <ALTER>Yes</ALTER><ALTER>No</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「最後にたどり着くべき小部屋
-はどこなのか?
+//ジョニー
+//「やめるのか?
+Johnny:
+"Stop?
  =========
-それを良く考えることだな!
-ヒヒヒヒヒッ!!」
- =========
-<PROC=0>
-<END>
- =========
-ジョニー
-「ヒヒッ!!
-やっちまったようだな?
- =========
-進み方をまちがえて、小部屋か
-ら出られなくなっちまっても、
- =========
-そこに現れるワープ魔方陣(ま
-ほうじん)を使えば、この部屋
-にもどって来るこたぁできる
- =========
-オレさまの慈悲(じひ)深さに感
-謝(かんしゃ)するんだな?」
+//まあ、それが身のためだな。
+//ヒヒヒヒヒッ!!」
+Well, it's for your own
+good. Heeheeheehee!!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「ヒヒッ!!
-また、やっちまったようだな?
+//ジョニー
+//「ゲェーッ!!
+Johnny:
+"Gah!!
  =========
-頭の中にマップをえがけなけれ
-ば、
+//ジャックアニキの問題に正解(
+//せいかい)するとは・・・!!
+You solved Jack's problem
+correctly...!
  =========
-この迷宮(めいきゅう)をクリア
-することはできねぇぜ?」
+//オマエ・・・
+//なかなかやるじゃねぇか?
+***You didn't cheat, did you?
  =========
-<PROC=0>
-<END>
- =========
-ジョニー
-「ヒヒッ!!
-また、やっちまったようだな?
- =========
-やっぱオマエの頭にゃあ、むず
-かしすぎたか?」
- =========
-しょうがねぇ・・・
-これを使いな!<PROC=1>
- =========
-黒ひげのアニキにゃあ、内緒(
-ないしょ)だぜ?」
+//さっさとアニキたちのところへ
+//行きな!」
+Hurry up and move on to
+where my brothers are!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「ヒヒッ!!
-また、やっちまったようだな?
+//ジョニー
+//「何だって?
+Johnny:
+What the hell?
  =========
-やっぱオマエの頭にゃあ、むず
-かしすぎたか?」
+//黒ひげの三兄弟なのに、ひげが
+//ない?
+The Three Black Beard
+Brothers don't have beards?
  =========
-<PROC=0>
-<END>
+//わかってねぇなぁ・・・
+//アニキたちはスケルトンだぜ?
+You don't get it... are my
+brothers skeletons?
  =========
-ジョニー
-「また会ったな・・・
+//スケルトンにひげがあるか?
+//ないだろ?
+Skeletons don't have
+beards, do they?
  =========
-こんなところにまでたどり着く
-たぁ、
- =========
-オレさまの迷宮(めいきゅう)を
-クリアしただけのことはある
- =========
-だがしかしっ!!
- =========
-黒ひげのアニキたちに挑戦(ち
-ょうせん)しようたぁ、無謀(む
-ぼう)がすぎるぜ!
- =========
-まあ、どうしてもやるってんな
-ら止めはしねぇ
- =========
-移動(いどう)ブロックを落とし
-終わったら、オレさまに言いな
- =========
-正解(せいかい)か不正解(ふせ
-いかい)か、判定(はんてい)を
-下してやるぜ!!」
+//まあ、そういうことだ・・・
+//わかるよな?」
+Well, that's the way it is.
+Got it?
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「ヒヒッ!!
-もういいんだな?
+//ジョニー
+//「ゲゲェーッ!!
+Johnny:
+"Guh!!
  =========
-<PROC=0>
-<END>
+//ジョージアニキの問題に正解(
+//せいかい)するとは・・・!!
+You solved George's problem
+correctly...!!
  =========
-オマエの答えを判定(はんてい)
-するぞ?」
- <ALTER>はい</ALTER><ALTER>いいえ</ALTER>
- =========
-<PROC=0>
-<END>
- =========
-ジョニー
-「やめるのか?
- =========
-まあ、それが身のためだな。
-ヒヒヒヒヒッ!!」
- =========
-<PROC=0>
-<END>
- =========
-ジョニー
-「ゲェーッ!!
- =========
-ジャックアニキの問題に正解(
-せいかい)するとは・・・!!
- =========
-オマエ・・・
-なかなかやるじゃねぇか?
+//やっぱりオマエ・・・
+//ただものじゃないな?
+You're no ordinary guy,
+are you?
  =========
 さっさとアニキたちのところへ
 行きな!」
+Hurry up and move on to
+where my brothers are!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「何だって?
+//ジョニー
+//「今でこそ、しがないゴースト
+//のオレだが・・・
+Johnny:
+I may just look like a
+bodiless ghost now...
  =========
-黒ひげの三兄弟なのに、ひげが
-ない?
+//こう見えても昔は、
+But long ago,
  =========
-わかってねぇなぁ・・・
-アニキたちはスケルトンだぜ?
+//数々のダンジョンを攻略(こう
+//りゃく)した、冒険家(ぼうけん
+//か)だったんだぜ?
+I conquered many dungeons;
+I was an adventurer!
  =========
-スケルトンにひげがあるか?
-ないだろ?
+//迷(まよ)いの森に砂漠(さばく)
+//の遺跡(いせき)、
+The Lost Forest, the Desert
+Ruins..
  =========
-まあ、そういうことだ・・・
-わかるよな?」
+//何度死にかけたことか・・・
+How many times did I flirt
+with death?
  =========
-<PROC=0>
-<END>
- =========
-ジョニー
-「ゲゲェーッ!!
- =========
-ジョージアニキの問題に正解(
-せいかい)するとは・・・!!
- =========
-やっぱりオマエ・・・
-ただものじゃないな?
- =========
-さっさとアニキたちのところへ
-行きな!」
- =========
-<PROC=0>
-<END>
- =========
-ジョニー
-「今でこそ、しがないゴースト
-のオレだが・・・
- =========
-こう見えても昔は、
- =========
-数々のダンジョンを攻略(こう
-りゃく)した、冒険家(ぼうけん
-か)だったんだぜ?
- =========
-迷(まよ)いの森に砂漠(さばく)
-の遺跡(いせき)、
- =========
-何度死にかけたことか・・・
- =========
-まあ、実際(じっさい)に死んじ
-まったんだがな!
+//まあ、実際(じっさい)に死んじ
+//まったんだがな!
+Well, the truth is I'm dead
+now!
  =========
 ヒヒヒヒヒッ!!」
+Heeheeheehee!!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「ドッゲェーッ!!
+//ジョニー
+//「ドッゲェーッ!!
+Johnny:
+"Retreat!!
  =========
-ジョンアニキの問題に正解(せ
-いかい)するとは・・・!!
+//ジョンアニキの問題に正解(せ
+//いかい)するとは・・・!!
+You solved John's problem
+correctly...!!
  =========
-オマエはいったい・・・
-何者なんだ?」
+//オマエはいったい・・・
+//何者なんだ?」
+Just what in the world
+are you?"
  =========
-「太陽少年<NAME>・・・
+//「太陽少年<NAME>・・・
+"Solar Boy <NAME>...
  =========
-その名前、覚えておくぜ!!
+//その名前、覚えておくぜ!!
+I'll remember that name!!
  =========
-さあ、早くアニキたちのところ
-へ行きな!」
+//さあ、早くアニキたちのところ
+//へ行きな!」
+Now hurry up and get to
+where my brothers are!"
  =========
 <PROC=0>
 <END>
  =========
-ジョニー
-「ここだけの話だが・・・
+//ジョニー
+//「ここだけの話だが・・・
+Johnny:
+"I have just these words for
+you...
  =========
-闇の一族(イモータル)にも、複
-雑(ふくざつ)な権力(けんりょ
-く)争いがあるらしい
+//闇の一族(イモータル)にも、複
+//雑(ふくざつ)な権力(けんりょ
+//く)争いがあるらしい
+It appears there is a
+complex power struggle
+between the Immortals.
  =========
-闇の女王(クイーン・オブ・イ
-モータル)、ヘルに仕える死の
-一族・・・
+//闇の女王(クイーン・オブ・イ
+//モータル)、ヘルに仕える死の
+//一族・・・
+The Death Clan, which serves
+under the Queen of Immortals
+Hel;
  =========
-終末の獣(けもの)、ヨルムンガ
-ンドと共に封印(ふういん)され
-た影(かげ)の一族・・・
+//終末の獣(けもの)、ヨルムンガ
+//ンドと共に封印(ふういん)され
+//た影(かげ)の一族・・・
+The Shadow Clan, sealed along
+with the Doomsday Beast
+Jormungandr...
  =========
-そして、月の一族をほろぼした
-といわれる魔(ま)の一族・・・
+//そして、月の一族をほろぼした
+//といわれる魔(ま)の一族・・・
+and the one destroyed by the
+Lunar Clan, called the Demon
+Clan.
  =========
-人形使いはその魔(ま)の一族の
-出身らしい
+//人形使いはその魔(ま)の一族の
+//出身らしい
+The Puppet Master hails from
+that Demon Clan.
  =========
-まあ、オレが仕えるのは黒ひげ
-のアニキたちだけだがな!」
+//まあ、オレが仕えるのは黒ひげ
+//のアニキたちだけだがな!」
+Well, the only ones I serve
+are the Black Beard
+Brothers!!
  =========
 <PROC=0>
 <END>
@@ -1003,27 +1486,41 @@ SPエージェント
 赤の亡霊(ぼうれい)
 「われは黒ひげの三兄弟が三男
 ジャック
+Red Ghost:
+"I am the third Black Beard
+Brother, Jack.
  =========
 われが出すは、算術(さんじゅ
 つ)の問い
+I give you an arithmetic
+problem:
  =========
-西の小部屋の魔物(モンスター)
-たちと同じ重さの移動(いどう)
-ブロックを、
+//西の小部屋の魔物(モンスター)
+//たちと同じ重さの移動(いどう)
+//ブロックを、
+Push a block with the same
+weight as the monsters in
+in the west room
  =========
-東の小部屋の穴に落とせ」
+//東の小部屋の穴に落とせ」
+down the hole in the
+east room."
  =========
 <PROC=0>
 <END>
  =========
-青の亡霊(ぼうれい)
-「・・・」
+//青の亡霊(ぼうれい)
+//「・・・」
+Blue Ghost:
+"..."
  =========
 <PROC=0>
 <END>
  =========
-紫(むらさき)の亡霊(ぼうれい)
-「・・・」
+//紫(むらさき)の亡霊(ぼうれい)
+//「・・・」
+Purple Ghost:
+"..."
  =========
 <PROC=0>
 <END>
@@ -1150,21 +1647,30 @@ SPエージェント
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「いいか、<NAME>
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「いいか、<NAME>
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Okay, <NAME>
  =========
-パイルドライバーを召喚(しょ
-うかん)し、ラタトスクを浄化
-じょうか)するんだ!
+//パイルドライバーを召喚(しょ
+//うかん)し、ラタトスクを浄化
+//じょうか)するんだ!
+Once we summon the
+Piledriver, we'll seal
+Ratatosk!
  =========
-パイルドライバーの起動には太
-陽の光が必要だ
+//パイルドライバーの起動には太
+//陽の光が必要だ
+Sunlight is necessary to
+start the Piledriver.
  =========
 <PROC=1><PROC=0>
 <END>
  =========
-<LABEL=OTENKO></LABEL>太陽は出ているな?」
- <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
+//<LABEL=OTENKO></LABEL>太陽は出ているな?」
+// <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
+<LABEL=OTENKO></LABEL>Is the Sun out?"
+ <ALTER>It's out</ALTER>  <ALTER>It's not</ALTER>
  =========
 <PROC=0>
 <END>
@@ -1172,6 +1678,9 @@ SPエージェント
 <LABEL=OTENKO>おてんこさま</LABEL>
 「では、パイルドライバーを召
 喚(しょうかん)する!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Very well, I summon the
+Piledriver!!"
  =========
 <PROC=1><PROC=0>
 <END>
@@ -1236,79 +1745,112 @@ Y<1B>
  =========
 
  =========
-<LABEL>バイクコース
-「太陽街周回道」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「太陽街周回道」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+*** "Solar City Loop"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「熱砂の海」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「熱砂の海」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+*** "Sea of Sand"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「滅びの森」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「滅びの森」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Forest of Ruin"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「冷酷なる凍士」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「冷酷なる凍士」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+*** "Cruel Frozen Earth"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「呪われた海岸」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「呪われた海岸」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Cursed Beach"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「遥かなる荒野」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「遥かなる荒野」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+*** "Remote Wilderness"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「バックストリート」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「バックストリート」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Backstreet"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「ジャンプロード」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「ジャンプロード」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Jump Road"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「パークアベニュー」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「パークアベニュー」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Park Avenue"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「ポットロード」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「ポットロード」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Potion Road"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクコース
-「ロストハイウェイ」
-が開放された!!</LABEL><PROC=1>
+//<LABEL>バイクコース
+//「ロストハイウェイ」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Lost Highway"
+unlocked!!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
@@ -1343,9 +1885,11 @@ Y<1B>
  =========
 <0F>
  =========
-<11>コンティニューしますか?
+//<11>コンティニューしますか?
+<11>Continue?
  =========
-コンティニューしますか?
+//コンティニューしますか?
+Continue?
  =========
 
  =========
@@ -1773,16 +2317,21 @@ B`
  =========
 
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「ここはいったい・・・
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「ここはいったい・・・
+<LABEL=SABATA>Boy in Black</LABEL>:
+"Where... am I?"
  =========
-どこなんだ?」
+//どこなんだ?」
+***REMOVE BOX***
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「夢(ゆめ)・・・なのか?
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「夢(ゆめ)・・・なのか?
+<LABEL=SABATA>Boy in Black</LABEL>:
+"Is this a dream?
  =========
 だが少なくとも、おれの夢(ゆ
 め)ではないようだ・・・」
@@ -1790,18 +2339,24 @@ B`
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「こいつか、
-おれをよんだのは?
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「こいつか、
+//おれをよんだのは?
+<LABEL=SABATA>Boy in Black</LABEL>:
+Is this what called me?
  =========
-ねむっている?
-いや、これは・・・
+//ねむっている?
+//いや、これは・・・
+Is it sleeping? No, it's...
  =========
-月の一族による封印(ふういん)
-か?
+//月の一族による封印(ふういん)
+//か?
+sealed by the Lunar Clan?
  =========
 だとすれば、なみの怪物(かい
 ぶつ)ではあるまいが・・・」
+Then this must not be an
+ordinary monster..."
  =========
 <PROC=0>
 <END>
@@ -3985,119 +4540,170 @@ LIFEの下にあるENE(エナジーゲ
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>???</LABEL>
-「こんにちは、
-<NAME>くん」
+//<LABEL=NONE>???</LABEL>
+//「こんにちは、
+//<NAME>くん」
+<LABEL=NONE>???</LABEL>:
+"Greetings, <NAME>."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「<NAME>!?」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「<NAME>!?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"<NAME>!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ!!
-どうしてここに・・・!?」
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ!!
+//どうしてここに・・・!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity!!
+Why are you here...!?"
  =========
-<LABEL=FRES>フレスベルグ</LABEL>
-「ふぅん、やっぱりお友達だっ
-たみたいだね?」
+//<LABEL=FRES>フレスベルグ</LABEL>
+//「ふぅん、やっぱりお友達だっ
+//たみたいだね?」
+<LABEL=FRES>Hresvelgr</LABEL>:
+"Heh, looks like you're
+friends after all."
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティをどうするつもり
-だ!」
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティをどうするつもり
+//だ!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Just what do you plan to
+do to Trinity!?"
  =========
-<LABEL=FRES>フレスベルグ</LABEL>
-「何もしないさ
+//<LABEL=FRES>フレスベルグ</LABEL>
+//「何もしないさ
+<LABEL=FRES>Hresvelgr</LABEL>:
+"Nothing...
  =========
-でもこのまま放っておいたら、
-風に運ばれて痛い思いをするか
-もしれないね」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「チクショーッ、
-放しやがれーっ!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=FRES>フレスベルグ</LABEL>
-「キェキェキェキェキェッ!!
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=FRES></LABEL>ボクはイモータル四人衆(よに
-んしゅう)の1人・・・
-死の翼(つばさ)フレスベルグ!
- =========
-伯爵(はくしゃく)と追いかけっ
-このところを悪いんだけど、
- =========
-少しだけボクの食事につき合っ
-てくれないかな?
- =========
-あぁ、料理の心配ならいらない
-よ
- =========
-ボク・・・
-好ききらいはしないから!!」
+//でもこのまま放っておいたら、
+//風に運ばれて痛い思いをするか
+//もしれないね」
+But if I let him go like
+this, he'll be pushed around
+painfully by the wind, no?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=FRES>フレスベルグ</LABEL>
-<PROC=1><LOCK=20>「キシャロロロッ!!
- =========
-・・・どこからがいい?
- =========
-好きなところから喰(く)らって
-やるぞ?
-太陽少年<NAME>!!」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「チクショーッ、
+//放しやがれーっ!!」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Dammit, lemme go!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>、
-だいじょうぶか!?」
+//<LABEL=FRES>フレスベルグ</LABEL>
+//「キェキェキェキェキェッ!!
+<LABEL=FRES>Hresvelgr</LABEL>:
+"Heeheeheeheehee!!
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「<NAME>・・・
-オメェなに考えてんだ?
+//<LABEL=FRES></LABEL>ボクはイモータル四人衆(よに
+//んしゅう)の1人・・・
+//死の翼(つばさ)フレスベルグ!
+<LABEL=FRES></LABEL>I'm one of the four
+Immortals... 'Wings of
+Death' Hresvelgr!
  =========
-礼くらいは言ってやる。
-けど・・・
+//伯爵(はくしゃく)と追いかけっ
+//このところを悪いんだけど、
+This may be a bad place to
+chase after the Count,
  =========
-金なら1ソルだってはらわねぇ
-からな!
+//少しだけボクの食事につき合っ
+//てくれないかな?
+But I suppose I can deal
+with my food for just a bit.
  =========
-金はいらない?
+//あぁ、料理の心配ならいらない
+//よ
+Oh, I won't bother cooking
+it...
  =========
-それじゃあ、そんなになってま
-で何で・・・
+//ボク・・・
+//好ききらいはしないから!!」
+I can eat anything!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>何でオイラを助けたりしたんだ
-よ?」
- <ALTER>仲間だから</ALTER>  <ALTER>分からない</ALTER>
+//<LABEL=FRES>フレスベルグ</LABEL>
+//<PROC=1><LOCK=20>「キシャロロロッ!!
+<LABEL=FRES>Hresvelgr</LABEL>:
+<PROC=1><LOCK=20>"Kyaaahahaha!!
+ =========
+//・・・どこからがいい?
+...where's good?
+ =========
+//好きなところから喰(く)らって
+//やるぞ?
+//太陽少年<NAME>!!」
+What should I consume first?
+Solar Boy <NAME>!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「オイラが・・・仲間?
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>、
+//だいじょうぶか!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>,
+are you all right?"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「<NAME>・・・
+//オメェなに考えてんだ?
+<LABEL=TRINITY>Trinity</LABEL>:
+"<NAME>...
+Just whadda ya want?
+ =========
+//礼くらいは言ってやる。
+//けど・・・
+I'll say thanks. But...
+ =========
+//金なら1ソルだってはらわねぇ
+//からな!
+You ain't gettin' a single SOLL from me!
+ =========
+//金はいらない?
+...You don't want any money?
+ =========
+//それじゃあ、そんなになってま
+//で何で・・・
+If that's the case, then why...
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY></LABEL>何でオイラを助けたりしたんだ
+//よ?」
+// <ALTER>仲間だから</ALTER>  <ALTER>分からない</ALTER>
+<LABEL=TRINITY></LABEL>Why'd ya save me?"
+ <ALTER>We're friends</ALTER>  <ALTER>I don't know</ALTER>
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「オイラが・・・仲間?
+<LABEL=TRINITY>Trinity</LABEL>:
+"We're... friends?
  =========
 師匠(ししょう)だの弟子だの、
 あんなのジョークに決まってん
@@ -5352,412 +5958,625 @@ LIFEの下にあるENE(エナジーゲ
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「ゲハッ、もはや限界か・・・
+//<LABEL=SABATA>サバタ</LABEL>
+//「ゲハッ、もはや限界か・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"Gah, is this my limit?
  =========
-結局最後まで・・・
+//結局最後まで・・・
+So this is the end...
  =========
-おまえには勝てなかったな」
+//おまえには勝てなかったな」
+You haven't won!"
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「サバタ・・・」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「<NAME>、
- =========
-その棺桶(かんおけ)におれを封
-印(ふういん)しろ!
- =========
-太陽の光でこのおれを浄化(じ
-ょうか)するんだ!!」
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「なにっ!?
- =========
-どういうことなんだ、サバタ!!」
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「闇の女王(クイーン・オブ・
-イモータル)、ヘル・・・
- =========
-終末の獣(けもの)、ヨルムンガ
-ンド・・・
- =========
-人々が太陽をわすれたこの時代
-たび重なる闇(やみ)の複活(ふ
-っかつ)はさらなる闇を、
- =========
-破壊(はかい)の獣(けもの)、ヴ
-ァナルガンドをも目覚めさせた
- =========
-しかし、ヴァナルガンドは未だ
-封印(ふういん)にしばられてい
-る
- =========
-[血と大地によって月がそまる
-時、破壊(はかい)の獣(けもの)
-はとき放たれる]
- =========
-月の一族によるその封印(ふう
-いん)をとくカギは2つ
- =========
-1つ目のカギは血、すなわちこ
-のおれが母から受けついだ月の
-巫女(月下美人)の力だ
- =========
-その力を手に入れるため・・・
- =========
-やつはこのおれをヴァナルガン
-ドのまどろみの中に引きずりこ
-み、支配(しはい)した
- =========
-おれの身体を蝕(むしば)む暗黒
-物質(ダークマター)を使って
- =========
-そして2つ目のカギは・・・
-この、大地にある」
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「大地が・・・カギ?」
+//<LABEL=PLAYER><NAME></LABEL>
+//「サバタ・・・」
+<LABEL=PLAYER><NAME></LABEL>:
+"Sabata..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「ヌグッ!
+//<LABEL=SABATA>サバタ</LABEL>
+//「<NAME>、
+<LABEL=SABATA>Sabata</LABEL>:
+"<NAME>,
  =========
-・・・これ以上やつの力をおさ
-えることはできん
+//その棺桶(かんおけ)におれを封
+//印(ふういん)しろ!
+Seal me in that coffin!
  =========
-<PROC=0>
-<END>
+//太陽の光でこのおれを浄化(じ
+//ょうか)するんだ!!」
+Purify me in the sunlight!!"
  =========
-<LABEL=SABATA></LABEL>急げ・・・<NAME>!!
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「なにっ!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"What!?
  =========
-ヴァナルガンドの複活(ふっか
-つ)をふせぐにはこのおれを、
+//どういうことなんだ、サバタ!!」
+What are you saying,
+Sabata!?"
  =========
-おれの中の暗黒物質(ダークマ
-ター)を消し去るしかない!」
+//<LABEL=SABATA>サバタ</LABEL>
+//「闇の女王(クイーン・オブ・
+//イモータル)、ヘル・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"The Queen of Immortals,
+Hel...
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「でもそんなことをしたら!?」
+//終末の獣(けもの)、ヨルムンガ
+//ンド・・・
+The Doomsday Beast,
+Jormungandr...
  =========
-<PROC=0>
-<END>
+//人々が太陽をわすれたこの時代
+//たび重なる闇(やみ)の復活(ふ
+//っかつ)はさらなる闇を、
+//時代たび重なる
+People have forgotten the
+Sun in this dark age. Thus
+darkness keeps piling up,
  =========
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=6>「フッ、気にするな・・・
+//破壊(はかい)の獣(けもの)、ヴ
+//ァナルガンドをも目覚めさせた
+which caused the Beast of
+Destruction, Vanargand,
+to awaken.
  =========
-暗黒物質(ダークマター)におか
-されたこの身体・・・
+//しかし、ヴァナルガンドは未だ
+//封印(ふういん)にしばられてい
+//る
+However, Vanargand is yet
+sealed for a little while.
  =========
-どのみち明日はない」
+//[血と大地によって月がそまる
+//時、破壊(はかい)の獣(けもの)
+//はとき放たれる]
+[When the moon is dyed with
+Blood and Earth, the Beast
+of Destruction will be free]
  =========
-<PROC=0>
-<END>
+//月の一族によるその封印(ふう
+//いん)をとくカギは2つ
+There are two keys required
+to break the Lunar Clan's
+seal.
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「たとえそれが、自身の身体を
-蝕(むしば)むものであっても、
+//1つ目のカギは血、すなわちこ
+//のおれが母から受けついだ月の
+//巫女(月下美人)の力だ
+The first key is Blood,
+namely the power of the
+Lunar Maiden I received
  =========
-暗黒少年として育てられたサバ
-タにとって、
+//その力を手に入れるため・・・
+from mother. In order to
+obtain that power...
  =========
-暗黒物質(ダークマター)はなく
-てはならないもの
+//やつはこのおれをヴァナルガン
+//ドのまどろみの中に引きずりこ
+//み、支配(しはい)した
+He pulled me along during
+Vanargand's slumber,
+controlling me
  =========
-それを浄化(じょうか)してしま
-えば、恐らくサバタは・・・」
+//おれの身体を蝕(むしば)む暗黒
+//物質(ダークマター)を使って
+using the Dark Matter
+corrupting my body.
  =========
-<PROC=0>
-<END>
+//そして2つ目のカギは・・・
+//この、大地にある」
+And the second key is...
+this, in the ground."
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「だが今は・・・
-サバタに流れる太陽と月の血を
- =========
-おまえたちの両親、リンゴとマ
-ーニが残してくれたものを信じ
-るしかない
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=OTENKO></LABEL>行くぞ、<NAME>!!
- =========
-この棺桶(かんおけ)を闇の領域
-(ダンジョン)の外に運び出し、
- =========
-太陽の光で浄化(じょうか)する
-んだ!
- =========
-命をかけたサバタの願い・・・
-ムダにすることはできないぞ!!
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=OTENKO></LABEL>そうだろう、<NAME>?」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「暗黒物質(ダークマター)はに
-くしみの力・・・
- =========
-それは負の感情(かんじょう)を
-育て、増幅(ぞうふく)する
- =========
-だがおまえとの戦いを望んだこ
-のおれの想いは・・・
- =========
-まぎれもなくおれ自身のものだ
- =========
-おまえとの戦い・・・
-楽しかったぞ!!
- =========
-戦え、<NAME>・・・
- =========
-戦って戦って戦いぬいて・・・
- =========
-その先に何が待っていようとも
-・・・決してあきらめるな!
- =========
-あきらめないその心こそが、
- =========
-最大の武器(ぶき)になるのだか
-らな!!」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「大地が・・・カギ?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"The ground is a... key?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「すまない、カーミラ・・・
+//<LABEL=SABATA>サバタ</LABEL>
+//「ヌグッ!
+<LABEL=SABATA>Sabata</LABEL>:
+"Urgh!
  =========
-おまえとの約束、どうやら果た
-せそうも・な・・い・・・」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタ・・・」
+//・・・これ以上やつの力をおさ
+//えることはできん
+...I can't suppress his
+power much longer.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「やったのか・・・サバタを?
+//<LABEL=SABATA></LABEL>急げ・・・<NAME>!!
+<LABEL=SABATA></LABEL>Hurry... <NAME>!!
+ =========
+//ヴァナルガンドの復活(ふっか
+//つ)をふせぐにはこのおれを、
+To prevent Vanargand's
+revival, I must
+ =========
+//おれの中の暗黒物質(ダークマ
+//ター)を消し去るしかない!」
+erase the Dark Matter
+within me!"
+ =========
+//<LABEL=PLAYER><NAME></LABEL>
+//「でもそんなことをしたら!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"But if you do that...!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>そうだよな・・・
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=6>「フッ、気にするな・・・
+<LABEL=SABATA>Sabata</LABEL>:
+<PROC=1><LOCK=6>"Heh, don't bother...
+ =========
+//暗黒物質(ダークマター)におか
+//されたこの身体・・・
+This body, corrupted by
+Dark Matter...
+ =========
+//どのみち明日はない」
+there is no tomorrow
+for it."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>家族だ兄弟だなんて言っても、
-結局は闇の一族(イモータル)の
-仲間・・・
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「たとえそれが、自身の身体を
+//蝕(むしば)むものであっても、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Even if it's corrupting his
+body,
+ =========
+//暗黒少年として育てられたサバ
+//タにとって、
+for Sabata, brought up in
+the role of Dark Boy,
+ =========
+//暗黒物質(ダークマター)はなく
+//てはならないもの
+Dark Matter is a necessary
+thing.
+ =========
+//それを浄化(じょうか)してしま
+//えば、恐らくサバタは・・・」
+If we purify it completely,
+then Sabata might...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>そんなやつを助けるなんてこと
-できるわきゃあねぇよな」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「だが今は・・・
+//サバタに流れる太陽と月の血を
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"But... you must have faith
+now in the blood of Sun and
+Moon that flows in Sabata
+ =========
+//おまえたちの両親、リンゴとマ
+//ーニが残してくれたものを信じ
+//るしかない
+which your parents, Ringo
+and Mani, bequeathed to him.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「トリニティ!!
+//<LABEL=OTENKO></LABEL>行くぞ、<NAME>!!
+<LABEL=OTENKO></LABEL>Let's go, <NAME>!!
  =========
-<NAME>たちがどんな思いで
-戦ってきたのか
+//この棺桶(かんおけ)を闇の領域
+//(ダンジョン)の外に運び出し、
+Bring this coffin out of the
+darkness of the dungeon,
+ =========
+//太陽の光で浄化(じょうか)する
+//んだ!
+And purify it in the light
+of the Sun!
+ =========
+//命をかけたサバタの願い・・・
+//ムダにすることはできないぞ!!
+Sabata is putting his life
+on the line... You can't let
+his wishes go to waste!!
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=OTENKO></LABEL>そうだろう、<NAME>?」
+<LABEL=OTENKO></LABEL>Isn't that right,
+<NAME>?"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=SABATA>サバタ</LABEL>
+//「暗黒物質(ダークマター)はに
+//くしみの力・・・
+<LABEL=SABATA>Sabata</LABEL>:
+Dark Matter is the power
+of hatred...
+ =========
+//それは負の感情(かんじょう)を
+//育て、増幅(ぞうふく)する
+fed on negative emotions,
+it amplifies them.
+ =========
+//だがおまえとの戦いを望んだこ
+//のおれの想いは・・・
+But my desire to fight with
+you was...
+ =========
+//まぎれもなくおれ自身のものだ
+without a doubt my own
+feeling.
+ =========
+//おまえとの戦い・・・
+//楽しかったぞ!!
+Fighting with you...
+it was fun!!
+ =========
+//戦え、<NAME>・・・
+Fight, <NAME>...
+ =========
+//戦って戦って戦いぬいて・・・
+Fight, fight, to the
+bitter end...
+ =========
+//その先に何が待っていようとも
+//・・・決してあきらめるな!
+Everything else can wait
+until then...
+never give up!
+ =========
+//あきらめないその心こそが、
+That never-give-up spirit is
+without a doubt
+ =========
+//最大の武器(ぶき)になるのだか
+//らな!!」
+the greatest weapon
+of all!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=SABATA>サバタ</LABEL>
+//「すまない、カーミラ・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"I'm sorry, Carmilla...
+ =========
+//おまえとの約束、どうやら果た
+//せそうも・な・・い・・・」
+It looks like I won't be
+able to fulfill our...
+pro... mise..."
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタ・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata..."
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「やったのか・・・サバタを?
+<LABEL=TRINITY>Trinity</LABEL>:
+"So you really did it...
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY></LABEL>そうだよな・・・
+<LABEL=TRINITY></LABEL>That's right....
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY></LABEL>家族だ兄弟だなんて言っても、
+//結局は闇の一族(イモータル)の
+//仲間・・・
+<LABEL=TRINITY></LABEL>Fer all you say about
+brothers 'n family, he was
+after all an Immortal...
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY></LABEL>そんなやつを助けるなんてこと
+//できるわきゃあねぇよな」
+<LABEL=TRINITY></LABEL>That kinda person can't be
+saved, y'know?"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「トリニティ!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Trinity!!
+ =========
+//<NAME>たちがどんな思いで
+//戦ってきたのか
+How he and <NAME> felt
+when they fought...
  =========
 兄弟を・・・
 家族を失う悲しみがどんなもの
 なのか、
+How could you possibly
+understand
  =========
-おまえにはそれが分からないの
-か!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「ヘッ、
-口じゃあ何とでも言えるさ
- =========
-テメェはヤツをたおした・・・
-それが現実だろ?
+//おまえにはそれが分からないの
+//か!!」
+what it's like to lose your
+brother, your family!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>だれだってそうさ
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「ヘッ、
+//口じゃあ何とでも言えるさ
+<LABEL=TRINITY>Trinity</LABEL>:
+Oh, what's that comin'
+out of yer mouth?
  =========
-伝説の戦土をさがして旅する母
-ちゃんとオイラを・・・
- =========
-だれも助けちゃあくれなかった
- =========
-だれだって闇の一族(イモータ
-ル)はこえぇからな
- =========
-自分を守るためには、他のだれ
-かを犠牲(ぎせい)にしなきゃあ
-ならない
+//テメェはヤツをたおした・・・
+//それが現実だろ?
+You killed that guy... ain't
+that the truth of it?
  =========
 <PROC=0>
 <END>
  =========
-それが・・・
-生きるってことだろ?」
+//<LABEL=TRINITY></LABEL>だれだってそうさ
+<LABEL=TRINITY></LABEL>Anyone would do the same.
+ =========
+//伝説の戦土をさがして旅する母
+//ちゃんとオイラを・・・
+***Mother traveled in search
+of the Legendary War...
+ =========
+//だれも助けちゃあくれなかった
+Nobody saved her.
+ =========
+//だれだって闇の一族(イモータ
+//ル)はこえぇからな
+***Daredatte Yami no Ichizoku wa koeekara na.
+ =========
+//自分を守るためには、他のだれ
+//かを犠牲(ぎせい)にしなきゃあ
+//ならない
+To protect yerself, you
+gotta sacrifice anybody
+else.
+ =========
+<PROC=0>
+<END>
+ =========
+//それが・・・
+//生きるってことだろ?」
+Isn't that what it means...
+to live?"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=NONE>???</LABEL>
+//「その通り・・・」
+<LABEL=NONE>???</LABEL>:
+"Precisely..."
  =========
 <PROC=0>
 <END>
  =========
 <LABEL=NONE>???</LABEL>
-「その通り・・・」
+//「人は犠牲(ぎせい)なしには生
+//きられない
+<LABEL=NONE>???</LABEL>:
+"Without sacrifice, humans
+cannot exist.
+ =========
+//食べる物も住む場所も、他の動
+//植物を犠牲(ぎせい)にしなけれ
+//ば得られない
+For food and a place to
+live, other plants and
+animals must be sacrificed.
+ =========
+//それどころか・・・
+On the contrary...
+ =========
+//同じ人間同土でさえ、いがみ合
+//い殺し合う
+Even among the same human
+race, you quarrel and
+murder.
+ =========
+//哀(かな)しき生命種・・・
+//ゆるされざる者たち
+What a miserable species...
+it is unforgivable.
+ =========
+//・・・それが人間です」
+...such is humankind."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>???</LABEL>
-「人は犠牲(ぎせい)なしには生
-きられない
- =========
-食べる物も住む場所も、他の動
-植物を犠牲(ぎせい)にしなけれ
-ば得られない
- =========
-それどころか・・・
- =========
-同じ人間同土でさえ、いがみ合
-い殺し合う
- =========
-哀(かな)しき生命種・・・
-ゆるされざる者たち
- =========
-・・・それが人間です」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-(まさか・・・こいつは!?)
+//<LABEL=TRINITY>トリニティ</LABEL>
+//(まさか・・・こいつは!?)
+<LABEL=TRINITY>Trinity</LABEL>:
+(No way! This guy is...)
  =========
 <LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「とうとう実の兄を手にかけて
-しまいましたね・・・
+//「とうとう実の兄を手にかけて
+//しまいましたね・・・
+<LABEL=RATA>Boy in White</LABEL>:
+"In the end, the true brother
+escaped my grasp...
  =========
-ですがそれが人の運命(さだめ)
+//ですがそれが人の運命(さだめ)
+But that's the fate of
+mankind.
  =========
-あなた方が気に病むことはあり
-ません」
+//あなた方が気に病むことはあり
+//ません」
+Don't you two fall ill."
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おまえは闇の一族(イモータ
-ル)!?」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「ごきげんよう、
-おてんこさまに<NAME>さん
- =========
-わたくしはイモータル四人衆(
-よにんしゅう)の1人・・・
-人形使い、ラタトスク」
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「イモータル四人衆(よにんし
-ゅう)が今さら何の用だ!」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おまえは闇の一族(イモータ
+//ル)!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Are you an Immortal!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>ラタトスク</LABEL>
-<PROC=1><LOCK=10>「ウフフフフ・・・
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//「ごきげんよう、
+//おてんこさまに<NAME>さん
+<LABEL=RATA>Boy in White</LABEL>
+"It's a pleasure,
+Master Otenko and
+<NAME>.
+ =========
+//わたくしはイモータル四人衆(
+//よにんしゅう)の1人・・・
+//人形使い、ラタトスク」
+I am one of the Four
+Immortals, 'Puppet Master'
+Ratatosk."
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「イモータル四人衆(よにんし
+//ゅう)が今さら何の用だ!」
+<LABEL=OTENKO>Master Otenko</LABEL>
+"Just what are the Four
+Immortals up to now!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA></LABEL>ヴァナルガンドの後継者(こう
-けいしゃ)、われらが主(あるじ
-)をむかえに来たのですよ」
+//<LABEL=RATA>ラタトスク</LABEL>
+//<PROC=1><LOCK=10>「ウフフフフ・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+<PROC=1><LOCK=10>"Bwahahaha..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタはもう・・・」
+//<LABEL=RATA></LABEL>ヴァナルガンドの後継者(こう
+//けいしゃ)、われらが主(あるじ
+//)をむかえに来たのですよ」
+<LABEL=RATA></LABEL>Vanargand's successor. We
+came to pick up the young
+master."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>ラタトスク</LABEL>
-「そのようですね・・・
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタはもう・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata is already-"
  =========
-おかげで手間がはぶけました
+<PROC=0>
+<END>
+ =========
+//<LABEL=RATA>ラタトスク</LABEL>
+//「そのようですね・・・
+"So it seems...
+ =========
+//おかげで手間がはぶけました
+You saved us the effort.
  =========
 やはり人形には人形らしくして
 いただくのが一番です」
+*** yahari ningyou ni wa ningyourashiku shite itadaku no ga ichiban desu
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>ラタトスク</LABEL>
-「それではごきげんよう、
-おてんこさま・・・
+//<LABEL=RATA>ラタトスク</LABEL>
+//「それではごきげんよう、
+//おてんこさま・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+"Well then, fare well,
+Master Otenko...
  =========
-これ以上わたくしたちのジャマ
-をしないでくださいよ、<NAME>さん?
- =========
-<PROC=0>
-<END>
- =========
-<PROC=1><LOCK=10><LABEL=RATA></LABEL>ウフフフフ・・・」
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「待て、ラタトスク!!」
+//これ以上わたくしたちのジャマ
+//をしないでくださいよ、<NAME>さん?
+Please don't interfere with us
+any further, <NAME>.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタ!!
+//<PROC=1><LOCK=10><LABEL=RATA></LABEL>ウフフフフ・・・」
+<PROC=1><LOCK=10><LABEL=RATA></LABEL>Mwahahaha..."
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「待て、ラタトスク!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Wait, Ratatosk!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO></LABEL>くっ!
- =========
-わたしとしたことがみすみすサ
-バタをうばわれるとは・・・
- =========
-ん、これは・・・」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタ!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata!!
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「人形使い、ラタトスク・・・
-とうとう現れちまったか」
+//<LABEL=OTENKO></LABEL>くっ!
+<LABEL=OTENKO></LABEL>Argh!
+ =========
+//わたしとしたことがみすみすサ
+//バタをうばわれるとは・・・
+He snatched Sabata away
+right before my eyes...
+ =========
+//ん、これは・・・」
+ah, that's..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「やつを知っているのか?」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「人形使い、ラタトスク・・・
+//とうとう現れちまったか」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Puppet Master Ratatosk...
+so he finally showed up."
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「やつを知っているのか?」
+<LABEL=OTENKO>Master Otenko</LABEL>
+"You know of him?"
  =========
 <PROC=0>
 <END>
@@ -13821,172 +14640,251 @@ W<8A>
  =========
 <NAME>
  =========
-セーブデータが壊れています。
-以前のデータから読み直します
+//セーブデータが壊れています。
+//以前のデータから読み直します
+Save data corrupted.
+Restoring from previous
+data...
  =========
-データがありません
+//データがありません
+No Data
  =========
 LV.
  =========
-「続・ボクらの太陽」の
-パスワードを入力しますか?
+//「続・ボクらの太陽」の
+//パスワードを入力しますか?
+Enter Boktai 2 password?
  =========
-「続・ボクらの太陽」のデータ
-を引き継ぎました。
+//「続・ボクらの太陽」のデータ
+//を引き継ぎました。
+Boktai 2 data loaded
+successfully.
  =========
-パスワードが間違っています。
+//パスワードが間違っています。
+Incorrect password.
  =========
-ゾクタイでの称号
+//ゾクタイでの称号
+Boktai 2 titles
  =========
-名前:
+//名前:
+Name:
  =========
-最初からはじめる
+//最初からはじめる
+START FROM BEGINNING
  =========
-以上でよろしいですか?
+//以上でよろしいですか?
+IS THE ABOVE OK?
  =========
-死灰の街
+//死灰の街
+Lifeless Town
  =========
-伯爵
+//伯爵
+Count
  =========
-古の大樹
+//古の大樹
+Ancient Tree
  =========
-フレスベルグ
+//フレスベルグ
+Hresvelgr
  =========
- 白き森 
+// 白き森 
+White Forest
  =========
- サバタ 
+// サバタ 
+Sabata
  =========
-海賊の島
+//海賊の島
+Pirate Island
  =========
-ニーズホッグ
+//ニーズホッグ
+Nidhoggr
  =========
- 機械王 
+// 機械王 
+Machine King
  =========
-暗黒城・上層
+//暗黒城・上層
+Dark Castle - Upper Floor
  =========
-暗黒城・下層
+//暗黒城・下層
+Dark Castle - Lower Floor
  =========
- ラタトスク 
+// ラタトスク 
+Ratatosk
  =========
-楽園
+//楽園
+Paradise
  =========
-失われた楽園
+//失われた楽園
+Lost Paradise
  =========
-封印の間
+//封印の間
+Sealed Area
  =========
- ヴァナルガンド 
+// ヴァナルガンド 
+Vanargand
  =========
-太陽を求めて
+//太陽を求めて
+Seek the sun
  =========
-太陽を守りぬけ!!
+//太陽を守りぬけ!!
+*** Taiyou wo mamori nuke!!
  =========
-お知らせ
+//お知らせ
+Notice
  =========
-逆襲のサバタ
+//逆襲のサバタ
+Sabata's Counterattack
  =========
-解説
+//解説
+Explanation
  =========
- ネームエントリ 
+// ネームエントリ 
+NAME ENTRY
  =========
- 戦土の伝説 
+// 戦土の伝説 
+*** Legend of War
  =========
-おてんこさま
+//おてんこさま
+Master Otenko
  =========
- 太陽の使者 
+// 太陽の使者 
+Solar Messenger
  =========
-ヴァンパイア
+//ヴァンパイア
+Vampire
  =========
-イモータル四人衆
+//イモータル四人衆
+The Four Immortals
  =========
-人形使い
+//人形使い
+Puppet Master
  =========
-破壊の獣
+//破壊の獣
+Doomsday Beast
  =========
- トリニティ 
+// トリニティ 
+Trinity
  =========
-未来世紀
+//未来世紀
+Future Era
  =========
-未来少年
+//未来少年
+Future Boy
  =========
-母ちゃん
+//母ちゃん
+Mother
  =========
-狂気
+//狂気
+madness
  =========
-慈愛
+//慈愛
+kindness
  =========
-暗黒少年
+//暗黒少年
+Dark Boy
  =========
-カーミラ
+//カーミラ
+Carmilla
  =========
- 嘆きの魔女 
+// 嘆きの魔女 
+The Crying Witch
  =========
- 兄と弟 
+// 兄と弟 
+Brothers
  =========
- ガリガリ君 
+// ガリガリ君 
+Gari-gari
  =========
-???(ハテナ) 
+//???(ハテナ) 
+???(Hatena)
  =========
- 大地の精霊 
+// 大地の精霊 
+*** Earth Spirit
  =========
-兩雲
+//兩雲
+*** ???
  =========
-ユグドラシル
+//ユグドラシル
+Yggdrasill
  =========
-転移魔砲
+//転移魔砲
+*** Gun del Hell
  =========
- あきらめない心 
+// あきらめない心 
+never-give-up spirit
  =========
- あきらめと絶望 
+// あきらめと絶望 
+resignation and despair
  =========
-新・ボクらの太陽
+//新・ボクらの太陽
+Boktai 3
  =========
- 暗黒の未来 
+// 暗黒の未来 
+Dark Future
  =========
- 明日に向かって 
+// 明日に向かって 
+ go towards tomorrow
  =========
-トランス
+//トランス
+Trance
  =========
- 黒ジャンゴ変身 
+// 黒ジャンゴ変身
+Dark Django transformation
  =========
-手に入れた!!
+//手に入れた!!
+obtained!!
  =========
-太陽魔法
+//太陽魔法
+Solar Magic
  =========
- 読めたで!! 
+// 読めたで!! 
+*** read
  =========
-敗北
+//敗北
+defeat
  =========
- 世紀末世界 
+// 世紀末世界 
+Millenium World
  =========
-サン・ミゲル
+//サン・ミゲル
+San Miguel
  =========
- 商店街 
+// 商店街 
+Shopping District
  =========
-太陽鍛冶
+//太陽鍛冶
+Solar Smith
  =========
- 完成!! 
+// 完成!! 
+complete!!
  =========
- 太陽バンク 
+// 太陽バンク 
+Solar Bank
  =========
- 暗黒ローン 
+// 暗黒ローン 
+Dark Loans
  =========
 おしおき
  =========
-チェストッ!!
+//チェストッ!!
+Chest!!
  =========
- ゲームオーバー 
+// ゲームオーバー 
+GAME OVER
  =========
  日の出デモ 
  =========
  日の入デモ 
  =========
- クロスオーバー 
+// クロスオーバー 
+Crossover
  =========
 通信対戦勝ち
  =========
 通信対戦負け
  =========
 ガレージ
+Garage
  =========
 疾風
  =========
@@ -13994,11 +14892,14 @@ LV.
  =========
 烈風
  =========
-バイクバトル
+//バイクバトル
+Bike Battle
  =========
-リザルト
+//リザルト
+Results
  =========
-パイルドライバー
+//パイルドライバー
+Piledriver
  =========
 起動
  =========
@@ -14006,31 +14907,39 @@ LV.
  =========
 暗転
  =========
- バトルドライブ 
+// バトルドライブ 
+Battle Drive
  =========
 死戦
  =========
 地鳴
  =========
-勝利! 
+//勝利! 
+VICTORY!
  =========
  逃げられたぞ!! 
  =========
-トラップ! 
+//トラップ! 
+TRAP!
  =========
 襲撃
  =========
 強襲
  =========
- 黒騎土 
+// 黒騎土 
+Black Knight
  =========
- ミッション!
+// ミッション!
+MISSION!
  =========
-難関
+//難関
+barrier
  =========
-成功! 
+//成功! 
+SUCCESS!
  =========
-失敗! 
+//失敗! 
+FAILURE!
  =========
 0
  =========
@@ -15942,9 +16851,11 @@ x
  =========
 <C4><02><B4><02>x<02>x
  =========
-サン・ミゲルを囲む練習コース。
+//サン・ミゲルを囲む練習コース。
+Practice course around San Miguel.
  =========
-生者をこばむ死の砂漠(さばく)。
+//生者をこばむ死の砂漠(さばく)。
+A desert that rejects life.
  =========
 辺境(へんきょう)に広がる大樹海(だいじゅかい)。
  =========
@@ -15954,17 +16865,23 @@ x
  =========
 大地を望む静寂(せいじゃく)の荒野(こうや)。
  =========
-短距離(たんきょり)コース。
+//短距離(たんきょり)コース。
+Short-distance course.
  =========
-ジャンプ台の多いコース。
+//ジャンプ台の多いコース。
+Jump course.
  =========
-中距離(ちゅうきょり)コース。
+//中距離(ちゅうきょり)コース。
+Mid-distance course.
  =========
-回複(かいふく)ポットの多いコース。
+// 回複(かいふく)ポットの多いコース。
+Potion course.
  =========
-長距離(ちょうきょり)コース。
+//長距離(ちょうきょり)コース。
+Long-distance course.
  =========
-ランダムにコースを選択(せんたく)。
+//ランダムにコースを選択(せんたく)。
+Random course.
  =========
 ???
  =========
@@ -15991,6 +16908,7 @@ x
  =========
 PUSH START BUTTON
  =========
-   ホームページにアクセス!!   
+//   ホームページにアクセス!!   
+    Visit the home page!
     www.konami.jp/shinbok/    
  =========
