@@ -1,0 +1,267 @@
+======================
+ Shin Bokura no Taiyou
+  Gyakushuu no Sabata
+======================
+
+Game Title - BOKTAI3
+Game Code  - U33J
+Maker      - Konami (A4)
+CRC        - EA
+
+===================
+ Progress/Todo
+===================
+
+Near Todo:
+ - Translate menu titles
+   - Start on fresh ROM and make patch
+ - Make script dumper not really slow
+ - Make inserter
+ - Double check table (remove blanks, fix duplicates)
+ - Figure out control codes (if any more)
+
+Progress:
+
+(6/01/07)
+- Finished hacking menu titles, (IPS: menu-titles)
+- Started hacking warning screen
+  - Graphics at 68CED4
+  - Tilemap at 68E954 (compressed)
+
+(5/31/07)
+- Continued Menu Title Hacking
+ - Found where data 80204000 is calculated, 80004000 is stored at 3004D74
+ - 3004D74 loaded when game is loaded
+ - 8217144 routine that stores data
+ - turns out this is just a sequential thing, probably for sizes or something
+ - need to find what makes it load this particular one
+ - FOUND OUT HOW THEY'RE STORED!
+
+(5/30/07)
+- Continued
+ - DMA loads data from 3004410 (- 80) to OAM
+ - Set [3004410]! breakpoint to find code that loads sprites
+ - Couldn't find where in ROM loaded from to set up for above code
+
+(5/15/07)
+- Continued trying to figure out how menu names are stored
+ - Uses DMA to load tile data from ROM to tile data area
+ - [20390e4] is how much tile data is incremented?
+ - Break on sprite creation, trace there, find how sprites are stored
+
+(4/13/07)
+- Looked into changing menu names (item, status, etc.)
+ - Graphics stored around C15880
+ - Pieces of each are reused (ex. in aitemu, and sute-tasu, the same te)
+ - Will need to change where sprites are loaded from, so need to debug routine
+
+(4/11/07)
+- Debugging to find how tilemaps are stored
+
+(4/09/07)
+- Started translating menus
+
+(3/26/07)
+- Finally found a translator! TripleL contacted me on RHDN.
+
+(3/19/07)
+- Made dumper dump entire strings but it froze
+- Dumped script with WindHex
+- Inserted a small bit from translation FAQ for testing
+
+(3/17/07)
+- Figured out how pointers work and how strings are loaded
+- Started script dumper
+  - Dumps strings based on string number (gets pointer from table)
+- SJS turned unicode chars into Japanese so removed them (probably not used)
+
+(3/15/07)
+- Redid table and did a small test dump added two control codes
+
+(3/11/07)
+ - Got missing Kanji identified
+
+(3/10/07)
+ - Inserted all identified Kanji into table
+ - Dumped English font and inserted all English in table
+
+(3/1/07)
+ - Dumped font for Kanji identification
+ - Made basic table with kana and some ASCII (still need punctuation)
+
+(2/28/07)
+ - Intial investigation, found most if not all graphics
+ - Found some text stuff
+ - Played game a bit
+
+Long Run Todo:
+ - Fix and complete table
+ - Find code to control sun meter!
+ - Find out how pointers work exactly
+ - Make dumper/inserter
+ - Dump script
+ - Translate script
+ - Insert script
+ - Translate graphics
+ - Playtest
+
+Notes:
+ - Remember screen(s) that appear when no button on main menu after several seconds
+ - Localize timezones
+
+Everything that needs to be translated:
+ - Intro screens
+ - Title screen
+ - Setup and start menus
+ - Name and password entry
+ - In game menus
+ - Dark loans
+ - Forging (?)
+ - Dialog
+ - Probably more
+
+===================
+ Text Notes
+===================
+
+General Notes:
+- Control codes are very interesting! ASCII tags like <LABEL=SABATA>, etc.
+- English text seems is ASCII, Japanese is 2 bytes
+- 4 byte relative pointers
+- Each string ends with [end] (00)
+- Dialogs end with <PROC=0>[line]<END>
+- Number of strings: 26F8
+- Length of dump in bytes: 61DB9 (to DD6B95)
+
+Locations of Interest:
+ D6B1F8 - Pointer table
+ D74DDC - Start of text
+ DCBDAA - test string 21e5
+
+===================
+ Graphics Notes
+===================
+
+General Notes:
+- Seem uncompressed for the most part!
+- Lots of kanji
+
+Locations of Interest:
+ 65211C - Small font
+ 68B8D4 - Something.. title?
+ 69A4E0 - Kanji
+ 70A230 - HUD
+ 7466DC - HUD (forging?)
+ 750FAC - Kanji
+ 9F8F00 - Main Font (english 8x16)
+ 9FAF00 - Main Font (japanese 16x16)
+ B37E74 - "Offset" katakana
+ BE2F04 - Parts of some menu (Link Bike Race?)
+ BF7790 - Bank menu
+ C13880 - Some text/menu
+ C15880 - Menu title graphics
+ C37664 - Copyright/title
+ C788F0 - Battle graphics
+ C81A50 - Map/town names
+ CE45C0 - Some kanji (?)
+ D05540 - Game menu?
+ D11154 - Kanji
+
+Palettes:
+ 822A60 - Main Font
+
+===================
+ Special Thanks
+===================
+
+Kanji Identification
+- satsu
+- Eien Ni Hen
+- Tauwasser
+
+===================
+ Assembly Notes
+===================
+
+821ADD4 - routine that loads pointer from string number (test string: 21e5)
+821ADF6 - adds to r0, r2 is pointer offset, r0=8D74DDC
+
+How pointers work:
+
+Loads pointer from pointer table, bitmasks 0x7FFFFFFF and adds to 8D74DDC
+Start of pointer table: 8D6B1F8
+
+===================
+ Other Notes
+===================
+
+Max Sun Code:
+
+3203CC76 000A
+
+===================
+ Menu Translation
+===================
+
+Notes:
+- Graphics located at 70A230
+- Tilemap is loaded from 70C238 at 8216716
+  - Looks like it's compressed somehow (I think it's custom)
+
+Titles:
+
+aitemu		- ITEMS
+???		- VALUABLES
+???		- SOLAR GUN
+suteetasu	- STATUS
+konfigu		- CONFIG
+suriipu		- SLEEP
+seebu		- SAVE
+mappu		- MAP
+
+Status screen:
+
+jikan   - TIME
+sutando - ? (STAND?)
+keiken  - EXP
+tsugi   - NEXT
+banku   - BANK
+roon    - LOAN
+hinode  - SUNRISE (RISE?)
+karada  - VITL
+kokoro  - SPRT
+chikara - STRG
+
+====================
+ Menu Title Hacking
+====================
+
+- Sprite in question: "suMS" and the status menu
+- OAM data: 4000,8020,31F8
+- 40 = normal, horizantal shape	00 = y-pos
+- 80 = normal, size 32x16;	20 = x-pos
+- 31F8 = priority, palette, tile 1F8
+
+Need to change:
+- Tiles loaded
+- Positions/sizes
+- Remove sprites (or just make them all small)
+
+Todo:
+- Figure out where and how it stores which tiles loaded for each menu
+- Change
+
+Notes:
+- It uses "canned" sizes except for x-positions (ors that in)
+- Find how it stores which canned one, which x-pos
+- 02 = 16x8, 04 = 16x16, 09 = 32x16
+
+Progress:
+- Some debugging, need to find where loaded from in ROM
+- 300093C ors 1F8 and 3 to make 31F8
+- 3 loaded from 3007A8C, 1F8 loaded from 30042E8
+- Seems like 1F8 is just part of a loop (of all sprites)
+- 3007A58 stores 9, lsl 3 to get 24 which is that canned size
+- 8C10F7D is 9, and 8C10F7E is 20 (x-pos)!
+- 8C10F82 somehow stores where tiles are loaded from!
+- All translated!
