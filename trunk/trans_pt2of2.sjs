@@ -4723,18 +4723,25 @@ If that's the case, then why...
 <LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
 ねぇぜ?
  =========
-最後に信じられるのは自分だけ
-さ
+//最後に信じられるのは自分だけ
+//さ
+In the end, I'm the only one
+who can be trusted.
  =========
-他人を信じたところで、いつか
-はうらぎられる
+//他人を信じたところで、いつか
+//はうらぎられる
+If I trust in another
+person, I'll eventually be
+betrayed.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>うらぎられるんだ・・・
+//<LABEL=TRINITY></LABEL>うらぎられるんだ・・・
+<LABEL=TRINITY></LABEL>Betrayed...
  =========
-母ちゃんみたいに・・・!!
+//母ちゃんみたいに・・・!!
+Just like mom...!!
  =========
 <PROC=0>
 <END>
@@ -4742,43 +4749,60 @@ If that's the case, then why...
 <LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
 たぜ!」
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ・・・」
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ・・・」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「・・・
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「・・・
+<LABEL=OTENKO>Master Otenko</LABEL>
+"...
  =========
-さあ、<NAME>
+//さあ、<NAME>
+Okay, <NAME>
  =========
-この棺桶(かんおけ)を闇の領域
-(ダンジョン)から運び出し、
+//この棺桶(かんおけ)を闇の領域
+//(ダンジョン)から運び出し、
+Let's get this coffin out
+of the dungeon,
  =========
-太陽の光で浄化(じょうか)する
-んだ
+//太陽の光で浄化(じょうか)する
+//んだ
+and purify it in the
+sunlight.
  =========
-われわれにはわれわれの、進む
-べき道ある
+//われわれにはわれわれの、進む
+//べき道ある
+*** Wareware ni wa wareware no, susumu beki michi aru
  =========
-戦いはまだ、終わっていない
-・・・」
+//戦いはまだ、終わっていない
+//・・・」
+We're not done fighting
+yet..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「理由もなく助けたのか?
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「理由もなく助けたのか?
+<LABEL=TRINITY>Trinity</LABEL>
+"You saved me for no reason?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>まったく・・・
-分からないのはコッチだぜ
+//<LABEL=TRINITY></LABEL>まったく・・・
+//分からないのはコッチだぜ
+<LABEL=TRINITY></LABEL>Seriously... the one I don't
+understand is Coach.
  =========
-そんなあまい考えじゃあ、これ
-から先・・・
+//そんなあまい考えじゃあ、これ
+//から先・・・
+*** Such a naive idea, kore kara saki...
  =========
 <PROC=0>
 <END>
@@ -4786,19 +4810,27 @@ If that's the case, then why...
 <LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
 ねぇぜ?
  =========
-大切なのは金だろ?
+//大切なのは金だろ?
+Isn't money the important
+thing?
  =========
-金さえありゃあ、食い物にこま
-ることもねぇからな
+//金さえありゃあ、食い物にこま
+//ることもねぇからな
+If you have money, you don't
+have to worry about food
+either.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>そうさ、金さえありゃあの時だ
-って・・・
+//<LABEL=TRINITY></LABEL>そうさ、金さえありゃあの時だ
+//って・・・
+<LABEL=TRINITY></LABEL>Yeah, if I had money back
+then...
  =========
-母ちゃんだって助かったんだ
-・・・!!
+//母ちゃんだって助かったんだ
+//・・・!!
+I could've saved mom...!!
  =========
 <PROC=0>
 <END>
@@ -4806,151 +4838,223 @@ If that's the case, then why...
 <LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
 たぜ!」
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ・・・」
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ・・・」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「・・・
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"...
  =========
-さあ、<NAME>
+//さあ、<NAME>
+Okay, <NAME>
  =========
-この棺桶(かんおけ)を闇の領域
-(ダンジョン)から運び出し、
+//この棺桶(かんおけ)を闇の領域
+//(ダンジョン)から運び出し、
+Let's get this coffin out
+of the dungeon,
  =========
-太陽の光で浄化(じょうか)する
-んだ
+//太陽の光で浄化(じょうか)する
+//んだ
+and purify it in the
+sunlight.
  =========
-われわれにはわれわれの、進む
-べき道ある
+//われわれにはわれわれの、進む
+//べき道ある
+*** Wareware ni wa wareware no, susumu beki michi aru
  =========
-戦いはまだ、終わっていない
-・・・」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-(<NAME>・・・
- =========
-<LABEL=TRINITY></LABEL>本当に、闇の一族(イモータル)
-をたおしちまったのか?
- =========
-オメェはいったい・・・
-何者なんだ?)
+//戦いはまだ、終わっていない
+//・・・」
+We're not done fighting
+yet..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>???</LABEL>
-「さすがだな、<NAME>?
+//<LABEL=TRINITY>トリニティ</LABEL>
+//(<NAME>・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+(<NAME>...
  =========
-それとも・・・
-ベルグが弱すぎたかな?」
+//<LABEL=TRINITY></LABEL>本当に、闇の一族(イモータル)
+//をたおしちまったのか?
+<LABEL=TRINITY></LABEL>Are you seriously gonna
+defeat the Immortals?
  =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「ぎゃっ!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=PLAYER><NAME></LABEL>
-「伯爵(はくしゃく)!!」
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「あわわわわ・・・」
+//オメェはいったい・・・
+//何者なんだ?)
+Just what kinda guy are
+you?)
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「ハンッ、ザコに用はない。
-とっとと失せろ!」
+//<LABEL=NONE>???</LABEL>
+//「さすがだな、<NAME>?
+<LABEL=NONE>???</LABEL>:
+"Are you that skilled,
+<NAME>?
+ =========
+//それとも・・・
+//ベルグが弱すぎたかな?」
+Or had Hresvelgr become
+weak?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「は、はいーっ!!」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「ぎゃっ!!」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Gyah!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「<NAME>!!
+//<LABEL=PLAYER><NAME></LABEL>
+//「伯爵(はくしゃく)!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"It's the Count!!"
  =========
-そんな身体で伯爵(はくしゃく)
-と戦うつもりか!
- =========
-オメェもにげろ!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「クックックッ・・・
-いい覚悟(かくご)だ
- =========
-それでこそわが好敵手(ライバ
-ル)!!
- =========
-フレスベルグからいただいたエ
-ナジー・・・
- =========
-古(いにしえ)の大樹(たいじゅ)
-から採取(さいしゅ)された、
- =========
-高純度(こうじゅんど)のエナジ
-ーにより、われは大いなる力を
-得た!!
- =========
-もはや今までのようには行かん
-ぞ?
- =========
-さあ、観客も待っている・・・
- =========
-死の舞踏(ぶとう)の再演(さい
-えん)といこうではないか!!」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「あわわわわ・・・」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Oh man..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「クッカッカッカッカッ!!」
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「ハンッ、ザコに用はない。
+//とっとと失せろ!」
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"I've no business with small
+fries. Get out of my sight!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「どうした、太陽少年?
-もう終わりか?」
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「は、はいーっ!!」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Y-yessir!!"
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「これは暗黒物質(ダークマタ
-ー)の兩!?
+<PROC=0>
+<END>
  =========
-いくら太陽と月の血を受けつぐ
-<NAME>でも、この量では身体が持たない!
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「<NAME>!!
+<LABEL=TRINITY>Trinity</LABEL>:
+"<NAME>!!
  =========
+//そんな身体で伯爵(はくしゃく)
+//と戦うつもりか!
+"Are you gonna fight the
+Count with that body?
+ =========
+//オメェもにげろ!!」
+You run away too!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「クックックッ・・・
+//いい覚悟(かくご)だ
+<LABEL=HAKUSYAKU>Count</LABEL>:
+「Hahaha... admirable
+resolve.
+ =========
+//それでこそわが好敵手(ライバ
+//ル)!!
+Worthy of my rival!!
+ =========
+//フレスベルグからいただいたエ
+//ナジー・・・
+The energy received from
+Hresvelgr...
+ =========
+//古(いにしえ)の大樹(たいじゅ)
+//から採取(さいしゅ)された、
+Harvested from the Ancient
+Tree and extremely pure,
+ =========
+//高純度(こうじゅんど)のエナジ
+//ーにより、われは大いなる力を
+//得た!!
+My power has become greater
+than that!!
+ =========
+//もはや今までのようには行かん
+//ぞ?
+Shall we begin now?
+ =========
+//さあ、観客も待っている・・・
+Come, your audience is
+waiting...
+ =========
+//死の舞踏(ぶとう)の再演(さい
+//えん)といこうではないか!!」
+an encore for the dance of
+death!!"
+
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「クッカッカッカッカッ!!」
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Bwahahahaha!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「どうした、太陽少年?
+//もう終わりか?」
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"What's wrong, Solar Boy?
+Are you finished already?"
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「これは暗黒物質(ダークマタ
+//ー)の兩!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Is it raining Dark Matter!?
+No matter how much of the
+Solar and Lunar blood
+ =========
+//いくら太陽と月の血を受けつぐ
+//<NAME>でも、この量では身体が持たない!
+<NAME> inherited, his
+body can't take this amount!
+ =========
+//<NAME>!!
+//ここはいったん引くんだ!」
 <NAME>!!
-ここはいったん引くんだ!」
+Pull back temporarily!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「うっ・・・!?」
+//<LABEL=PLAYER><NAME></LABEL>
+//「うっ・・・!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"Nnh....!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>!!」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>!!」
+<LABEL=OTENKO>Master Otenko</LABEL>
+"<NAME>!!"
  =========
 <LABEL=TRINITY>トリニティ</LABEL>
 (伝説によれば・・・
@@ -14879,9 +14983,11 @@ GAME OVER
 // クロスオーバー 
 Crossover
  =========
-通信対戦勝ち
+//通信対戦勝ち
+*** Wireless battle win
  =========
-通信対戦負け
+//通信対戦負け
+*** Wireless battle lose 
  =========
 ガレージ
 Garage
@@ -14917,7 +15023,8 @@ Battle Drive
 //勝利! 
 VICTORY!
  =========
- 逃げられたぞ!! 
+// 逃げられたぞ!! 
+ escaped!!
  =========
 //トラップ! 
 TRAP!
@@ -15423,119 +15530,177 @@ FAILURE!
  =========
 <NAME>
  =========
-イバラキ
+//イバラキ
+IBARAKI
  =========
-トチギ
+//トチギ
+TOCHIGI
  =========
-グンマ
+//グンマ
+GUNMA
  =========
-サイタマ
+//サイタマ
+SAITAMA
  =========
-チバ
+//チバ
+CHIBA
  =========
-トウキョウ
+//トウキョウ
+TOKYO
  =========
-カナガワ
+//カナガワ
+KANAGAWA
  =========
-オガサワラ
+//オガサワラ
+OGASAWARA
  =========
-ニイガタ
+//ニイガタ
+NIIGATA
  =========
-トヤマ
+//トヤマ
+TOYAMA
  =========
-イシカワ
+//イシカワ
+ISHIKAWA
  =========
-フクイ
+//フクイ
+FUKUI
  =========
-ヤマナシ
+//ヤマナシ
+YAMANASHI
  =========
-ナガノ
+//ナガノ
+NAGANO
  =========
-ギフ
+//ギフ
+GIFU
  =========
-シズオカ
+//シズオカ
+SHIZUOKA
  =========
-アイチ
+//アイチ
+AICHI
  =========
-ミエ
+//ミエ
+MIE
  =========
-シガ
+//シガ
+SHIGA
  =========
-キョウト
+//キョウト
+KYOTO
  =========
-オオサカ
+//オオサカ
+OSAKA
  =========
-ヒョウゴ
+//ヒョウゴ
+HYOUGO
  =========
-ナラ
+//ナラ
+NARA
  =========
-ワカヤマ
+//ワカヤマ
+WAKAYAMA
  =========
-トットリ
+//トットリ
+TOTTORI
  =========
-シマネ
+//シマネ
+SHIMANE
  =========
-オカヤマ
+//オカヤマ
+OKAYAMA
  =========
-ヒロシマ
+//ヒロシマ
+HIROSHIMA
  =========
-ヤマグチ
+//ヤマグチ
+YAMAGUCHI
  =========
-トクシマ
+//トクシマ
+TOKUSHIMA
  =========
-カガワ
+//カガワ
+KAGAWA
  =========
-エヒメ
+//エヒメ
+EHIME
  =========
-コウチ
+//コウチ
+KOUCHI
  =========
-フクオカ
+//フクオカ
+FUKUOKA
  =========
-サガ
+//サガ
+SAGA
  =========
-ナガサキ
+//ナガサキ
+NAGASAKI
  =========
-クマモト
+//クマモト
+KUMAMOTO
  =========
-オオイタ
+//オオイタ
+OOITA
  =========
-ミヤザキ
+//ミヤザキ
+MIYAZAKI
  =========
-カゴシマ
+//カゴシマ
+KAGOSHIMA
  =========
-オキナワ
+//オキナワ
+OKINAWA
  =========
-イシガキジマ
+//イシガキジマ
+ISHIGAKIJIMA
  =========
-サッポロ
+//サッポロ
+SAPPORO
  =========
-ハコダテ
+//ハコダテ
+HAKODATE
  =========
-アサヒカワ
+//アサヒカワ
+ASAHIKAWA
  =========
-クシロ
+//クシロ
+KUSHIRO
  =========
-オビヒロ
+//オビヒロ
+OBIHIRO
  =========
-アオモリ
+//アオモリ
+AOMORI
  =========
-イワテ
+//イワテ
+IWATE
  =========
-ミヤギ
+//ミヤギ
+MIYAGI
  =========
-アキタ
+//アキタ
+AKITA
  =========
-ヤマガタ
+//ヤマガタ
+YAMAGATA
  =========
-フクシマ
+//フクシマ
+FUKUSHIMA
  =========
-太陽センサーに太陽の光が当
-たらないようにして、<WEIGHT>Ａボタ
-ン</WEIGHT>を押してください。
+//太陽センサーに太陽の光が当
+//たらないようにして、<WEIGHT>Ａボタ
+//ン</WEIGHT>を押してください。
+Make sure the solar sensor
+is out of the sun's rays,
+and press the <WEIGHT>A Button</WEIGHT>.
  =========
-設定しました。
+//設定しました。
+Setup complete.
  =========
-設定に失敗しました。
+//設定に失敗しました。
+Setup failed.
  =========
 
  =========
@@ -15832,7 +15997,8 @@ FAILURE!
  =========
 フッハッハッハッハッ
  =========
-じゅんびかんりょう
+//じゅんびかんりょう
+Preparations complete
  =========
 ボクとバトルだ
  =========
@@ -15840,37 +16006,53 @@ FAILURE!
  =========
 まけないよロックマン
  =========
-ジャンゴ
+//ジャンゴ
+Django
  =========
-サバタ
+//サバタ
+Sabata
  =========
-おてんこ
+//おてんこ
+Otenko
  =========
-リタ
+//リタ
+Lita
  =========
-リンゴ
+//リンゴ
+Ringo
  =========
-スミス
+//スミス
+Smith
  =========
-スミレ
+//スミレ
+Sumire
  =========
-ザジ
+//ザジ
+Zazie
  =========
-シャイアン
+//シャイアン
+Cheyanne
  =========
-マーニ
+//マーニ
+*** Marney
  =========
-ダーイン
+//ダーイン
+Dainn
  =========
-スネーク
+//スネーク
+Snake
  =========
-リキッド
+//リキッド
+Liquid
  =========
-ソリダス
+//ソリダス
+*** Solid
  =========
-ディンゴ
+//ディンゴ
+*** Dingo
  =========
-レオ
+//レオ
+*** Leo
  =========
 
  =========
@@ -15886,169 +16068,251 @@ FAILURE!
  =========
 &<02><02><02><0D><02><0F><02><1D><02><1E><02>(<02><03><02><10><02><13><02><1F><02>)<02><04><02><05><02><12><02><14><02> <02>*ポイズナー
  =========
-パープレクサー
+//パープレクサー
+Perplexer
  =========
-ポップバド
+//ポップバド
+Popbud
  =========
-ドラゴンパピー
+//ドラゴンパピー
+Dragon Puppy
  =========
-スパイダー
+//スパイダー
+Spider
  =========
-ポイズンスパイダー
+//ポイズンスパイダー
+Poison Spider
  =========
-ビー
+//ビー
+Bee
  =========
-ポイズンビー
+//ポイズンビー
+Poison Bee
  =========
-キラービー
+//キラービー
+Killer Bee
  =========
-バット
+//バット
+Bat
  =========
-ヴァンパイアバット
+//ヴァンパイアバット
+Vampire Bat
  =========
-クロウ
+//クロウ
+Crow
  =========
-レイブン
+//レイブン
+Raven
  =========
-センチピード
+//センチピード
+Centipede
  =========
-ハウンド
+//ハウンド
+Hound
  =========
-ホットドッグ
+//ホットドッグ
+Hot Dog
  =========
-アイスドッグ
+//アイスドッグ
+Ice Dog
  =========
-ハウンド+
+//ハウンド+
+Hound+
  =========
-アイビー
+//アイビー
+Ivy
  =========
-オクトパス
+//オクトパス
+Octopus
  =========
-グール
+//グール
+Ghoul
  =========
-ゾンビ
+//ゾンビ
+Zombie
  =========
-グール+
+//グール+
+Ghoul+
  =========
-マミー
+//マミー
+Mummy++
  =========
-ガスト
+//ガスト
+Ghast
  =========
-マミー+
+//マミー+
+Mummy+
  =========
-ヴォーン
+//ヴォーン
+Vorn
  =========
-ヴォーン+
+//ヴォーン+
+Vorn+
  =========
-石像
+//石像
+Stone Statue
  =========
-甲冑
+//甲冑
+Armor
  =========
-スタチューオブガルム
+//スタチューオブガルム
+Statue of Garm
  =========
-ムスペルヘッド
+//ムスペルヘッド
+Muspell Head
  =========
-ポイズンハンド
+//ポイズンハンド
+Poison Hand
  =========
-スクリーマー
+//スクリーマー
+Screamer
  =========
-ウインド砲
+//ウインド砲
+Wind Cannon
  =========
-バルカン砲
+//バルカン砲
+Vulcan Cannon
  =========
-プラズマ砲
+//プラズマ砲
+Plasma Cannon
  =========
-スケルトン
+//スケルトン
+Skeleton
  =========
-スケルトンフェンサー
+//スケルトンフェンサー
+Skeleton Fencer
  =========
-スケルトンアーチャー
+//スケルトンアーチャー
+Skeleton Archer
  =========
-ブラックスケルトン
+//ブラックスケルトン
+Black Skeleton
  =========
-ブラックフェンサー
+//ブラックフェンサー
+Black Fencer
  =========
-ブラックアーチャー
+//ブラックアーチャー
+Black Archer
  =========
-スケルトン+
+//スケルトン+
+Skeleton+
  =========
-クレイゴーレム
+//クレイゴーレム
+Clay Golem
  =========
-ストーンゴーレム
+//ストーンゴーレム
+Stone Golem
  =========
-ゴーレム+
+//ゴーレム+
+Golem+
  =========
-ミミック
+//ミミック
+Mimic
  =========
-ソード
+//ソード
+Sword
  =========
-ソード+
+//ソード+
+Sword+
  =========
-アックス
+//アックス
+Axe
  =========
-アックス+
+//アックス+
+Axe+
  =========
-ブロンズアーマー
+//ブロンズアーマー
+Bronze Armor
  =========
-アイアンアーマー
+//アイアンアーマー
+Iron Armor
  =========
-フレイムアーマー
+//フレイムアーマー
+Flame Armor
  =========
-フレイムアーマー+
+//フレイムアーマー+
+Flame Armor+
  =========
-フロストアーマー
+//フロストアーマー
+Frost Armor
  =========
-フロストアーマー+
+//フロストアーマー+
+Frost Armor+
  =========
-クラウドアーマー
+//クラウドアーマー
+Cloud Armor
  =========
-クラウドアーマー+
+//クラウドアーマー+
+Cloud Armor+
  =========
-アースアーマー
+//アースアーマー
+Earth Armor
  =========
-アースアーマー+
+//アースアーマー+
+Earth Armor+
  =========
-デュアルアーマー
+//デュアルアーマー
+Dual Armor
  =========
-デュアルアーマー+
+//デュアルアーマー+
+Dual Armor+
  =========
-黒騎土
+//黒騎土
+Black Knight
  =========
-ニーズホッグ
+//ニーズホッグ
+Nidhoggr
  =========
-ウーズ(壁)
+//ウーズ(壁)
+Ooze (wall)
  =========
-ウーズ(床)
+//ウーズ(床)
+Ooze (floor)
  =========
-クロロホルルン
+//クロロホルルン
+Chloroformin'
  =========
-モエルルン
+//モエルルン
+Burnin'
  =========
-ヒエルルン
+//ヒエルルン
+Chillin'
  =========
-レッドスライム
+//レッドスライム
+Red Slime
  =========
-ブルースライム
+//ブルースライム
+Blue Slime
  =========
-パープルスライム
+//パープルスライム
+Purple Slime
  =========
-グリーンスライム
+//グリーンスライム
+Green Slime
  =========
-ゴースト
+//ゴースト
+Ghost
  =========
-レイス
+//レイス
+Wraith
  =========
-伯爵
+//伯爵
+Count
  =========
-フレスベルグ
+//フレスベルグ
+Hresvelgr
  =========
-サバタ
+//サバタ
+Sabata
  =========
-ニーズホッグ
+//ニーズホッグ
+Nidhoggr
  =========
-ラタトスク
+//ラタトスク
+Ratatosk
  =========
-ヴァナルガンド
+//ヴァナルガンド
+Vanargand
  =========
 ???
  =========
@@ -16909,6 +17173,6 @@ Random course.
 PUSH START BUTTON
  =========
 //   ホームページにアクセス!!   
-    Visit the home page!
+    Visit the webpage!
     www.konami.jp/shinbok/    
  =========
