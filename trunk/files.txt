@@ -6,6 +6,7 @@ dump.sjs	 - The script dump
 newtitle.png	 - A canditate for the English title screen
 notes.txt	 - Spikeman's hacking notes
 shinbok.sav      - A savefile fairly far into the game
+shinbok2.sav     - A savefile further than the other one
 table.sjs.tbl	 - The table file
 title.png	 - The original title screen
 trans_pt1of2.sjs - First half of the script
