@@ -1410,7 +1410,7 @@ Heeheeheehee!!"
 //ジョニー
 //「ドッゲェーッ!!
 Johnny:
-"Retreat!!
+***"Retreat!!
  =========
 //ジョンアニキの問題に正解(せ
 //いかい)するとは・・・!!
@@ -1483,24 +1483,24 @@ Brothers!!
 <PROC=0>
 <END>
  =========
-赤の亡霊(ぼうれい)
-「われは黒ひげの三兄弟が三男
-ジャック
+//赤の亡霊(ぼうれい)
+//「われは黒ひげの三兄弟が三男
+//ジャック
 Red Ghost:
 "I am the third Black Beard
 Brother, Jack.
  =========
-われが出すは、算術(さんじゅ
-つ)の問い
+//われが出すは、算術(さんじゅ
+//つ)の問い
 I give you an arithmetic
 problem:
  =========
 //西の小部屋の魔物(モンスター)
 //たちと同じ重さの移動(いどう)
 //ブロックを、
-Push a block with the same
+Push blocks with the same
 weight as the monsters in
-in the west room
+the west room
  =========
 //東の小部屋の穴に落とせ」
 down the hole in the
@@ -1525,124 +1525,183 @@ Purple Ghost:
 <PROC=0>
 <END>
  =========
-赤の亡霊(ぼうれい)
-「・・・」
+//赤の亡霊(ぼうれい)
+//「・・・」
+Red Ghost:
+"..."
  =========
 <PROC=0>
 <END>
  =========
-青の亡霊(ぼうれい)
-「われは黒ひげの三兄弟が次男
-ジョージ
+//青の亡霊(ぼうれい)
+//「われは黒ひげの三兄弟が次男
+//ジョージ
+Blue Ghost:
+"I am the second Black Beard
+Brother, George.
  =========
-われが出すは、推理(すいり)の
-問い
+//われが出すは、推理(すいり)の
+//問い
+I give you a logic problem:
  =========
-西の小部屋の魔物(モンスター)
-たちと同じ重さの移動(いどう)
-ブロックを、
+//西の小部屋の魔物(モンスター)
+//たちと同じ重さの移動(いどう)
+//ブロックを、
+Push blocks with the same
+weight as the monsters in
+the west room
  =========
-東の小部屋の穴に落とせ」
- =========
-<PROC=0>
-<END>
- =========
-紫(むらさき)の亡霊(ぼうれい)
-「・・・」
- =========
-<PROC=0>
-<END>
- =========
-赤の亡霊(ぼうれい)
-「・・・」
+//東の小部屋の穴に落とせ」
+down the hole in the
+east room."
  =========
 <PROC=0>
 <END>
  =========
-青の亡霊(ぼうれい)
-「・・・」
+//紫(むらさき)の亡霊(ぼうれい)
+//「・・・」
+Purple Ghost:
+"..."
  =========
 <PROC=0>
 <END>
  =========
-紫(むらさき)の亡霊(ぼうれい)
-「われは黒ひげの三兄弟が長男
-ジョン
+//赤の亡霊(ぼうれい)
+//「・・・」
+Red Ghost:
+"..."
+ =========
+<PROC=0>
+<END>
+ =========
+//青の亡霊(ぼうれい)
+//「・・・」
+Blue Ghost:
+"..."
+ =========
+<PROC=0>
+<END>
+ =========
+//紫(むらさき)の亡霊(ぼうれい)
+//「われは黒ひげの三兄弟が長男
+//ジョン
+Purple Ghost:
+"I am the eldest Black Beard
+Brother, John.
  =========
 われが出すは、懺悔(ざんげ)の
 問い
+I give you an atonement
+problem:
  =========
-おまえが今までにたおしてきた
-魔物(モンスター)たちの、
+//おまえが今までにたおしてきた
+//魔物(モンスター)たちの、
+Push blocks with the same
+weight as the souls of the
+monsters you have defeated
  =========
-魂(たましい)と同じ重さの移動
-(いどう)ブロックを、東の小部
-屋の穴に落とせ」
- =========
-<PROC=0>
-<END>
- =========
-亡霊(ぼうれい)
-「・・・」
- =========
-<PROC=0>
-<END>
- =========
-亡霊(ぼうれい)
-「ヒントをやろう
- =========
-アニキたちがいるエリアは天秤
-(てんびん)になっている
- =========
-東西の小部屋の穴の中にあるモ
-ノの重さが同じになれば、それ
-が正解(せいかい)ってわけだ」
+//魂(たましい)と同じ重さの移動
+//(いどう)ブロックを、東の小部
+//屋の穴に落とせ」
+so far down the hole in the
+east room."
  =========
 <PROC=0>
 <END>
  =========
-亡霊(ぼうれい)
-「ヒントをやろう
- =========
-木箱の重さを1とすると、
-岩ブロックは3、
-鉄箱は5の重さだ」
+//亡霊(ぼうれい)
+//「・・・」
+Ghost:
+"..."
  =========
 <PROC=0>
 <END>
  =========
-亡霊(ぼうれい)
-「ヒントをやろう
+//亡霊(ぼうれい)
+//「ヒントをやろう
+Ghost:
+"I'll give you a hint.
  =========
-木箱の重さを1とすると、
-スライムは1、
-ゴーレムは3の重さだ」
+//アニキたちがいるエリアは天秤
+//(てんびん)になっている
+There is a set of scales in
+the area with the brothers.
+When the contents of the
  =========
-<PROC=0>
-<END>
- =========
-亡霊(ぼうれい)
-「ヒントをやろう
- =========
-木箱の重さを1とすると、
-スライムは1、
-ゴーレムは3の重さだ
- =========
-グール?
- =========
-スライムよりは重いだろうが、
-ゴーレムよりは軽いだろうな」
+//東西の小部屋の穴の中にあるモ
+//ノの重さが同じになれば、それ
+//が正解(せいかい)ってわけだ」
+holes in the west and east
+rooms even out, that is the
+correct answer."
  =========
 <PROC=0>
 <END>
  =========
-亡霊(ぼうれい)
-「ヒントをやろう
+//亡霊(ぼうれい)
+//「ヒントをやろう
+Ghost:
+"I'll give you a hint.
  =========
-魂(たましい)の重さとは何なの
-か?
+//木箱の重さを1とすると、
+//岩ブロックは3、
+//鉄箱は5の重さだ」
+A wooden block weighs 1, an
+iron block weighs 3 and a
+stone block weighs 5."
  =========
-それをよく考えることだな」
+<PROC=0>
+<END>
+ =========
+//亡霊(ぼうれい)
+//「ヒントをやろう
+Ghost:
+I'll give you a hint.
+ =========
+//木箱の重さを1とすると、
+//スライムは1、
+//ゴーレムは3の重さだ」
+A wooden block weighs 1,
+a Slime weighs 1, and a
+Golem weighs 3.
+ =========
+<PROC=0>
+<END>
+ =========
+//亡霊(ぼうれい)
+//「ヒントをやろう
+Ghost:
+I'll give you a hint.
+ =========
+//木箱の重さを1とすると、
+//スライムは1、
+//ゴーレムは3の重さだ
+The wooden block weighs 1,
+a Slime weighs 1, and a
+Golem weighs 3.
+ =========
+//グール?
+A Ghoul?
+ =========
+//スライムよりは重いだろうが、
+//ゴーレムよりは軽いだろうな」
+It's heavier than a Slime
+and lighter than a Golem."
+ =========
+<PROC=0>
+<END>
+ =========
+//亡霊(ぼうれい)
+//「ヒントをやろう
+Ghost:
+I'll give you a hint.
+ =========
+//魂(たましい)の重さとは何なの
+//か?
+How much does a soul weigh?
+ =========
+//それをよく考えることだな」
+Give that some thought."
  =========
 <PROC=0>
 <END>
@@ -1675,9 +1734,9 @@ start the Piledriver.
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「では、パイルドライバーを召
-喚(しょうかん)する!!」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「では、パイルドライバーを召
+//喚(しょうかん)する!!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Very well, I summon the
 Piledriver!!"
@@ -1685,12 +1744,17 @@ Piledriver!!"
 <PROC=1><PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「それではパイルドライバーを
-起動することができない!!
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「それではパイルドライバーを
+//起動することができない!!
+<LABEL=OTENKO>Master Otenko</LABEL>
+"Well then we can't start
+the Piledriver!!
  =========
-太陽が出るのを待つしかないか
-・・・」
+//太陽が出るのを待つしかないか
+//・・・」
+We'll have to wait for the
+Sun to come out..."
  =========
 <PROC=0>
 <END>
@@ -1979,7 +2043,8 @@ M<01>
  =========
 
  =========
-配
+//配
+***distribute
  =========
 
  =========
@@ -2007,7 +2072,8 @@ A<02>
  =========
 
  =========
-索
+//索
+rope
  =========
 
  =========
@@ -2117,7 +2183,8 @@ l<15>
  =========
 
  =========
-相
+//相
+***together
  =========
 
  =========
@@ -2333,8 +2400,9 @@ B`
 <LABEL=SABATA>Boy in Black</LABEL>:
 "Is this a dream?
  =========
-だが少なくとも、おれの夢(ゆ
-め)ではないようだ・・・」
+//だが少なくとも、おれの夢(ゆ
+//め)ではないようだ・・・」
+But I rarely have dreams..."
  =========
 <PROC=0>
 <END>
@@ -2343,11 +2411,11 @@ B`
 //「こいつか、
 //おれをよんだのは?
 <LABEL=SABATA>Boy in Black</LABEL>:
-Is this what called me?
+Is this what called me here?
  =========
 //ねむっている?
 //いや、これは・・・
-Is it sleeping? No, it's...
+Is it asleep? No, it's...
  =========
 //月の一族による封印(ふういん)
 //か?
@@ -2361,138 +2429,212 @@ ordinary monster..."
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「これは・・・
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「これは・・・
+<LABEL=SABATA>Boy in Black</LABEL>
+"Is this...
  =========
-おれの身体に流れる月の血が、
-月の一族が警告(けいこく)して
-いる!?」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「すでに目覚めていたか
-・・・」
+//おれの身体に流れる月の血が、
+//月の一族が警告(けいこく)して
+//いる!?」
+what the Lunar Clan blood
+flowing through me is
+warning me about!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「なるほど
- =========
-おまえの複活(ふっかつ)にはお
-れの血が、月の巫女(月下美人)
-の力が必要というわけか・・・
- =========
-だが、そうはいかん!
- =========
-おまえにはふたたび、永遠(え
-いえん)のねむりについてもら
-うぞ!!」
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「すでに目覚めていたか
+//・・・」
+<LABEL=SABATA>Boy in Black</LABEL>
+"Too late to wake up now..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「クッ、
-まさかこいつは・・・」
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「なるほど
+<LABEL=SABATA>Boy in Black</LABEL>
+"I see...
+ =========
+//おまえの複活(ふっかつ)にはお
+//れの血が、月の巫女(月下美人)
+//の力が必要というわけか・・・
+my blood and the power of the
+the Lunar Maiden are needed
+for your revival...
+ =========
+//だが、そうはいかん!
+I can't allow that!
+ =========
+//おまえにはふたたび、永遠(え
+//いえん)のねむりについてもら
+//うぞ!!」
+I'll put you into eternal
+slumber again!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「残念でしたね、サバタさん」
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「闇の一族(イモータル)!?」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-<PROC=1><LOCK=30>「ウフフフフ・・・
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「クッ、
+//まさかこいつは・・・」
+<LABEL=SABATA>Boy in Black</LABEL>
+"Ugh,
+it's not possible..."
+
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA></LABEL>破壊(はかい)の獣(けもの)、
-ヴァナルガンド
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//「残念でしたね、サバタさん」
+<LABEL=RATA>Boy in White</LABEL>
+"How very regrettable,
+Sabata."
  =========
-生も死もあたえられず、ただそ
-こに存在(そんざい)するもの、
-絶対存在(エターナル)
+//<LABEL=SABATA>サバタ</LABEL>
+//「闇の一族(イモータル)!?」
+<LABEL=SABATA>Sabata</LABEL>
+"An Immortal!?"
  =========
-たとえ夢(ゆめ)の中であろうと
-も・・・
+<PROC=0>
+<END>
  =========
-暗黒少年であるあなたに、たお
-せる相手ではありません
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//<PROC=1><LOCK=30>「ウフフフフ・・・
+<LABEL=RATA>Boy in White</LABEL>
+<PROC=1><LOCK=30>"Ahahahaha...
  =========
-命を持たないものを殺すことな
-ど、できはしない
+<PROC=0>
+<END>
  =========
-太陽の力をあやつるあなたの弟
-太陽少年<NAME>にもね」
+//<LABEL=RATA></LABEL>破壊(はかい)の獣(けもの)、
+//ヴァナルガンド
+<LABEL=RATA></LABEL>The Beast of Destruction,
+Vanargand.
+ =========
+//生も死もあたえられず、ただそ
+//こに存在(そんざい)するもの、
+//絶対存在(エターナル)
+A thing given neither birth
+nor death, merely living,
+eternal
+ =========
+//たとえ夢(ゆめ)の中であろうと
+//も・・・
+***?
+ =========
+//暗黒少年であるあなたに、たお
+//せる相手ではありません
+***You, the Dark Boy, defeated
+without anyone to turn to.
+ =========
+//命を持たないものを殺すことな
+//ど、できはしない
+You can't hurt or kill
+mortals,
+ =========
+//太陽の力をあやつるあなたの弟
+//太陽少年<NAME>にもね」
+nor your younger brother
+Solar Boy <NAME> who
+uses the power of the Sun."
  =========
 <LABEL=SABATA>サバタ</LABEL>
 「絶対存在(エターナル)・・・
 やはりな
  =========
-だがこんな怪物(かいぶつ)をよ
-みがえらせてどうする?
+//だがこんな怪物(かいぶつ)をよ
+//みがえらせてどうする?
+What would you accomplish by
+resurrecting such a monster?
  =========
-この星に生きるすべての命、
+//この星に生きるすべての命、
+Once it destroys all the
+lives on this star,
  =========
-それをほろぼすことが銀河宇宙
-(ぎんがうちゅう)の意思だとし
-ても、
+//それをほろぼすことが銀河宇宙
+//(ぎんがうちゅう)の意思だとし
+//ても、
+assuming it intends to
+destroy the galaxy and then
+the universe,
  =========
-おまえたち自身をもほろぼすつ
-もりはあるまい?」
+//おまえたち自身をもほろぼすつ
+//もりはあるまい?」
+do you intend to destroy
+yourselves too?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「だからこそ、あなたの協力が
-必要なのです」
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//「だからこそ、あなたの協力が
+//必要なのです」
+<LABEL=RATA>Boy in White</LABEL>
+"That's precisely why your
+cooperation is necessary."
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「どういうことだ?」
+//<LABEL=SABATA>サバタ</LABEL>
+//「どういうことだ?」
+<LABEL=SABATA>Sabata</LABEL>
+"What do you mean?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「人形使いとよばれるわたくし
-にも・・・
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//「人形使いとよばれるわたくし
+//にも・・・
+<LABEL=RATA>Boy in White</LABEL>
+For a puppeteer such as
+myself,
  =========
-絶対存在(エターナル)であるヴ
-ァナルガンドをあやつることな
-ど、できはしない
+//絶対存在(エターナル)であるヴ
+//ァナルガンドをあやつることな
+//ど、できはしない
+controlling Vanargand, an
+Eternal, would not be
+possible. However,
  =========
-ですが、暗黒少年でありながら
-月の血を宿したあなたであれば
-話は別です
+//ですが、暗黒少年でありながら
+//月の血を宿したあなたであれば
+//話は別です
+However, for the Dark Boy,
+who carries Lunar blood, it
+is a different story.
  =========
-月の巫女(月下美人)の力をもっ
-てすれば、
+//月の巫女(月下美人)の力をもっ
+//てすれば、
+If I had the power of the
+Lunar Maiden,
  =========
-ヴァナルガンドの魂(たましい)
-とつながることができる
+//ヴァナルガンドの魂(たましい)
+//とつながることができる
+I could become connected to
+Vanargand's soul;
  =========
-破壊(はかい)の獣(けもの)、そ
-のものと成ることができる
+//破壊(はかい)の獣(けもの)、そ
+//のものと成ることができる
+I could become the Beast of
+Destruction.
  =========
-そう、この大いなる力を手にす
-ることができるのです」
+//そう、この大いなる力を手にす
+//ることができるのです」
+Yes, I could obtain such an
+incredible power."
  =========
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=6>「フッ・・・
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=6>「フッ・・・
+<LABEL=SABATA>Sabata</LABEL>
+<PROC=1><LOCK=6>"Heh...
  =========
-このおれが、そんなことをゆる
-すと思うのか?」
+//このおれが、そんなことをゆる
+//すと思うのか?」
+Do you think I would let
+that happen?"
  =========
 <PROC=0>
 <END>
@@ -2503,44 +2645,62 @@ ordinary monster..."
 <PROC=0>
 <END>
  =========
-<LABEL=RATA></LABEL>わたしにはあなたのゆるしなど
-必要ありません
+//<LABEL=RATA></LABEL>わたしにはあなたのゆるしなど
+//必要ありません
+<LABEL=RATA></LABEL>I don't need your
+permission.
  =========
-人形には意思など・・・
-必要ないのです!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「ヌグッ、これは・・・!」
+//人形には意思など・・・
+//必要ないのです!!」
+A puppet does not need a
+will!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「グワアアアアアアッ!!」
+//<LABEL=SABATA>サバタ</LABEL>
+//「ヌグッ、これは・・・!」
+<LABEL=SABATA>Sabata</LABEL>
+"Agh, this is...!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「伯爵(はくしゃく)をたおした
-ようだな、<NAME>!!
- =========
-さすがは太陽少年・・・
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おまえは!?」
+//<LABEL=SABATA>サバタ</LABEL>
+//「グワアアアアアアッ!!」
+<LABEL=SABATA>Sabata</LABEL>
+"GWAAAAAAAHHHHHHHH!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>黒衣の少年</LABEL>
-「おれは暗黒少年・・・サバタ
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「伯爵(はくしゃく)をたおした
+//ようだな、<NAME>!!
+<LABEL=SABATA>Boy in Black</LABEL>
+***So you defeated the Count, <NAME>!!
  =========
-敵(てき)でも味方でもない。
-今のところはな・・・」
+//さすがは太陽少年・・・
+As to be expected from the
+Solar Boy...
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おまえは!?」
+<LABEL=OTENKO>Master Otenko</LABEL>
+"Who are you!?"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=SABATA>黒衣の少年</LABEL>
+//「おれは暗黒少年・・・サバタ
+<LABEL=SABATA>Boy in Black</LABEL>
+"I am the Dark Boy...Sabata
+ =========
+//敵(てき)でも味方でもない。
+//今のところはな・・・」
+***I am neither an enemy nor an
+ally. My place now is... 
  =========
 <PROC=0>
 <END>
