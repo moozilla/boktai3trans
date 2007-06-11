@@ -15,6 +15,7 @@ wh.sjs.tbl	 - The table file to use with WindHex (how the script was dumped)
 
 IPS Folder - IPS patches:
 
+map_names.ips	- Tranlates the names of places on the world and san miguel maps
 menu_titles.ips	- Translates the title graphics in the menu in game
 
 Bo(r)kEd	- Spikeman's attempt at a script dumper/inserter

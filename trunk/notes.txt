@@ -13,20 +13,38 @@ CRC        - EA
 ===================
 
 Near Todo:
- - Translate menu titles
-   - Start on fresh ROM and make patch
- - Make script dumper not really slow
- - Make inserter
- - Double check table (remove blanks, fix duplicates)
- - Figure out control codes (if any more)
+ - Tiny on map name graphics
+ - Shop menu titles
 
 Progress:
 
+(6/11/07)
+ - Hacked all world map names
+ - Found town name data, hacked all town names
+ - Map names in patch (map_names.ips)
+ 
+(6/10/07)
+ - Started hacking in map names
+ - May need to find how to change which sprites are loaded for each name
+   - "CEMETERY" uses 4, only needs 2, "DARK CASTLE" needs 3, only has 2
+   - Found it, see notes below
+
+(6/08/07)
+ - Replayed through game, not as far but to map
+ - Found map sprite data! C819D1 is data for 2nd YA in YADOYA
+   - First byte is canned size/shape
+
+(6/07/07)
+ - Played through game a bit (not saved thanks to crash >_<)
+ - Was working on finding map sprite data, but no$gba crashed
+ - [30047F8]! to find routine where it ors OAM data together
+ - Breakpoint on x-pos/y-pos place, found where it's made, on to something?
+
 (6/01/07)
-- Finished hacking menu titles, (IPS: menu-titles)
-- Started hacking warning screen
-  - Graphics at 68CED4
-  - Tilemap at 68E954 (compressed)
+ - Finished hacking menu titles, (IPS: menu-titles)
+ - Started hacking warning screen
+   - Graphics at 68CED4
+   - Tilemap at 68E954 (compressed)
 
 (5/31/07)
 - Continued Menu Title Hacking
@@ -95,7 +113,7 @@ Progress:
  - Played game a bit
 
 Long Run Todo:
- - Fix and complete table
+ - Fix and complete table (remove blanks, fix duplicates)
  - Find code to control sun meter!
  - Find out how pointers work exactly
  - Make dumper/inserter
@@ -108,6 +126,7 @@ Long Run Todo:
 Notes:
  - Remember screen(s) that appear when no button on main menu after several seconds
  - Localize timezones
+ - Find a way to remove boxes of dialog
 
 Everything that needs to be translated:
  - Intro screens
@@ -118,6 +137,7 @@ Everything that needs to be translated:
  - Dark loans
  - Forging (?)
  - Dialog
+ - Maps
  - Probably more
 
 ===================
@@ -195,9 +215,7 @@ Start of pointer table: 8D6B1F8
  Other Notes
 ===================
 
-Max Sun Code:
 
-3203CC76 000A
 
 ===================
  Menu Translation
@@ -265,3 +283,49 @@ Progress:
 - 8C10F7D is 9, and 8C10F7E is 20 (x-pos)!
 - 8C10F82 somehow stores where tiles are loaded from!
 - All translated!
+
+===========================
+ Map Location Name Hacking
+===========================
+
+Word sprite data:
+
+C81730 = SAN MIGUEL start
+C81342 = number of cemetery sprites
+C81350 = offset from 8C81548
+C819D1 is data for 2nd YA in YADOYA
+C81A50 graphics data 65211C small font (for reference)
+[200A020]!, r4+2 = no of sprites, r4+8 = offset
+
+Town sprite data:
+
+[2009D0C]!
+offset from 8C81548
+
+Translations:
+
+San Miguel: (left to right, top to bottom)
+
+Clock Tower
+Bank·Loans
+Inn
+Library
+Garage
+Item Shop
+Accessory Shop
+Home
+Solar Smith
+Weapon Shop
+Leave Town
+
+World: (top to bottom, left to right)
+
+White Forest
+San Miguel
+Cemetery
+Dark Castle
+Lifeless Town
+Arena (?)
+Paradise (?)
+Ancient Tree
+Pirate Island
