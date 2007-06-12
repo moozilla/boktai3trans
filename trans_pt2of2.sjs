@@ -718,8 +718,8 @@ Complete Suppression
  =========
 //地下をさまよう、赤きムクロを
 //討(う)て!
-Defeat the crimson MUKURO***
-wandering the basement!
+Defeat the crimson Mummy
+wandering the Cemetery!
  =========
 //賞品
 //レアアイテム
@@ -735,7 +735,7 @@ Rare Item
  =========
 //街をさまよう、赤きムクロを討
 //(う)て!
-Defeat the crimson MUKURO***
+Defeat the crimson Mummy
 wandering the town!
  =========
 //賞品
@@ -752,7 +752,7 @@ PRIZE
  =========
 //樹上(じゅじょう)をさまよう、
 //赤き人形を討(う)て!
-Defeat the crimson puppet
+Defeat the crimson Golem
 wandering up a tree!
  =========
 //賞品
@@ -786,7 +786,7 @@ PRIZE
  =========
 //城の中をさまよう、赤き小悪魔
 //を討(う)て!
-Defeat the crimson MiniDevil***
+Defeat the crimson Vorn
 wandering inside the castle!
  =========
 //賞品
@@ -803,7 +803,7 @@ PRIZE
  =========
 //船の中をさまよう、赤きドクロ
 //を討(う)て!
-Defeat the crimson DOKURO***
+Defeat the crimson Skeleton
 wandering inside the ship!
  =========
 //賞品
@@ -851,10 +851,10 @@ Solar Drunkard "Dorenbo" Doll. Occasionally buys you gifts.
 Solar Detective "Otante" Doll. Finds Wanted monsters.
  =========
 //太陽バンクと暗黒ローンの受付嬢(うけつけじょう)、「陽子ちゃんと暗子ちゃん」のぬいぐるみ。あずけるとき、借りるときの利率とおしおきをサービスしてくれる。
-Solar Bank and Dark Loans receptionist "Luxana and Gloomy" Dolls. Adjust interest rates in your favor.
+Solar Bank and Dark Loans receptionist "Luxana and Doomy" Dolls. Adjust interest rates in your favor.
  =========
 //ネットナビ「ロックマン」のぬいぐるみ。エナジーを回複(かいふく)してくれる。
-Net Navi "Rockman" Doll. Fully restores your ENE.
+Net Navi "RockMan" Doll. Fully restores your ENE.
  =========
 //ネットナビ「ブルース」のぬいぐるみ。太陽鍛冶(たいようかじ)において、GREAT!を出やすく、SP(特殊効果)を付きやすくしてくれる。
 Net Navi "Blues" Doll. Makes it easier to get GREATs and SP-Rank weapons at the Solar Smith.
@@ -978,7 +978,7 @@ Hresvelgr
 Sabata
  =========
 //ニーズホッグ
-Nidhoggr
+Nidhogg
  =========
 // ラタトスク 
 Ratatosk
@@ -1219,24 +1219,27 @@ Brother?
 //ジョニー
 //「ヒヒッ!!
 //また、やっちまったようだな?
-Johnny
-Heehee!! You screwed up again, huh?
+Johnny:
+"Heehee!! You screwed up
+again, huh?
  =========
 //やっぱオマエの頭にゃあ、むず
 //かしすぎたか?」
-Seems that it's over your head after all.
+I guess it's beyond your
+abilities after all."
  =========
 <PROC=0>
 <END>
  =========
 //ジョニー
 //「また会ったな・・・
-Johnny
-We meet again...
+Johnny:
+"We meet again...
  =========
 //こんなところにまでたどり着く
 //たぁ、
-After trying so hard to get to such a place,
+*** After trying so hard to get
+to such a place,
  =========
 //オレさまの迷宮(めいきゅう)を
 //クリアしただけのことはある
@@ -1248,16 +1251,18 @@ However!!
 //黒ひげのアニキたちに挑戦(ち
 //ょうせん)しようたぁ、無謀(む
 //ぼう)がすぎるぜ!
-To challenge the Black Beard
+To challenge the Blackbeard
 Brothers is beyond reckless!
  =========
 //まあ、どうしてもやるってんな
 //ら止めはしねぇ
-Well, whatever you do, I won't stop you.
+Well, whatever you do, I
+won't stop you.
  =========
 //移動(いどう)ブロックを落とし
 //終わったら、オレさまに言いな
-** Moving block wo otoshi owattara, oresama ni ii na
+Talk to me when you're done
+pusing blocks, okay?
  =========
 //正解(せいかい)か不正解(ふせ
 //いかい)か、判定(はんてい)を
@@ -1301,7 +1306,7 @@ good. Heeheeheehee!!"
 //ジョニー
 //「ゲェーッ!!
 Johnny:
-"Gah!!
+"Gehh!!
  =========
 //ジャックアニキの問題に正解(
 //せいかい)するとは・・・!!
@@ -1315,7 +1320,7 @@ correctly...!
 //さっさとアニキたちのところへ
 //行きな!」
 Hurry up and move on to
-where my brothers are!"
+where the brothers are!"
  =========
 <PROC=0>
 <END>
@@ -1327,12 +1332,12 @@ What the hell?
  =========
 //黒ひげの三兄弟なのに、ひげが
 //ない?
-The Three Black Beard
+The Three Blackbeard
 Brothers don't have beards?
  =========
 //わかってねぇなぁ・・・
 //アニキたちはスケルトンだぜ?
-You don't get it... are my
+You don't get it... are the
 brothers skeletons?
  =========
 //スケルトンにひげがあるか?
@@ -1351,7 +1356,7 @@ Got it?
 //ジョニー
 //「ゲゲェーッ!!
 Johnny:
-"Guh!!
+"G-gehh!!
  =========
 //ジョージアニキの問題に正解(
 //せいかい)するとは・・・!!
@@ -1366,7 +1371,7 @@ are you?
 さっさとアニキたちのところへ
 行きな!」
 Hurry up and move on to
-where my brothers are!"
+where the brothers are!"
  =========
 <PROC=0>
 <END>
@@ -1410,7 +1415,7 @@ Heeheeheehee!!"
 //ジョニー
 //「ドッゲェーッ!!
 Johnny:
-***"Retreat!!
+***"Dggehh!!
  =========
 //ジョンアニキの問題に正解(せ
 //いかい)するとは・・・!!
@@ -1431,7 +1436,7 @@ I'll remember that name!!
 //さあ、早くアニキたちのところ
 //へ行きな!」
 Now hurry up and get to
-where my brothers are!"
+where the brothers are!"
  =========
 <PROC=0>
 <END>
@@ -1477,7 +1482,7 @@ that Demon Clan.
 //まあ、オレが仕えるのは黒ひげ
 //のアニキたちだけだがな!」
 Well, the only ones I serve
-are the Black Beard
+are the Blackbeard
 Brothers!!
  =========
 <PROC=0>
@@ -1487,7 +1492,7 @@ Brothers!!
 //「われは黒ひげの三兄弟が三男
 //ジャック
 Red Ghost:
-"I am the third Black Beard
+"I am the third Blackbeard
 Brother, Jack.
  =========
 //われが出すは、算術(さんじゅ
@@ -1537,7 +1542,7 @@ Red Ghost:
 //「われは黒ひげの三兄弟が次男
 //ジョージ
 Blue Ghost:
-"I am the second Black Beard
+"I am the second Blackbeard
 Brother, George.
  =========
 //われが出すは、推理(すいり)の
@@ -1663,7 +1668,7 @@ I'll give you a hint.
 //ゴーレムは3の重さだ」
 A wooden block weighs 1,
 a Slime weighs 1, and a
-Golem weighs 3.
+Golem weighs 3."
  =========
 <PROC=0>
 <END>
@@ -2043,8 +2048,7 @@ M<01>
  =========
 
  =========
-//配
-***distribute
+配
  =========
 
  =========
@@ -2072,8 +2076,7 @@ A<02>
  =========
 
  =========
-//索
-rope
+索
  =========
 
  =========
@@ -2183,8 +2186,7 @@ l<15>
  =========
 
  =========
-//相
-***together
+相
  =========
 
  =========
@@ -2730,6 +2732,7 @@ ally. My place now is...
  =========
 もはやゆうよはない。
 決着のときだ・・・」
+ASDFI can't put it off any it any longer...
  =========
 <PROC=0>
 <END>
@@ -3140,22 +3143,28 @@ LIFEの下にあるENE(エナジーゲ
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>じゃあな!!」
+//<LABEL=TRINITY></LABEL>じゃあな!!」
+<LABEL=TRINITY></LABEL>See ya!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>???</LABEL>
-「うわああああああっ!!」
+//<LABEL=TRINITY>???</LABEL>
+//「うわああああああっ!!」
+<LABEL=TRINITY>???</LABEL>:
+"Uwaaaaaah!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「いってぇーっ!!
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「いってぇーっ!!
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Ow ow ow!!
  =========
-クソッ、ケツが2つにわれちま
-うぜっ!!」
+//クソッ、ケツが2つにわれちま
+//うぜっ!!」
+Shit, I'll tear your ass in half!!"
  =========
 <PROC=0>
 <END>
@@ -4906,8 +4915,11 @@ Just like mom...!!
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
-たぜ!」
+//<LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
+//たぜ!」
+***<LABEL=TRINITY></LABEL>
+Heh, I remembered something
+ugly!
  =========
 //<LABEL=PLAYER><NAME></LABEL>
 //「トリニティ・・・」
@@ -4937,7 +4949,8 @@ sunlight.
  =========
 //われわれにはわれわれの、進む
 //べき道ある
-*** Wareware ni wa wareware no, susumu beki michi aru
+For us, that is the path we
+should follow.
  =========
 //戦いはまだ、終わっていない
 //・・・」
@@ -4962,7 +4975,7 @@ understand is Coach.
  =========
 //そんなあまい考えじゃあ、これ
 //から先・・・
-*** Such a naive idea, kore kara saki...
+*** Such a naive idea,from here on...
  =========
 <PROC=0>
 <END>
@@ -6615,8 +6628,8 @@ that the truth of it?
  =========
 //伝説の戦土をさがして旅する母
 //ちゃんとオイラを・・・
-***Mother traveled in search
-of the Legendary War...
+Mother traveled in search
+of the Legendary Warrior...
  =========
 //だれも助けちゃあくれなかった
 Nobody saved her.
@@ -6742,7 +6755,7 @@ Immortals up to now!?"
 //<LABEL=RATA>ラタトスク</LABEL>
 //<PROC=1><LOCK=10>「ウフフフフ・・・
 <LABEL=RATA>Ratatosk</LABEL>:
-<PROC=1><LOCK=10>"Bwahahaha..."
+<PROC=1><LOCK=10>"Ufufufufu..."
  =========
 <PROC=0>
 <END>
@@ -14988,10 +15001,10 @@ Sealed Area
 Vanargand
  =========
 //太陽を求めて
-Seek the sun
+Seek the Sun
  =========
 //太陽を守りぬけ!!
-*** Taiyou wo mamori nuke!!
+Protect the Sun Until the End!!
  =========
 //お知らせ
 Notice
@@ -15000,13 +15013,13 @@ Notice
 Sabata's Counterattack
  =========
 //解説
-Explanation
+Commentary
  =========
 // ネームエントリ 
-NAME ENTRY
+Name Entry
  =========
 // 戦土の伝説 
-*** Legend of War
+Legendary Warrior
  =========
 //おてんこさま
 Master Otenko
@@ -15036,13 +15049,13 @@ Future Era
 Future Boy
  =========
 //母ちゃん
-Mother
+Mama
  =========
 //狂気
-madness
+Madness
  =========
 //慈愛
-kindness
+Kindness
  =========
 //暗黒少年
 Dark Boy
@@ -15060,25 +15073,25 @@ Brothers
 Gari-gari
  =========
 //???(ハテナ) 
-???(Hatena)
+???(Oh my!)
  =========
 // 大地の精霊 
-*** Earth Spirit
+Spirit of the Earth
  =========
 //兩雲
-*** ???
+*** Raincloud
  =========
 //ユグドラシル
 Yggdrasill
  =========
 //転移魔砲
-*** Gun del Hell
+*** Transform Demon Gun
  =========
 // あきらめない心 
-never-give-up spirit
+Never-give-up Spirit
  =========
 // あきらめと絶望 
-resignation and despair
+Resignation and Despair
  =========
 //新・ボクらの太陽
 Boktai 3
@@ -15087,13 +15100,13 @@ Boktai 3
 Dark Future
  =========
 // 明日に向かって 
- go towards tomorrow
+Go Towards Tomorrow
  =========
 //トランス
 Trance
  =========
 // 黒ジャンゴ変身
-Dark Django transformation
+Dark Django Transformation
  =========
 //手に入れた!!
 obtained!!
@@ -15105,7 +15118,7 @@ Solar Magic
 *** read
  =========
 //敗北
-defeat
+Defeat
  =========
 // 世紀末世界 
 Millenium World
@@ -15120,7 +15133,7 @@ Shopping District
 Solar Smith
  =========
 // 完成!! 
-complete!!
+Complete!!
  =========
 // 太陽バンク 
 Solar Bank
@@ -15128,17 +15141,20 @@ Solar Bank
 // 暗黒ローン 
 Dark Loans
  =========
-おしおき
+//おしおき
+***Execution/Punishment
  =========
 //チェストッ!!
 Chest!!
  =========
 // ゲームオーバー 
-GAME OVER
+Game Over
  =========
- 日の出デモ 
+// 日の出デモ 
+*** SunriseO
  =========
- 日の入デモ 
+// 日の入デモ 
+*** Sunset
  =========
 // クロスオーバー 
 Crossover
@@ -15149,7 +15165,7 @@ Crossover
 //通信対戦負け
 *** Wireless battle lose 
  =========
-ガレージ
+//ガレージ
 Garage
  =========
 疾風
@@ -15167,7 +15183,8 @@ Results
 //パイルドライバー
 Piledriver
  =========
-起動
+//起動
+*** Startup
  =========
  準備完了!! 
  =========
@@ -16130,41 +16147,59 @@ Setup failed.
  =========
 <EXTEND=1>
  =========
-<LABEL=NONE>ロックマン</LABEL>
-「<EXTEND=2>」
+//<LABEL=NONE>ロックマン</LABEL>
+//「<EXTEND=2>」
+<LABEL=NONE>RockMan</LABEL>
+"<EXTEND=2>"
  =========
-接続がキャンセルされました。
+//接続がキャンセルされました。
+Connection cancelled.
  =========
-相手の接続をまっています。
+//相手の接続をまっています。
+Waiting for partner to connect.
  =========
-<WEIGHT>「<EXTEND=2>」</WEIGHT>
-バトルの申し込みがありました
-<WEIGHT>Ａボタン</WEIGHT>でバトルを開始します
+//<WEIGHT>「<EXTEND=2>」</WEIGHT>
+//バトルの申し込みがありました
+//<WEIGHT>Ａボタン</WEIGHT>でバトルを開始します
+<WEIGHT>"<EXTEND=2>"</WEIGHT>
+Battle request received.
+Press the <WEIGHT>A Button</WEIGHT> to start.
  =========
-通信中です。
+//通信中です。
+Transmitting...
  =========
-相手の選択を待っています。
+//相手の選択を待っています。
+Waiting for partner to select.
  =========
-今回のクロスオーバーポイント
+//今回のクロスオーバーポイント
+Crossover Points earned
  =========
-クロスオーバーポイントの合計
+//クロスオーバーポイントの合計
+Crossover Point total
  =========
-きょうもクロスオーバー
+//きょうもクロスオーバー
+*** Crossover today too
  =========
-たいよぉーーーーーー
+//たいよぉーーーーーー
+Sunlight!
  =========
-あすもまたひはのぼる
+//あすもまたひはのぼる
+The Sun will rise tomorrow
  =========
 フッハッハッハッハッ
+Hwah hah hah hah hah
  =========
 //じゅんびかんりょう
 Preparations complete
  =========
-ボクとバトルだ
+//ボクとバトルだ
+Battle with me
  =========
-しょうぶだねっとくん
+//しょうぶだねっとくん
+It's battle time, Lan
  =========
-まけないよロックマン
+//まけないよロックマン
+Don't lose, MegaMan
  =========
 //ジャンゴ
 Django
@@ -16226,7 +16261,8 @@ Liquid
  =========
 %
  =========
-&<02><02><02><0D><02><0F><02><1D><02><1E><02>(<02><03><02><10><02><13><02><1F><02>)<02><04><02><05><02><12><02><14><02> <02>*ポイズナー
+//&<02><02><02><0D><02><0F><02><1D><02><1E><02>(<02><03><02><10><02><13><02><1F><02>)<02><04><02><05><02><12><02><14><02> //<02>*ポイズナー
+&<02><02><02><0D><02><0F><02><1D><02><1E><02>(<02><03><02><10><02><13><02><1F><02>)<02><04><02><05><02><12><02><14><02> <02>*Poisoner
  =========
 //パープレクサー
 Perplexer
@@ -16316,7 +16352,7 @@ Stone Statue
 Armor
  =========
 //スタチューオブガルム
-Statue of Garm
+Garm Statue
  =========
 //ムスペルヘッド
 Muspell Head
@@ -16560,21 +16596,28 @@ Vanargand
  =========
 <0D><02><01>
  =========
-<0D><02><07><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF>通常:
+//<0D><02><07><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF>通//常:
+<0D><02><07><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF><FF>Common:
  =========
-レア:
+//レア:
+Rare:
  =========
 ---
  =========
 無属性
+//No attribute
  =========
-ソル属性
+//ソル属性
+Sol attribute
  =========
-ダーク属性
+//ダーク属性
+Dark attribute
  =========
-フレイム属性
+//フレイム属性
+Flame attribute
  =========
-フロスト属性
+//フロスト属性
+Frost attribute
  =========
 クラウド属性
  =========
@@ -17281,13 +17324,17 @@ Practice course around San Miguel.
 //生者をこばむ死の砂漠(さばく)。
 A desert that rejects life.
  =========
-辺境(へんきょう)に広がる大樹海(だいじゅかい)。
+//辺境(へんきょう)に広がる大樹海(だいじゅかい)。
+An expansive forest in a remote region.
  =========
-火吹山(ひふきやま)へいたる氷の山道。
+//火吹山(ひふきやま)へいたる氷の山道。
+An icy path leading to a volcano.
  =========
-海賊(かいぞく)の血に呪(のろ)われた海岸。
+//海賊(かいぞく)の血に呪(のろ)われた海岸。
+A beach cursed by pirate blood.
  =========
-大地を望む静寂(せいじゃく)の荒野(こうや)。
+//大地を望む静寂(せいじゃく)の荒野(こうや)。
+***A wasteland where the ground desires silence.
  =========
 //短距離(たんきょり)コース。
 Short-distance course.
