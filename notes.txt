@@ -18,6 +18,9 @@ Near Todo:
 
 Progress:
 
+(6/12/07)
+ - Hacked shop titles
+
 (6/11/07)
  - Hacked all world map names
  - Found town name data, hacked all town names
@@ -283,6 +286,10 @@ Progress:
 - 8C10F7D is 9, and 8C10F7E is 20 (x-pos)!
 - 8C10F82 somehow stores where tiles are loaded from!
 - All translated!
+- Warehouse sprite data at 8C11445
+- # sprites at C10b06
+- sprite data offset from 8C10BC4
+- [2009Ca4]!
 
 ===========================
  Map Location Name Hacking
