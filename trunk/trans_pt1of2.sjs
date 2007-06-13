@@ -2161,107 +2161,159 @@ prologue
  =========
 
  =========
-ジャンゴ
+//ジャンゴ
+Django
  =========
-マイバイク
+//マイバイク
+My Bike
  =========
-グラディウス<EXTEND=0>
+//グラディウス<EXTEND=0>
+Gladius<EXTEND=0>
  =========
-エストック<EXTEND=0>
+//エストック<EXTEND=0>
+Estoc<EXTEND=0>
  =========
-コピス<EXTEND=0>
+//コピス<EXTEND=0>
+Kopis<EXTEND=0>
  =========
-ショートソード<EXTEND=0>
+//ショートソード<EXTEND=0>
+Short Sword<EXTEND=0>
  =========
-ツヴァイハンダー<EXTEND=0>
+//ツヴァイハンダー<EXTEND=0>
+Zweihander<EXTEND=0>
  =========
-レイピア<EXTEND=0>
+//レイピア<EXTEND=0>
+Rapier<EXTEND=0>
  =========
-ブロンズエッジ<EXTEND=0>
+//ブロンズエッジ<EXTEND=0>
+Bronze Edge<EXTEND=0>
  =========
-陽炎<EXTEND=0>
+////陽炎<EXTEND=0>
+Kagerou<EXTEND=0>
  =========
-ブロードソード<EXTEND=0>
+//ブロードソード<EXTEND=0>
+Broadsword<EXTEND=0>
  =========
-黒金の剣<EXTEND=0>
+//黒金の剣<EXTEND=0>
+Iron Sword<EXTEND=0>
  =========
-エペ<EXTEND=0>
+//エペ<EXTEND=0>
+Epee<EXTEND=0>
  =========
-カッツバルゲル<EXTEND=0>
+//カッツバルゲル<EXTEND=0>
+Katzbalger<EXTEND=0>
  =========
-ワイルドローズ<EXTEND=0>
+//ワイルドローズ<EXTEND=0>
+Wild Rose<EXTEND=0>
  =========
-ファルカタ<EXTEND=0>
+//ファルカタ<EXTEND=0>
+Falcata<EXTEND=0>
  =========
-不知火<EXTEND=0>
+//不知火<EXTEND=0>
+Shiranui<EXTEND=0>
  =========
-アイアンブレード<EXTEND=0>
+//アイアンブレード<EXTEND=0>
+Iron Blade<EXTEND=0>
  =========
-フランベルジェ<EXTEND=0>
+//フランベルジェ<EXTEND=0>
+Flamberge<EXTEND=0>
  =========
-ファルシオン<EXTEND=0>
+//ファルシオン<EXTEND=0>
+Falchion<EXTEND=0>
  =========
-クレイモア<EXTEND=0>
+//クレイモア<EXTEND=0>
+Claymore<EXTEND=0>
  =========
-サーベル<EXTEND=0>
+//サーベル<EXTEND=0>
+Saber<EXTEND=0>
  =========
-シルバーエッジ<EXTEND=0>
+//シルバーエッジ<EXTEND=0>
+Silver Edge<EXTEND=0>
  =========
-深山<EXTEND=0>
+//深山<EXTEND=0>
+Shinzan<EXTEND=0>
  =========
-スキアヴォーナ<EXTEND=0>
+//スキアヴォーナ<EXTEND=0>
+Schiavona<EXTEND=0>
  =========
-鋼鉄の剣<EXTEND=0>
+//鋼鉄の剣<EXTEND=0>
+Steel Sword<EXTEND=0>
  =========
-パラッシュ<EXTEND=0>
+//パラッシュ<EXTEND=0>
+Palash<EXTEND=0>
  =========
-バスタードソード<EXTEND=0>
+//バスタードソード<EXTEND=0>
+Bastard Sword<EXTEND=0>
  =========
-ブラッディローズ<EXTEND=0>
+//ブラッディローズ<EXTEND=0>
+Bloody Rose<EXTEND=0>
  =========
-コラ<EXTEND=0>
+//コラ<EXTEND=0>
+Kora<EXTEND=0>
  =========
-桜花<EXTEND=0>
+//桜花<EXTEND=0>
+Sakurabana<EXTEND=0>
  =========
-名を持たぬ名剣<EXTEND=0>
+//名を持たぬ名剣<EXTEND=0>
+Nameless Sword<EXTEND=0>
  =========
-グレートソード<EXTEND=0>
+//グレートソード<EXTEND=0>
+Greatsword<EXTEND=0>
  =========
-アイスエッジ<EXTEND=0>
+//アイスエッジ<EXTEND=0>
+Ice Edge<EXTEND=0>
  =========
-エアブレード<EXTEND=0>
+//エアブレード<EXTEND=0>
+Air Blade<EXTEND=0>
  =========
-キングオブソード<EXTEND=0>
+//キングオブソード<EXTEND=0>
+***King of Swords<EXTEND=0>
+***Sword of Kings<EXTEND=0>
  =========
-プライムローズ<EXTEND=0>
+//プライムローズ<EXTEND=0>
+Prime Rose<EXTEND=0>
  =========
-ダマスカスエッジ<EXTEND=0>
+//ダマスカスエッジ<EXTEND=0>
+Damascus Edge<EXTEND=0>
  =========
-秋水<EXTEND=0>
+//秋水<EXTEND=0>
+Shuusui<EXTEND=0>
  =========
-グラム<EXTEND=0>
+//グラム<EXTEND=0>
+Gram<EXTEND=0>
  =========
-プラチナブレード<EXTEND=0>
+//プラチナブレード<EXTEND=0>
+Platina Blade<EXTEND=0>
  =========
-金剛の剣<EXTEND=0>
+//金剛の剣<EXTEND=0>
+Adamant Sword<EXTEND=0>
  =========
-ブルーローズ<EXTEND=0>
+//ブルーローズ<EXTEND=0>
+Blue Rose<EXTEND=0>
  =========
-サンダーエッジ<EXTEND=0>
+//サンダーエッジ<EXTEND=0>
+Thunder Edge<EXTEND=0>
  =========
-村兩<EXTEND=0>
+//村兩<EXTEND=0>
+Murasame<EXTEND=0>
  =========
-ファイアブレード<EXTEND=0>
+//ファイアブレード<EXTEND=0>
+Fire Blade<EXTEND=0>
  =========
-大地の剣<EXTEND=0>
+//大地の剣<EXTEND=0>
+Earth Sword<EXTEND=0>
  =========
-ブレードオブソル<EXTEND=0>
+//ブレードオブソル<EXTEND=0>
+Sol Blade<EXTEND=0>
  =========
-不滅の剣<EXTEND=0>
+//不滅の剣<EXTEND=0>
+Immortal Sword<EXTEND=0>
  =========
-ラビアンローズ
+//ラビアンローズ
+Rabi en Rose
  =========
-ロックバスター
+//ロックバスター
+RockBuster
  =========
 Lv.<VAR=0>威力:<VAR=1>古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
  =========
@@ -2363,11 +2415,14 @@ Lv.??威力:<VAR=1>ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EX
  =========
 
  =========
-レベルが上がるほど威力(いりょく)が上がる。
+//レベルが上がるほど威力(いりょく)が上がる。
+Gains power as you gain levels.
  =========
-ライフがへるほど威力(いりょく)が上がる。
+//ライフがへるほど威力(いりょく)が上がる。
+Gains power as your Life decreases.
  =========
-ライフがふえるほど威力(いりょく)が上がる。
+//ライフがふえるほど威力(いりょく)が上がる。
+Gains power as your Life increases.
  =========
 エナジーを消費してソル属性(ぞくせい)を付加する。
  =========
@@ -2379,71 +2434,103 @@ Lv.??威力:<VAR=1>ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EX
  =========
 エナジーを消費してアース属性(ぞくせい)を付加する。
  =========
-敵(てき)をふき飛ばす(低)。
+//敵(てき)をふき飛ばす(低)。
+***Knocks back enemies (weak).
  =========
-敵(てき)をふき飛ばす(高)。
+//敵(てき)をふき飛ばす(高)。
+***Knocks back enemies (strong).
  =========
-敵(てき)をマヒさせる(低)。
+//敵(てき)をマヒさせる(低)。
+Paralyzes enemies (weak).
  =========
-敵(てき)をマヒさせる(高)。
+//敵(てき)をマヒさせる(高)。
+Paralyzes enemies (strong).
  =========
-敵(てき)をたおすとライフが回複(かいふく)する。
+//敵(てき)をたおすとライフが回複(かいふく)する。
+Restores Life as you defeat enemies.
  =========
-敵(てき)をたおすとライフが減少(げんしょう)する。
+//敵(てき)をたおすとライフが減少(げんしょう)する。
+Drains Life as you defeat enemies.
  =========
-敵(てき)をたおすとエナジーが回複(かいふく)する。
+//敵(てき)をたおすとエナジーが回複(かいふく)する。
+Restores Energy as you defeat enemies.
  =========
-敵(てき)をたおすとエナジーが減少(げんしょう)する。
+//敵(てき)をたおすとエナジーが減少(げんしょう)する。
+Drains Energy as you defeat enemies.
  =========
-レベルが上がるほど威力(いりょく)が下がる。
+//レベルが上がるほど威力(いりょく)が下がる。
+Gains power as your level increases.
  =========
-ダーク属性(ぞくせい)に弱くなる。
+//ダーク属性(ぞくせい)に弱くなる。
+Becomes weak to Dark attribute.
  =========
-フレイム属性(ぞくせい)に弱くなる。
+//フレイム属性(ぞくせい)に弱くなる。
+Becomes weak to Flame attribute.
  =========
-フロスト属性(ぞくせい)に弱くなる。
+//フロスト属性(ぞくせい)に弱くなる。
+Becomes weak to Frost attribute.
  =========
-クラウド属性(ぞくせい)に弱くなる。
+//クラウド属性(ぞくせい)に弱くなる。
+Becomes weak to Cloud attribute.
  =========
-アース属性(ぞくせい)に弱くなる。
+//アース属性(ぞくせい)に弱くなる。
+Becomes weak to Earth attribute.
  =========
-これを捨てますか?
+//これを捨てますか?
+Do you throw this?
  =========
-刃(は)が折(お)れている。
+//刃(は)が折(お)れている。
+The edge is curved in.
  =========
-ライフがふえるほど威力(いりょく)が上がる。
+//ライフがふえるほど威力(いりょく)が上がる。
+Gains power as your Life increases.
  =========
 
  =========
-シャイアン
+//シャイアン
+Scion
  =========
-スミス
+//スミス
+Smith
  =========
-ファイター
+//ファイター
+Fighter
  =========
-カラミティ
+//カラミティ
+Calamity
  =========
-ウィザード
+//ウィザード
+Wizard
  =========
-バブルス
+//バブルス
+Bubbles
  =========
-フーパー
+//フーパー
+Hooper
  =========
-ジャグラー
+//ジャグラー
+Juggler
  =========
-ストーカー
+//ストーカー
+Stalker
  =========
-ドラグーン
+//ドラグーン
+Dragon
  =========
-サムライ
+//サムライ
+Samurai
  =========
-ボマー
+//ボマー
+Bomber
  =========
-テンペスト
+//テンペスト
+Tempest
  =========
-ビートマニア
+//ビートマニア
+Beatmania
  =========
-ファントム
+//ファントム
+Phantom
  =========
 威力:Cコスト:S<WEIGHT>Ｂボタン</WEIGHT>で太陽ショットを放つ。
  =========
@@ -2471,23 +2558,32 @@ Lv.??威力:<VAR=1>ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EX
  =========
 ファントムの説明
  =========
-ソル
+//ソル
+Sol
  =========
-ルナ
+//ルナ
+Luna
  =========
-フレイム
+//フレイム
+Flame
  =========
-フロスト
+//フロスト
+Frost
  =========
-クラウド
+//クラウド
+Cloud
  =========
-アース
+//アース
+Earth
  =========
-スター
+//スター
+Star
  =========
-アストロ
+//アストロ
+Astro
  =========
-ダーク
+//ダーク
+Dark
  =========
 太陽のレンズ。ダーク属性(ぞくせい)の敵(てき)に効果的(こうかてき)。
  =========
