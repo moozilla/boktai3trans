@@ -2240,7 +2240,7 @@ Schiavona<EXTEND=0>
 Steel Sword<EXTEND=0>
  =========
 //パラッシュ<EXTEND=0>
-Palash<EXTEND=0>
+Pallasch<EXTEND=0>
  =========
 //バスタードソード<EXTEND=0>
 Bastard Sword<EXTEND=0>
@@ -2267,8 +2267,7 @@ Ice Edge<EXTEND=0>
 Air Blade<EXTEND=0>
  =========
 //キングオブソード<EXTEND=0>
-***King of Swords<EXTEND=0>
-***Sword of Kings<EXTEND=0>
+King of Swords<EXTEND=0>
  =========
 //プライムローズ<EXTEND=0>
 Prime Rose<EXTEND=0>
@@ -2283,7 +2282,7 @@ Shuusui<EXTEND=0>
 Gram<EXTEND=0>
  =========
 //プラチナブレード<EXTEND=0>
-Platina Blade<EXTEND=0>
+Platinum Blade<EXTEND=0>
  =========
 //金剛の剣<EXTEND=0>
 Adamant Sword<EXTEND=0>
@@ -2301,7 +2300,7 @@ Murasame<EXTEND=0>
 Fire Blade<EXTEND=0>
  =========
 //大地の剣<EXTEND=0>
-Earth Sword<EXTEND=0>
+Sword of Earth<EXTEND=0>
  =========
 //ブレードオブソル<EXTEND=0>
 Sol Blade<EXTEND=0>
@@ -2310,10 +2309,10 @@ Sol Blade<EXTEND=0>
 Immortal Sword<EXTEND=0>
  =========
 //ラビアンローズ
-Rabi en Rose
+La Vie en Rose
  =========
 //ロックバスター
-RockBuster
+MegaBuster
  =========
 Lv.<VAR=0>威力:<VAR=1>古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
  =========
