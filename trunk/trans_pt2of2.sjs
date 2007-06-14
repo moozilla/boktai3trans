@@ -2599,7 +2599,7 @@ myself,
 //ど、できはしない
 controlling Vanargand, an
 Eternal, would not be
-possible. However,
+possible.
  =========
 //ですが、暗黒少年でありながら
 //月の血を宿したあなたであれば
@@ -2901,17 +2901,23 @@ ASDFI can't put it off any it any longer...
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>???
-「・・・
+//<LABEL=NONE>???
+//「・・・
+<LABEL=NONE>???:
+"...
  =========
-<NAME>・・・
+//<NAME>・・・
+<NAME>...
  =========
 <NAME>!!
  =========
-死ぬんじゃない!
+//死ぬんじゃない!
+Don't die!
  =========
-目を覚ますんだ、
-太陽少年<NAME>!!」
+//目を覚ますんだ、
+//太陽少年<NAME>!!」
+Open your eyes,
+Solar Boy <NAME>!!"
  =========
 <PROC=0>
 <END>
@@ -3160,111 +3166,159 @@ LIFEの下にあるENE(エナジーゲ
 //<LABEL=TRINITY>青ポンチョの少年</LABEL>
 //「いってぇーっ!!
 <LABEL=TRINITY>Boy in Blue Poncho</LABEL>
-"Ow ow ow!!
+"OUCH!!
  =========
 //クソッ、ケツが2つにわれちま
 //うぜっ!!」
-Shit, I'll tear your ass in half!!"
+Shit, my ass was nearly split in half!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「まったく・・・
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「まったく・・・
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Sheesh...
  =========
-時間転移(タイムワープ)だかタ
-イムストリップだか知らねーが
+//時間転移(タイムワープ)だかタ
+//イムストリップだか知らねーが
+Dunno if that was a time
+warp or a time strip, but
  =========
-パンの耳ちょろまかしたぐらい
-でこんな目に会うなんて、割に
-合わねーぜ」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「まさかホントに・・・
- =========
-世紀末世界とやらに来ちまった
-のか?
- =========
-それじゃあ、この世界のどこか
-に伝説の戦土が・・・」
+//パンの耳ちょろまかしたぐらい
+//でこんな目に会うなんて、割に
+//合わねーぜ」
+for stealing some bread
+crusts, this is going too
+far!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「まさかな・・・
-あんなのはただのおとぎ話さ
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「まさかホントに・・・
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Have I really...
  =========
-たとえいたとしても、どうせ死
-んじまうんだ
+//世紀末世界とやらに来ちまった
+//のか?
+arrived at the End of the World?
  =========
-だったらさがすだけムダさ
- =========
-まったく、伝説の戦土の子孫だ
-なんて・・・
- =========
-ぬすみの言いわけにしちゃあ、
-話がデカすぎたぜ
- =========
-それにしても・・・
-ハラへったなぁ」
+//それじゃあ、この世界のどこか
+//に伝説の戦土が・・・」
+Then the Legendary Warrior
+is somewhere here..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「・・・太陽少年<NAME>、
-ここに眠る」
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「まさかな・・・
+//あんなのはただのおとぎ話さ
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"No way...
+that was just a fairy tale.
+ =========
+//たとえいたとしても、どうせ死
+//んじまうんだ
+Even if they were here,
+they'd be dead anyway.
+ =========
+//だったらさがすだけムダさ
+It'd be pointless to even
+look for them.
+ =========
+//まったく、伝説の戦土の子孫だ
+//なんて・・・
+Sheesh, saying I was a
+descendant of the Legendary
+Warrior...
+ =========
+//ぬすみの言いわけにしちゃあ、
+//話がデカすぎたぜ
+It was too wild a story to
+use as an excuse for
+stealing.
+ =========
+//それにしても・・・
+//ハラへったなぁ」
+On top of everything,
+I'm starving."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「ヤバッ!!」
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「・・・太陽少年<NAME>、
+//ここに眠る」
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Here lies
+Solar Boy <NAME>..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「待てよ・・・太陽少年?」
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「ヤバッ!!」
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"This is bad!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「あれは・・・月?
- =========
-本物の月なのか!?」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「それじゃあやっぱり・・・
- =========
-この世界はまだ、闇に支配され
-てはいないのか?
- =========
-どうやら・・・
-食い物にこまることだけはなさ
-そうだな!!」
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「待てよ・・・太陽少年?」
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Wait a sec... Solar Boy"?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「ま、悪気はなかったんだ
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「あれは・・・月?
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"That's the... moon?
  =========
-化けて出るんじゃあねーぞ、
-太陽少年!
+//本物の月なのか!?」
+The real moon!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=TRINITY></LABEL>じゃあな!!」
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「それじゃあやっぱり・・・
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Then that must mean...
+ =========
+//この世界はまだ、闇に支配され
+//てはいないのか?
+This world is still under
+the rule of darkness?
+ =========
+//どうやら・・・
+//食い物にこまることだけはなさ
+//そうだな!!」
+Looks like I'm gonna have
+more to worry about than
+just food!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「ま、悪気はなかったんだ
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>
+"Well, I didn't mean it.
+ =========
+//化けて出るんじゃあねーぞ、
+//太陽少年!
+"Don't haunt me, Solar Boy!
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=TRINITY></LABEL>じゃあな!!」
+<LABEL=TRINITY></LABEL>See ya!"
  =========
 <PROC=0>
 <END>
@@ -3307,11 +3361,15 @@ Shit, I'll tear your ass in half!!"
 「大いなる災厄(さいやく)
 ・・・
  =========
-破壊(はかい)の獣(けもの)、
-ヴァナルガンド
+//破壊(はかい)の獣(けもの)、
+//ヴァナルガンド
+The Beast of Destruction,
+Vanargand.
  =========
-その力を受けつぐ者、暗黒少年
-・・・」
+//その力を受けつぐ者、暗黒少年
+//・・・」
+The one who took over that
+power, the Dark Boy..."
  =========
 小さなシルエット
 「ヴァナルガンドはまもなく解
