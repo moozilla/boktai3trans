@@ -2487,49 +2487,49 @@ Gains power as your Life increases.
 
  =========
 //シャイアン
-Scion
+SCION
  =========
 //スミス
-Smith
+SMITH
  =========
 //ファイター
-Fighter
+FIGHTER
  =========
 //カラミティ
-Calamity
+CALAMITY
  =========
 //ウィザード
-Wizard
+WIZARD
  =========
 //バブルス
-Bubbles
+BUBBLES
  =========
 //フーパー
-Hooper
+HOOPER
  =========
 //ジャグラー
-Juggler
+JUGGLER
  =========
 //ストーカー
-Stalker
+STALKER
  =========
 //ドラグーン
-Dragon
+DRAGOON
  =========
 //サムライ
-Samurai
+SAMURAI
  =========
 //ボマー
-Bomber
+BOMBER
  =========
 //テンペスト
-Tempest
+TEMPEST
  =========
 //ビートマニア
-Beatmania
+BEATMANIA
  =========
 //ファントム
-Phantom
+PHANTOM
  =========
 威力:Cコスト:S<WEIGHT>Ｂボタン</WEIGHT>で太陽ショットを放つ。
  =========
@@ -2555,394 +2555,574 @@ Phantom
  =========
 威力:Dコスト:S<WEIGHT>Ｂボタン</WEIGHT>で、着弾(ちゃくだん)時に物音を立てるビートショットを放つ。
  =========
-ファントムの説明
+//ファントムの説明
+PHANTOM description
  =========
 //ソル
-Sol
+SOL
  =========
 //ルナ
-Luna
+LUNA
  =========
 //フレイム
-Flame
+FLAME
  =========
 //フロスト
-Frost
+FROST
  =========
 //クラウド
-Cloud
+CLOUD
  =========
 //アース
-Earth
+EARTH
  =========
 //スター
-Star
+STAR
  =========
 //アストロ
-Astro
+ASTRO
  =========
 //ダーク
-Dark
+DARK
  =========
-太陽のレンズ。ダーク属性(ぞくせい)の敵(てき)に効果的(こうかてき)。
+//太陽のレンズ。ダーク属性(ぞくせい)の敵(てき)に効果的(こうかてき)。
+Solar lens. Effective against Dark-attribute enemies.
  =========
-月のレンズ。エナジーを消費しない代わりに、攻撃力(こうげきりょく)もなくなる。
+//月のレンズ。エナジーを消費しない代わりに、攻撃力(こうげきりょく)もなくなる。
+Lunar lens. Consumes no Energy but has no offensive capabilities.
  =========
-炎(ほのお)のレンズ。フロスト属性(ぞくせい)の敵(てき)に効果的(こうかてき)。炎を点け、氷を溶(と)かす。
+//炎(ほのお)のレンズ。フロスト属性(ぞくせい)の敵(てき)に効果的(こうかてき)。炎を点け、氷を溶(と)かす。
+Flame lens. Effective against Frost-attribute enemies. Melts ice.
  =========
-氷のレンズ。フレイム属性(ぞくせい)の敵(てき)に効果的(こうかてき)。炎を消す。
+//氷のレンズ。フレイム属性(ぞくせい)の敵(てき)に効果的(こうかてき)。炎を消す。
+Frost lens. Effective against Flame-attribute enemies. Puts out fire.
  =========
-風のレンズ。アース属性(ぞくせい)の敵(てき)に効果的(こうかてき)。岩をくだく。
+//風のレンズ。アース属性(ぞくせい)の敵(てき)に効果的(こうかてき)。岩をくだく。
+Wind lens. Effective against Earth-attribute enemies. Smashes rocks.
  =========
-大地のレンズ。クラウド属性(ぞくせい)の敵(てき)に効果的(こうかてき)。植物を元気にする。
+//大地のレンズ。クラウド属性(ぞくせい)の敵(てき)に効果的(こうかてき)。植物を元気にする。
+Earth lens. Effective against Cloud-attribute enemies. Makes plants grow.
  =========
-星のレンズ。太陽スタンドにエナジーを貯める。レベルが上がるほど早く貯まる。
+//星のレンズ。太陽スタンドにエナジーを貯める。レベルが上がるほど早く貯まる。
+Star lens. Stores Energy in Solar Stations. Works faster as your level increases.
  =========
-天空のレンズ。太陽スタンドのエナジーを直接使う。ソル属性(ぞくせい)の攻撃(こうげき)を行う。
+//天空のレンズ。太陽スタンドのエナジーを直接使う。ソル属性(ぞくせい)の攻撃(こうげき)を行う。
+Astro lens. Uses energy directly from the Solar Station. Has a Sol-element attack.
  =========
-ダークレンズ
+//ダークレンズ
+Dark lens.
  =========
-回複薬
+//回複薬
+HEALER
  =========
-大地の実
+//大地の実
+EARTHLY NUT
  =========
-くさった実
+//くさった実
+ROTTEN NUT
  =========
-干し肉
+//干し肉
+JERKY
  =========
-おいしい肉
+//おいしい肉
+TASTY MEAT
  =========
-くさった肉
+//くさった肉
+ROTTEN MEAT
  =========
-チョコレート
+//チョコレート
+CHOCOLATE
  =========
-デラックスチョコ
+//デラックスチョコ
+DELUXE CHOCOLATE
  =========
-溶けたチョコ
+//溶けたチョコ
+MELTED CHOCOLATE
  =========
-チョコまみれ
+//チョコまみれ
+CHOCOLATE-COVERED
  =========
-ガリガリ君ソーダ
+//ガリガリ君ソーダ
+GARIGARI SODA
  =========
-ガリガリ君コーラ
+//ガリガリ君コーラ
+GARIGARI COLA
  =========
-魔法薬
+//魔法薬
+MAGICAL POTION
  =========
-太陽の実
+//太陽の実
+SOLAR NUT
  =========
-悪いキノコ
+//悪いキノコ
+BAD MUSHROOM
  =========
-毒消し
+//毒消し
+ANTIDOTE
  =========
-万能薬
+//万能薬
+ELIXIR
  =========
-太陽のしずく
+//太陽のしずく
+DROP OF SUN
  =========
-がまんの実
+//がまんの実
+BEARNUT
  =========
-はやさの実
+//はやさの実
+SPEED NUT
  =========
-ちからの実
+//ちからの実
+POWER NUT
  =========
-チョコバナナ
+//チョコバナナ
+CHOCOLATE BANANA
  =========
-しのびの実
+//しのびの実
+TIPTOE NUT
  =========
-赤いキノコ
+//赤いキノコ
+REDSHROOM
  =========
-青いキノコ
+//青いキノコ
+BLUESHROOM
  =========
-千里眼の実
+//千里眼の実
+SEE-ALL NUT
  =========
-転移の葉
+//転移の葉
+WARP LEAF
  =========
-テルテルボーズ
+//テルテルボーズ
+MR. RAINNOT
  =========
-ズーボルテルテ
+//ズーボルテルテ
+TONNIAR .RM
  =========
-おてんきゲタ
+//おてんきゲタ
+SUNNY CLOG
  =========
-はずれスティック
+//はずれスティック
+LOSER STICK
  =========
-当たりスティック
+//当たりスティック
+WINNER STICK
  =========
-女教皇のカード
+//女教皇のカード
+THE HIGH PRIESTESS
  =========
-女帝のカード
+//女帝のカード
+THE EMPRESS
  =========
-力のカード
+//力のカード
+STRENGTH
  =========
-運命の輪のカード
+//運命の輪のカード
+WHEEL of FORTUNE
  =========
-月のカード
+//月のカード
+THE MOON
  =========
-太陽のカード
+//太陽のカード
+THE SUN
  =========
-審判のカード
+//審判のカード
+JUDGEMENT
  =========
-暗黒カード
+//暗黒カード
+DARK CARD
  =========
-おてんこさま
+//おてんこさま
+MASTER OTENKO
  =========
-ライセンスオブソード
+//ライセンスオブソード
+SWORD LICENSE
  =========
 PET
  =========
-ベクターコフィン
+//ベクターコフィン
+VECTOR COFFIN
  =========
-赤のカギ
+//赤のカギ
+RED KEY
  =========
-黄のカギ
+//黄のカギ
+YELLOW KEY
  =========
-緑のカギ
+//緑のカギ
+GREEN KEY
  =========
-×のカギ
+//×のカギ
+BLUE KEY
  =========
-パイルパーツ
+//パイルパーツ
+PILE PARTS
  =========
-ダンジョンアイテム2
+//ダンジョンアイテム2
+DUNGEON ITEM 2
  =========
-運命の女神像
+//運命の女神像
+FATE GODDESS STATUE
  =========
-存在の女神像
+//存在の女神像
+EXISTENCE GODDESS STATUE
  =========
-必然の女神像
+//必然の女神像
+NECESSITY GODDESS STATUE
  =========
-ミッションアイテム4
+//ミッションアイテム4
+MISSION ITEM 4
  =========
-ミッションアイテム5
+//ミッションアイテム5
+MISSION ITEM 5
  =========
-緑の飲み薬。ライフを小回複(かいふく)する。
+//緑の飲み薬。ライフを小回複(かいふく)する。
+Green medicine. Restores a little Life.
  =========
-太陽の果実。ライフを中回複(かいふく)する。
+//太陽の果実。ライフを中回複(かいふく)する。
+Solar Fruit. Restores some Life.
  =========
-いたんだ果実。ライフは回複(かいふく)するが・・・
+//いたんだ果実。ライフは回複(かいふく)するが・・・
+Spoiled fruit. Restores Life but...
  =========
-じっくり干(ほ)したモンスターの肉。ライフを中回複(かいふく)する。
+//じっくり干(ほ)したモンスターの肉。ライフを中回複(かいふく)する。
+Well-dried monster meat. Restores some Life.
  =========
-こんがり焼いたモンスターの肉。ライフを大回複(かいふく)する。
+//こんがり焼いたモンスターの肉。ライフを大回複(かいふく)する。
+Monster meat grilled to perfection. Restores lots of Life.
  =========
-いたんだ肉。ライフは回複(かいふく)するが・・・
+//いたんだ肉。ライフは回複(かいふく)するが・・・
+Spoiled meat. Restores Life but...
  =========
-あまいおかし。ライフを小回複(かいふく)する。
+//あまいおかし。ライフを小回複(かいふく)する。
+Sweet candy. Restores a little Life.
  =========
-デラックスなチョコレート。ライフを中回複(かいふく)する。
+//デラックスなチョコレート。ライフを中回複(かいふく)する。
+Deluxe chocolate. Restores some Life.
  =========
-ドロドロに溶(と)けたチョコレート。ライフを小回複(かいふく)する。
+//ドロドロに溶(と)けたチョコレート。ライフを小回複(かいふく)する。
+Gooey melted chocolate. Restores a little Life.
  =========
-チョコレートまみれのアイテム。チョコの中には・・・
+//チョコレートまみれのアイテム。チョコの中には・・・
+Chocolate-covered item. And inside the chocolate...
  =========
-ソーダ味のアイスキャンディー。ライフを小回複(かいふく)する。
+//ソーダ味のアイスキャンディー。ライフを小回複(かいふく)する。
+Soda-flavored popsicle. Restores a little Life.
  =========
-コーラ味のアイスキャンディー。ライフを全回複(かいふく)する。
+//コーラ味のアイスキャンディー。ライフを全回複(かいふく)する。
+Cola-flavored popsicle. Completely restores Life.
  =========
-赤い飲み薬。エナジーを小回複(かいふく)する。
+//赤い飲み薬。エナジーを小回複(かいふく)する。
+Red medicine. Restores a little Energy.
  =========
-太陽の果実。エナジーを中回複(かいふく)する。
+//太陽の果実。エナジーを中回複(かいふく)する。
+Solar Fruit. Restores some Energy.
  =========
-毒キノコ。エナジーは回複(かいふく)するが・・・
+//毒キノコ。エナジーは回複(かいふく)するが・・・
+Poisonous mushroom. Restores Energy but...
  =========
-青い飲み薬。毒化を治す。
+//青い飲み薬。毒化を治す。
+Blue medicine. Cures poisoning.
  =========
-黄色い飲み薬。毒化・混乱(こんらん)を治す。
+//黄色い飲み薬。毒化・混乱(こんらん)を治す。
+Yellow medicine. Cures poisoning, confusion, and stomach aches.
  =========
-太陽の光で浄化(じょうか)された水。カーモスの呪(のろ)いを解(と)く。
+//太陽の光で浄化(じょうか)された水。カーモスの呪(のろ)いを解(と)く。
+Water purified by the sun's rays. Lifts curses.
  =========
-太陽の果実。ダメージをがまんする。
+//太陽の果実。ダメージをがまんする。
+Solar Fruit. Enables you to endure damage.
  =========
-太陽の果実。足が速くなる。
+//太陽の果実。足が速くなる。
+Solar Fruit. Increases Speed.
  =========
-太陽の果実。モノを運ぶのが速くなる。
+//太陽の果実。モノを運ぶのが速くなる。
+Solar Fruit. Enhances Strength.
  =========
-チョコでコーティングされたバナナ。モノを運ぶのが速くなる。
+//チョコでコーティングされたバナナ。モノを運ぶのが速くなる。
+Chocolate-covered banana. Enhances Strength.
  =========
 太陽の果実。足音が立たなくなる。
+Solar Fruit. Eliminates the sound of footsteps.
  =========
 太陽の果実。身体が小さくなる。
+Solar Fruit. Makes your body smaller.
  =========
-太陽の果実。身体が透明(とうめい)になる。
+//太陽の果実。身体が透明(とうめい)になる。
+Solar Fruit. Makes your body invisible.
  =========
-太陽の果実。目に見えないモノが見えるようになる。
+//太陽の果実。目に見えないモノが見えるようになる。
+Solar Fruit. Makes hidden things visible.
  =========
-太陽樹(たいようじゅ)の葉。ダンジョンの外に転移(ワープ)する。
+//太陽樹(たいようじゅ)の葉。ダンジョンの外に転移(ワープ)する。
+Leaf from the Solar Tree. Enables warping to outside the dungeon.
  =========
-古(いにしえ)のまじない人形。雲を追いはらう。
+//古(いにしえ)のまじない人形。雲を追いはらう。
+Ancient charm doll. Drives away clouds.
  =========
-古(いにしえ)のまじない人形。雲をよぶ。
+//古(いにしえ)のまじない人形。雲をよぶ。
+Ancient charm doll. Summons clouds.
  =========
-古(いにしえ)のはき物。天気を占う。
+//古(いにしえ)のはき物。天気を占う。
+Ancient footwear. Predicts the weather.
  =========
-その役目を終えたスティック。
+//その役目を終えたスティック。
+A stick that's outlived its usefulness.
  =========
-「1本当り」と焼印が押(お)されたスティック。ガリガリ君にわたそう!!
+//「1本当り」と焼印が押(お)されたスティック。ガリガリ君にわたそう!!
+A stick with "WIN" written on it. Show it to Gari-gari!!
  =========
-知性(ちせい)を暗示(あんじ)するカード。ココロを上げる。
+//知性(ちせい)を暗示(あんじ)するカード。ココロを上げる。
+Card of intelligence. Raises Spirit.
  =========
-母性(ぼせい)を暗示(あんじ)するカード。カラダを上げる。
+//母性(ぼせい)を暗示(あんじ)するカード。カラダを上げる。
+Maternal card. Raises Vitality.
  =========
-勇気を暗示(あんじ)するカード。チカラを上げる。
+//勇気を暗示(あんじ)するカード。チカラを上げる。
+Card of courage. Raises Strength.
  =========
-運命を暗示(あんじ)するカード。いずれかのステータスを上げる。
+//運命を暗示(あんじ)するカード。いずれかのステータスを上げる。
+Card of destiny. Raises Status.
  =========
-不安を暗示(あんじ)するカード。ライフを全回複(かいふく)する。
+//不安を暗示(あんじ)するカード。ライフを全回複(かいふく)する。
+Card of anxiety. Fully restores Life.
  =========
-幸福を暗示(あんじ)するカード。エナジーを全回複(かいふく)する。
+//幸福を暗示(あんじ)するカード。エナジーを全回複(かいふく)する。
+Card of happiness. Fully restores Energy.
  =========
-複活(ふっかつ)を暗示(あんじ)するカード。ライフがゼロになると自動的に全回複(かいふく)する。
+//複活(ふっかつ)を暗示(あんじ)するカード。ライフがゼロになると自動的に全回複(かいふく)する。
+Card of revival. Restores full Life when down to zero.
  =========
-暗黒ローンのゴールドカード。暗子ちゃんを呼び出す。
+//暗黒ローンのゴールドカード。暗子ちゃんを呼び出す。
+Dark Loans Gold Card. Summons Doomy.
  =========
-おてんこさまの説明
+//おてんこさまの説明
+Master Otenko description
  =========
-レベルに関孫なくすべてのソードを装備(そうび)するための許可証(きょかしょう)。
+//レベルに関孫なくすべてのソードを装備(そうび)するための許可証(きょかしょう)。
+Permits you to equip any sword without the requisite level.
  =========
-パーソナルターミナル。どこかにアクセスできる?
+//パーソナルターミナル。どこかにアクセスできる?
+Personal Terminal. Where is access possible?
  =========
-究極の棺桶(かんおけ)。棺桶(かんおけ)バイクの収納(しゅうのう)と闇の一族(イモータル)の封印(ふういん)が可能(かのう)。
+//究極の棺桶(かんおけ)。棺桶(かんおけ)バイクの収納(しゅうのう)と闇の一族(イモータル)の封印(ふうい//ん)が可能(かのう)。
+The ultimate coffin. Allows Immortals to be sealed within the Coffin Bike.
  =========
-赤銅製(しゃくどうせい)のカギ。赤の扉(とびら)を開ける。
+//赤銅製(しゃくどうせい)のカギ。赤の扉(とびら)を開ける。
+A key made of copper. Opens red doors.
  =========
-黄銅製(おうどうせい)のカギ。黄の扉(とびら)を開ける。
+//黄銅製(おうどうせい)のカギ。黄の扉(とびら)を開ける。
+A key made of brass. Opens yellow doors.
  =========
-青銅製(せいどうせい)のカギ。緑の扉(とびら)を開ける。
+//青銅製(せいどうせい)のカギ。緑の扉(とびら)を開ける。
+A key made of bronze. Opens blue doors.
  =========
-ばつのカギの説明
+//ばつのカギの説明
+Cross Key description
  =========
-エナジーを太陽パイルとして放出するための魔法機械。
+//エナジーを太陽パイルとして放出するための魔法機械。
+A magical device that releases solar energy.
  =========
-ダンジョンアイテム2の説明
+//ダンジョンアイテム2の説明
+Dungeon Item 2 description
  =========
-運命の女神、ウルドの像。
+//運命の女神、ウルドの像。
+A statue of Urd, the Goddess of Fate.
  =========
-存在(そんざい)の女神、スクルドの像。
+//存在(そんざい)の女神、スクルドの像。
+A statue of Skuld, the Goddess of Existence.
  =========
-必然の女神、ヴェルダンディの像。
+//必然の女神、ヴェルダンディの像。
+A statue of Verdandi, the Goddess of Neccessity.
  =========
-ミッションアイテム4の説明
+//ミッションアイテム4の説明
+Mission Item 4 description
  =========
-ミッションアイテム5の説明
+//ミッションアイテム5の説明
+Mission Item 5 description
  =========
-テルテルボーズを天にかかげた
+//テルテルボーズを天にかかげた
+Mr. Rainnot faces the sky.
  =========
-ズーボルテルテを天にかかげた
+//ズーボルテルテを天にかかげた
+tonniaR .rM faces the sky.
  =========
-ゲタはハナオを上にして転がっ
-ている。
+//ゲタはハナオを上にして転がっ
+//ている。
+The clog lies with its
+straps pointing upward.
  =========
-ゲタはハを上にして転がってい
-る。
+//ゲタはハを上にして転がってい
+//る。
+The clog lies with its
+bottom-sole pointing upward.
  =========
-空がみるみる晴れ渡っていく!!
+//空がみるみる晴れ渡っていく!!
+The sky brightens instantly!
  =========
-空がみるみる曇っていく!!
+//空がみるみる曇っていく!!
+Clouds gather instantly!
  =========
-カラダが<VAR=0>上がった!!
+//カラダが<VAR=0>上がった!!
+Vitality increased by <VAR=0>!
  =========
-ココロが<VAR=0>上がった!!
+//ココロが<VAR=0>上がった!!
+Spirit increased by <VAR=0>!
  =========
-チカラが<VAR=0>上がった!!
+//チカラが<VAR=0>上がった!!
+Strength increased by <VAR=0>!
  =========
-サークレット
+//サークレット
+CIRCLET
  =========
-クールバンダナ
+//クールバンダナ
+COOL BANDANA
  =========
-熱血ハチマキ
+//熱血ハチマキ
+BURNING HEADBAND
  =========
-大地の守り
+//大地の守り
+EARTH AMULET
  =========
-しのびのアカシ
+//しのびのアカシ
+PROOF OF SHINOBI
  =========
-アルファルのティアラ
+//アルファルのティアラ
+ALFAR TIARA
  =========
-グリグリメガネ
+//グリグリメガネ
+X-RAY GLASSES
  =========
-黄金仮面
+//黄金仮面
+GOLDEN MASK
  =========
-色あせたボウシ
+//色あせたボウシ
+FADED HAT
  =========
-おおかみのキバ
+//おおかみのキバ
+WOLF FANG
  =========
-カーネルヘルム
+//カーネルヘルム
+COLONEL HELM
  =========
-レザーアーマー
+//レザーアーマー
+LEATHER ARMOR
  =========
-チェインメイル
+//チェインメイル
+CHAIN MAIL
  =========
-プレートメイル
+//プレートメイル
+PLATE MAIL
  =========
-火竜のヨロイ
+//火竜のヨロイ
+FIRE DRAGON ARMOR
  =========
-水竜のヨロイ
+//水竜のヨロイ
+ICE DRAGON ARMOR
  =========
-風竜のヨロイ
+//風竜のヨロイ
+WIND DRAGON ARMOR
  =========
-地竜のヨロイ
+//地竜のヨロイ
+EARTH DRAGON ARMOR
  =========
-レインコート
+//レインコート
+RAINCOAT
  =========
-ルーンアーマー
+//ルーンアーマー
+RUNE ARMOR
  =========
-スパイクメイル
+//スパイクメイル
+SPIKE MAIL
  =========
-ノービスメイル
+//ノービスメイル
+NOVICE MAIL
  =========
-ホワイトアーマー
+//ホワイトアーマー
+WHITE ARMOR
  =========
-ブラックアーマー
+//ブラックアーマー
+BLACK ARMOR
  =========
-古ぼけたコート
+//古ぼけたコート
+WORN-OUT COAT
  =========
-こうもりのハネ
+//こうもりのハネ
+BAT WING
  =========
-フォルテマント
+//フォルテマント
+FORTE MANTLE
  =========
-パワーリスト
+//パワーリスト
+POWER WRIST
  =========
-ブレスレット
+//ブレスレット
+BRACELET
  =========
-クレストオブクラブ
+//クレストオブクラブ
+CREST OF CLUBS
  =========
-クレストオブダイヤ
+//クレストオブダイヤ
+CREST OF DIAMONDS
  =========
-バックラー
+//バックラー
+BUCKLER
  =========
-ルーンガントレット
+//ルーンガントレット
+RUNE GAUNTLET
  =========
-ホワイトガントレット
+//ホワイトガントレット
+WHITE GAUNTLET
  =========
-ブラックガントレット
+//ブラックガントレット
+BLACK GAUNTLET
  =========
-あせくさいグローブ
+//あせくさいグローブ
+SWEATY GLOVES
  =========
-死者のツメ
+//死者のツメ
+UNDEAD FINGERNAIL
  =========
-トマホークアーム
+//トマホークアーム
+TOMAHAWK ARMOR
  =========
-鉄ゲタ
+//鉄ゲタ
+IRON CLOGS
  =========
-ファニーシューズ
+//ファニーシューズ
+FUNNY SHOES
  =========
-パワーアンクル
+//パワーアンクル
+POWER ANKLE
  =========
-旅人のクツ
+//旅人のクツ
+TRAVELER'S SHOES
  =========
-サバトン
+//サバトン
+SABATON
  =========
-ウイングブーツ
+//ウイングブーツ
+WINGED BOOTS
  =========
-冒険者のブーツ
+//冒険者のブーツ
+ADVENTURER'S BOOTS
  =========
-すり切れたブーツ
+//すり切れたブーツ
+WORN-OUT BOOTS
  =========
-ねずみのシッポ
+//ねずみのシッポ
+RAT TAIL
  =========
-ブルースレッグ
+//ブルースレッグ
+BLUES LEG
  =========
 魔法石の付いた頭環(とうかん)。ココロが上がる(中)。敵(てき)がアイテムを落としにくくなる。
  =========
-クールなバンダナ。ココロが上がる(大)。トランスがたまりにくくなる。
+//クールなバンダナ。ココロが上がる(大)。トランスがたまりにくくなる。
+A cool bandana. Raises Spirit (high). Makes it difficult to build up TRC.
  =========
-ホットなハチマキ。トランスがたまりやすくなる。
+//ホットなハチマキ。トランスがたまりやすくなる。
+A hot headband. Makes it easier to build up TRC.
  =========
 身体健全のお守り。敵(てき)の攻撃(こうげき)による毒化をふせぐ。
  =========
