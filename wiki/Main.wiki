@@ -1,7 +1,0 @@
-#summary Main Page
-
-= Resources =
-
-[Item_List Item List]
-
-
