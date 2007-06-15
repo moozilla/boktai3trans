@@ -2842,10 +2842,10 @@ Solar Fruit. Enhances Strength.
 //チョコでコーティングされたバナナ。モノを運ぶのが速くなる。
 Chocolate-covered banana. Enhances Strength.
  =========
-太陽の果実。足音が立たなくなる。
+//太陽の果実。足音が立たなくなる。
 Solar Fruit. Eliminates the sound of footsteps.
  =========
-太陽の果実。身体が小さくなる。
+//太陽の果実。身体が小さくなる。
 Solar Fruit. Makes your body smaller.
  =========
 //太陽の果実。身体が透明(とうめい)になる。
@@ -2870,7 +2870,7 @@ Ancient footwear. Predicts the weather.
 A stick that's outlived its usefulness.
  =========
 //「1本当り」と焼印が押(お)されたスティック。ガリガリ君にわたそう!!
-A stick with "WIN" written on it. Show it to Gari-gari!!
+A stick with "WIN" written on it. Show it to Gari-Gari!
  =========
 //知性(ちせい)を暗示(あんじ)するカード。ココロを上げる。
 Card of intelligence. Raises Spirit.
