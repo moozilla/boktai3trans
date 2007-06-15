@@ -2433,7 +2433,7 @@ ordinary monster..."
  =========
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「これは・・・
-<LABEL=SABATA>Boy in Black</LABEL>
+<LABEL=SABATA>Boy in Black</LABEL>:
 "Is this...
  =========
 //おれの身体に流れる月の血が、
@@ -2449,7 +2449,7 @@ warning me about!?"
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「すでに目覚めていたか
 //・・・」
-<LABEL=SABATA>Boy in Black</LABEL>
+<LABEL=SABATA>Boy in Black</LABEL>:
 "Too late to wake up now..."
  =========
 <PROC=0>
@@ -2457,7 +2457,7 @@ warning me about!?"
  =========
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「なるほど
-<LABEL=SABATA>Boy in Black</LABEL>
+<LABEL=SABATA>Boy in Black</LABEL>:
 "I see...
  =========
 //おまえの複活(ふっかつ)にはお
@@ -2482,7 +2482,7 @@ slumber again!!"
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「クッ、
 //まさかこいつは・・・」
-<LABEL=SABATA>Boy in Black</LABEL>
+<LABEL=SABATA>Boy in Black</LABEL>:
 "Ugh,
 it's not possible..."
 
@@ -2492,13 +2492,13 @@ it's not possible..."
  =========
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //「残念でしたね、サバタさん」
-<LABEL=RATA>Boy in White</LABEL>
+<LABEL=RATA>Boy in White</LABEL>:
 "How very regrettable,
 Sabata."
  =========
 //<LABEL=SABATA>サバタ</LABEL>
 //「闇の一族(イモータル)!?」
-<LABEL=SABATA>Sabata</LABEL>
+<LABEL=SABATA>Sabata</LABEL>:
 "An Immortal!?"
  =========
 <PROC=0>
@@ -2506,8 +2506,8 @@ Sabata."
  =========
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //<PROC=1><LOCK=30>「ウフフフフ・・・
-<LABEL=RATA>Boy in White</LABEL>
-<PROC=1><LOCK=30>"Ahahahaha...
+<LABEL=RATA>Boy in White</LABEL>:
+<PROC=1><LOCK=30>"Ufufufufu...
  =========
 <PROC=0>
 <END>
@@ -2526,12 +2526,13 @@ eternal
  =========
 //たとえ夢(ゆめ)の中であろうと
 //も・・・
-***?
+Even if this were a dream...
  =========
 //暗黒少年であるあなたに、たお
 //せる相手ではありません
-***You, the Dark Boy, defeated
-without anyone to turn to.
+You, the Dark Boy, are
+defeated without anyone to
+turn to.
  =========
 //命を持たないものを殺すことな
 //ど、できはしない
@@ -2544,14 +2545,17 @@ nor your younger brother
 Solar Boy <NAME> who
 uses the power of the Sun."
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「絶対存在(エターナル)・・・
-やはりな
+//<LABEL=SABATA>サバタ</LABEL>
+//「絶対存在(エターナル)・・・
+//やはりな
+<LABEL=SABATA>Sabata</LABEL>:
+"An Eternal... of course.
  =========
 //だがこんな怪物(かいぶつ)をよ
 //みがえらせてどうする?
-What would you accomplish by
-resurrecting such a monster?
+But What would you
+accomplish by resurrecting
+such a monster?
  =========
 //この星に生きるすべての命、
 Once it destroys all the
@@ -2575,13 +2579,13 @@ yourselves too?"
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //「だからこそ、あなたの協力が
 //必要なのです」
-<LABEL=RATA>Boy in White</LABEL>
+<LABEL=RATA>Boy in White</LABEL>:
 "That's precisely why your
 cooperation is necessary."
  =========
 //<LABEL=SABATA>サバタ</LABEL>
 //「どういうことだ?」
-<LABEL=SABATA>Sabata</LABEL>
+<LABEL=SABATA>Sabata</LABEL>:
 "What do you mean?"
  =========
 <PROC=0>
@@ -2590,7 +2594,7 @@ cooperation is necessary."
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //「人形使いとよばれるわたくし
 //にも・・・
-<LABEL=RATA>Boy in White</LABEL>
+<LABEL=RATA>Boy in White</LABEL>:
 For a puppeteer such as
 myself,
  =========
@@ -2630,7 +2634,7 @@ incredible power."
  =========
 //<LABEL=SABATA>サバタ</LABEL>
 //<PROC=1><LOCK=6>「フッ・・・
-<LABEL=SABATA>Sabata</LABEL>
+<LABEL=SABATA>Sabata</LABEL>:
 <PROC=1><LOCK=6>"Heh...
  =========
 //このおれが、そんなことをゆる
@@ -2641,15 +2645,17 @@ that happen?"
 <PROC=0>
 <END>
  =========
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-<PROC=1><LOCK=30>「ウフフフフ・・・
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//<PROC=1><LOCK=30>「ウフフフフ・・・
+<LABEL=RATA>Boy in White</LABEL>:
+<PROC=1><LOCK=30>"Ufufufufu...
  =========
 <PROC=0>
 <END>
  =========
 //<LABEL=RATA></LABEL>わたしにはあなたのゆるしなど
 //必要ありません
-<LABEL=RATA></LABEL>I don't need your
+<LABEL=RATA></LABEL>I needn't have your
 permission.
  =========
 //人形には意思など・・・
@@ -2662,7 +2668,7 @@ will!!"
  =========
 //<LABEL=SABATA>サバタ</LABEL>
 //「ヌグッ、これは・・・!」
-<LABEL=SABATA>Sabata</LABEL>
+<LABEL=SABATA>Sabata</LABEL>:
 "Agh, this is...!"
  =========
 <PROC=0>
@@ -2670,7 +2676,7 @@ will!!"
  =========
 //<LABEL=SABATA>サバタ</LABEL>
 //「グワアアアアアアッ!!」
-<LABEL=SABATA>Sabata</LABEL>
+<LABEL=SABATA>Sabata</LABEL>:
 "GWAAAAAAAHHHHHHHH!!"
  =========
 <PROC=0>
@@ -2679,7 +2685,7 @@ will!!"
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「伯爵(はくしゃく)をたおした
 //ようだな、<NAME>!!
-<LABEL=SABATA>Boy in Black</LABEL>
+<LABEL=SABATA>Boy in Black</LABEL>:
 ***So you defeated the Count, <NAME>!!
  =========
 //さすがは太陽少年・・・
@@ -2688,7 +2694,7 @@ Solar Boy...
  =========
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「おまえは!?」
-<LABEL=OTENKO>Master Otenko</LABEL>
+<LABEL=OTENKO>Master Otenko</LABEL>:
 "Who are you!?"
  =========
 <PROC=0>
@@ -2696,87 +2702,123 @@ Solar Boy...
  =========
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「おれは暗黒少年・・・サバタ
-<LABEL=SABATA>Boy in Black</LABEL>
-"I am the Dark Boy...Sabata
+<LABEL=SABATA>Boy in Black</LABEL>:
+"I am the Dark Boy...Sabata.
  =========
 //敵(てき)でも味方でもない。
 //今のところはな・・・」
-***I am neither an enemy nor an
-ally. My place now is... 
+I am neither an enemy nor an
+ally. My place now is... "
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「おれは・・・
+//<LABEL=SABATA>サバタ</LABEL>
+//「おれは・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"I am...
  =========
-闇の一族(イモータル)でもなけ
-れば人でもない・・・
+//闇の一族(イモータル)でもなけ
+//れば人でもない・・・
+neither Immortal nor
+human...
  =========
-銀河意思(ダーク)に選ばれし者
-暗黒少年!!
+//銀河意思(ダーク)に選ばれし者
+//暗黒少年!!
+I am the one chosen by the
+Darkness, the Dark Boy!!
  =========
-闇の女王(クイーン)ごときにか
-しずきはしない
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA></LABEL>・・・ヌグッ!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「・・・
- =========
-もはやゆうよはない。
-決着のときだ・・・」
-ASDFI can't put it off any it any longer...
+//闇の女王(クイーン)ごときにか
+//しずきはしない
+I don't serve those like the
+Queen.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「ケハッ・・・ハァ・・・ハァ
-・・・なぜだっ!!
- =========
-暗黒物質(ダークマター)を宿し
-4大元素の力、太陽の力をも手
-にしたこのおれがっ!!
- =========
-父と母に守られ、ぬくぬくと育
-ったおまえなどに・・・
- =========
-負けるのか?
+//<LABEL=SABATA></LABEL>・・・ヌグッ!!」
+<LABEL=SABATA></LABEL>...nguhh!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA></LABEL>いや負けんっ!!」
+//<LABEL=SABATA>サバタ</LABEL>
+//「・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"...
+ =========
+//もはやゆうよはない。
+//決着のときだ・・・」
+I can't put it off any
+longer..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「何をボサッとしている!
-<NAME>!!」
+//<LABEL=SABATA>サバタ</LABEL>
+//「ケハッ・・・ハァ・・・ハァ
+//・・・なぜだっ!!
+<LABEL=SABATA>Sabata</LABEL>:
+"Khah...haa...haa...
+...why!!
+ =========
+//暗黒物質(ダークマター)を宿し
+//4大元素の力、太陽の力をも手
+//にしたこのおれがっ!!
+Me, carrying Dark Matter
+and the power of the four
+great elements and the Sun!!
+ =========
+//父と母に守られ、ぬくぬくと育
+//ったおまえなどに・・・
+***You, brought up carefree,
+protected by our parents...
+ =========
+//負けるのか?
+Have I lost?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタ!?」
+//<LABEL=SABATA></LABEL>いや負けんっ!!」
+<LABEL=SABATA></LABEL>No, I won't give up!!"
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「おれたちが父母から受けつい
-だ太陽と月、2つの血・・・
+<PROC=0>
+<END>
  =========
-2人がそろえば、おたがいの弱
-点も克服(こくふく)できるはず
+//<LABEL=SABATA>サバタ</LABEL>
+//「何をボサッとしている!
+//<NAME>!!」
+<LABEL=SABATA>Sabata</LABEL>:
+***"Nani wo bosah to shite iru!
+<NAME>!!"
  =========
-闇の女王(クイーン)をたおし、
-母を救うぞ!」
+<PROC=0>
+<END>
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタ!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata!?"
+ =========
+//<LABEL=SABATA>サバタ</LABEL>
+//「おれたちが父母から受けつい
+//だ太陽と月、2つの血・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"The two bloodlines, Sol and
+Luna, inherited from our
+parents...
+ =========
+//2人がそろえば、おたがいの弱
+//点も克服(こくふく)できるはず
+If we join up, we should be
+able to handle each other's
+weak points,
+ =========
+//闇の女王(クイーン)をたおし、
+//母を救うぞ!」
+defeat the Queen, and rescue
+mother!"
  =========
 <PROC=0>
 <END>
