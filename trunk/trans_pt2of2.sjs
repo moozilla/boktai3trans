@@ -2686,11 +2686,11 @@ will!!"
 //「伯爵(はくしゃく)をたおした
 //ようだな、<NAME>!!
 <LABEL=SABATA>Boy in Black</LABEL>:
-***So you defeated the Count, <NAME>!!
+You defeated the Count,
+<NAME>...
  =========
 //さすがは太陽少年・・・
-As to be expected from the
-Solar Boy...
+Impressive, Solar Boy.
  =========
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「おまえは!?」
@@ -2703,12 +2703,12 @@ Solar Boy...
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「おれは暗黒少年・・・サバタ
 <LABEL=SABATA>Boy in Black</LABEL>:
-"I am the Dark Boy...Sabata.
+"I am the Dark Boy, Sabata.
  =========
 //敵(てき)でも味方でもない。
 //今のところはな・・・」
-I am neither an enemy nor an
-ally. My place now is... "
+I am neither friend nor foe.
+For now, at least..."
  =========
 <PROC=0>
 <END>
@@ -2716,28 +2716,29 @@ ally. My place now is... "
 //<LABEL=SABATA>サバタ</LABEL>
 //「おれは・・・
 <LABEL=SABATA>Sabata</LABEL>:
-"I am...
+"I am neither Immortal nor
+human...
  =========
 //闇の一族(イモータル)でもなけ
 //れば人でもない・・・
-neither Immortal nor
-human...
+***REMOVE BOX***
  =========
 //銀河意思(ダーク)に選ばれし者
 //暗黒少年!!
-I am the one chosen by the
-Darkness, the Dark Boy!!
+I am the Chosen One of the 
+Dark - the will of the Galaxy
+- the Dark Child!!
  =========
 //闇の女王(クイーン)ごときにか
 //しずきはしない
-I don't serve those like the
-Queen.
+I shall not bend to the will
+of  the Queen, or any other!
  =========
 <PROC=0>
 <END>
  =========
 //<LABEL=SABATA></LABEL>・・・ヌグッ!!」
-<LABEL=SABATA></LABEL>...nguhh!!"
+<LABEL=SABATA></LABEL>...Arghhh!"
  =========
 <PROC=0>
 <END>
@@ -2759,23 +2760,24 @@ longer..."
 //「ケハッ・・・ハァ・・・ハァ
 //・・・なぜだっ!!
 <LABEL=SABATA>Sabata</LABEL>:
-"Khah...haa...haa...
-...why!!
+"Ho...How...How could this
+be...?!
  =========
 //暗黒物質(ダークマター)を宿し
 //4大元素の力、太陽の力をも手
 //にしたこのおれがっ!!
-Me, carrying Dark Matter
-and the power of the four
-great elements and the Sun!!
+Imbued with Dark Matter,
+wielding the power of the
+four elements
  =========
 //父と母に守られ、ぬくぬくと育
 //ったおまえなどに・・・
-***You, brought up carefree,
-protected by our parents...
+and of the Sun! And to such
+a sniveling mama's boy as 
+you!
  =========
 //負けるのか?
-Have I lost?
+Am I done for? 
  =========
 <PROC=0>
 <END>
@@ -2805,20 +2807,19 @@ Have I lost?
 //「おれたちが父母から受けつい
 //だ太陽と月、2つの血・・・
 <LABEL=SABATA>Sabata</LABEL>:
-"The two bloodlines, Sol and
-Luna, inherited from our
-parents...
+"We have Moon Child blood
+inside us, too.
  =========
 //2人がそろえば、おたがいの弱
 //点も克服(こくふく)できるはず
-If we join up, we should be
-able to handle each other's
-weak points,
+If we work together we can 
+overcome each other's
+weaknesses...
  =========
 //闇の女王(クイーン)をたおし、
 //母を救うぞ!」
-defeat the Queen, and rescue
-mother!"
+We must defeat the Queen
+and save our mother!"
  =========
 <PROC=0>
 <END>
@@ -2907,25 +2908,23 @@ defeated our father...
 //それでも、
 //おれたちは前に進まなければな
 //らない
-Nevertheless, we must move
-forward.
+And yet... We must go on.
  =========
 //あらがい続けること・・・
-To continue to disagree...
+Keep up the good fight...
  =========
 //それだけが、銀河意志(ダーク)
 //に対抗(たいこう)するための唯
 //一(ゆいいつ)絶対の手段!!
-That alone is the definite
-way to resist the Darkness!!
+That's the only sure way to
+resist the evil plots of
+Dark!!
  =========
 <PROC=0>
 <END>
  =========
 //<LABEL=SABATA></LABEL>そうだろう、<NAME>?」
-<LABEL=SABATA></LABEL>
-Isn't that right,
-<NAME>?"
+<LABEL=SABATA></LABEL>Right, <NAME>?"
  =========
 <PROC=0>
 <END>
@@ -2948,27 +2947,36 @@ I came this far!<LOCK=45>
 <PROC=0>
 <END>
  =========
-でもボクは・・・<LOCK=30>
+//でもボクは・・・<LOCK=30>
+But I...<LOCK=30>
  =========
 <PROC=0>
 <END>
  =========
-もう二度とあきらめない!!」<LOCK=45>
+//もう二度とあきらめない!!」<LOCK=45>
+I'm not going to give up
+twice!!"<LOCK=45>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「またせたな!!」<LOCK=30>
+//<LABEL=SABATA>サバタ</LABEL>
+//「またせたな!!」<LOCK=30>
+<LABEL=SABATA>Sabata</LABEL>:
+"You kept me waiting!!"<LOCK=30>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「サバタ!!」<LOCK=30>
+//<LABEL=PLAYER><NAME></LABEL>
+//「サバタ!!」<LOCK=30>
+<LABEL=PLAYER><NAME></LABEL>:
+"Sabata!!"<LOCK=30>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「おまえの心・・・<LOCK=30>
+//<LABEL=SABATA>サバタ</LABEL>
+//「おまえの心・・・<LOCK=30>
+<LABEL=SABATA>Sabata</LABEL>:
+"Your spirit...<LOCK=30>
  =========
 暗黒をも受け入れ・・・
 未来をあきらめないその心が、<LOCK=60>
