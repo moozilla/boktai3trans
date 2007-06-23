@@ -2823,87 +2823,127 @@ mother!"
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「どうしても行くというのか?
+//<LABEL=SABATA>サバタ</LABEL>
+//「どうしても行くというのか?
+<LABEL=SABATA>Sabata</LABEL>:
+"You say to go no matter
+what?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA></LABEL><PROC=1><LOCK=6>フッ・・・
+//<LABEL=SABATA></LABEL><PROC=1><LOCK=6>フッ・・・
+<LABEL=SABATA></LABEL><PROC=1><LOCK=6>Heh...
  =========
-この星に生きるすべての生命を
-切りすてようとする銀河宇宙(
-ぎんがうちゅう)の意思
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA></LABEL>それにさからおうというおまえ
-たちだ・・・勝ち目のない戦い
-にはなれている、か?」
+//この星に生きるすべての生命を
+//切りすてようとする銀河宇宙(
+//ぎんがうちゅう)の意思
+The Galaxy Universe intends
+to cut down all life on this
+star.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=6>「フッ・・・
+//<LABEL=SABATA></LABEL>それにさからおうというおまえ
+//たちだ・・・勝ち目のない戦い
+//にはなれている、か?」
+<LABEL=SABATA></LABEL>And you guys say to defy
+it... there's no chance of
+winning now, is there?
  =========
-相手はすべての生命の起源(き
-げん)たる銀河宇宙(ぎんがう
-ちゅう)の意思、ダーク
+<PROC=0>
+<END>
  =========
-始めから勝ち目などない
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=6>「フッ・・・
+<LABEL=SABATA>Sabata</LABEL>:
+<PROC=1><LOCK=6>"Heh...
+ =========
+//相手はすべての生命の起源(き
+//げん)たる銀河宇宙(ぎんがう
+//ちゅう)の意思、ダーク
+The enemy is that which gave
+rise to all life, the will
+of the Galaxy Universe, Dark
+ =========
+//始めから勝ち目などない
+There was never any chance
+of winning.
  =========
 <PROC=0>
 <END>
  =========
 <LABEL=SABATA></LABEL>だがおれは・・・
-その結果になど興味(きょうみ)
-はない
+//その結果になど興味(きょうみ)
+//はない
+<LABEL=SABATA></LABEL>But for me... I have no
+interest in the consequences
  =========
-・・・すべてはどう生きるかだ
+//・・・すべてはどう生きるかだ
+...or in how everything can
+exist.
  =========
-あらがい、戦い続けること。
-それがおれの・・・
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA></LABEL>生きるということだ!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「母を失い、父をたおし・・・
- =========
-それでも、
-おれたちは前に進まなければな
-らない
- =========
-あらがい続けること・・・
- =========
-それだけが、銀河意志(ダーク)
-に対抗(たいこう)するための唯
-一(ゆいいつ)絶対の手段!!
+//あらがい、戦い続けること。
+//それがおれの・・・
+Resisting, continuing to fight.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA></LABEL>そうだろう、<NAME>?」
+//<LABEL=SABATA></LABEL>生きるということだ!!」
+<LABEL=SABATA></LABEL>That's my definition of
+living!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「あと少し・・・!!」<LOCK=30>
+//<LABEL=SABATA>サバタ</LABEL>
+//「母を失い、父をたおし・・・
+<LABEL=SABATA>Sabata</LABEL>:
+"We lost our mother,
+defeated our father...
+ =========
+//それでも、
+//おれたちは前に進まなければな
+//らない
+Nevertheless, we must move
+forward.
+ =========
+//あらがい続けること・・・
+To continue to disagree...
+ =========
+//それだけが、銀河意志(ダーク)
+//に対抗(たいこう)するための唯
+//一(ゆいいつ)絶対の手段!!
+That alone is the definite
+way to resist the Darkness!!
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「くっ・・・
-ここまで来て!<LOCK=45>
+//<LABEL=SABATA></LABEL>そうだろう、<NAME>?」
+<LABEL=SABATA></LABEL>
+Isn't that right,
+<NAME>?"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=PLAYER><NAME></LABEL>
+//「あと少し・・・!!」<LOCK=30>
+<LABEL=PLAYER><NAME></LABEL>:
+"Just a little more...!!"<LOCK=30>
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=PLAYER><NAME></LABEL>
+//「くっ・・・
+//ここまで来て!<LOCK=45>
+<LABEL=PLAYER><NAME></LABEL>:
+"Khh...
+I came this far!<LOCK=45>
  =========
 <PROC=0>
 <END>
