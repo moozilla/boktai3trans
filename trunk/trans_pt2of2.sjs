@@ -2772,9 +2772,9 @@ four elements
  =========
 //父と母に守られ、ぬくぬくと育
 //ったおまえなどに・・・
-and of the Sun! And to such
-a sniveling mama's boy as 
-you!
+and of the Sun! To lose to
+such a sniveling mama's boy
+as you!
  =========
 //負けるのか?
 Am I done for? 
@@ -2978,15 +2978,18 @@ twice!!"<LOCK=45>
 <LABEL=SABATA>Sabata</LABEL>:
 "Your spirit...<LOCK=30>
  =========
-暗黒をも受け入れ・・・
-未来をあきらめないその心が、<LOCK=60>
+//暗黒をも受け入れ・・・
+//未来をあきらめないその心が、<LOCK=60>
+Ankoku wo mo uke ire... mirai wo akiramenai sono kokoro ga,<LOCK=60>
  =========
-破壊(はかい)の獣(けもの)その
-ものと成ったはずのこのおれを
-ふたたびこの地によびもどした<LOCK=105>
+//破壊(はかい)の獣(けもの)その
+//ものと成ったはずのこのおれを
+//ふたたびこの地によびもどした<LOCK=105>
+Hakai no Kemono to natta hazu no kono ore wo futatabi kono chi ni yobimodoshita<LOCK=105>
  =========
-おれにもまだ、やるべきことが
-あったようだ<LOCK=60>」
+//おれにもまだ、やるべきことが
+//あったようだ<LOCK=60>」
+Ore ni mo mada, yaru beki koto ga atta you da<LOCK=60>"
  =========
 <PROC=0>
 <END>
@@ -3012,25 +3015,36 @@ Solar Boy <NAME>!!"
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>???</LABEL>
-「気がついたか、<NAME>?
+//<LABEL=OTENKO>???</LABEL>
+//「気がついたか、<NAME>?
+<LABEL=OTENKO>???</LABEL>:
+"Are you awake, <NAME>?
+// Lit: Have you regained consciousness?
  =========
-ふう・・・
+//ふう・・・
+Fuu...
  =========
-今回ばかりはヴァンパイアの血
-に助けられたようだな
+//今回ばかりはヴァンパイアの血
+//に助けられたようだな
+This time you were only
+saved by the vampire blood
  =========
-こんなことになろうとは・・・
-」
+//こんなことになろうとは・・・
+//」
+Konna koto ni narou to wa..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>???</LABEL>
-「なにっ、覚えていない?
+//<LABEL=OTENKO>???</LABEL>
+//「なにっ、覚えていない?
+<LABEL=OTENKO>???</LABEL>:
+"What, you don't remember?
  =========
 軽い記憶喪失(きおくそうしつ)
 のようだな・・・
+You must have light memory
+loss...
  =========
 だがまさか・・・
  =========
@@ -3038,10 +3052,13 @@ Solar Boy <NAME>!!"
 ってきた、わたしのことまでわ
 すれてはいないだろうな?
  =========
-わたしは太陽の使者、
-おてんこだ
+//わたしは太陽の使者、
+//おてんこだ
+I'm the messenger of the
+Sun, Otenko
  =========
-とにかく・・・
+//とにかく・・・
+Anyhow...
  =========
 まずはこの地下牢獄(ちかろう
 ごく)から脱出(だっしゅつ)す
@@ -5288,7 +5305,7 @@ You run away too!!"
 //「クックックッ・・・
 //いい覚悟(かくご)だ
 <LABEL=HAKUSYAKU>Count</LABEL>:
-「Hahaha... admirable
+"Hahaha... admirable
 resolve.
  =========
 //それでこそわが好敵手(ライバ
@@ -5321,8 +5338,9 @@ waiting...
  =========
 //死の舞踏(ぶとう)の再演(さい
 //えん)といこうではないか!!」
-an encore for the dance of
-death!!"
+an encore for the Dance of
+Death!!"
+// ***Musical of Blood?
 
  =========
 <PROC=0>
