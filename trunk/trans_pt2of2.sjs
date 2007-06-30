@@ -5943,63 +5943,232 @@ Pull back temporarily!"
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「今のは・・・」
+//<LABEL=PLAYER><NAME></LABEL>
+//「今のは・・・」
+<LABEL=PLAYER><NAME></LABEL>:
+***"Ima no wa..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「カーミラ!!」
+//<LABEL=PLAYER><NAME></LABEL>
+//「カーミラ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Carmilla!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>幻影の少女</LABEL>
-「カーミラ?
+//<LABEL=KARMIRA>幻影の少女</LABEL>
+//「カーミラ?
+<LABEL=KARMIRA>Phantom Girl</LABEL>:
+"Carmilla?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>なつかしいひびき・・・
+//<LABEL=KARMIRA></LABEL>なつかしいひびき・・・
+<LABEL=KARMIRA></LABEL>What a nostalgic sound...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>そう、
-かつてその名でわたしをよんで
-くれた、大切な人がいた・・・
+//<LABEL=KARMIRA></LABEL>そう、
+//かつてその名でわたしをよんで
+//くれた、大切な人がいた・・・
+<LABEL=KARMIRA></LABEL>Yes, that voice once called
+me; there was someone
+precious to me...
  =========
-でもそれがだれだったのか、
-今のわたしには思い出せない
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>今はもう聞こえない、大切な声
-・・・
- =========
-・・・
+//でもそれがだれだったのか、
+//今のわたしには思い出せない
+But who that was, my current
+self cannot remember.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>いいえ、聞こえる!
+//<LABEL=KARMIRA></LABEL>今はもう聞こえない、大切な声
+//・・・
+<LABEL=KARMIRA></LABEL>I can no longer hear that
+precious voice...
  =========
-かすかだけれど・・・
-わたしには聞こえる
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>わたしをよぶ、その声が!!」
+//・・・
+...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-「お願いです!
-もうおやめください!!
+//<LABEL=KARMIRA></LABEL>いいえ、聞こえる!
+<LABEL=KARMIRA></LABEL>No, I hear it!
+ =========
+//かすかだけれど・・・
+//わたしには聞こえる
+It's faint, but...
+I hear it!
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA></LABEL>わたしをよぶ、その声が!!」
+<LABEL=KARMIRA></LABEL>That voice, it's calling
+me!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//「お願いです!
+//もうおやめください!!
+<LABEL=KARMIRA>Carmilla</LABEL>:
+"I beg of you! Please stop!!
+ =========
+//こんなことはいずれ闇の女王(
+//クイーン)に知れてしまいます
+//・・・
+***Konna koto wa izure Queen ni shirete shimaimasu...
+ =========
+//おそろしき銀河意思(ダーク)に
+//も・・・」
+***Osoroshiki Dark ni mo..."
+ =========
+//<LABEL=SABATA>サバタ</LABEL>
+//「すまない、カーミラ
+<LABEL=SABATA>Sabata</LABEL>:
+"I'm sorry, Carmilla.
+ =========
+//月下美人を救うには・・・
+To save the Moon Beauty...
+ =========
+//闇の女王(クイーン)に対抗(た
+//いこう)するには、こうするし
+//かない
+To oppose the Queen... we
+have no choice.
+ =========
+//おまえの命・・・
+//おれにあずけてくれ」
+Your life...
+entrust it to me."
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//「わたしは闇の一族(イモータ
+//ル)・・・
+<LABEL=KARMIRA>Carmilla</LABEL>:
+"I am an Immortal...
+ =========
+//命などはじめから・・・」
+I never had such a thing..."
+ =========
+//<LABEL=SABATA>サバタ</LABEL>
+//「おれが知らないとでも?
+<LABEL=SABATA>Sabata</LABEL>:
+"I don't know about that.
+ =========
+今のおれには、おまえを人にも
+どすことはかなわない・・・
+It's beyond my current power
+to turn you back into a
+human...
+ =========
+//だがすべてが終わったら、
+But when everything is over,
+ =========
+//そのときおれのいつわりの命が
+//まだ残っていたら・・・
+If I still have this false
+life...
+ =========
+//おれのすべてを、おまえにささ
+//げよう・・・」
+I'll devote myself to you
+completely..."
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//<PROC=1><LOCK=20>「サバタさま・・・」
+<LABEL=KARMIRA>Carmilla</LABEL>:
+<PROC=1><LOCK=20>"Sabata..."
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=PLAYER><NAME></LABEL>
+//「カーミラ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Carmilla!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA>幻影の少女</LABEL>
+//「カーミラ?
+<LABEL=KARMIRA>Phantom Girl</LABEL>:
+"Carmilla?
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA></LABEL>なつかしいひびき・・・
+<LABEL=KARMIRA></LABEL>What a nostalgic sound...
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA></LABEL>そう、
+//かつてその名でわたしをよんで
+//くれた、大切な人がいた・・・
+<LABEL=KARMIRA></LABEL>Yes, that voice once called
+me; there was someone
+precious to me...
+ =========
+//でもそれがだれだったのか、
+//今のわたしには思い出せない
+But who that was, my current
+self cannot remember.
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA></LABEL>今はもう聞こえない、大切な声
+//・・・
+<LABEL=KARMIRA></LABEL>I can no longer hear that
+precious voice...
+ =========
+//・・・
+...
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA></LABEL>いいえ、聞こえる!
+<LABEL=KARMIRA></LABEL>No, I hear it!
+ =========
+//かすかだけれど・・・
+//わたしには聞こえる
+It's faint, but...
+I hear it!
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA></LABEL>わたしをよぶ、その声が!!」
+<LABEL=KARMIRA></LABEL>That voice, it's calling
+me!!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//「お願いです!
+//もうおやめください!!
+<LABEL=KARMIRA>Carmilla</LABEL>:
+"I beg of you! Please stop!!
  =========
 こんなことはいずれ闇の女王(
 クイーン)に知れてしまいます
@@ -6046,212 +6215,162 @@ Pull back temporarily!"
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-<PROC=1><LOCK=20>「サバタさま・・・」
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//<PROC=1><LOCK=20>「サバタさま・・・」
+<LABEL=KARMIRA>Carmilla</LABEL>:
+<PROC=1><LOCK=20>"Sabata..."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=PLAYER><NAME></LABEL>
-「カーミラ!!」
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//「やはり来たのね、
+//<NAME>・・・
+<LABEL=KARMIRA>Carmilla</LABEL>:
+"So you came after all,
+<NAME>...
+ =========
+//わたしは今ようやく思い出した
+I finally remember now.
+ =========
+//わたしはあの人の魂(たましい)
+//その欠片(かけら)・・・
+I am a fragment of that
+boy's soul...
+ =========
+//切りはなされたわたしの魂(た
+//ましい)は、記憶(きおく)を失
+//いさまよった・・・
+A piece of his soul broke
+off, wandering around
+without any memories...
+ =========
+//帰るべきところを求めて・・・
+I'm seeking a way to
+return...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>幻影の少女</LABEL>
-「カーミラ?
+//<LABEL=KARMIRA></LABEL>あの人の魂(たましい)は、すで
+//に破壊(はかい)の獣(けもの)と
+//共にある
+<LABEL=KARMIRA></LABEL>That boy's soul is already
+fused with the Beast of
+Destruction.
+ =========
+//今のわたしには何もできない。
+//あの人に近づくことさえ・・・
+There's nothing I can do
+now. I can't even get near
+him...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>なつかしいひびき・・・
+//<LABEL=KARMIRA></LABEL>太陽少年<NAME>。
+//あなたは何をしに来たの?
+<LABEL=KARMIRA></LABEL>Solar Boy <NAME>.
+What did you come here to
+do?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>そう、
-かつてその名でわたしをよんで
-くれた、大切な人がいた・・・
- =========
-でもそれがだれだったのか、
-今のわたしには思い出せない
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>今はもう聞こえない、大切な声
-・・・
- =========
-・・・
+//<LABEL=KARMIRA></LABEL>この世界を救うために・・・
+//あの人と戦うの?」
+// <ALTER>たおす</ALTER>  <ALTER>助ける</ALTER>
+<LABEL=KARMIRA></LABEL>To save this world... would
+you fight that boy?"
+ <ALTER>Defeat him</ALTER>  <ALTER>Save him</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>いいえ、聞こえる!
- =========
-かすかだけれど・・・
-わたしには聞こえる
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>わたしをよぶ、その声が!!」
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//「やはり変えられないの?
+<LABEL=KARMIRA>Carmilla</LABEL>:
+"So you won't change your
+mind?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-「お願いです!
-もうおやめください!!
+//<LABEL=KARMIRA></LABEL>それがあなたたちの運命(さだ
+//め)だというの?
+<LABEL=KARMIRA></LABEL>Is that really your fate?
  =========
-こんなことはいずれ闇の女王(
-クイーン)に知れてしまいます
-・・・
+//銀河意思(ダーク)によって仕組
+//まれた、世界崩壊(せかいほう
+//かい)へのシナリオ
+Dark's manipulations will
+bring about an end of the
+world scenario?
  =========
-おそろしき銀河意思(ダーク)に
-も・・・」
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「すまない、カーミラ
- =========
-月下美人を救うには・・・
- =========
-闇の女王(クイーン)に対抗(た
-いこう)するには、こうするし
-かない
- =========
-おまえの命・・・
-おれにあずけてくれ」
+//それを書きかえることなど、で
+//きないのかもしれない・・・
+Perhaps fate can't be
+rewritten...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-「わたしは闇の一族(イモータ
-ル)・・・
+//<LABEL=KARMIRA></LABEL>でも、それでも・・・
+<LABEL=KARMIRA></LABEL>But, still...
  =========
-命などはじめから・・・」
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「おれが知らないとでも?
- =========
-今のおれには、おまえを人にも
-どすことはかなわない・・・
- =========
-だがすべてが終わったら、
- =========
-そのときおれのいつわりの命が
-まだ残っていたら・・・
- =========
-おれのすべてを、おまえにささ
-げよう・・・」
+//わたしはあの人を・・・
+//サバタさまを、信じる!」
+That boy, Sabata... I will
+believe in him!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-<PROC=1><LOCK=20>「サバタさま・・・」
+//<LABEL=KARMIRA>カーミラ</LABEL>
+//「ありがとう、<NAME>
+<LABEL=KARMIRA>Carmilla</LABEL>:
+"Thank you, <NAME>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-「やはり来たのね、
-<NAME>・・・
+//<LABEL=KARMIRA></LABEL>でもあなたの選んだ道は、いば
+//らの道・・・
+<LABEL=KARMIRA></LABEL>But your chosen road is a
+thorny one...
  =========
-わたしは今ようやく思い出した
+//あなたとの戦いを望むあの人の
+//心は、
+The spirit of that boy who
+desires to fight with you,
  =========
-わたしはあの人の魂(たましい)
-その欠片(かけら)・・・
+//ヴァナルガンドの破壊(はかい)
+//の衝動(しょうどう)と共鳴して
+//いる
+is resonating with
+Vanargand's destructive
+urges.
  =========
-切りはなされたわたしの魂(た
-ましい)は、記憶(きおく)を失
-いさまよった・・・
+//あの人の心、そのすべてが狂気
+//(きょうき)にそまったとき、
+When his heart is dyed
+through with that madness,
  =========
-帰るべきところを求めて・・・
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>あの人の魂(たましい)は、すで
-に破壊(はかい)の獣(けもの)と
-共にある
- =========
-今のわたしには何もできない。
-あの人に近づくことさえ・・・
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>太陽少年<NAME>。
-あなたは何をしに来たの?
+//あの人は破壊(はかい)の獣(け
+//もの)そのものと成る・・・
+He will become one with
+the Beast of Destruction...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=KARMIRA></LABEL>この世界を救うために・・・
-あの人と戦うの?」
- <ALTER>たおす</ALTER>  <ALTER>助ける</ALTER>
+//<LABEL=KARMIRA></LABEL>そうなる前に、
+<LABEL=KARMIRA></LABEL>Before that happens,
  =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-「やはり変えられないの?
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>それがあなたたちの運命(さだ
-め)だというの?
- =========
-銀河意思(ダーク)によって仕組
-まれた、世界崩壊(せかいほう
-かい)へのシナリオ
- =========
-それを書きかえることなど、で
-きないのかもしれない・・・
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>でも、それでも・・・
- =========
-わたしはあの人を・・・
-サバタさまを、信じる!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA>カーミラ</LABEL>
-「ありがとう、<NAME>
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>でもあなたの選んだ道は、いば
-らの道・・・
- =========
-あなたとの戦いを望むあの人の
-心は、
- =========
-ヴァナルガンドの破壊(はかい)
-の衝動(しょうどう)と共鳴して
-いる
- =========
-あの人の心、そのすべてが狂気
-(きょうき)にそまったとき、
- =========
-あの人は破壊(はかい)の獣(け
-もの)そのものと成る・・・
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=KARMIRA></LABEL>そうなる前に、
- =========
-あの人を・・・
-サバタさまを、止めて!」
+//あの人を・・・
+//サバタさまを、止めて!」
+that boy... Sabata...
+stop him!"
  =========
 <PROC=0>
 <END>
