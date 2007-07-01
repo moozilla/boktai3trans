@@ -5700,69 +5700,93 @@ possibly have awakened!
 //いや・・・<NAME>?
 //それにおてんこか!
 Oh... <NAME>?
-And Otekno!
+And Otenko!
  =========
-古(いにしえ)の大樹(たいじゅ)
-より、新たな力をあたえられた
-とでもいうのか・・・
-1234567890123456789012345678
+//古(いにしえ)の大樹(たいじゅ)
+//より、新たな力をあたえられた
+//とでもいうのか・・・
+So you say you got a new
+power from the Ancient
+Tree...
  =========
-クッカッカッカッカッ!!＋
+//クッカッカッカッカッ!!＋
+Ku ka ka ka ka!!＋
  =========
 //おもしろい・・・
 Interesting...
  =========
-その力とやらがどれほどのもの
-なのか、
+//その力とやらがどれほどのもの
+//なのか、
+I shall test just how far
  =========
-わたしが試してやろう!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「なにっ!?
- =========
-わが暗雲が・・・
- =========
-わが大いなる力がおさえられて
-いる!!
- =========
-まさか古(いにしえ)の大樹(た
-いじゅ)が目覚めたのか!
+//わたしが試してやろう!!」
+That power will go!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU></LABEL>・・・むっ!?」
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「なにっ!?
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"What!?
+ =========
+//わが暗雲が・・・
+My dark clouds...
+ =========
+//わが大いなる力がおさえられて
+//いる!!
+My great power is being
+suppressed!!
+ =========
+//まさか古(いにしえ)の大樹(た
+//いじゅ)が目覚めたのか!
+The Ancient Tree can't
+possibly have awakened!
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「何者だ、おまえは!?
- =========
-いや・・・<NAME>?
-それにおてんこか!
- =========
-古(いにしえ)の大樹(たいじゅ)
-より、新たな力をあたえられた
-とでもいうのか・・・
+//<LABEL=HAKUSYAKU></LABEL>・・・むっ!?」
+<LABEL=HAKUSYAKU></LABEL>...mh!?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU></LABEL>クッカッカッカッカッ!!
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「何者だ、おまえは!?
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Who goes there!?
+ =========
+//いや・・・<NAME>?
+//それにおてんこか!
+Oh... <NAME>?
+And Otenko!
+ =========
+//古(いにしえ)の大樹(たいじゅ)
+//より、新たな力をあたえられた
+//とでもいうのか・・・
+So you say you got a new
+power from the Ancient
+Tree...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU></LABEL>おもしろい・・・
+//<LABEL=HAKUSYAKU></LABEL>クッカッカッカッカッ!!
+<LABEL=HAKUSYAKU></LABEL>Ku ka ka ka ka!!
  =========
-その力とやらがどれほどのもの
-なのか、
+<PROC=0>
+<END>
  =========
-わたしが試してやろう!!」
+//<LABEL=HAKUSYAKU></LABEL>おもしろい・・・
+<LABEL=HAKUSYAKU></LABEL>Interesting...
+ =========
+//その力とやらがどれほどのもの
+//なのか、
+I shall test just how far
+ =========
+//わたしが試してやろう!!」
+That power will go!!"
  =========
 <PROC=0>
 <END>
@@ -5774,15 +5798,22 @@ Interesting...
 "This is... has the Solar
 Boy's true power awakened?
  =========
-<PROC=1><LOCK=20>クックックッ・・・
+//<PROC=1><LOCK=20>クックックッ・・・
+<PROC=1><LOCK=20>Ku ku ku...
  =========
-この力があればあるいは、ヴァ
-ナルガンドの複活(ふっかつ)を
-阻止(そし)できるやもしれん
+//この力があればあるいは、ヴァ
+//ナルガンドの複活(ふっかつ)を
+//阻止(そし)できるやもしれん
+With this power it might be
+possible to break
+Vanargand's seal.
  =========
-あの男、人形使いの野望は、今
-は亡(な)きわが女王(クイーン)
-の意思とはちがう・・・
+//あの男、人形使いの野望は、今
+//は亡(な)きわが女王(クイーン)
+//の意思とはちがう・・・
+That man, that puppet-using
+***traitor, has different goals
+than my late queen...
  =========
 いいだろう、<NAME>
  =========
