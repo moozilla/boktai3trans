@@ -5558,104 +5558,159 @@ reaches its limit,
 it will become possible to
 enter Trance mode.
  =========
-トランスを行うにはクイックチ
-ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
-ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
+//トランスを行うにはクイックチ
+//ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
+//ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
+Enter Trance by selecting
+Quick Change (Hold <WEIGHT>SELECT</WEIGHT>
+and press the <WEIGHT>L Button</WEIGHT>).
  =========
-スペシャルアクションにトラン
-スを選んだ状態(じょうたい)で
-<WEIGHT>Ｌボタン</WEIGHT>を押すのです
+//スペシャルアクションにトラン
+//スを選んだ状態(じょうたい)で
+//<WEIGHT>Ｌボタン</WEIGHT>を押すのです
+Enter Trance during Special
+Action by pressing the <WEIGHT>L
+Button</WEIGHT>.
  =========
-太陽の化身・・・
-すなわちソル<NAME>にトランスした状態では、
+//太陽の化身・・・
+//すなわちソル<NAME>にトランスした状態では、
+When you transform into
+Sol <NAME>, the
+incarnation of the Sun,
  =========
-エナジーが自然回複(しぜんか
-いふく)し、
+//エナジーが自然回複(しぜんか
+//いふく)し、
+Your energy is instantly
+replenished.
  =========
-<WEIGHT>Ａボタン</WEIGHT>でソルプロミネンス(
-回転攻撃)、
+//<WEIGHT>Ａボタン</WEIGHT>でソルプロミネンス(
+//回転攻撃)、
+Press the <WEIGHT>A Button</WEIGHT> for Sol
+Prominence (spin attack),
  =========
-<WEIGHT>Ｂボタン</WEIGHT>でソルフレア(体当た
-り攻撃)を行うことができます
+//<WEIGHT>Ｂボタン</WEIGHT>でソルフレア(体当た
+//り攻撃)を行うことができます
+or the <WEIGHT>B Button</WEIGHT> for Sol
+Flare (physical attack).
  =========
-ソルフレア(体当たり攻撃)では
+//ソルフレア(体当たり攻撃)では
+If Sol Flare connects,
  =========
-攻撃(こうげき)が当たった瞬間
-(しゅんかん)にタイミング良く
-<WEIGHT>Ｂボタン</WEIGHT>を押(お)すことで、
+//攻撃(こうげき)が当たった瞬間
+//(しゅんかん)にタイミング良く
+//<WEIGHT>Ｂボタン</WEIGHT>を押(お)すことで、
+Keep pressing the B Button
+with the right timing
  =========
-連続して攻撃(こうげき)するこ
-ともできます
+//連続して攻撃(こうげき)するこ
+//ともできます
+to perform consecutive
+attacks.
  =========
-しかし注意してください
+//しかし注意してください
+But take heed--
  =========
-トランス中は太陽銃(ガン・デ
-ル・ソル)やソードを使うこと
-はできません
+//トランス中は太陽銃(ガン・デ
+//ル・ソル)やソードを使うこと
+//はできません
+You cannot use the Gun Del
+Sol or your sword while in
+Trance mode.
  =========
-トランス発動後、TRC(トランス
-ゲージ)は時間と共に減少(げん
-しょう)し、
+//トランス発動後、TRC(トランス
+//ゲージ)は時間と共に減少(げん
+//しょう)し、
+After activating Trance, the
+TRC Gauge lowers with time,
  =========
-ゲージがゼロになったとき、ト
-ランスは終了(しゅうりょう)し
-ます」
- =========
-<PROC=0>
-<END>
- =========
-古の大樹
-「あのヴァンパイアが作り出す
-暗雲はわたしがおさえましょう
- =========
-あなたたちはその力を使い、こ
-の世界を、太陽を守るのです
- =========
-ですがわすれてはいけません
- =========
-光が強ければ強いほど、その光
-が生み出す影(かげ)もまた強く
-なるのだということを・・・」
- =========
-<PROC=0>
-<END>
- =========
-スペシャルアクション
-「トランス・ソル」
-を覚えた!!
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「なにっ!?＋
- =========
-わが暗雲が・・・
- =========
-わが大いなる力がおさえられて
-いる!!
- =========
-まさか古(いにしえ)の大樹(た
-いじゅ)が目覚めたのか!
- =========
-・・・むっ!?」＋＋
+//ゲージがゼロになったとき、ト
+//ランスは終了(しゅうりょう)し
+//ます」
+and when it reaches zero,
+the Trance will end."
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「何者だ、おまえは!?
+//古の大樹
+//「あのヴァンパイアが作り出す
+//暗雲はわたしがおさえましょう
+Ancient Tree:
+"I will suppress the dark
+clouds produced by that
+vampire.
  =========
-いや・・・<NAME>?
-それにおてんこか!
+//あなたたちはその力を使い、こ
+//の世界を、太陽を守るのです
+You two use that power, to
+protect the Sun. 
+ =========
+//ですがわすれてはいけません
+But do not forget--
+ =========
+//光が強ければ強いほど、その光
+//が生み出す影(かげ)もまた強く
+//なるのだということを・・・」
+When the light becomes
+stronger, so does the shadow
+it casts..."
+ =========
+<PROC=0>
+<END>
+ =========
+//スペシャルアクション
+//「トランス・ソル」
+//を覚えた!!
+Special Action
+"Sol Trance"
+learned!!
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「なにっ!?＋
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"What!?＋
+ =========
+//わが暗雲が・・・
+My dark clouds...
+ =========
+//わが大いなる力がおさえられて
+//いる!!
+My great power is being
+suppressed!!
+ =========
+//まさか古(いにしえ)の大樹(た
+//いじゅ)が目覚めたのか!
+The Ancient Tree can't
+possibly have awakened!
+ =========
+//・・・むっ!?」＋＋
+...mh!?"＋＋
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「何者だ、おまえは!?
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Who goes there!?
+ =========
+//いや・・・<NAME>?
+//それにおてんこか!
+Oh... <NAME>?
+And Otekno!
  =========
 古(いにしえ)の大樹(たいじゅ)
 より、新たな力をあたえられた
 とでもいうのか・・・
+1234567890123456789012345678
  =========
 クッカッカッカッカッ!!＋
  =========
-おもしろい・・・
+//おもしろい・・・
+Interesting...
  =========
 その力とやらがどれほどのもの
 なのか、
@@ -5712,9 +5767,12 @@ enter Trance mode.
 <PROC=0>
 <END>
  =========
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「これが・・・
-太陽少年の真なる力なのか?
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「これが・・・
+//太陽少年の真なる力なのか?
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"This is... has the Solar
+Boy's true power awakened?
  =========
 <PROC=1><LOCK=20>クックックッ・・・
  =========
