@@ -5204,7 +5204,8 @@ sunlight.
  =========
 //われわれにはわれわれの、進む
 //べき道ある
-*** Wareware ni wa wareware no, susumu beki michi aru
+Each of us has our own path
+we have to follow.
  =========
 //戦いはまだ、終わっていない
 //・・・」
@@ -5377,7 +5378,7 @@ body can't take this amount!
 //<NAME>!!
 //ここはいったん引くんだ!」
 <NAME>!!
-Pull back temporarily!"
+Pull back for now!"
  =========
 <PROC=0>
 <END>
@@ -5392,110 +5393,170 @@ Pull back temporarily!"
  =========
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「<NAME>!!」
-<LABEL=OTENKO>Master Otenko</LABEL>
+<LABEL=OTENKO>Master Otenko</LABEL>:
 "<NAME>!!"
  =========
-<LABEL=TRINITY>トリニティ</LABEL>
-(伝説によれば・・・
+//<LABEL=TRINITY>トリニティ</LABEL>
+//(伝説によれば・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+(According to legend...
  =========
-戦土は破壊(はかい)の獣(けも
-の)と戦うことなく死んだとい
-う
+//戦土は破壊(はかい)の獣(けも
+//の)と戦うことなく死んだとい
+//う
+The Warrior fought against
+the Beast of Destruction and
+died uneventfully...
  =========
-仲間のうらぎりによって・・・
+//仲間のうらぎりによって・・・
+Because his friend betrayed
+him...
  =========
-まさか・・・オイラのせいで?
+//まさか・・・オイラのせいで?
+No way... it was my fault?
  =========
-そんなはず・・・ねぇよな?
+//そんなはず・・・ねぇよな?
+That ain't possible...
+is it?
  =========
-オイラはテメェの仲間なんかじ
-ゃあねぇ!
+//オイラはテメェの仲間なんかじ
+//ゃあねぇ!
+But I ain't his friend!
  =========
-そうだろ、<NAME>・・・)
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=TRINITY>トリニティ</LABEL>
-「テメェ!!
-弟子の分際(ぶんざい)で・・・
- =========
-勝手に死ぬんじゃねぇ!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「これはいったい・・・」
+//そうだろ、<NAME>・・・)
+Right, <NAME>...)
  =========
 <PROC=0>
 <END>
  =========
-???
-「<NAME>・・・
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「テメェ!!
+//弟子の分際(ぶんざい)で・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"That jerk!!
+Only an apprentice...
  =========
-目覚めなさい、
-太陽少年<NAME>
- =========
-わたしは古(いにしえ)の大樹(
-たいじゅ)、あなたたちがそう
-よぶもの・・・
- =========
-永(なが)きを生き、老いさらば
-えたわたしには、
- =========
-もはや世界を浄化(じょうか)す
-る力はありません
- =========
-しかし少年よ、
-そして太陽の精霊(せいれい)よ
- =========
-あなたたちは、わが力をうばう
-闇の一族(イモータル)をたおし
- =========
-わたしに今一度の生を取りもど
-してくれました
- =========
-それだけではありません
- =========
-死の都イストラカン、そして太
-陽の街サン・ミゲル・・・
- =========
-あなたたちが助けてきたわが息
-子、わが娘(むすめ)
- =========
-その命の鼓動(こどう)が、わた
-しには聞こえます
- =========
-ありがとう、太陽の戦土たちよ
- =========
-今こそ・・・
-わが大いなる力をあなたたちに
-たくしましょう!」
+//勝手に死ぬんじゃねぇ!」
+Don't die so selfishly!"
  =========
 <PROC=0>
 <END>
  =========
-古の大樹
-「お聞きなさい、<NAME>。
-そして、おてんこよ
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「これはいったい・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"What's that?"
  =========
-戦いの中、あなたたちの心が高
-ぶると、
+<PROC=0>
+<END>
  =========
-画面左上にあるTRC(トランスゲ
-ージ)が増加(ぞうか)します
+//???
+//「<NAME>・・・
+???:
+"<NAME>...
  =========
-心の高ぶり、すなわちTRC(トラ
-ンスゲージ)が頂点(ちょうてん
-)に達したとき、
+//目覚めなさい、
+//太陽少年<NAME>
+"Awaken,
+Solar Boy <NAME>.
  =========
-あなたたちは自身の限界(げん
-かい)をこえた存在(そんざい)
-へと、
+//わたしは古(いにしえ)の大樹(
+//たいじゅ)、あなたたちがそう
+//よぶもの・・・
+I am the Ancient Tree, the
+one who called you...
  =========
-トランス(合身)することが可能
-(かのう)となります
+//永(なが)きを生き、老いさらば
+//えたわたしには、
+Long have I lived, and I am
+now grown old.
+ =========
+//もはや世界を浄化(じょうか)す
+//る力はありません
+I no longer have the power
+to purify the world.
+ =========
+//しかし少年よ、
+//そして太陽の精霊(せいれい)よ
+However, boy--and spirit of
+the sun--
+ =========
+//あなたたちは、わが力をうばう
+//闇の一族(イモータル)をたおし
+defeat the Immortals, who
+have stolen my power,
+ =========
+//わたしに今一度の生を取りもど
+//してくれました
+and I shall once again
+return the world to purity.
+ =========
+//それだけではありません
+One more thing...
+ =========
+//死の都イストラカン、そして太
+//陽の街サン・ミゲル・・・
+The City of Death, Istrakan,
+and the City of the Sun,
+San Miguel...
+ =========
+//あなたたちが助けてきたわが息
+//子、わが娘(むすめ)
+You rescued my children
+there.
+ =========
+//その命の鼓動(こどう)が、わた
+//しには聞こえます
+The pulsing of their
+lives... I hear it.
+ =========
+//ありがとう、太陽の戦土たちよ
+Thank you, Warriors of
+Light.
+ =========
+//今こそ・・・
+//わが大いなる力をあなたたちに
+//たくしましょう!」
+Now then! I entrust you with
+my great power!"
+ =========
+<PROC=0>
+<END>
+ =========
+//古の大樹
+//「お聞きなさい、<NAME>。
+//そして、おてんこよ
+Ancient Tree:
+"Listen well, <NAME>.
+You too, Otenko.
+ =========
+//戦いの中、あなたたちの心が高
+//ぶると、
+As your fighting spirit builds
+during battle,
+ =========
+//画面左上にあるTRC(トランスゲ
+//ージ)が増加(ぞうか)します
+The TRC gauge in the upper
+left corner of the screen
+will increase.
+ =========
+//心の高ぶり、すなわちTRC(トラ
+//ンスゲージ)が頂点(ちょうてん
+//)に達したとき、
+Once the TRC Gauge reaches
+is full, 
+ =========
+//あなたたちは自身の限界(げん
+//かい)をこえた存在(そんざい)
+//へと、
+And your fighting spirit
+reaches its limit,
+ =========
+//トランス(合身)することが可能
+//(かのう)となります
+it will become possible to
+enter Trance mode.
  =========
 トランスを行うにはクイックチ
 ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
@@ -6375,147 +6436,227 @@ stop him!"
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ついに見つけたぞ、
-暗黒少年サバタ!!」
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ついに見つけたぞ、
+//暗黒少年サバタ!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"We've finally found you,
+Dark Boy Sabata!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「太陽の使者、おてんこ。
-そして太陽少年<NAME>
+//<LABEL=SABATA>サバタ</LABEL>
+//「太陽の使者、おてんこ。
+//そして太陽少年<NAME>
+<LABEL=SABATA>Sabata</LABEL>:
+"Messenger of the Sun,
+Otenko. And Solar Boy
+<NAME> as well.
  =========
-伯爵(はくしゃく)とフレスベル
-グをたおしたのは、やはりおま
-えたちか
+//伯爵(はくしゃく)とフレスベル
+//グをたおしたのは、やはりおま
+//えたちか
+If anyone could defeat the
+Count and Hresvelgr, it had
+to be you two.
  =========
-あの闇の封印(ふういん)をやぶ
-るとはな
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA></LABEL><PROC=1><LOCK=6>だがそれでいい・・・
- =========
-おれはこの時をこそ、待ち望ん
-でいた」
- =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「なぜだ、サバタ?
- =========
-なぜふたたび闇の一族(イモー
-タル)に加担(かたん)する?」
- =========
-<LABEL=SABATA>サバタ</LABEL>
-「なぜ?
+//あの闇の封印(ふういん)をやぶ
+//るとはな
+So you destroyed that dark
+seal.
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA></LABEL><PROC=1><LOCK=40>フッハッハッハッハッ!!
+//<LABEL=SABATA></LABEL><PROC=1><LOCK=6>だがそれでいい・・・
+<LABEL=SABATA></LABEL><PROC=1><LOCK=6>But that's quite enough...
+ =========
+//おれはこの時をこそ、待ち望ん
+//でいた」
+I've been waiting for this
+moment."
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「なぜだ、サバタ?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Why, Sabata?
+ =========
+//なぜふたたび闇の一族(イモー
+//タル)に加担(かたん)する?」
+Why have you joined the
+Immortals again?"
+ =========
+//<LABEL=SABATA>サバタ</LABEL>
+//「なぜ?
+<LABEL=SABATA>Sabata</LABEL>:
+"Why?
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA></LABEL>知らないわけではあるまい?
+//<LABEL=SABATA></LABEL><PROC=1><LOCK=40>フッハッハッハッハッ!!
+<LABEL=SABATA></LABEL><PROC=1><LOCK=40>Hwa ha ha ha ha!!
  =========
-おれはヴァナルガンドを受けつ
-ぐ者
+<PROC=0>
+<END>
  =========
-ヴァナルガンドが複活(ふっか
-つ)すれば、破壊の獣(けもの)
-そのものと成る」
+//<LABEL=SABATA></LABEL>知らないわけではあるまい?
+<LABEL=SABATA></LABEL>You don't know my reason?
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「バカな!?
+//おれはヴァナルガンドを受けつ
+//ぐ者
+I am Vanargand's successor. 
  =========
-自分をすて、そんな力を手に入
-れてどうする?
+//ヴァナルガンドが複活(ふっか
+//つ)すれば、破壊の獣(けもの)
+//そのものと成る」
+If I revive Vanargand, I'll
+become the Beast of
+Destruction."
+ =========
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「バカな!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Are you stupid!?
+ =========
+//自分をすて、そんな力を手に入
+//れてどうする?
+If you abandon yourself,
+just what will you do with
+that kind of power?
  =========
 世界を破壊(はかい)して、その
 後に何が残る?
+What's left after destroying
+the world?
  =========
-人も動物も植物もいない・・・
-そんな世界になんの意味がある
-というのだ?
+//人も動物も植物もいない・・・
+//そんな世界になんの意味がある
+//というのだ?
+No people, no plants or
+animals... what meaning is
+there in such a world?
  =========
-たとえそれが銀河宇宙(ぎんが
-うちゅう)の意思だとしても、
+//たとえそれが銀河宇宙(ぎんが
+//うちゅう)の意思だとしても、
+Even though that is the will
+of Dark,
  =========
-戦い続けることにこそ意味があ
-る!
+//戦い続けることにこそ意味があ
+//る!
+There is definitely meaning
+in continuing to fight!
  =========
-それこそが生きるということだ
-と、そう言ったのはおまえのは
-ずだ!!」
+//それこそが生きるということだ
+//と、そう言ったのはおまえのは
+//ずだ!!」
+That's what it means to
+live, you said so
+yourself!!"
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「そう・・・
-戦うことにこそ意味がある
+//<LABEL=SABATA>サバタ</LABEL>
+//「そう・・・
+//戦うことにこそ意味がある
+<LABEL=SABATA>Sabata</LABEL>:
+"Yes... there is definitely
+meaning in fighting.
  =========
-<NAME>、おれと戦え!!
+//<NAME>、おれと戦え!!
+<NAME>, fight me!!
  =========
-このおれを・・・世界の崩壊(
-ほうかい)を止めたければな!」
+//このおれを・・・世界の崩壊(
+//ほうかい)を止めたければな!」
+"Stop me from destroying
+the world!"
  =========
-<LABEL=OTENKO>おてんこさま</LABEL>
-「やはりダメか・・・
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「やはりダメか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"It's pointless after all...
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=OTENKO></LABEL><NAME>、今のサバタには
-何を言ってもムダだ
+//<LABEL=OTENKO></LABEL><NAME>、今のサバタには
+//何を言ってもムダだ
+<LABEL=OTENKO></LABEL><NAME>, we can't talk to
+Sabata in his current state.
  =========
-やつをたおし、その上で真実を
-たしかめるしかない!
+//やつをたおし、その上で真実を
+//たしかめるしかない!
+You'll have to defeat him to
+determine the truth!
  =========
-行くぞっ!!」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=6>「フッ・・・
-やるな、<NAME>!!
- =========
-だがこれはどうかな?」
+//行くぞっ!!」
+Go!!"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=40>「フッハッハッハッハッ!!
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=6>「フッ・・・
+//やるな、<NAME>!!
+<LABEL=SABATA>Sabata</LABEL>:
+<PROC=1><LOCK=6>"Hh...
+you did it, <NAME>!!
  =========
-さすがだな、<NAME>!!
-そうでなければおもしろくない
+//だがこれはどうかな?」
+But how about this?"
  =========
-ではそろそろ本気で行かせても
-らおう
+<PROC=0>
+<END>
  =========
-うなれっ、暗黒銃(ガン・デル
-・ヘル)!!
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=40>「フッハッハッハッハッ!!
+<LABEL=SABATA>Sabata</LABEL>:
+<PROC=1><LOCK=40>"Hwa ha ha ha ha!!
+ =========
+//さすがだな、<NAME>!!
+//そうでなければおもしろくない
+Well done, <NAME>!!
+I wouldn't have it any other
+way.
+ =========
+//ではそろそろ本気で行かせても
+//らおう
+Well then, time to get
+serious!
+ =========
+//うなれっ、暗黒銃(ガン・デル
+//・ヘル)!!
+Roar, Gun Del Hell!!
  =========
 人をほろぼす闇(やみ)の力よ!!
 」
+"The power of Darkness, to
+destroy humans!!
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=SABATA>サバタ</LABEL>
-「来たぁ!
-来た来た来た来た来たぁ!!
+//<LABEL=SABATA>サバタ</LABEL>
+//「来たぁ!
+//来た来た来た来た来たぁ!!
+<LABEL=SABATA>Sabata</LABEL>:
+"It's here!
+Itshereitshereitshere!!
  =========
-行くぞぉ!
-行くぞ行くぞ行くぞ行くぞ
-行くぞぉ、<NAME>!!
+//行くぞぉ!
+//行くぞ行くぞ行くぞ行くぞ
+//行くぞぉ、<NAME>!!
+Let's go!
+Letsgoletsgoletsgoletsgo!!
+Let's go, <NAME>!!
  =========
-太陽と暗黒、今ふたたび雌雄(
-しゆう)を決す!!
+//太陽と暗黒、今ふたたび雌雄(
+//しゆう)を決す!!抉す
+Solar and Dark, once again
+competing for dominance!!
  =========
-太陽よ、恐怖(きょうふ)しろ!!
-」
+//太陽よ、恐怖(きょうふ)しろ!!
+//」
+Despair, O Sun!!"
  =========
 <PROC=0>
 <END>
