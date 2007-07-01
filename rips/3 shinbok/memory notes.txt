@@ -1,0 +1,257 @@
+020031c1 Portrait
+00 Django
+01 Dark Django
+02 (friend connected)
+03 Otenko
+04 Sabata
+05 Sabata w/o helmet
+06 Smith
+07 Lita
+08 Zazie
+09 Sumire
+0A Kuro
+0B Kid
+0C Cheyenne
+0D Lady
+0E Coffin Shopkeeper
+0F Ennio
+10 Marcello
+11 ???
+12 Luis
+13 Count
+14 Hresvelgr
+15 Nidhoggr
+16 Ratatosk
+17 Carmilla
+18 Coach
+19 RockMan
+1A Trinity
+1B (question mark)
+1C Django w/ goggles
+1D (no friend connected)
+1E GariGari-kun
+
+0203c4a0 Inventory
+00 Kaifuku Kusuri
+01 Taiyou no Mi
+02 Kusatta Mi
+03 Hoshi Niku
+04 Oishii Niku
+05 Kusatta Niku
+06 Chocolate
+07 Deluxe Choco
+08 Toketa Choco
+09 Choco Mamire
+0A Garigari-kun Soda
+0B Garigari-kun Cola
+0C Mahou Kusuri
+0D Taiyou no Mi
+0E Warui Kinoko
+0F Dokukeshi
+10 Bannouyaku
+11 Taiyou no Shizuku
+12 Gaman no Mi
+13 Hayasa no Mi
+14 Chikara no Mi
+15 Choco Banana
+16 Shinobi no Mi
+17 Akai Kinoko
+18 Aoi Kinoko
+19 Senrigan no Mi
+1A Ten'i no Ha
+1B Teruterubouzu
+1C zuuboruterute
+1D Otenki Geta
+1E Hazure Stick
+1F Atari Stick
+20 Joukyouko no Card
+21 Jotei no Card
+22 Chikara no Card
+23 Unmei no Wa no Card
+24 Tsuki no Card
+25 Taiyou no Card
+26 Shinban no Card
+
+00 HEALER
+01 EARTHLY NUT
+02 ROTTEN NUT
+03 JERKY
+04 TASTY MEAT
+05 ROTTEN MEAT
+06 CHOCOLATE
+07 DELUXE CHOCOLATE
+08 MELTED CHOCOLATE
+09 CHOCOLATE-COVERED
+0A MAGICAL ICE POP
+0B MIRACLE ICE POP
+0C MAGICAL POTION
+0D SOLAR NUT
+0E BAD MUSHROOM
+0F ANTIDOTE
+10 ELIXIR
+11 DROP OF SUN
+12 BEARNUT
+13 SPEED NUT
+14 POWER NUT
+15 CHOCOLATE BANANA
+16 TIPTOE NUT
+17 REDSHROOM
+18 BLUESHROOM
+19 SEE-ALL NUT
+1A WARP LEAF
+1B MR. RAINNOT
+1C TONNIAR .RM
+1D SUNNY CLOG
+1E LOSER STICK
+1F WINNER STICK
+20 THE HIGH PRIESTESS
+21 THE EMPRESS
+22 STRENGTH
+23 WHEEL of FORTUNE
+24 THE MOON
+25 THE SUN
+26 JUDGEMENT
+
+0203c560 Accessories
+00 Circlet
+01 Cool Bandanna
+02 Nekketsu Hachimaki (Burning Headband)
+03 Taichi no Mamori (Solar Amulet)
+04 Shinobi no Akashi (Proof of Ninja)
+05 Arufaru no Tiara
+06 Guri-guri Megane (X-Ray Glasses)
+07 Ougon Kamen (Golden Mask)
+08 Iroaseta Boushi (Faded Hat)
+09 Ookami no Kiba (Wolf Fang)
+0A Colonel Helm
+0B Leather Armor
+0C Chain Mail
+0D Plate Mail
+0E Karyuu no Yoroi (Fire Dragon Armor)
+0F Suiryuu no Yoroi (Ice Dragon Armor)
+10 Fuuryuu no Yoroi (Wind Dragon Armor)
+11 Chiryuu no Yoroi (Earth Dragon Armor)
+12 Rain Coat
+13 Rune Armor
+14 Spike Mail
+15 Novice Mail
+16 White Armor
+17 Black Armor
+18 Furuboketa Coat (Worn-out Coat)
+19 Koumori no Hane (Bat Wing)
+1A Forte Mantle
+1B Power Wrist
+1C Bracelet
+1D Crest of Clubs
+1E Crest of Diamonds
+1F Buckler
+20 Rune Gauntlet
+21 White Gauntlet
+22 Black Gauntlet
+23 Asekusai Gloves (Sweaty Gloves)
+24 Shisha no Tsume (Undead Fingernail)
+25 Tomahawk Armor
+26 Testu Geta (Iron Clogs)
+27 Funny Shoes
+28 Power Ankle
+29 Tabibito no Kutsu (Traveler's Shoes)
+2A Sabaton
+2B Winged Boots
+2C Boukensha no Boots (Adventurer's Boots)
+2D Surikireta Boots (Worn-out Boots)
+2E Nezumi no Shippo (Rat Tail)
+2F Blues Leg
+
+0203C5C0 Swords
+00 Gladius
+01 Estoc
+02 Kopis
+03 Short Sword
+04 Zweihander
+05 Rapier
+06 Bronze Edge
+07 Kagerou
+08 Broadsword
+09 Iron Sword
+0A Epee
+0B Katzbalger
+0C Wild Rose
+0D Falcata
+0E Shiranui
+0F Iron Blade
+10 Flamberge
+11 Falchion
+12 Claymore
+13 Saber
+14 Silver Edge
+15 Shinzan
+16 Schiavona
+17 Steel Sword
+18 Palash
+19 Bastard Sword
+1A Bloody Rose
+1B Kora
+1C Sakurabana
+1D Nameless Sword
+1E Great Sword
+1F Ice Edge
+20 Air Blade
+21 King of Swords
+22 Prime Rose
+23 Damascus Edge
+24 Shuusui
+25 Gram
+26 Platina Blade
+27 Diamond Sword
+28 Blue Rose
+29 Thunder Edge
+2A Murasame
+2B Fire Blade
+2C Sword of Earth
+2D Sol Blade
+2E Immortal Sword
+2F La Vie en Rose
+30 RockBuster
+
+0203c8c0 Frames
+00 (empty)
+01 Fighter
+02 Calamity
+03 Wizard
+04 Bubbles
+05 Hooper
+06 Juggler
+07 Stalker
+08 Dragoon
+09 Samurai
+0A Bomber
+0B Tempest
+0C Beatmania
+
+0203cc28 Lenses
+00 Sol
+01 Luna
+02 Flame
+03 Frost
+04 Cloud
+05 Earth
+06 Star
+07 Astro
+
+0203cc38 Valuables
+27 Ankoku Card (Dark Card)
+28 Otenkosama
+29 License of Sword (Sword License)
+2A PET
+2B Vector Coffin
+2C Aka no Kagi (Red Key)
+2D Ki no Kagi (Yellow Key)
+2E Midori no Kagi (Green Key)
+2F X no Kagi (Blue Key)
+30 Pile Parts
+31 Dungeon Item 2
+32 Unmei no Megami Zou (Fate Goddess Statue)
+33 Sonzai no Megami Zou (Existence Goddess Statue)
+34 Hitsuzen no Megami Zou (Necessity Goddess Statue)
+35 Mission Item 4
+36 Mission Item 5
