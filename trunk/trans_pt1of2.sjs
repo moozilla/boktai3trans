@@ -2312,7 +2312,7 @@ Immortal Sword<EXTEND=0>
 La Vie en Rose
  =========
 //ロックバスター
-MegaBuster
+RockBuster
  =========
 Lv.<VAR=0>威力:<VAR=1>古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
  =========
@@ -3116,296 +3116,439 @@ RAT TAIL
 //ブルースレッグ
 BLUES LEG
  =========
-魔法石の付いた頭環(とうかん)。ココロが上がる(中)。敵(てき)がアイテムを落としにくくなる。
+//魔法石の付いた頭環(とうかん)。ココロが上がる(中)。敵(てき)がアイテムを落としにくくなる。
+A headband with a magic stone attached. Raises Spirit. Decreases odds of item drops.
  =========
 //クールなバンダナ。ココロが上がる(大)。トランスがたまりにくくなる。
-A cool bandana. Raises Spirit (high). Makes it difficult to build up TRC.
+A cool bandana. Raises Spirit (high). TRC builds slowly.
  =========
 //ホットなハチマキ。トランスがたまりやすくなる。
-A hot headband. Makes it easier to build up TRC.
+A hot headband. TRC builds quickly.
  =========
-身体健全のお守り。敵(てき)の攻撃(こうげき)による毒化をふせぐ。
+//身体健全のお守り。敵(てき)の攻撃(こうげき)による毒化をふせぐ。
+A good health charm. Defends against Poison from enemy attacks.
  =========
-額当(ひたいあ)ての付いたハチマキ。足音が立たなくなる。トランスがたまりにくくなる。
+//額当(ひたいあ)ての付いたハチマキ。足音が立たなくなる。トランスがたまりにくくなる。
+A headband applied to the forehead. Silences footsteps. Slows TRC gain.
  =========
-妖精(ようせい)の冦(かんむり)。身体が透明(とうめい)になる。得られる経験値(けいけんち)が半分になる。
+//妖精(ようせい)の冦(かんむり)。身体が透明(とうめい)になる。得られる経験値(けいけんち)が半分になる。
+A fairy crown. Makes the user invisible. Halves earned EXP.
  =========
-分厚(ぶあつ)い眼鏡(めがね)。目に見えないモノが見えるようになる。
+//分厚(ぶあつ)い眼鏡(めがね)。目に見えないモノが見えるようになる。
+Thick glasses. Makes invisible things visible.
  =========
-ゴールドのマスク。敵(てき)がアイテムを落としやすくなる。
+//ゴールドのマスク。敵(てき)がアイテムを落としやすくなる。
+A gold mask. Increases odds of item drops.
  =========
-小汚(こぎたな)い帽子(ぼうし)。太陽ゲージの値が2倍になる。
+//小汚(こぎたな)い帽子(ぼうし)。太陽ゲージの値が2倍になる。
+A slightly dirty hat. Doubles value of Solar Gauge.
  =========
-折(お)れた牙(きば)。得られる経験値(けいけんち)が半分になる?
+//折(お)れた牙(きば)。得られる経験値(けいけんち)が半分になる?
+A broken fang. Halves earned EXP?
  =========
-カーネルの力を宿したヘルメット。敵(てき)の攻撃(こうげき)による毒化・混乱(こんらん)・マヒをふせぐ。
+//カーネルの力を宿したヘルメット。敵(てき)の攻撃(こうげき)による毒化・混乱(こんらん)・マヒをふせぐ。
+A helmet with the power of Colonel. Defends against Poison, Confuse, and Paralysis from enemy attacks.
  =========
-革(かわ)の鎧(よろい)。カラダが上がる(小)。
+//革(かわ)の鎧(よろい)。カラダが上がる(小)。
+Leather armor. Slightly raises VIT.
  =========
-金属(きんぞく)の輪をつなぎ合わせた鎧(よろい)。カラダが上がる(中)。
+//金属(きんぞく)の輪をつなぎ合わせた鎧(よろい)。カラダが上がる(中)。
+Armor made of linked metal rings. Raises VIT.
  =========
-板金(いたがね)の鎧(よろい)。カラダが上がる(大)。
+//板金(いたがね)の鎧(よろい)。カラダが上がる(大)。
+Armor made of metal plates. Greatly raises VIT.
  =========
-火竜の牙(きば)から作られた鎧(よろい)。フレイムに強くなり、フロストに弱くなる。
+//火竜の牙(きば)から作られた鎧(よろい)。フレイムに強くなり、フロストに弱くなる。
+Armor made from a Fire Dragon Fang. Strengthens Flame, weakens Frost.
  =========
-水竜の尾(お)ビレから作られた鎧(よろい)。フロストに強くなり、フレイムに弱くなる。
+//水竜の尾(お)ビレから作られた鎧(よろい)。フロストに強くなり、フレイムに弱くなる。
+Armor made from a Water Dragon Tail. Strengthens Frost, weakens Flame.
  =========
-風竜の翼(つばさ)から作られた鎧(よろい)。クラウドに強くなり、アースに弱くなる。
+//風竜の翼(つばさ)から作られた鎧(よろい)。クラウドに強くなり、アースに弱くなる。
+Armor made from a Wind Dragon Wing. Strengthens Cloud, weakens Earth.
  =========
-地竜の爪(つめ)から作られた鎧(よろい)。アースに強くなり、クラウドに弱くなる。
+//地竜の爪(つめ)から作られた鎧(よろい)。アースに強くなり、クラウドに弱くなる。
+Armor made from an Earth Dragon Claw. Strengthens Earth, weakens Cloud.
  =========
-兩がっぱ。兩から身を守る。
+//兩がっぱ。兩から身を守る。
+Rain cloak. Protects from the rain.
  =========
-魔法の鎧(よろい)。ココロが高いほど受けるダメージがへり、チカラが下がる。
+//魔法の鎧(よろい)。ココロが高いほど受けるダメージがへり、チカラが下がる。
+Magical armor. Damage taken decreases as SPR increases. Decreses STR.
  =========
-装備(そうび)した者を守る鎧(よろい)。攻撃(こうげき)を受けると自動的に反撃(はんげき)する。
+//装備(そうび)した者を守る鎧(よろい)。攻撃(こうげき)を受けると自動的に反撃(はんげき)する。
+Armor that protects the user through automatic counter attacks.
  =========
-初心者向けの鎧(よろい)。受けるダメージがへる(中)。
+//初心者向けの鎧(よろい)。受けるダメージがへる(中)。
+Armor for beginners. Decreases damage taken.
  =========
-白騎土(しろきし)の鎧(よろい)。昼間受けるダメージがへり(大)、夜間受けるダメージがふえる(大)。
+//白騎土(しろきし)の鎧(よろい)。昼間受けるダメージがへり(大)、夜間受けるダメージがふえる(大)。
+A white knight's armor. Greatly decreases damage taken during the day, but greatly increases damage taken at night.
  =========
-黒騎土(くろきし)の鎧(よろい)。夜間受けるダメージがへり(大)、昼間受けるダメージがふえる(大)。
+//黒騎土(くろきし)の鎧(よろい)。夜間受けるダメージがへり(大)、昼間受けるダメージがふえる(大)。
+A black knight's armor. Greatly decreases damage taken at night, but greatly increases damage taken during the day.
  =========
-小汚(こぎたな)い外とう。太陽ゲージが高いほど受けるダメージがへる。
+//小汚(こぎたな)い外とう。太陽ゲージが高いほど受けるダメージがへる。
+A slightly dirty overcoat. Decreases damage taken as the Solar Gauge increases.
  =========
-干(ひ)からびた翼(つばさ)。フレイム・フロスト・クラウド・アースに弱くなる?
+//干(ひ)からびた翼(つばさ)。フレイム・フロスト・クラウド・アースに弱くなる?
+A dried-up wing. Weakens Flame, Frost, Cloud, and Earth?
  =========
-フォルテの力を宿したマント。受けるダメージが半分になる。
+//フォルテの力を宿したマント。受けるダメージが半分になる。
+A mantle with the power of Forte. Halves damage taken.
  =========
-重りの入った腕輪(うでわ)。チカラが上がる(中)。ソードの受けるダメージが2倍になる。
+//重りの入った腕輪(うでわ)。チカラが上がる(中)。ソードの受けるダメージが2倍になる。
+A heavy bracelet. Raises STR. Doubles damage taken when using a sword.
  =========
-呪文(じゅもん)のきざまれた腕輪(うでわ)。チカラが上がる(大)。エナジーの消費量が2倍になる。
+//呪文(じゅもん)のきざまれた腕輪(うでわ)。チカラが上がる(大)。エナジーの消費量が2倍になる。
+A bracelet engraved with a charm. Greatly raises STR. Doubles energy consumption.
  =========
-クラブの紋章(もんしょう)。縦斬(たてぎ)りであたえるダメージがふえる。
+//クラブの紋章(もんしょう)。縦斬(たてぎ)りであたえるダメージがふえる。
+The crest of clubs. Increases damage dealt by vertical cuts.
  =========
-ダイヤの紋章(もんしょう)。突(つ)きであたえるダメージがふえる。
+//ダイヤの紋章(もんしょう)。突(つ)きであたえるダメージがふえる。
+The crest of clubs. Increases damage dealt by stabs.
  =========
-小型の盾(たて)。ソードの受けるダメージが半分になる。
+//小型の盾(たて)。ソードの受けるダメージが半分になる。
+A tiny shield. Halves damage taken when using a sword.
  =========
-魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
+//魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
+Magical gauntlet. Damage dealt increases as SPR increases. Decreses STR.
  =========
-白騎土(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
+//白騎土(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
+A white knight's gauntlet. Increases damage dealt during the day, decreases damage dealt at night.
  =========
-黒騎土(くろきし)の手甲(てっこう)。夜間あたえるダメージがふえ、昼間あたえるダメージがへる。
+//黒騎土(くろきし)の手甲(てっこう)。夜間あたえるダメージがふえ、昼間あたえるダメージがへる。
+A white knight's gauntlet. Increases damage dealt at night, decreases damage dealt during the day.
  =========
-小汚(こぎたな)い手袋(てぶくろ)。太陽ゲージが高いほどあたえるダメージがふえる。
+//小汚(こぎたな)い手袋(てぶくろ)。太陽ゲージが高いほどあたえるダメージがふえる。
+Slightly dirty gloves.Increases damage dealt as the Solar Gauge increases.
  =========
-ひび割れた爪(つめ)。エナジーの消費量が2倍になる?
+//ひび割れた爪(つめ)。エナジーの消費量が2倍になる?
+A broken-off fingernail. Doubles energy consumption?
  =========
-トマホークマンの力を宿したグローブ。ソードであたえるダメージがふえる。
+//トマホークマンの力を宿したグローブ。ソードであたえるダメージがふえる。
+A glove with the power of TomahawkMan. Increases damage when using a sword.
  =========
-鉄製(てつせい)の下駄(げた)。風の影響(えいきょう)を受けなくなる。足がおそくなる。
+//鉄製(てつせい)の下駄(げた)。風の影響(えいきょう)を受けなくなる。足がおそくなる。
+Iron clogs. Wind has no effect. Decreases movement speed.
  =========
-オモチャの靴(くつ)。カラダとチカラが上がる(小)。移動(いどう)時におかしな音がする。
+//オモチャの靴(くつ)。カラダとチカラが上がる(小)。移動(いどう)時におかしな音がする。
+Toy shoes. Slightly raises VIT and STR. Movement makes a strange sound.
  =========
-重りの入った脚輪(あしわ)。カラダとチカラが上がる(中)。アイテムがくさりやすくなる。
+//重りの入った脚輪(あしわ)。カラダとチカラが上がる(中)。アイテムがくさりやすくなる。
+A heavy ankle band. Raises VIT and STR. Items spoil faster.
  =========
-じょうぶな靴(くつ)。精霊虫(せいれいちゅう)の効果(こうか)が2倍になる。
+//じょうぶな靴(くつ)。精霊虫(せいれいちゅう)の効果(こうか)が2倍になる。
+Durable shoes. Doubles effectiveness of Spirit Bugs.
  =========
 鉄製(てつせい)の靴(くつ)。溶岩(ようがん)によるダメージをふせぐ。
+Iron shoes. Defends against lava damage.
  =========
-羽かざりの付いた長靴(ながぐつ)。エナジーを消費して高速で移動(いどう)する。
+//羽かざりの付いた長靴(ながぐつ)。エナジーを消費して高速で移動(いどう)する。
+Leather boots with decorative wings attached. Consumes energy to boost movement speed.
  =========
-とてもじょうぶな靴(くつ)。太陽の果実の効果(こうか)が2倍になる。
+//とてもじょうぶな靴(くつ)。太陽の果実の効果(こうか)が2倍になる。
+Extremely durable shoes. Doubles effect of solar fruit.
  =========
-小汚(こぎたな)い長靴(ながぐつ)。移動(いどう)時にライフが回複(かいふく)する。
+//小汚(こぎたな)い長靴(ながぐつ)。移動(いどう)時にライフが回複(かいふく)する。
+Slightly dirty leather boots. Recovers Life during movement.
  =========
-ねじれた尻尾(しっぽ)。移動(いどう)時にエナジーを消費する?
+//ねじれた尻尾(しっぽ)。移動(いどう)時にエナジーを消費する?
+A crooked tail. ENE decreases during movement?
  =========
-ブルースの力を宿したブーツ。太陽ゲージがゼロでもダッシュ可能(かのう)になる。
+//ブルースの力を宿したブーツ。太陽ゲージがゼロでもダッシュ可能(かのう)になる。
+Boots with the power of Blues. Can dash even when the Solar Gauge is at zero.
  =========
-これを捨てますか?
+//これを捨てますか?
+Trash this?
  =========
-閉ざされた牢獄 [1F]
+//閉ざされた牢獄 [1F]
+CEMETARY [1F]
  =========
-閉ざされた牢獄 [B1F]
+//閉ざされた牢獄 [B1F]
+CEMETARY [B1F]
  =========
-閉ざされた牢獄 [B2F]
+//閉ざされた牢獄 [B2F]
+CEMETARY [B2F]
  =========
-閉ざされた牢獄 [B3F]
+//閉ざされた牢獄 [B3F]
+CEMETARY [B3F]
  =========
-閉ざされた牢獄 [B4F]
+//閉ざされた牢獄 [B4F]
+CEMETARY [B4F]
  =========
-死灰の街A [2F]
+//死灰の街A [2F]
+LIFELESS TOWN A [2F]
  =========
-死灰の街A [1F]
+//死灰の街A [1F]
+LIFELESS TOWN A [1F]
  =========
-死灰の街B [2F]
+//死灰の街B [2F]
+LIFELESS TOWN B [2F]
  =========
-死灰の街B [1F]
+//死灰の街B [1F]
+LIFELESS TOWN B [1F]
  =========
-古の大樹B [6F]
+//古の大樹B [6F]
+ANCIENT TREE B [6F]
  =========
-古の大樹B [5F]
+//古の大樹B [5F]
+ANCIENT TREE B [5F]
  =========
-古の大樹B [4F]
+//古の大樹B [4F]
+ANCIENT TREE B [4F]
  =========
-古の大樹A [3F]
+//古の大樹A [3F]
+ANCIENT TREE A [3F]
  =========
-古の大樹A [2F]
+//古の大樹A [2F]
+ANCIENT TREE A [2F]
  =========
-古の大樹A [1F]
+//古の大樹A [1F]
+ANCIENT TREE A [1F]
  =========
-白き森A [1F]
+//白き森A [1F]
+WHITE FOREST A [1F]
  =========
-白き森A [B1F]
+//白き森A [B1F]
+WHITE FOREST A [B1F]
  =========
-白き森B [1F]
+//白き森B [1F]
+WHITE FOREST B [1F]
  =========
-白き森B [B1F]
+//白き森B [B1F]
+WHITE FOREST B [B1F]
  =========
-海賊の島A [3F]
+//海賊の島A [3F]
+PIRATE ISLAND A [3F]
  =========
-海賊の島A [2F]
+//海賊の島A [2F]
+PIRATE ISLAND A [2F]
  =========
-海賊の島A [1F]
+//海賊の島A [1F]
+PIRATE ISLAND A [1F]
  =========
-海賊の島A [B1]
+//海賊の島A [B1]
+PIRATE ISLAND A [B1]
  =========
-海賊の島A [B2]
+//海賊の島A [B2]
+PIRATE ISLAND A [B2]
  =========
-海賊の島B [2F]
+//海賊の島B [2F]
+PIRATE ISLAND B [2F]
  =========
-海賊の島B [1F]
+//海賊の島B [1F]
+PIRATE ISLAND B [1F]
  =========
-海賊の島B [B1]
+//海賊の島B [B1]
+PIRATE ISLAND B [B1]
  =========
-暗黒城 [15F]
+//暗黒城 [15F]
+DARK CASTLE [15F]
  =========
-暗黒城 [14F]
+//暗黒城 [14F]
+DARK CASTLE [14F]
  =========
-暗黒城 [13F]
+//暗黒城 [13F]
+DARK CASTLE [13F]
  =========
-暗黒城 [12F]
+//暗黒城 [12F]
+DARK CASTLE [12F]
  =========
-暗黒城 [11F]
+//暗黒城 [11F]
+DARK CASTLE [11F]
  =========
-暗黒城 [10F]
+//暗黒城 [10F]
+DARK CASTLE [10F]
  =========
-暗黒城 [9F]
+//暗黒城 [9F]
+DARK CASTLE [9F]
  =========
-暗黒城 [8F]
+//暗黒城 [8F]
+DARK CASTLE [8F]
  =========
-暗黒城 [7F]
+//暗黒城 [7F]
+DARK CASTLE [7F]
  =========
-暗黒城 [6F]
+//暗黒城 [6F]
+DARK CASTLE [6F]
  =========
-暗黒城 [5F]
+//暗黒城 [5F]
+DARK CASTLE [5F]
  =========
-暗黒城 [4F]
+//暗黒城 [4F]
+DARK CASTLE [4F]
  =========
-暗黒城 [3F]
+//暗黒城 [3F]
+DARK CASTLE [3F]
  =========
-暗黒城 [B9F 中央塔]
+//暗黒城 [B9F 中央塔]
+DARK CASTLE [B9F CENTER]
  =========
-暗黒城 [B9F 炎の間]
+//暗黒城 [B9F 炎の間]
+DARK CASTLE [B9F FLAME AREA]
  =========
-暗黒城 [B9F 大地の間]
+//暗黒城 [B9F 大地の間]
+DARK CASTLE [B9F EARTH AREA]
  =========
-暗黒城 [B9F 氷の間]
+//暗黒城 [B9F 氷の間]
+DARK CASTLE [B9F ICE AREA]
  =========
-暗黒城 [B8F 風の間]
+//暗黒城 [B8F 風の間]
+DARK CASTLE [B8F WIND AREA]
  =========
-暗黒城 [B9F 風の間]
+//暗黒城 [B9F 風の間]
+DARK CASTLE [B9F WIND AREA]
  =========
-暗黒城 [B10F 風の間]
+//暗黒城 [B10F 風の間]
+DARK CASTLE [B10F WIND AREA]
  =========
-暗黒城 [B6F 中央塔]
+//暗黒城 [B6F 中央塔]
+DARK CASTLE [B6F CENTER TOWER]
  =========
-暗黒城 [B6F 炎の間]
+//暗黒城 [B6F 炎の間]
+DARK CASTLE [B6F FLAME AREA]
  =========
-暗黒城 [B6F 大地の間]
+//暗黒城 [B6F 大地の間]
+DARK CASTLE [B6F EARTH AREA]
  =========
-暗黒城 [B6F 氷の間]
+//暗黒城 [B6F 氷の間]
+DARK CASTLE [B6F ICE AREA]
  =========
-暗黒城 [B6F 風の間]
+//暗黒城 [B6F 風の間]
+DARK CASTLE [B6F WIND AREA]
  =========
-暗黒城 [B12F 中央塔]
+//暗黒城 [B12F 中央塔]
+DARK CASTLE [B12F CENTER TOWER]
  =========
-暗黒城 [B12F 炎の間]
+//暗黒城 [B12F 炎の間]
+DARK CASTLE [B12F FLAME AREA]
  =========
-暗黒城 [B12F 大地の間]
+//暗黒城 [B12F 大地の間]
+DARK CASTLE [B12F EARTH AREA]
  =========
-暗黒城 [B12F 氷の間]
+//暗黒城 [B12F 氷の間]
+DARK CASTLE [B12F ICE AREA]
  =========
-暗黒城 [B12F 風の間]
+//暗黒城 [B12F 風の間]
+DARK CASTLE [B12F WIND AREA]
  =========
-暗黒城 [B15F 中央塔]
+//暗黒城 [B15F 中央塔]
+DARK CASTLE [B15F CENTER TOWER]
  =========
-暗黒城 [B15F 炎の間]
+//暗黒城 [B15F 炎の間]
+DARK CASTLE [B15F FLAME AREA]
  =========
-暗黒城 [B15F 大地の間]
+//暗黒城 [B15F 大地の間]
+DARK CASTLE [B15F EARTH AREA]
  =========
-暗黒城 [B15F 氷の間]
+//暗黒城 [B15F 氷の間]
+DARK CASTLE [B15F ICE AREA]
  =========
-暗黒城 [B15F 風の間]
+//暗黒城 [B15F 風の間]
+DARK CASTLE [B15F WIND AREA]
  =========
-楽園
+//楽園
+PARADISE
  =========
-古の大樹
+//古の大樹
+ANCIENT TREE
  =========
-闘技場
+//闘技場
+ARENA
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-ワールドマップ
+//ワールドマップ
+WORLD MAP
  =========
-バトルドライブ
+//バトルドライブ
+BATTLE DRIVE
  =========
-知らない場所1F
+//知らない場所1F
+UNKNOWN AREA 1F
  =========
-知らない場所2F
+//知らない場所2F
+UNKNOWN AREA 2F
  =========
-知らない場所3F
+//知らない場所3F
+UNKNOWN AREA 3F
  =========
-知らない場所4F
+//知らない場所4F
+UNKNOWN AREA 4F
  =========
-知らない場所5F
+//知らない場所5F
+UNKNOWN AREA 5F
  =========
-知らない場所6F
+//知らない場所6F
+UNKNOWN AREA 6F
  =========
-知らない場所7F
+//知らない場所7F
+UNKNOWN AREA 7F
  =========
-知らない場所8F
+//知らない場所8F
+UNKNOWN AREA 8F
  =========
-知らない場所9F
+//知らない場所9F
+UNKNOWN AREA 9F
  =========
-知らない場所10F
+//知らない場所10F
+UNKNOWN AREA 10F
  =========
 <NAME>
  =========
-サバタ
+//サバタ
+SABATA
  =========
-これを捨てますか?
+//これを捨てますか?
+Trash this?
  =========
-これを使いますか?
+//これを使いますか?
+Use this?
  =========
-バッグを整とんしますか?
+//バッグを整とんしますか?
+Rearrange bag?
  =========
-<WEIGHT>Ａボタン</WEIGHT>で設定を変更します。
+//<WEIGHT>Ａボタン</WEIGHT>で設定を変更します。
+<WEIGHT>A Button</WEIGHT> changes settings.
  =========
-<WEIGHT>Ａボタン</WEIGHT>で決定します。
+//<WEIGHT>Ａボタン</WEIGHT>で決定します。
+Use the <WEIGHT>A Button</WEIGHT> to confirm.
  =========
-設定を変更しました。
+//設定を変更しました。
+Settings have been changed.
  =========
-<WEIGHT>Ａボタン</WEIGHT>でセーブします。
+//<WEIGHT>Ａボタン</WEIGHT>でセーブします。
+Press the <WEIGHT>A Button</WEIGHT> to save.
  =========
-セーブしますか?
+//セーブしますか?
+Save?
  =========
-以前のデータに上書きしますか?
+//以前のデータに上書きしますか?
+Overwrite previous data?
  =========
-セーブしています。
-カートリッジを抜いたり
-電源を切らないでください。
+//セーブしています。
+//カートリッジを抜いたり
+//電源を切らないでください。
+Saving.
+Do not remove Game Pak
+or turn OFF the power.
  =========
-セーブしています。
+//セーブしています。
+Saving.
  =========
-カートリッジを抜いたり
-電源を切らないでください。
+//カートリッジを抜いたり
+//電源を切らないでください。
+Do not remove Game Pak
+or turn OFF the power.
  =========
-セーブしました。
+//セーブしました。
+Saved.
  =========
-セーブに失敗しました。
+//セーブに失敗しました。
+Save failed.
  =========
 <WEIGHT>SELECTボタン</WEIGHT>+<WEIGHT>Ｌボタン</WEIGHT>+
 <WEIGHT>Ｒボタン</WEIGHT>で複帰します。
@@ -3413,6 +3556,7 @@ A hot headband. Makes it easier to build up TRC.
 <WEIGHT>Ａボタン</WEIGHT>でスリープします。
  =========
 スリープしますか?
+Enter Sleep Mode?
  =========
 スリープします。
  =========
@@ -3503,488 +3647,689 @@ A hot headband. Makes it easier to build up TRC.
  =========
 TIME
  =========
- バイクポイント
+// バイクポイント
+Bike Points
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-闘技場
+//闘技場
+ARENA
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-サン・ミゲル
+//サン・ミゲル
+SAN MIGUEL
  =========
-<LABEL>「地図A」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>「地図A」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>You got Map A!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>「地図B」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>「地図B」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>You got Map B!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>「地図C」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>「地図C」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>You got Map C!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>「地図D」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>「地図D」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>You got Map D!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>「地図E」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>「地図E」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>You got Map E!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>「地図」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>「地図」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>You got the map!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクフロント
-「ブラスター<I>」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクフロント
+//「ブラスター<I>」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Blaster <I>"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクフロント
-「サイドワインダー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクフロント
+//「サイドワインダー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Sidewinder"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクフロント
-「ブラスター<II>」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクフロント
+//「ブラスター<II>」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Blaster <II>"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクフロント
-「ハンマーヘッド」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクフロント
+//「ハンマーヘッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Hammerhead"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクフロント
-「フェアリーテイル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクフロント
+//「フェアリーテイル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Fairytale"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクフロント
-「クラッシャー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクフロント
+//「クラッシャー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Crusher"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクボディ
-「ヴァイキング」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクボディ
+//「ヴァイキング」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Viking"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクボディ
-「エインヘルヤル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクボディ
+//「エインヘルヤル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Einherjar"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクボディ
-「ウルフヘジン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクボディ
+//「ウルフヘジン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Ulfhedinn"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクボディ
-「ベルセルク」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクボディ
+//「ベルセルク」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Berserk"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクボディ
-「ヴァルキリー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクボディ
+//「ヴァルキリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Valkyrie"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクボディ
-「スレイプニル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクボディ
+//「スレイプニル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Sleipnir"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクタイヤ
-「スタンダード<I>」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクタイヤ
+//「スタンダード<I>」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Standard <I>"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクタイヤ
-「スタンダード<II>」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクタイヤ
+//「スタンダード<II>」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Standard <II>"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクタイヤ
-「トライアル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクタイヤ
+//「トライアル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Trial"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクタイヤ
-「チェーン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクタイヤ
+//「チェーン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Chain"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクタイヤ
-「マルチパーパス」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクタイヤ
+//「マルチパーパス」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Multipurpose"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクタイヤ
-「ブースター」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクタイヤ
+//「ブースター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Booster"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクスペシャル
-「リペア」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクスペシャル
+//「リペア」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Repair"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクスペシャル
-「マイン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクスペシャル
+//「マイン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Mine"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクスペシャル
-「バリア」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクスペシャル
+//「バリア」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Barrier"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクスペシャル
-「スプレッド」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクスペシャル
+//「スプレッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Spread"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクスペシャル
-「ステルス」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクスペシャル
+//「ステルス」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Stealth"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクスペシャル
-「弾道ミサイル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクスペシャル
+//「弾道ミサイル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Ballistic Missile"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「マジックハンドル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「マジックハンドル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Magic Handle"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「マジックステップ」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「マジックステップ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Magic Step"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「ロックエンブレム」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「ロックエンブレム」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Rock Emblem"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「プラチナプラグ」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「プラチナプラグ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Platinum Plug"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「高級オイル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「高級オイル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"High Grade Oil"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「HYPチャージャー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「HYPチャージャー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Hyper Charger"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「ブルースチェーン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「ブルースチェーン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Blues Chain"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「カーネルギア」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「カーネルギア」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Colonel Gear"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「強化アーム」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「強化アーム」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Strengthen Arm"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「強化フレーム」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「強化フレーム」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Strengthen Flame"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「ナックルガード」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「ナックルガード」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Knuckle Guard"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「プロテクター」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「プロテクター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Protector"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「BSTバッテリー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「BSTバッテリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"BST Battery"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「WPNバッテリー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「WPNバッテリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"WPN Battery"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「SPバッテリー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「SPバッテリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"SP Battery"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「クラッチマスター」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「クラッチマスター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Clutch Master"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「ブレーキマスター」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「ブレーキマスター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Brake Master"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「キッドのアフロ」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「キッドのアフロ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Kid's Afro"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「スミスのハンマー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「スミスのハンマー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Smith's Hammer"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「スミレのエプロン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「スミレのエプロン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Sumire's Apron"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「レディのカード」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「レディのカード」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Lady's Card"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「シャイアンのオノ」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「シャイアンのオノ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Cheyanne's Axe"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「リタのリボン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「リタのリボン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Lita's Ribbon"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクオプション
-「ザジの魔法石」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクオプション
+//「ザジの魔法石」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Zazie's Magic Stone"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「コフィングレー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「コフィングレー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Coffin Gray"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「ソルイエロー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「ソルイエロー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Sol Yellow"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「ルナホワイト」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「ルナホワイト」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Luna White"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「フレイムレッド」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「フレイムレッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Flame Red"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「フロストブルー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「フロストブルー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Frost Blue"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「クラウドパープル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「クラウドパープル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Cloud Purple"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「アースグリーン」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「アースグリーン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Earth Green"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「ダークブラック」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「ダークブラック」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Dark Black"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「ジャンゴレッド」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「ジャンゴレッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Django Red"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「サバタブラック」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「サバタブラック」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Sabata Black"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「トリニティーSP」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「トリニティーSP」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Trinity SP"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>バイクカラー
-「ロックブルー」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>バイクカラー
+//「ロックブルー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Rock Blue"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
@@ -3992,6 +4337,9 @@ TIME
 <LABEL>ぬいぐるみ
 「おてんこさま」
 を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Otenko"
+obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
