@@ -8240,6 +8240,8 @@ SPバッテリー
 ザジの魔法石
  =========
 エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
+An energy-reinforced magic handle. Slightly raises offensive ability.
+
  =========
 エナジーを強化するライディングステップ。攻撃力アップ(中)。
  =========
