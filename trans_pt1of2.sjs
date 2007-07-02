@@ -19,7 +19,8 @@
 ×
  =========
 
-<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
+//<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
+<LABEL>Defeat all enemy monsters!</LABEL>
  =========
 <PROC=0>
 <END>
@@ -31,7 +32,8 @@
 <END>
  =========
 
-<LABEL> 3つの女神像を手に入れろ!!</LABEL>
+//<LABEL> 3つの女神像を手に入れろ!!</LABEL>
+<LABEL>Obtain the 3 Goddess Statues!</LABEL>
  =========
 <PROC=0>
 <END>
@@ -4058,7 +4060,7 @@ obtained!</LABEL><PROC=1>
 //「強化アーム」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"Reinforced Armor"
+"Reinforced Arm"
 obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
@@ -8225,103 +8227,147 @@ SPバッテリー
  =========
 ブレーキマスター
  =========
-キッドのアフロ
+//キッドのアフロ
+KID'S AFRO
  =========
-スミスのハンマー
+//スミスのハンマー
+SMITH'S HAMMER
  =========
-スミレのエプロン
+//スミレのエプロン
+VIOLET'S APRON
  =========
-レディのカード
+//レディのカード
+LADY'S CARD
  =========
-シャイアンのオノ
+//シャイアンのオノ
+CHEYANNE'S AXE
  =========
-リタのリボン
+//リタのリボン
+LITA'S RIBBON
  =========
-ザジの魔法石
+//ザジの魔法石
+ZAZIE'S MAGICAL STONE
  =========
-エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
-An energy-reinforced magic handle. Slightly raises offensive ability.
-
+//エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
+An energy-reinforced magic handle. Slightly raises Attack.
  =========
-エナジーを強化するライディングステップ。攻撃力アップ(中)。
+//エナジーを強化するライディングステップ。攻撃力アップ(中)。
+An energy-reinforced riding step. Raises Attack.
  =========
-ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
+//ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
+An emblem with the power of RockMan. Greatly raises Attack.
  =========
-高性能スパークプラグ。加速力アップ(小)。
+//高性能スパークプラグ。加速力アップ(小)。
+High efficiency spark plug. Slightly raises Accel.
  =========
-最高級エンジンオイル。加速力アップ(大)。
+//最高級エンジンオイル。加速力アップ(大)。
+High grade engine oil. Greatly raises Accel.
  =========
-ハイパーチャージャー。最高スピードアップ(小)。
+//ハイパーチャージャー。最高スピードアップ(小)。
+Hyper charger. Slightly raises max Speed.
  =========
-ブルースの力が宿ったチェーン。最高スピードアップ(小)。
+//ブルースの力が宿ったチェーン。最高スピードアップ(小)。
+A chain with the power of Blues. Slightly raises max Speed.
  =========
-カーネルの力が宿ったギア。最高スピードアップ(小)。
+//カーネルの力が宿ったギア。最高スピードアップ(小)。
+A gear with the power of Colonel. Slightly raises max Speed.
  =========
-強化されたスイングアーム。HP最大値アップ(小)。
+//強化されたスイングアーム。HP最大値アップ(小)。
+A reinforced swing arm. Slightly raises max HP.
  =========
-強化されたフレーム。HP最大値アップ(大)。
+//強化されたフレーム。HP最大値アップ(大)。
+A reinforced frame. Greatly raises max HP.
  =========
-フロントを守る追加装甲(ついかそうこう)。受けるダメージが減る(小)。
+//フロントを守る追加装甲(ついかそうこう)。受けるダメージが減る(小)。
+Additional armor to protect the front. Slightly reduces damage received.
  =========
-ボディを守る追加装甲(ついかそうこう)。受けるダメージが減る(大)。
+//ボディを守る追加装甲(ついかそうこう)。受けるダメージが減る(大)。
+Additional armor to protect the body. Greatly reduces damage received.
  =========
-ブースト用追加バッテリー。ブーストコストが下がる。
+//ブースト用追加バッテリー。ブーストコストが下がる。
+An additional boost battery. Reduces boost cost.
  =========
-ウエポン用追加バッテリー。ウエポンコストが下がる。
+//ウエポン用追加バッテリー。ウエポンコストが下がる。
+An additional weapon battery. Reduces weapon cost.
  =========
-スペシャル用追加バッテリー。スペシャルコストが下がる。
+//スペシャル用追加バッテリー。スペシャルコストが下がる。
+An additional Special battery. Reduces Special cost.
  =========
-高性能クラッチ。ブレーキ性能(せいのう)アップ(小)。
+//高性能クラッチ。ブレーキ性能(せいのう)アップ(小)。
+A high efficiency clutch. Slightly improves brake performance.
  =========
-高性能ブレーキ。ブレーキ性能(せいのう)アップ(大)。
+//高性能ブレーキ。ブレーキ性能(せいのう)アップ(大)。
+A high efficiency brake. Greatly improves brake performance.
  =========
-キッド愛用(?)のアフロ。エナジーの回複(かいふく)スピードが上がる。
+//キッド愛用(?)のアフロ。エナジーの回複(かいふく)スピードが上がる。
+Kid's favorite(?) afro. Raises energy recovery rate.
  =========
-スミス愛用のハンマー。回複(かいふく)ポットの効果が上がる。
+//スミス愛用のハンマー。回複(かいふく)ポットの効果が上がる。
+Smith's favorite hammer. Increases recovery potion effect.
  =========
-スミレ愛用の白いエプロン。HPが半分以下のとき、受けるダメージが減る。
+//スミレ愛用の白いエプロン。HPが半分以下のとき、受けるダメージが減る。
+Violet's favorite white apron. Reduces damage taken when below half max HP.
  =========
-レディ愛用の魔法カード。HPが半分以下のとき、全てのコストが下がる。
+//レディ愛用の魔法カード。HPが半分以下のとき、全てのコストが下がる。
+Lady's favorite magic card. Reduces everything's cost when below half max HP.
  =========
-シャイアン愛用のトマホーク。ライバルより後ろにいると、最高スピードが上がる。バイクバトル専用(せんよう)。
+//シャイアン愛用のトマホーク。ライバルより後ろにいると、最高スピードが上がる。バイクバトル専用(せんよう)。
+Cheyanne's favorite tomahawk. Raises max speed when behind rival. Bike Battle only.
  =========
-リタ愛用の青いリボン。ライバルより後ろにいると、エナジーが回複(かいふく)する。バイクバトル専用(せんよう)。
+//リタ愛用の青いリボン。ライバルより後ろにいると、エナジーが回複(かいふく)する。バイクバトル専用(せんよう)。
+Lita's favorite blue ribbon. Recovers energy when behind rival. Bike Battle only.
  =========
-ザジ愛用の魔法の石。ライバルより前にいると、エナジーが回複(かいふく)する。バイクバトル専用(せんよう)。
+//ザジ愛用の魔法の石。ライバルより前にいると、エナジーが回複(かいふく)する。バイクバトル専用(せんよう)。
+Zazie's favorite magical stone. Recovers energy when in front of rival. Bike Battle only.
  =========
 <C1><E1><FB><02>x<C1><C2><E3><02>t<02>f<C1><C3><E7><02>W<02>D<C2><C4><E5><02>Z<02>D<C3><C5><FB><02>t<02>X<C1><C6><DD><02>M<ED><C1><C0><C0><C0><C0><C0>
  =========
-スタンダード<I>
+//スタンダード<I>
+STANDARD <I>
  =========
-スタンダード<II>
+//スタンダード<II>
+STANDARD <II>
  =========
-トライアル
+//トライアル
+TRAIL
  =========
-チェーン
+//チェーン
+CHAIN
  =========
-マルチパーパス
+//マルチパーパス
+MULTIPURPOSE
  =========
-ブースター
+//ブースター
+BOOSTER
  =========
-性能(せいのう)の低いタイヤ。
+//性能(せいのう)の低いタイヤ。
+A low-efficiency tire.
  =========
-ブレーキ性能(せいのう)にすぐれたタイヤ。
+//ブレーキ性能(せいのう)にすぐれたタイヤ。
+A tire with great brake efficiency.
  =========
-ダートの上でも自由に走ることのできるタイヤ。
+//ダートの上でも自由に走ることのできるタイヤ。
+A tire that runs freely over dirt.
  =========
-アイスの上でも自由に走ることのできるタイヤ。
+//アイスの上でも自由に走ることのできるタイヤ。
+A tire that runs freely over ice.
  =========
-ハンドル性能(せいのう)・ブレーキ性能(せいのう)にすぐれたタイヤ。
+//ハンドル性能(せいのう)・ブレーキ性能(せいのう)にすぐれたタイヤ。
+A tire with great brake and handling efficiency.
  =========
-ブーストコストの最も低いタイヤ。
+////ブーストコストの最も低いタイヤ。
+A tire with extremely low boost cost.
  =========
 <C1><C1><02>x<E9><D5><C1><D0><C2><C2><02>F<02>x<DF><C1><E4><C3><C3><02>x<02>P<E9><C1><DF><C4><C4><02>d<02><B4><E9><C1><E9><C5><C5><02>P<02><96><EE><C1><DF><C6><C6><02>x<C9><FD><C1><C1><C0><C0><C0><C0><C0><C0>
  =========
-ブラスター<I>
+//ブラスター<I>
+BLASTER <I>
  =========
-サイドワインダー
+//サイドワインダー
+SIDEWINDER
  =========
-ブラスター<II>
+//ブラスター<II>
+BLASTER <II>
  =========
 ハンマーヘッド
  =========
@@ -15058,35 +15104,48 @@ SP(特殊効果)は・・・
 <PROC=0>
 <END>
  =========
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「ガリガリすっか?」
- <ALTER>ガリガリする</ALTER><ALTER>話をする</ALTER>
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「ガリガリすっか?」
+// <ALTER>ガリガリする</ALTER><ALTER>話をする</ALTER>
+<LABEL=GARIGARIKUN>GariGari</LABEL>:
+"Gari Gari?
+ <ALTER>Gari Gari</ALTER><ALTER>Talk</ALTER>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「ガリガリ君ソーダはアイスキ
-ャンディーだかんな
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「ガリガリ君ソーダはアイスキ
+//ャンディーだかんな
+<LABEL=GARIGARIKUN>GariGari</LABEL>:
+"GariGari Soda, ice candy!
  =========
-溶(と)けないうちに食べんだぞ
-?」
- =========
-<PROC=0>
-<END>
- =========
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「当たりスティックが出たら、
-もう一本!!
- =========
-ガリガリ君コーラと交換(こう
-かん)すっぞ!」
+//溶(と)けないうちに食べんだぞ
+//?」
+Eat 'fore melt, kay?"
  =========
 <PROC=0>
 <END>
  =========
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「もうガリガリしたか?
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「当たりスティックが出たら、
+//もう一本!!
+<LABEL=GARIGARIKUN>GariGari</LABEL>:
+"Winner Stick comes out?
+Get one more!
+ =========
+//ガリガリ君コーラと交換(こう
+//かん)すっぞ!」
+Trade GariGari Cola!"
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「もうガリガリしたか?
+1234567890123456789012345678
+<LABEL=GARIGARIKUN>GariGari</LABEL>:
+"More Gari Gari?
  =========
 ガリガリ君ソーダは、外はソー
 ダ味のキャンディー、
@@ -15133,18 +15192,24 @@ SP(特殊効果)は・・・
 <PROC=0>
 <END>
  =========
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「知ってっか?
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「知ってっか?
+<LABEL=GARIGARIKUN>GariGari</LABEL>:
+"You know?
  =========
-太陽の光を浴びすぎっと溶(と)
-けちまうガリガリ君ソーダだけ
-ど、
+//太陽の光を浴びすぎっと溶(と)
+//けちまうガリガリ君ソーダだけ
+//ど、
+Sunlight melt GariGari soda,
  =========
-倉庫にあずけておけば、溶(と
-)けねぇぞ?
+//倉庫にあずけておけば、溶(と
+//)けねぇぞ?
+but no melt in warehouse.
  =========
-食べきれないときは、-18度以
-下で保存(ほぞん)だ!」
+//食べきれないときは、-18度以
+//下で保存(ほぞん)だ!」
+If can't eat, store at 0
+degrees!"
  =========
 <PROC=0>
 <END>
@@ -15178,11 +15243,15 @@ SP(特殊効果)は・・・
 <PROC=0>
 <END>
  =========
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「あんまりあわてて食べっと、
-口にはりつくかんな
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「あんまりあわてて食べっと、
+//口にはりつくかんな
+<LABEL=GARIGARIKUN>GariGari</LABEL>:
+"Eat too fast, get stuck to
+mouth.
  =========
-注意すんだぞ?」
+//注意すんだぞ?」
+Careful, kay?"
  =========
 <PROC=0>
 <END>
@@ -16570,8 +16639,10 @@ GREAT!が多いほど、より頑丈(
 <PROC=0>
 <END>
  =========
-<LABEL=NONE>棺桶(かんおけ)?</LABEL>
-「パオ!」
+//<LABEL=NONE>棺桶(かんおけ)?</LABEL>
+//「パオ!」
+<LABEL=NONE>Coffin?</LABEL>:
+"Pao!"
  =========
 <PROC=0>
 <END>
