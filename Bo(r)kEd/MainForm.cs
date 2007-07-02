@@ -82,8 +82,8 @@ namespace Borked
 					offset = (offset & 0x7FFFFFFF) + 0xD74DDC;
 					fs.Seek(offset, SeekOrigin.Begin);
 					ArrayList bytes = new ArrayList();
-					byte[] str = br.ReadBytes(0x1000);
-					tw.Write(tbl.fromTable(str)); //.Replace("[line]", "\r\n").Replace("[end]", "\r\n\r\n//==========\r\n\r\n"));
+					byte[] str = br.ReadBytes(0x61DB9);
+					tw.Write(tbl.fromTable(str).Replace("[line]", "\r\n").Replace("[end]", "\r\n =========\r\n"));
 					tw.Flush();
 					fs.Dispose();
 					tw.Dispose();
@@ -164,13 +164,16 @@ namespace Borked
 			string str = bytesToString(data);
 			string ret = "";
 			while(str != "") {
-				foreach(KeyValuePair<string, string> kvp in this) {
-					if(str.StartsWith(kvp.Key)) {
-					   	ret += kvp.Value;
-					   	str = str.Substring(kvp.Key.Length);
+				for(int i = (str.Length < 4 ? str.Length : 4); i > 0; i-=2) {	//2 is greatest table length * 2 (each byte is 2 chars)
+					string val;
+					if(this.TryGetValue(str.Substring(0, i), out val)) {
+					   	ret += val;
+					   	str = str.Substring(i);
 					   	break;
 					}
 				}
+				//System.Diagnostics.Trace.WriteLine("ERROR!!");
+				//break; //avoid infinite loop
 			}
 			return ret;
 		}
