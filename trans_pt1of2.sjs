@@ -3222,7 +3222,7 @@ A white knight's gauntlet. Increases damage dealt during the day, decreases dama
 A white knight's gauntlet. Increases damage dealt at night, decreases damage dealt during the day.
  =========
 //小汚(こぎたな)い手袋(てぶくろ)。太陽ゲージが高いほどあたえるダメージがふえる。
-Slightly dirty gloves. Increases damage dealt as the Solar Gauge increases.
+Slightly dirty gloves.Increases damage dealt as the Solar Gauge increases.
  =========
 //ひび割れた爪(つめ)。エナジーの消費量が2倍になる?
 A broken-off fingernail. Doubles energy consumption?
@@ -3828,7 +3828,7 @@ obtained!</LABEL><PROC=1>
 //「ベルセルク」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Body
-"Berserker"
+"Berserk"
 obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
@@ -4028,7 +4028,7 @@ obtained!</LABEL><PROC=1>
 //「HYPチャージャー」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"HYP Charger"
+"Hyper Charger"
 obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
@@ -4334,9 +4334,9 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「おてんこさま」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「おてんこさま」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "Master Otenko"
 obtained!</LABEL><PROC=1>
@@ -4344,9 +4344,9 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「おけんこさま」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「おけんこさま」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "Master Okenko"
 obtained!</LABEL><PROC=1>
@@ -4354,29 +4354,9 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「かげんこさま」
-を手に入れた!!</LABEL><PROC=1>
-<LABEL>Stuffed Doll
-"Master Doronbo"
-obtained!</LABEL><PROC=1>
- =========
-<PROC=0>
-<END>
- =========
-<LABEL>ぬいぐるみ
-「おがんくさま」
-を手に入れた!!</LABEL><PROC=1>
-<LABEL>Stuffed Doll
-"Master Otante"
-obtained!</LABEL><PROC=1>
- =========
-<PROC=0>
-<END>
- =========
-<LABEL>ぬいぐるみ
-「どろんぼさま」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「かげんこさま」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "Master Kagenko"
 obtained!</LABEL><PROC=1>
@@ -4384,9 +4364,9 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「おたんてさま」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「おがんくさま」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "Master Oganku"
 obtained!</LABEL><PROC=1>
@@ -4394,19 +4374,39 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「陽子ちゃんと暗子ちゃん」
-を手に入れた!! </LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「どろんぼさま」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
+"Master Doronbo"
+obtained!</LABEL><PROC=1>
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL>ぬいぐるみ
+//「おたんてさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Otante"
+obtained!</LABEL><PROC=1>
+ =========
+<PROC=0>
+<END>
+ =========
+//<LABEL>ぬいぐるみ
+//「陽子ちゃんと暗子ちゃん」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Dolls
 "Luxana and Doomy"
 obtained!</LABEL><PROC=1>
  =========
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「ロックマン」
-を手に入れた!! </LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「ロックマン」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "RockMan"
 obtained!</LABEL><PROC=1>
@@ -4414,9 +4414,9 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「ブルース」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「ブルース」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "Blues"
 obtained!</LABEL><PROC=1>
@@ -4424,9 +4424,9 @@ obtained!</LABEL><PROC=1>
 <PROC=0>
 <END>
  =========
-<LABEL>ぬいぐるみ
-「カーネル」
-を手に入れた!!</LABEL><PROC=1>
+//<LABEL>ぬいぐるみ
+//「カーネル」
+//を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
 "Colonel"
 obtained!</LABEL><PROC=1>

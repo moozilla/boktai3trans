@@ -845,7 +845,7 @@ Solar Stray "Kagenko" Doll. Prevents Dark Bugs from appearing.
 Solar Musician "Oganku" Doll. Gives you access to Sound Test.
  =========
 //太陽のよっぱらい「どろんぼさま」のぬいぐるみ。おみやげを買ってきて(?)くれる。
-Solar Drunkard "Dorenbo" Doll. Occasionally buys you gifts.
+Solar Drunkard "Doronbo" Doll. Occasionally buys you gifts.
  =========
 //太陽のたんてい「おたんてさま」のぬいぐるみ。ワンテッドモンスターをさがしてくれる。
 Solar Detective "Otante" Doll. Finds Wanted monsters.
