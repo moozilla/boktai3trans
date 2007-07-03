@@ -82,7 +82,7 @@ namespace Borked
 					offset = (offset & 0x7FFFFFFF) + 0xD74DDC;
 					fs.Seek(offset, SeekOrigin.Begin);
 					ArrayList bytes = new ArrayList();
-					byte[] str = br.ReadBytes(0x61DB9);
+					byte[] str = br.ReadBytes(0x5000);
 					tw.Write(tbl.fromTable(str).Replace("[line]", "\r\n").Replace("[end]", "\r\n =========\r\n"));
 					tw.Flush();
 					fs.Dispose();
