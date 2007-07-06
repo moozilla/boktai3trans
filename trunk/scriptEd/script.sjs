@@ -1,76 +1,98 @@
-$J=====0=====
-「<EXTEND=0>のカギ」
-を使った!!
-$J=====1=====
+$E=====0=====
+//「<EXTEND=0>のカギ」
+//を使った!!
+Used the <EXTEND=0> Key!
+$E=====1=====
 <PROC=0>
 <END>
 $J=====2=====
 <EXTEND=0>色の扉(とびら)だ。
 <MOJISE=MOJISE_SYSTEM>カギがかかっている。
-$J=====3=====
+$E=====3=====
 <PROC=0>
 <END>
-$J=====4=====
-緑
-$J=====5=====
+$E=====4=====
+//緑
+Green
+$E=====5=====
 黄
-$J=====6=====
+Yellow
+$E=====6=====
 赤
-$J=====7=====
-×
-$J=====8=====
+Red
+$E=====7=====
+//×
+Blue
+$E=====8=====
+//
+//<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
 
-<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
-$J=====9=====
+<LABEL>Defeat all enemy monsters!</LABEL>
+$E=====9=====
 <PROC=0>
 <END>
-$J=====10=====
+$E=====10=====
+//
+//<LABEL> 　見つからずに脱出せよ!!
 
-<LABEL> 　見つからずに脱出せよ!!
-$J=====11=====
+<LABEL> Escape without being seen!
+$E=====11=====
 <PROC=0>
 <END>
-$J=====12=====
+$E=====12=====
+//
+//<LABEL> 3つの女神像を手に入れろ!!</LABEL>
 
-<LABEL> 3つの女神像を手に入れろ!!</LABEL>
-$J=====13=====
+<LABEL>Get the 3 Goddess Statues!</LABEL>
+$E=====13=====
 <PROC=0>
 <END>
-$J=====14=====
-ミッションを中止しますか?
- <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
-$J=====15=====
-宝箱を取れ!
-$J=====16=====
+$E=====14=====
+//ミッションを中止しますか?
+// <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
+Abort Mission?
+ <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
+$E=====15=====
+//宝箱を取れ!
+Open the treasure chest!
+$E=====16=====
 <PROC=0>
 <END>
 $J=====17=====
 なんかしろ
-$J=====18=====
+$E=====18=====
 <PROC=0>
 <END>
 $J=====19=====
+//
+//<LABEL>　　　鉄格子を開けろ!!</LABEL>
 
-<LABEL>　　　鉄格子を開けろ!!</LABEL>
-$J=====20=====
+<LABEL>Open the iron gate!</LABEL>
+$E=====20=====
 <PROC=0>
 <END>
-$J=====21=====
+$E=====21=====
+//
+//<LABEL>　[黄のカギ]を手に入れろ!!</LABEL>
 
-<LABEL>　[黄のカギ]を手に入れろ!!</LABEL>
-$J=====22=====
+<LABEL>  Find the Yellow Key!</LABEL>
+$E=====22=====
 <PROC=0>
 <END>
-$J=====23=====
+$E=====23=====
+//
+//　　　 カギ扉を開けろ
 
-　　　 カギ扉を開けろ
-$J=====24=====
+    Open the locked door
+$E=====24=====
 <PROC=0>
 <END>
-$J=====25=====
+$E=====25=====
+//
+//　 すべての宝箱を開けろ!!
 
-　 すべての宝箱を開けろ!!
-$J=====26=====
+ Open all treasure chests!
+$E=====26=====
 <PROC=0>
 <END>
 $J=====27=====
@@ -82,12 +104,14 @@ $J=====28=====
 $J=====29=====
 
 　 太陽の根を元気にしろ!!
-$J=====30=====
+$E=====30=====
 <PROC=0>
 <END>
-$J=====31=====
+$E=====31=====
+//
+//　[赤のカギ]を手に入れろ!!
 
-　[赤のカギ]を手に入れろ!!
+<LABEL>     Find the Red Key!</LABEL>
 $J=====32=====
 <PROC=0>
 <END>
@@ -15801,7 +15825,7 @@ $E=====5486=====
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //<PROC=1><LOCK=30>「ウフフフフ・・・
 <LABEL=RATA>Boy in White</LABEL>:
-<PROC=1><LOCK=30>"Ufufufufu...
+<PROC=1><LOCK=30>"Heheheheh...
 $E=====5487=====
 <PROC=0>
 <END>
@@ -15831,13 +15855,14 @@ $E=====5492=====
 //命を持たないものを殺すことな
 //ど、できはしない
 You can't kill that which
-has no life, nor can your
-younger brother
+has no life, and neither can
+Solar Boy <NAME>,
 $E=====5493=====
 //太陽の力をあやつるあなたの弟
 //太陽少年<NAME>にもね」
-Solar Boy <NAME> who uses
-the power of the sun."
+your younger brother who
+wields the power of the
+Sun."
 $E=====5494=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「絶対存在(エターナル)・・・
@@ -15868,74 +15893,110 @@ yourselves too?"
 $E=====5499=====
 <PROC=0>
 <END>
-$J=====5500=====
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「だからこそ、あなたの協力が
-必要なのです」
-$J=====5501=====
-<LABEL=SABATA>サバタ</LABEL>
-「どういうことだ?」
-$J=====5502=====
+$E=====5500=====
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//「だからこそ、あなたの協力が
+//必要なのです」
+<LABEL=RATA>Boy in White</LABEL>:
+"That's precisely why your
+cooperation is necessary."
+$E=====5501=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「どういうことだ?」
+<LABEL=SABATA>Sabata</LABEL>:
+"What do you mean?"
+$E=====5502=====
 <PROC=0>
 <END>
-$J=====5503=====
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-「人形使いとよばれるわたくし
-にも・・・
-$J=====5504=====
-絶対存在(エターナル)であるヴ
-ァナルガンドをあやつることな
-ど、できはしない
-$J=====5505=====
-ですが、暗黒少年でありながら
-月の血を宿したあなたであれば
-話は別です
-$J=====5506=====
-月の巫女(月下美人)の力をもっ
-てすれば、
-$J=====5507=====
-ヴァナルガンドの魂(たましい)
-とつながることができる
-$J=====5508=====
-破壊(はかい)の獣(けもの)、そ
-のものと成ることができる
-$J=====5509=====
-そう、この大いなる力を手にす
-ることができるのです」
-$J=====5510=====
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=6>「フッ・・・
-$J=====5511=====
-このおれが、そんなことをゆる
-すと思うのか?」
-$J=====5512=====
+$E=====5503=====
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//「人形使いとよばれるわたくし
+//にも・・・
+<LABEL=RATA>Boy in White</LABEL>:
+For a puppeteer such as
+myself,
+$E=====5504=====
+//絶対存在(エターナル)であるヴ
+//ァナルガンドをあやつることな
+//ど、できはしない
+controlling Vanargand, an
+Eternal, would not be
+possible.
+$E=====5505=====
+//ですが、暗黒少年でありながら
+//月の血を宿したあなたであれば
+//話は別です
+However, for the Dark Boy,
+who carries Lunar blood, it
+is a different story.
+$E=====5506=====
+//月の巫女(月下美人)の力をもっ
+//てすれば、
+If I had the power of the
+Lunar Beauty,
+$E=====5507=====
+//ヴァナルガンドの魂(たましい)
+//とつながることができる
+I could become connected to
+Vanargand's soul;
+$E=====5508=====
+//破壊(はかい)の獣(けもの)、そ
+//のものと成ることができる
+I could become the Beast of
+Destruction.
+$E=====5509=====
+//そう、この大いなる力を手にす
+//ることができるのです」
+Oh yes, I could obtain such
+incredible power."
+$E=====5510=====
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=6>「フッ・・・
+<LABEL=SABATA>Sabata</LABEL>:
+<PROC=1><LOCK=6>"Heh...
+$E=====5511=====
+//このおれが、そんなことをゆる
+//すと思うのか?」
+Do you think I would let
+that happen?"
+$E=====5512=====
 <PROC=0>
 <END>
-$J=====5513=====
-<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
-<PROC=1><LOCK=30>「ウフフフフ・・・
-$J=====5514=====
+$E=====5513=====
+//<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
+//<PROC=1><LOCK=30>「ウフフフフ・・・
+<LABEL=RATA>Boy in White</LABEL>:
+<PROC=1><LOCK=30>"Heheheheh...
+$E=====5514=====
 <PROC=0>
 <END>
-$J=====5515=====
-<LABEL=RATA></LABEL>わたしにはあなたのゆるしなど
-必要ありません
-$J=====5516=====
-人形には意思など・・・
-必要ないのです!!」
-$J=====5517=====
+$E=====5515=====
+//<LABEL=RATA></LABEL>わたしにはあなたのゆるしなど
+//必要ありません
+<LABEL=RATA></LABEL>I needn't have your
+permission.
+$E=====5516=====
+//人形には意思など・・・
+//必要ないのです!!」
+A puppet does not need a
+will!!"
+$E=====5517=====
 <PROC=0>
 <END>
-$J=====5518=====
-<LABEL=SABATA>サバタ</LABEL>
-「ヌグッ、これは・・・!」
-$J=====5519=====
+$E=====5518=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「ヌグッ、これは・・・!」
+<LABEL=SABATA>Sabata</LABEL>:
+"Ugh, this is...!"
+$E=====5519=====
 <PROC=0>
 <END>
-$J=====5520=====
-<LABEL=SABATA>サバタ</LABEL>
-「グワアアアアアアッ!!」
-$J=====5521=====
+$E=====5520=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「グワアアアアアアッ!!」
+<LABEL=SABATA>Sabata</LABEL>:
+"GWAAAAAAAHHHHHHHH!!"
+$E=====5521=====
 <PROC=0>
 <END>
 $J=====5522=====
