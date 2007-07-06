@@ -15830,14 +15830,14 @@ turn to.
 $E=====5492=====
 //命を持たないものを殺すことな
 //ど、できはしない
-You can't hurt or kill
-mortals,
+You can't kill that which
+has no life, nor can your
+younger brother
 $E=====5493=====
 //太陽の力をあやつるあなたの弟
 //太陽少年<NAME>にもね」
-nor your younger brother
-Solar Boy <NAME> who
-uses the power of the Sun."
+Solar Boy <NAME> who uses
+the power of the sun."
 $E=====5494=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「絶対存在(エターナル)・・・
