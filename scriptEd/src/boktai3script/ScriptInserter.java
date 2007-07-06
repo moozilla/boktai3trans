@@ -127,6 +127,11 @@ public class ScriptInserter {
          System.exit(1);
       }
       System.out.println("Lines read from file: " + lines.size());
+      System.out.println("Total length: " + totalLength);
+      if (totalLength > 0x61DB9) {
+         System.err.println("Error! Total length exceeds maximum alloted space by " + (totalLength-0x61DB9) + " bytes.");
+         System.exit(1);
+      }
       try {
          file.close();
       } catch (IOException e) {
