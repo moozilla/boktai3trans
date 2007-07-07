@@ -207,20 +207,20 @@ $J=====61=====
 $J=====62=====
 その死の都にたった1人で乗り
 こみ、闇の女王(クイーン)をた
-おしたという戦土のことを?
+おしたという戦士のことを?
 $J=====63=====
 息子が良く話していたよ・・・
 $J=====64=====
-[オレもその戦土のように強く
+[オレもその戦士のように強く
 なって、この街を守るんだ!!]
 とな
 $J=====65=====
-まさかその戦土がこの街にも?
+まさかその戦士がこの街にも?
 $J=====66=====
 もしそうだとしたら、
 $J=====67=====
 街を守ろうとした息子の意思が
-戦土よびよせてくれたのかもし
+戦士よびよせてくれたのかもし
 れんな・・・」
 $J=====68=====
 <PROC=0>
@@ -2085,7 +2085,7 @@ Lv.<VAR=0>　威力:<VAR=1>　幅広(はばひろ)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXT
 $J=====875=====
 Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 $J=====876=====
-Lv.<VAR=0>　威力:<VAR=1>　騎土(きし)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>　威力:<VAR=1>　騎士(きし)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 $J=====877=====
 Lv.<VAR=0>　威力:<VAR=1>　けんか用の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 $J=====878=====
@@ -2932,10 +2932,10 @@ $E=====1176=====
 //初心者向けの鎧(よろい)。受けるダメージがへる(中)。
 Armor for beginners. Decreases damage taken.
 $E=====1177=====
-//白騎土(しろきし)の鎧(よろい)。昼間受けるダメージがへり(大)、夜間受けるダメージがふえる(大)。
+//白騎士(しろきし)の鎧(よろい)。昼間受けるダメージがへり(大)、夜間受けるダメージがふえる(大)。
 A white knight's armor. Greatly decreases damage taken during the day, but greatly increases damage taken at night.
 $E=====1178=====
-//黒騎土(くろきし)の鎧(よろい)。夜間受けるダメージがへり(大)、昼間受けるダメージがふえる(大)。
+//黒騎士(くろきし)の鎧(よろい)。夜間受けるダメージがへり(大)、昼間受けるダメージがふえる(大)。
 A black knight's armor. Greatly decreases damage taken at night, but greatly increases damage taken during the day.
 $E=====1179=====
 //小汚(こぎたな)い外とう。太陽ゲージが高いほど受けるダメージがへる。
@@ -2965,10 +2965,10 @@ $E=====1187=====
 //魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
 Magical gauntlet. Damage dealt increases as SPR increases. Decreses STR.
 $E=====1188=====
-//白騎土(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
+//白騎士(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
 A white knight's gauntlet. Increases damage dealt during the day, decreases damage dealt at night.
 $E=====1189=====
-//黒騎土(くろきし)の手甲(てっこう)。夜間あたえるダメージがふえ、昼間あたえるダメージがへる。
+//黒騎士(くろきし)の手甲(てっこう)。夜間あたえるダメージがふえ、昼間あたえるダメージがへる。
 A black knight's gauntlet. Increases damage dealt at night, decreases damage dealt during the day.
 $E=====1190=====
 //小汚(こぎたな)い手袋(てぶくろ)。太陽ゲージが高いほどあたえるダメージがふえる。
@@ -3030,118 +3030,174 @@ SEALED PRISON [B4F]
 $E=====1209=====
 //死灰の街A [2F]
 LIFELESS TOWN A [2F]
-$J=====1210=====
-死灰の街A [1F]
-$J=====1211=====
-死灰の街B [2F]
-$J=====1212=====
-死灰の街B [1F]
-$J=====1213=====
-古の大樹B [6F]
-$J=====1214=====
-古の大樹B [5F]
-$J=====1215=====
-古の大樹B [4F]
-$J=====1216=====
-古の大樹A [3F]
-$J=====1217=====
-古の大樹A [2F]
-$J=====1218=====
-古の大樹A [1F]
-$J=====1219=====
-白き森A [1F]
-$J=====1220=====
-白き森A [B1F]
-$J=====1221=====
-白き森B [1F]
-$J=====1222=====
-白き森B [B1F]
-$J=====1223=====
-海賊の島A [3F]
-$J=====1224=====
-海賊の島A [2F]
-$J=====1225=====
-海賊の島A [1F]
-$J=====1226=====
-海賊の島A [B1]
-$J=====1227=====
-海賊の島A [B2]
-$J=====1228=====
-海賊の島B [2F]
-$J=====1229=====
-海賊の島B [1F]
-$J=====1230=====
-海賊の島B [B1]
-$J=====1231=====
-暗黒城 [15F]
-$J=====1232=====
-暗黒城 [14F]
-$J=====1233=====
-暗黒城 [13F]
-$J=====1234=====
-暗黒城 [12F]
-$J=====1235=====
-暗黒城 [11F]
-$J=====1236=====
-暗黒城 [10F]
-$J=====1237=====
-暗黒城 [9F]
-$J=====1238=====
-暗黒城 [8F]
-$J=====1239=====
-暗黒城 [7F]
-$J=====1240=====
-暗黒城 [6F]
-$J=====1241=====
-暗黒城 [5F]
-$J=====1242=====
-暗黒城 [4F]
-$J=====1243=====
-暗黒城 [3F]
-$J=====1244=====
-暗黒城 [B9F 中央塔]
-$J=====1245=====
-暗黒城 [B9F 炎の間]
-$J=====1246=====
-暗黒城 [B9F 大地の間]
-$J=====1247=====
-暗黒城 [B9F 氷の間]
-$J=====1248=====
-暗黒城 [B8F 風の間]
-$J=====1249=====
-暗黒城 [B9F 風の間]
-$J=====1250=====
-暗黒城 [B10F 風の間]
-$J=====1251=====
-暗黒城 [B6F 中央塔]
-$J=====1252=====
-暗黒城 [B6F 炎の間]
-$J=====1253=====
-暗黒城 [B6F 大地の間]
-$J=====1254=====
-暗黒城 [B6F 氷の間]
-$J=====1255=====
-暗黒城 [B6F 風の間]
-$J=====1256=====
-暗黒城 [B12F 中央塔]
-$J=====1257=====
-暗黒城 [B12F 炎の間]
-$J=====1258=====
-暗黒城 [B12F 大地の間]
-$J=====1259=====
-暗黒城 [B12F 氷の間]
-$J=====1260=====
-暗黒城 [B12F 風の間]
-$J=====1261=====
-暗黒城 [B15F 中央塔]
-$J=====1262=====
-暗黒城 [B15F 炎の間]
-$J=====1263=====
-暗黒城 [B15F 大地の間]
-$J=====1264=====
-暗黒城 [B15F 氷の間]
-$J=====1265=====
-暗黒城 [B15F 風の間]
+$E=====1210=====
+//死灰の街A [1F]
+LIFELESS TOWN A [1F]
+$E=====1211=====
+//死灰の街B [2F]
+LIFELESS TOWN B [2F]
+$E=====1212=====
+//死灰の街B [1F]
+LIFELESS TOWN B [1F]
+$E=====1213=====
+//古の大樹B [6F]
+ANCIENT TREE B [6F]
+$E=====1214=====
+//古の大樹B [5F]
+ANCIENT TREE B [5F]
+$E=====1215=====
+//古の大樹B [4F]
+ANCIENT TREE B [4F]
+$E=====1216=====
+//古の大樹A [3F]
+ANCIENT TREE A [3F]
+$E=====1217=====
+//古の大樹A [2F]
+ANCIENT TREE A [2F]
+$E=====1218=====
+//古の大樹A [1F]
+ANCIENT TREE A [1F]
+$E=====1219=====
+//白き森A [1F]
+WHITE FOREST A [1F]
+$E=====1220=====
+//白き森A [B1F]
+WHITE FOREST A [B1F]
+$E=====1221=====
+//白き森B [1F]
+WHITE FOREST B [1F]
+$E=====1222=====
+//白き森B [B1F]
+WHITE FOREST B [B1F]
+$E=====1223=====
+//海賊の島A [3F]
+PIRATE ISLAND A [3F]
+$E=====1224=====
+//海賊の島A [2F]
+PIRATE ISLAND A [2F]
+$E=====1225=====
+//海賊の島A [1F]
+PIRATE ISLAND A [1F]
+$E=====1226=====
+//海賊の島A [B1]
+PIRATE ISLAND A [B1]
+$E=====1227=====
+//海賊の島A [B2]
+PIRATE ISLAND A [B2]
+$E=====1228=====
+//海賊の島B [2F]
+PIRATE ISLAND B [2F]
+$E=====1229=====
+//海賊の島B [1F]
+PIRATE ISLAND B [1F]
+$E=====1230=====
+//海賊の島B [B1]
+PIRATE ISLAND B [B1]
+$E=====1231=====
+//暗黒城 [15F]
+DARK CASTLE [15F]
+$E=====1232=====
+//暗黒城 [14F]
+DARK CASTLE [14F]
+$E=====1233=====
+//暗黒城 [13F]
+DARK CASTLE [13F]
+$E=====1234=====
+//暗黒城 [12F]
+DARK CASTLE [12F]
+$E=====1235=====
+//暗黒城 [11F]
+DARK CASTLE [11F]
+$E=====1236=====
+//暗黒城 [10F]
+DARK CASTLE [10F]
+$E=====1237=====
+//暗黒城 [9F]
+DARK CASTLE [9F]
+$E=====1238=====
+//暗黒城 [8F]
+DARK CASTLE [8F]
+$E=====1239=====
+//暗黒城 [7F]
+DARK CASTLE [7F]
+$E=====1240=====
+//暗黒城 [6F]
+DARK CASTLE [6F]
+$E=====1241=====
+//暗黒城 [5F]
+DARK CASTLE [5F]
+$E=====1242=====
+//暗黒城 [4F]
+DARK CASTLE [4F]
+$E=====1243=====
+//暗黒城 [3F]
+DARK CASTLE [3F]
+$E=====1244=====
+//暗黒城 [B9F 中央塔]
+DARK CASTLE [B9F CENTER]
+$E=====1245=====
+//暗黒城 [B9F 炎の間]
+DARK CASTLE [B9F FLAME AREA]
+$E=====1246=====
+//暗黒城 [B9F 大地の間]
+DARK CASTLE [B9F EARTH AREA]
+$E=====1247=====
+//暗黒城 [B9F 氷の間]
+DARK CASTLE [B9F ICE AREA]
+$E=====1248=====
+//暗黒城 [B8F 風の間]
+DARK CASTLE [B8F WIND AREA]
+$E=====1249=====
+//暗黒城 [B9F 風の間]
+DARK CASTLE [B9F WIND AREA]
+$E=====1250=====
+//暗黒城 [B10F 風の間]
+DARK CASTLE [B10F WIND AREA]
+$E=====1251=====
+//暗黒城 [B6F 中央塔]
+DARK CASTLE [B6F CENTER TOWER]
+$E=====1252=====
+//暗黒城 [B6F 炎の間]
+DARK CASTLE [B6F FLAME AREA]
+$E=====1253=====
+//暗黒城 [B6F 大地の間]
+DARK CASTLE [B6F EARTH AREA]
+$E=====1254=====
+//暗黒城 [B6F 氷の間]
+DARK CASTLE [B6F ICE AREA]
+$E=====1255=====
+//暗黒城 [B6F 風の間]
+DARK CASTLE [B6F WIND AREA]
+$E=====1256=====
+//暗黒城 [B12F 中央塔]
+DARK CASTLE [B12F CENTER TOWER]
+$E=====1257=====
+//暗黒城 [B12F 炎の間]
+DARK CASTLE [B6F FLAME AREA]
+$E=====1258=====
+//暗黒城 [B12F 大地の間]
+DARK CASTLE [B6F EARTH AREA]
+$E=====1259=====
+//暗黒城 [B12F 氷の間]
+DARK CASTLE [B6F ICE AREA]
+$E=====1260=====
+//暗黒城 [B12F 風の間]
+DARK CASTLE [B6F WIND AREA]
+$E=====1261=====
+//暗黒城 [B15F 中央塔]
+DARK CASTLE [B15F CENTER TOWER]
+$E=====1262=====
+//暗黒城 [B15F 炎の間]
+DARK CASTLE [B15F FLAME AREA]
+$E=====1263=====
+//暗黒城 [B15F 大地の間]
+DARK CASTLE [B15F EARTH AREA]
+$E=====1264=====
+//暗黒城 [B15F 氷の間]
+DARK CASTLE [B15F ICE AREA]
+$E=====1265=====
+//暗黒城 [B15F 風の間]
+DARK CASTLE [B15F WIND AREA]
 $E=====1266=====
 //楽園
 PARADISE
@@ -3451,7 +3507,7 @@ $E=====1368=====
 //「ブラスター{I}」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Front
-"Blaster <I>"
+"Blaster {I}"
 obtained!</LABEL><PROC=1>
 $E=====1369=====
 <PROC=0>
@@ -3471,478 +3527,679 @@ $E=====1372=====
 //「ブラスター{II}」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Front
-"Blaster <II>"
+"Blaster {II}"
 obtained!</LABEL><PROC=1>
 $E=====1373=====
 <PROC=0>
 <END>
-$J=====1374=====
-<LABEL>バイクフロント
-「ハンマーヘッド」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1375=====
-<PROC=0>
-<END>
-$J=====1376=====
-<LABEL>バイクフロント
-「フェアリーテイル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1377=====
-<PROC=0>
-<END>
-$J=====1378=====
-<LABEL>バイクフロント
-「クラッシャー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1379=====
-<PROC=0>
-<END>
-$J=====1380=====
-<LABEL>バイクボディ
-「ヴァイキング」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1381=====
-<PROC=0>
-<END>
-$J=====1382=====
-<LABEL>バイクボディ
-「エインヘルヤル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1383=====
-<PROC=0>
-<END>
-$J=====1384=====
-<LABEL>バイクボディ
-「ウルフヘジン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1385=====
-<PROC=0>
-<END>
-$J=====1386=====
-<LABEL>バイクボディ
-「ベルセルク」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1387=====
-<PROC=0>
-<END>
-$J=====1388=====
-<LABEL>バイクボディ
-「ヴァルキリー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1389=====
-<PROC=0>
-<END>
-$J=====1390=====
-<LABEL>バイクボディ
-「スレイプニル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1391=====
-<PROC=0>
-<END>
-$J=====1392=====
-<LABEL>バイクタイヤ
-「スタンダード{I}」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1393=====
-<PROC=0>
-<END>
-$J=====1394=====
-<LABEL>バイクタイヤ
-「スタンダード{II}」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1395=====
-<PROC=0>
-<END>
-$J=====1396=====
-<LABEL>バイクタイヤ
-「トライアル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1397=====
-<PROC=0>
-<END>
-$J=====1398=====
-<LABEL>バイクタイヤ
-「チェーン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1399=====
-<PROC=0>
-<END>
-$J=====1400=====
-<LABEL>バイクタイヤ
-「マルチパーパス」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1401=====
-<PROC=0>
-<END>
-$J=====1402=====
-<LABEL>バイクタイヤ
-「ブースター」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1403=====
-<PROC=0>
-<END>
-$J=====1404=====
-<LABEL>バイクスペシャル
-「リペア」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1405=====
-<PROC=0>
-<END>
-$J=====1406=====
-<LABEL>バイクスペシャル
-「マイン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1407=====
-<PROC=0>
-<END>
-$J=====1408=====
-<LABEL>バイクスペシャル
-「バリア」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1409=====
-<PROC=0>
-<END>
-$J=====1410=====
-<LABEL>バイクスペシャル
-「スプレッド」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1411=====
-<PROC=0>
-<END>
-$J=====1412=====
-<LABEL>バイクスペシャル
-「ステルス」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1413=====
-<PROC=0>
-<END>
-$J=====1414=====
-<LABEL>バイクスペシャル
-「弾道ミサイル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1415=====
-<PROC=0>
-<END>
-$J=====1416=====
-<LABEL>バイクオプション
-「マジックハンドル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1417=====
-<PROC=0>
-<END>
-$J=====1418=====
-<LABEL>バイクオプション
-「マジックステップ」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1419=====
-<PROC=0>
-<END>
-$J=====1420=====
-<LABEL>バイクオプション
-「ロックエンブレム」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1421=====
-<PROC=0>
-<END>
-$J=====1422=====
-<LABEL>バイクオプション
-「プラチナプラグ」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1423=====
-<PROC=0>
-<END>
-$J=====1424=====
-<LABEL>バイクオプション
-「高級オイル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1425=====
-<PROC=0>
-<END>
-$J=====1426=====
-<LABEL>バイクオプション
-「HYPチャージャー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1427=====
-<PROC=0>
-<END>
-$J=====1428=====
-<LABEL>バイクオプション
-「ブルースチェーン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1429=====
-<PROC=0>
-<END>
-$J=====1430=====
-<LABEL>バイクオプション
-「カーネルギア」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1431=====
-<PROC=0>
-<END>
-$J=====1432=====
-<LABEL>バイクオプション
-「強化アーム」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1433=====
-<PROC=0>
-<END>
-$J=====1434=====
-<LABEL>バイクオプション
-「強化フレーム」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1435=====
-<PROC=0>
-<END>
-$J=====1436=====
-<LABEL>バイクオプション
-「ナックルガード」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1437=====
-<PROC=0>
-<END>
-$J=====1438=====
-<LABEL>バイクオプション
-「プロテクター」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1439=====
-<PROC=0>
-<END>
-$J=====1440=====
-<LABEL>バイクオプション
-「BSTバッテリー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1441=====
-<PROC=0>
-<END>
-$J=====1442=====
-<LABEL>バイクオプション
-「WPNバッテリー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1443=====
-<PROC=0>
-<END>
-$J=====1444=====
-<LABEL>バイクオプション
-「SPバッテリー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1445=====
-<PROC=0>
-<END>
-$J=====1446=====
-<LABEL>バイクオプション
-「クラッチマスター」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1447=====
-<PROC=0>
-<END>
-$J=====1448=====
-<LABEL>バイクオプション
-「ブレーキマスター」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1449=====
-<PROC=0>
-<END>
-$J=====1450=====
-<LABEL>バイクオプション
-「キッドのアフロ」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1451=====
-<PROC=0>
-<END>
-$J=====1452=====
-<LABEL>バイクオプション
-「スミスのハンマー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1453=====
-<PROC=0>
-<END>
-$J=====1454=====
-<LABEL>バイクオプション
-「スミレのエプロン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1455=====
-<PROC=0>
-<END>
-$J=====1456=====
-<LABEL>バイクオプション
-「レディのカード」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1457=====
-<PROC=0>
-<END>
-$J=====1458=====
-<LABEL>バイクオプション
-「シャイアンのオノ」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1459=====
-<PROC=0>
-<END>
-$J=====1460=====
-<LABEL>バイクオプション
-「リタのリボン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1461=====
-<PROC=0>
-<END>
-$J=====1462=====
-<LABEL>バイクオプション
-「ザジの魔法石」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1463=====
-<PROC=0>
-<END>
-$J=====1464=====
-<LABEL>バイクカラー
-「コフィングレー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1465=====
-<PROC=0>
-<END>
-$J=====1466=====
-<LABEL>バイクカラー
-「ソルイエロー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1467=====
-<PROC=0>
-<END>
-$J=====1468=====
-<LABEL>バイクカラー
-「ルナホワイト」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1469=====
-<PROC=0>
-<END>
-$J=====1470=====
-<LABEL>バイクカラー
-「フレイムレッド」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1471=====
-<PROC=0>
-<END>
-$J=====1472=====
-<LABEL>バイクカラー
-「フロストブルー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1473=====
-<PROC=0>
-<END>
-$J=====1474=====
-<LABEL>バイクカラー
-「クラウドパープル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1475=====
-<PROC=0>
-<END>
-$J=====1476=====
-<LABEL>バイクカラー
-「アースグリーン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1477=====
-<PROC=0>
-<END>
-$J=====1478=====
-<LABEL>バイクカラー
-「ダークブラック」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1479=====
-<PROC=0>
-<END>
-$J=====1480=====
-<LABEL>バイクカラー
-「ジャンゴレッド」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1481=====
-<PROC=0>
-<END>
-$J=====1482=====
-<LABEL>バイクカラー
-「サバタブラック」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1483=====
-<PROC=0>
-<END>
-$J=====1484=====
-<LABEL>バイクカラー
-「トリニティーSP」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1485=====
-<PROC=0>
-<END>
-$J=====1486=====
-<LABEL>バイクカラー
-「ロックブルー」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1487=====
-<PROC=0>
-<END>
-$J=====1488=====
-<LABEL>ぬいぐるみ
-「おてんこさま」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1489=====
-<PROC=0>
-<END>
-$J=====1490=====
-<LABEL>ぬいぐるみ
-「おけんこさま」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1491=====
-<PROC=0>
-<END>
-$J=====1492=====
-<LABEL>ぬいぐるみ
-「かげんこさま」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1493=====
-<PROC=0>
-<END>
-$J=====1494=====
-<LABEL>ぬいぐるみ
-「おがんくさま」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1495=====
-<PROC=0>
-<END>
-$J=====1496=====
-<LABEL>ぬいぐるみ
-「どろんぼさま」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1497=====
-<PROC=0>
-<END>
-$J=====1498=====
-<LABEL>ぬいぐるみ
-「おたんてさま」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1499=====
-<PROC=0>
-<END>
-$J=====1500=====
-<LABEL>ぬいぐるみ
-「陽子ちゃんと暗子ちゃん」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1501=====
-<PROC=0>
-<END>
-$J=====1502=====
-<LABEL>ぬいぐるみ
-「ロックマン」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1503=====
-<PROC=0>
-<END>
-$J=====1504=====
-<LABEL>ぬいぐるみ
-「ブルース」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1505=====
-<PROC=0>
-<END>
-$J=====1506=====
-<LABEL>ぬいぐるみ
-「カーネル」
-を手に入れた!!</LABEL><PROC=1>
-$J=====1507=====
+$E=====1374=====
+//<LABEL>バイクフロント
+//「ハンマーヘッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Hammerhead"
+obtained!</LABEL><PROC=1>
+$E=====1375=====
+<PROC=0>
+<END>
+$E=====1376=====
+//<LABEL>バイクフロント
+//「フェアリーテイル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Fairy Tale"
+obtained!</LABEL><PROC=1>
+$E=====1377=====
+<PROC=0>
+<END>
+$E=====1378=====
+//<LABEL>バイクフロント
+//「クラッシャー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Front
+"Crusher"
+obtained!</LABEL><PROC=1>
+$E=====1379=====
+<PROC=0>
+<END>
+$E=====1380=====
+//<LABEL>バイクボディ
+//「ヴァイキング」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Viking"
+obtained!</LABEL><PROC=1>
+$E=====1381=====
+<PROC=0>
+<END>
+$E=====1382=====
+//<LABEL>バイクボディ
+//「エインヘルヤル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Einherjar"
+obtained!</LABEL><PROC=1>
+$E=====1383=====
+<PROC=0>
+<END>
+$E=====1384=====
+//<LABEL>バイクボディ
+//「ウルフヘジン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Ulfhedinn"
+obtained!</LABEL><PROC=1>
+$E=====1385=====
+<PROC=0>
+<END>
+$E=====1386=====
+//<LABEL>バイクボディ
+//「ベルセルク」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Berserk"
+obtained!</LABEL><PROC=1>
+$E=====1387=====
+<PROC=0>
+<END>
+$E=====1388=====
+//<LABEL>バイクボディ
+//「ヴァルキリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Valkyrie"
+obtained!</LABEL><PROC=1>
+$E=====1389=====
+<PROC=0>
+<END>
+$E=====1390=====
+//<LABEL>バイクボディ
+//「スレイプニル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Body
+"Sleipnir"
+obtained!</LABEL><PROC=1>
+$E=====1391=====
+<PROC=0>
+<END>
+$E=====1392=====
+//<LABEL>バイクタイヤ
+//「スタンダード{I}」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Standard {I}"
+obtained!</LABEL><PROC=1>
+$E=====1393=====
+<PROC=0>
+<END>
+$E=====1394=====
+//<LABEL>バイクタイヤ
+//「スタンダード{II}」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Standard {II}"
+obtained!</LABEL><PROC=1>
+$E=====1395=====
+<PROC=0>
+<END>
+$E=====1396=====
+//<LABEL>バイクタイヤ
+//「トライアル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Trail"
+obtained!</LABEL><PROC=1>
+$E=====1397=====
+<PROC=0>
+<END>
+$E=====1398=====
+//<LABEL>バイクタイヤ
+//「チェーン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Chain"
+obtained!</LABEL><PROC=1>
+$E=====1399=====
+<PROC=0>
+<END>
+$E=====1400=====
+//<LABEL>バイクタイヤ
+//「マルチパーパス」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Multi-purpose"
+obtained!</LABEL><PROC=1>
+$E=====1401=====
+<PROC=0>
+<END>
+$E=====1402=====
+//<LABEL>バイクタイヤ
+//「ブースター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Tire
+"Booster"
+obtained!</LABEL><PROC=1>
+$E=====1403=====
+<PROC=0>
+<END>
+$E=====1404=====
+//<LABEL>バイクスペシャル
+//「リペア」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Repair"
+obtained!</LABEL><PROC=1>
+$E=====1405=====
+<PROC=0>
+<END>
+$E=====1406=====
+//<LABEL>バイクスペシャル
+//「マイン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Mine"
+obtained!</LABEL><PROC=1>
+$E=====1407=====
+<PROC=0>
+<END>
+$E=====1408=====
+//<LABEL>バイクスペシャル
+//「バリア」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Barrier"
+obtained!</LABEL><PROC=1>
+$E=====1409=====
+<PROC=0>
+<END>
+$E=====1410=====
+//<LABEL>バイクスペシャル
+//「スプレッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Spread"
+obtained!</LABEL><PROC=1>
+$E=====1411=====
+<PROC=0>
+<END>
+$E=====1412=====
+//<LABEL>バイクスペシャル
+//「ステルス」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Stealth"
+obtained!</LABEL><PROC=1>
+$E=====1413=====
+<PROC=0>
+<END>
+$E=====1414=====
+//<LABEL>バイクスペシャル
+//「弾道ミサイル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Special
+"Ballistic Missile"
+obtained!</LABEL><PROC=1>
+$E=====1415=====
+<PROC=0>
+<END>
+$E=====1416=====
+//<LABEL>バイクオプション
+//「マジックハンドル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Magic Handle"
+obtained!</LABEL><PROC=1>
+$E=====1417=====
+<PROC=0>
+<END>
+$E=====1418=====
+//<LABEL>バイクオプション
+//「マジックステップ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Magic Step"
+obtained!</LABEL><PROC=1>
+$E=====1419=====
+<PROC=0>
+<END>
+$E=====1420=====
+//<LABEL>バイクオプション
+//「ロックエンブレム」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Rock Emblem"
+obtained!</LABEL><PROC=1>
+$E=====1421=====
+<PROC=0>
+<END>
+$E=====1422=====
+//<LABEL>バイクオプション
+//「プラチナプラグ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Platinum Plug"
+obtained!</LABEL><PROC=1>
+$E=====1423=====
+<PROC=0>
+<END>
+$E=====1424=====
+//<LABEL>バイクオプション
+//「高級オイル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"High Grade Oil"
+obtained!</LABEL><PROC=1>
+$E=====1425=====
+<PROC=0>
+<END>
+$E=====1426=====
+//<LABEL>バイクオプション
+//「HYPチャージャー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Hyper Charger"
+obtained!</LABEL><PROC=1>
+$E=====1427=====
+<PROC=0>
+<END>
+$E=====1428=====
+//<LABEL>バイクオプション
+//「ブルースチェーン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Blues Chain"
+obtained!</LABEL><PROC=1>
+$E=====1429=====
+<PROC=0>
+<END>
+$E=====1430=====
+//<LABEL>バイクオプション
+//「カーネルギア」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Colonel Gear"
+obtained!</LABEL><PROC=1>
+$E=====1431=====
+<PROC=0>
+<END>
+$E=====1432=====
+//<LABEL>バイクオプション
+//「強化アーム」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Reinforced Arm"
+obtained!</LABEL><PROC=1>
+$E=====1433=====
+<PROC=0>
+<END>
+$E=====1434=====
+//<LABEL>バイクオプション
+//「強化フレーム」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Reinforced Frame"
+obtained!</LABEL><PROC=1>
+$E=====1435=====
+<PROC=0>
+<END>
+$E=====1436=====
+//<LABEL>バイクオプション
+//「ナックルガード」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Knuckle Guard"
+obtained!</LABEL><PROC=1>
+$E=====1437=====
+<PROC=0>
+<END>
+$E=====1438=====
+//<LABEL>バイクオプション
+//「プロテクター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Protector"
+obtained!</LABEL><PROC=1>
+$E=====1439=====
+<PROC=0>
+<END>
+$E=====1440=====
+//<LABEL>バイクオプション
+//「BSTバッテリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"BST Battery"
+obtained!</LABEL><PROC=1>
+$E=====1441=====
+<PROC=0>
+<END>
+$E=====1442=====
+//<LABEL>バイクオプション
+//「WPNバッテリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"WPN Battery"
+obtained!</LABEL><PROC=1>
+$E=====1443=====
+<PROC=0>
+<END>
+$E=====1444=====
+//<LABEL>バイクオプション
+//「SPバッテリー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"SP Battery"
+obtained!</LABEL><PROC=1>
+$E=====1445=====
+<PROC=0>
+<END>
+$E=====1446=====
+//<LABEL>バイクオプション
+//「クラッチマスター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Clutch Master"
+obtained!</LABEL><PROC=1>
+$E=====1447=====
+<PROC=0>
+<END>
+$E=====1448=====
+//<LABEL>バイクオプション
+//「ブレーキマスター」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Brake Master"
+obtained!</LABEL><PROC=1>
+$E=====1449=====
+<PROC=0>
+<END>
+$E=====1450=====
+//<LABEL>バイクオプション
+//「キッドのアフロ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Kid's Afro"
+obtained!</LABEL><PROC=1>
+$E=====1451=====
+<PROC=0>
+<END>
+$E=====1452=====
+//<LABEL>バイクオプション
+//「スミスのハンマー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Smith's Hammer"
+obtained!</LABEL><PROC=1>
+$E=====1453=====
+<PROC=0>
+<END>
+$E=====1454=====
+//<LABEL>バイクオプション
+//「スミレのエプロン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Violet's Apron"
+obtained!</LABEL><PROC=1>
+$E=====1455=====
+<PROC=0>
+<END>
+$E=====1456=====
+//<LABEL>バイクオプション
+//「レディのカード」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Lady's Card"
+obtained!</LABEL><PROC=1>
+$E=====1457=====
+<PROC=0>
+<END>
+$E=====1458=====
+//<LABEL>バイクオプション
+//「シャイアンのオノ」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Cheyenne's Axe"
+obtained!</LABEL><PROC=1>
+$E=====1459=====
+<PROC=0>
+<END>
+$E=====1460=====
+//<LABEL>バイクオプション
+//「リタのリボン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Lita's Ribbon"
+obtained!</LABEL><PROC=1>
+$E=====1461=====
+<PROC=0>
+<END>
+$E=====1462=====
+//<LABEL>バイクオプション
+//「ザジの魔法石」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Option
+"Zazie's Magical Stone"
+obtained!</LABEL><PROC=1>
+$E=====1463=====
+<PROC=0>
+<END>
+$E=====1464=====
+//<LABEL>バイクカラー
+//「コフィングレー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Coffin Gray"
+obtained!</LABEL><PROC=1>
+$E=====1465=====
+<PROC=0>
+<END>
+$E=====1466=====
+//<LABEL>バイクカラー
+//「ソルイエロー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Sol Yellow"
+obtained!</LABEL><PROC=1>
+$E=====1467=====
+<PROC=0>
+<END>
+$E=====1468=====
+//<LABEL>バイクカラー
+//「ルナホワイト」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Luna White"
+obtained!</LABEL><PROC=1>
+$E=====1469=====
+<PROC=0>
+<END>
+$E=====1470=====
+//<LABEL>バイクカラー
+//「フレイムレッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Flame Red"
+obtained!</LABEL><PROC=1>
+$E=====1471=====
+<PROC=0>
+<END>
+$E=====1472=====
+//<LABEL>バイクカラー
+//「フロストブルー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Frost Blue"
+obtained!</LABEL><PROC=1>
+$E=====1473=====
+<PROC=0>
+<END>
+$E=====1474=====
+//<LABEL>バイクカラー
+//「クラウドパープル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Cloud Purple"
+obtained!</LABEL><PROC=1>
+$E=====1475=====
+<PROC=0>
+<END>
+$E=====1476=====
+//<LABEL>バイクカラー
+//「アースグリーン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Earth Green"
+obtained!</LABEL><PROC=1>
+$E=====1477=====
+<PROC=0>
+<END>
+$E=====1478=====
+//<LABEL>バイクカラー
+//「ダークブラック」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Dark Black"
+obtained!</LABEL><PROC=1>
+$E=====1479=====
+<PROC=0>
+<END>
+$E=====1480=====
+//<LABEL>バイクカラー
+//「ジャンゴレッド」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Django Red"
+obtained!</LABEL><PROC=1>
+$E=====1481=====
+<PROC=0>
+<END>
+$E=====1482=====
+//<LABEL>バイクカラー
+//「サバタブラック」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Sabata Black"
+obtained!</LABEL><PROC=1>
+$E=====1483=====
+<PROC=0>
+<END>
+$E=====1484=====
+//<LABEL>バイクカラー
+//「トリニティーSP」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Trinity SP"
+obtained!</LABEL><PROC=1>
+$E=====1485=====
+<PROC=0>
+<END>
+$E=====1486=====
+//<LABEL>バイクカラー
+//「ロックブルー」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Bike Color
+"Rock Blue"
+obtained!</LABEL><PROC=1>
+$E=====1487=====
+<PROC=0>
+<END>
+$E=====1488=====
+//<LABEL>ぬいぐるみ
+//「おてんこさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Otenko"
+obtained!</LABEL><PROC=1>
+$E=====1489=====
+<PROC=0>
+<END>
+$E=====1490=====
+//<LABEL>ぬいぐるみ
+//「おけんこさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Okenko"
+obtained!</LABEL><PROC=1>
+$E=====1491=====
+<PROC=0>
+<END>
+$E=====1492=====
+//<LABEL>ぬいぐるみ
+//「かげんこさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Kagenko"
+obtained!</LABEL><PROC=1>
+$E=====1493=====
+<PROC=0>
+<END>
+$E=====1494=====
+//<LABEL>ぬいぐるみ
+//「おがんくさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Oganku"
+obtained!</LABEL><PROC=1>
+$E=====1495=====
+<PROC=0>
+<END>
+$E=====1496=====
+//<LABEL>ぬいぐるみ
+//「どろんぼさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Doronbo"
+obtained!</LABEL><PROC=1>
+$E=====1497=====
+<PROC=0>
+<END>
+$E=====1498=====
+//<LABEL>ぬいぐるみ
+//「おたんてさま」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Master Otante"
+obtained!</LABEL><PROC=1>
+$E=====1499=====
+<PROC=0>
+<END>
+$E=====1500=====
+//<LABEL>ぬいぐるみ
+//「陽子ちゃんと暗子ちゃん」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Luxana & Doomy"
+obtained!</LABEL><PROC=1>
+$E=====1501=====
+<PROC=0>
+<END>
+$E=====1502=====
+//<LABEL>ぬいぐるみ
+//「ロックマン」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"RockMan"
+obtained!</LABEL><PROC=1>
+$E=====1503=====
+<PROC=0>
+<END>
+$E=====1504=====
+//<LABEL>ぬいぐるみ
+//「ブルース」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Blues"
+obtained!</LABEL><PROC=1>
+$E=====1505=====
+<PROC=0>
+<END>
+$E=====1506=====
+//<LABEL>ぬいぐるみ
+//「カーネル」
+//を手に入れた!!</LABEL><PROC=1>
+<LABEL>Stuffed Doll
+"Colonel"
+obtained!</LABEL><PROC=1>
+$E=====1507=====
 <PROC=0>
 <END>
 $J=====1508=====
@@ -4038,7 +4295,7 @@ $J=====1533=====
 <END>
 $J=====1534=====
 <LABEL>ブロマイド
-「風の戦土シャイアン」
+「風の戦士シャイアン」
 を手に入れた!!</LABEL><PROC=1>
 $J=====1535=====
 <PROC=0>
@@ -4530,7 +4787,7 @@ $J=====1675=====
 べ)はりつきで回避(かいひ)せ
 よ
 $J=====1676=====
-またゴーレム同土を衝突(しょ
+またゴーレム同士を衝突(しょ
 うとつ)させれば、
 $J=====1677=====
 ダメージをあたえた上で、気絶
@@ -5407,7 +5664,7 @@ $J=====1948=====
 <END>
 $J=====1949=====
 
-<LABEL>　白金の騎土を倒せ!!</LABEL>
+<LABEL>　白金の騎士を倒せ!!</LABEL>
 $J=====1950=====
 <PROC=0>
 <END>
@@ -5559,7 +5816,7 @@ $J=====1996=====
 かなかった
 $J=====1997=====
 食い物も満足に手に入らない地
-下世界じゃあ、同じ人間同土で
+下世界じゃあ、同じ人間同士で
 もすべてがうばい合い
 $J=====1998=====
 食い物も、
@@ -5572,20 +5829,20 @@ $J=====1999=====
 $J=====2000=====
 そんなみじめなオイラたちにと
 って、たった1つの希望は伝説
-の戦土だ
+の戦士だ
 $J=====2001=====
 かつて闇の一族(イモータル)と
 戦い、数々の伝説を残したとい
-う光の戦土
+う光の戦士
 $J=====2002=====
-その戦土さえあらわれてくれり
+その戦士さえあらわれてくれり
 ゃあ、世界は救われるってわけ
 だ
 $J=====2003=====
 でもよぉ、そんなのは子供だま
 しのおとぎ話さ
 $J=====2004=====
-伝説の戦土は仲間にうらぎられ
+伝説の戦士は仲間にうらぎられ
 世界のどこかに封印(ふういん)
 されちまったっていうが、
 $J=====2005=====
@@ -6046,12 +6303,12 @@ $E=====2160=====
     earth as undead.
 $E=====2161=====
 　　　　最後の希望たる　　　　
- 　　　戦土の活躍により　　　 
+ 　　　戦士の活躍により　　　 
 $J=====2162=====
 　　一時は取り戻されたかに　　
  　　　　見えた太陽も　　　　 
 $J=====2163=====
- 　　戦土が仲間の裏切りに　　 
+ 　　戦士が仲間の裏切りに　　 
  　　　　　倒れると　　　　　 
 $J=====2164=====
 　　　　二度とその姿を　　　　
@@ -6068,9 +6325,9 @@ $E=====2166=====
      darkness.
 $J=====2167=====
 　　　太陽の光を得たとき　　　
- 　戦土は再び目覚めるという　 
+ 　戦士は再び目覚めるという　 
 $J=====2168=====
- 　　しかし戦土のいない今　　 
+ 　　しかし戦士のいない今　　 
 $J=====2169=====
 　　　　いったいだれに　　　　
 　　太陽を取り戻すことなど　　
@@ -6337,159 +6594,230 @@ LITA'S RIBBON
 $E=====2274=====
 //ザジの魔法石
 ZAZIE'S MAGICAL STONE
-$J=====2275=====
-エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
-$J=====2276=====
-エナジーを強化するライディングステップ。攻撃力アップ(中)。
-$J=====2277=====
-ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
-$J=====2278=====
-高性能スパークプラグ。加速力アップ(小)。
-$J=====2279=====
-最高級エンジンオイル。加速力アップ(大)。
-$J=====2280=====
-ハイパーチャージャー。最高スピードアップ(小)。
-$J=====2281=====
-ブルースの力が宿ったチェーン。最高スピードアップ(小)。
-$J=====2282=====
-カーネルの力が宿ったギア。最高スピードアップ(小)。
-$J=====2283=====
-強化されたスイングアーム。HP最大値アップ(小)。
-$J=====2284=====
-強化されたフレーム。HP最大値アップ(大)。
-$J=====2285=====
-フロントを守る追加装甲(ついかそうこう)。受けるダメージが減る(小)。
-$J=====2286=====
-ボディを守る追加装甲(ついかそうこう)。受けるダメージが減る(大)。
-$J=====2287=====
-ブースト用追加バッテリー。ブーストコストが下がる。
-$J=====2288=====
-ウエポン用追加バッテリー。ウエポンコストが下がる。
-$J=====2289=====
-スペシャル用追加バッテリー。スペシャルコストが下がる。
-$J=====2290=====
-高性能クラッチ。ブレーキ性能(せいのう)アップ(小)。
-$J=====2291=====
-高性能ブレーキ。ブレーキ性能(せいのう)アップ(大)。
-$J=====2292=====
-キッド愛用(?)のアフロ。エナジーの回復(かいふく)スピードが上がる。
-$J=====2293=====
-スミス愛用のハンマー。回復(かいふく)ポットの効果が上がる。
-$J=====2294=====
-スミレ愛用の白いエプロン。HPが半分以下のとき、受けるダメージが減る。
-$J=====2295=====
-レディ愛用の魔法カード。HPが半分以下のとき、全てのコストが下がる。
-$J=====2296=====
-シャイアン愛用のトマホーク。ライバルより後ろにいると、最高スピードが上がる。バイクバトル専用(せんよう)。
-$J=====2297=====
-リタ愛用の青いリボン。ライバルより後ろにいると、エナジーが回復(かいふく)する。バイクバトル専用(せんよう)。
-$J=====2298=====
-ザジ愛用の魔法の石。ライバルより前にいると、エナジーが回復(かいふく)する。バイクバトル専用(せんよう)。
-$J=====2299=====
+$E=====2275=====
+//エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
+An energy-reinforced magic handle. Slightly raises Attack.
+$E=====2276=====
+//エナジーを強化するライディングステップ。攻撃力アップ(中)。
+An energy-reinforced riding step. Raises Attack.
+$E=====2277=====
+//ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
+An emblem with the power of RockMan. Greatly raises Attack.
+$E=====2278=====
+//高性能スパークプラグ。加速力アップ(小)。
+A high efficiency spark plug. Slightly raises Accel.
+$E=====2279=====
+//最高級エンジンオイル。加速力アップ(大)。
+A high grade engine oil. Greatly raises Accel.
+$E=====2280=====
+//ハイパーチャージャー。最高スピードアップ(小)。
+A hyper charger. Slightly raises max Speed.
+$E=====2281=====
+//ブルースの力が宿ったチェーン。最高スピードアップ(小)。
+A chain with the power of Blues. Slightly raises max Speed.
+$E=====2282=====
+//カーネルの力が宿ったギア。最高スピードアップ(小)。
+A gear with the power of Colonel. Slightly raises max Speed.
+$E=====2283=====
+//強化されたスイングアーム。HP最大値アップ(小)。
+A reinforced swing arm. Slightly raises max HP.
+$E=====2284=====
+//強化されたフレーム。HP最大値アップ(大)。
+A reinforced frame. Greatly raises max HP.
+$E=====2285=====
+//フロントを守る追加装甲(ついかそうこう)。受けるダメージが減る(小)。
+Additional armor to protect the front. Slightly reduces damage received.
+$E=====2286=====
+//ボディを守る追加装甲(ついかそうこう)。受けるダメージが減る(大)。
+Additional armor to protect the body. Greatly reduces damage received.
+$E=====2287=====
+//ブースト用追加バッテリー。ブーストコストが下がる。
+An additional boost battery. Reduces boost cost.
+$E=====2288=====
+//ウエポン用追加バッテリー。ウエポンコストが下がる。
+An additional weapon battery. Reduces weapon cost.
+$E=====2289=====
+//スペシャル用追加バッテリー。スペシャルコストが下がる。
+An additional Special battery. Reduces Special cost.
+$E=====2290=====
+//高性能クラッチ。ブレーキ性能(せいのう)アップ(小)。
+A high efficiency clutch. Slightly improves brake performance.
+$E=====2291=====
+//高性能ブレーキ。ブレーキ性能(せいのう)アップ(大)。
+A high efficiency brake. Greatly improves brake performance.
+$E=====2292=====
+//キッド愛用(?)のアフロ。エナジーの回復(かいふく)スピードが上がる。
+Kid's favorite(?) afro. Raises energy recovery rate.
+$E=====2293=====
+//スミス愛用のハンマー。回復(かいふく)ポットの効果が上がる。
+Smith's favorite hammer. Increases recovery potion effect.
+$E=====2294=====
+//スミレ愛用の白いエプロン。HPが半分以下のとき、受けるダメージが減る。
+Violet's favorite white apron. Reduces damage taken when below half max HP.
+$E=====2295=====
+//レディ愛用の魔法カード。HPが半分以下のとき、全てのコストが下がる。
+Lady's favorite magic card. Reduces everything's cost when below half max HP.
+$E=====2296=====
+//シャイアン愛用のトマホーク。ライバルより後ろにいると、最高スピードが上がる。バイクバトル専用(せんよう)。
+Cheyenne's favorite tomahawk. Raises max speed when behind rival. Bike Battle only.
+$E=====2297=====
+//リタ愛用の青いリボン。ライバルより後ろにいると、エナジーが回復(かいふく)する。バイクバトル専用(せんよう)。
+Lita's favorite blue ribbon. Recovers energy when behind rival. Bike Battle only.
+$E=====2298=====
+//ザジ愛用の魔法の石。ライバルより前にいると、エナジーが回復(かいふく)する。バイクバトル専用(せんよう)。
+Zazie's favorite magical stone. Recovers energy when in front of rival. Bike Battle only.
+$X=====2299=====
 {C1}{E1}{FB}{02}x{C1}{C2}{E3}{02}t{02}f{C1}{C3}{E7}{02}W{02}D{C2}{C4}{E5}{02}Z{02}D{C3}{C5}{FB}{02}t{02}X{C1}{C6}{DD}{02}M{ED}{C1}{C0}{C0}{C0}{C0}{C0}
-$J=====2300=====
-スタンダード{I}
-$J=====2301=====
-スタンダード{II}
-$J=====2302=====
-トライアル
-$J=====2303=====
-チェーン
-$J=====2304=====
-マルチパーパス
-$J=====2305=====
-ブースター
-$J=====2306=====
-性能(せいのう)の低いタイヤ。
-$J=====2307=====
-ブレーキ性能(せいのう)にすぐれたタイヤ。
-$J=====2308=====
-ダートの上でも自由に走ることのできるタイヤ。
-$J=====2309=====
-アイスの上でも自由に走ることのできるタイヤ。
-$J=====2310=====
-ハンドル性能(せいのう)・ブレーキ性能(せいのう)にすぐれたタイヤ。
-$J=====2311=====
-ブーストコストの最も低いタイヤ。
-$J=====2312=====
+$E=====2300=====
+//スタンダード{I}
+STANDARD {I}
+$E=====2301=====
+//スタンダード{II}
+STANDARD {II}
+$E=====2302=====
+//トライアル
+TRAIL
+$E=====2303=====
+//チェーン
+CHAIN
+$E=====2304=====
+//マルチパーパス
+MULTI-PURPOSE
+$E=====2305=====
+//ブースター
+BOOSTER
+$E=====2306=====
+//性能(せいのう)の低いタイヤ。
+A low-efficiency tire.
+$E=====2307=====
+//ブレーキ性能(せいのう)にすぐれたタイヤ。
+A tire with great brake efficiency.
+$E=====2308=====
+//ダートの上でも自由に走ることのできるタイヤ。
+A tire that runs freely over dirt.
+$E=====2309=====
+//アイスの上でも自由に走ることのできるタイヤ。
+A tire that runs freely over ice.
+$E=====2310=====
+//ハンドル性能(せいのう)・ブレーキ性能(せいのう)にすぐれたタイヤ。
+A tire with great brake and handling efficiency.
+$E=====2311=====
+//ブーストコストの最も低いタイヤ。
+A tire with very low Boost cost.
+$X=====2312=====
 {C1}{C1}{02}x{E9}{D5}{C1}{D0}{C2}{C2}{02}F{02}x{DF}{C1}{E4}{C3}{C3}{02}x{02}P{E9}{C1}{DF}{C4}{C4}{02}d{02}{B4}{E9}{C1}{E9}{C5}{C5}{02}P{02}{96}{EE}{C1}{DF}{C6}{C6}{02}x{C9}{FD}{C1}{C1}{C0}{C0}{C0}{C0}{C0}{C0}
-$J=====2313=====
-ブラスター{I}
-$J=====2314=====
-サイドワインダー
-$J=====2315=====
-ブラスター{II}
-$J=====2316=====
-ハンマーヘッド
-$J=====2317=====
-フェアリーテイル
-$J=====2318=====
-クラッシャー
-$J=====2319=====
-<WEIGHT>Ｂボタン</WEIGHT>で前方にショットを放つ。
-$J=====2320=====
-<WEIGHT>Ｂボタン</WEIGHT>で左右にカーブするショットを放つ。
-$J=====2321=====
+$E=====2313=====
+//ブラスター{I}
+BLASTER {I}
+$E=====2314=====
+//サイドワインダー
+SIDEWINDER
+$E=====2315=====
+//ブラスター{II}
+BLASTER {II}
+$E=====2316=====
+//ハンマーヘッド
+HAMMERHEAD
+$E=====2317=====
+//フェアリーテイル
+FAIRY TALE
+$E=====2318=====
+//クラッシャー
+CRUSHER
+$E=====2319=====
+//<WEIGHT>Ｂボタン</WEIGHT>で前方にショットを放つ。
+Press the <WEIGHT>B Button</WEIGHT> to fire a shot forward.
+$E=====2320=====
+//<WEIGHT>Ｂボタン</WEIGHT>で左右にカーブするショットを放つ。
+Press the <WEIGHT>B Button</WEIGHT> to fire a shot that curves left and right.
+$U=====2321=====
 <WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、貫通力(かんつうりょく)のあるチャージショットを放つ。
-$J=====2322=====
-<WEIGHT>Ｂボタン</WEIGHT>で前方に2発のミサイルを放つ。
-$J=====2323=====
-<WEIGHT>Ｂボタン</WEIGHT>で前後にミサイルを放つ。
-$J=====2324=====
-<WEIGHT>Ｂボタン</WEIGHT>を押(お)している間、ドリルで前方を攻撃(こうげき)する。
-$J=====2325=====
+$E=====2322=====
+//<WEIGHT>Ｂボタン</WEIGHT>で前方に2発のミサイルを放つ。
+Press the <WEIGHT>B Button</WEIGHT> to fire two missiles forward.
+$E=====2323=====
+//<WEIGHT>Ｂボタン</WEIGHT>で前後にミサイルを放つ。
+Press the <WEIGHT>B Button</WEIGHT> to fire missiles forward and backward.
+$E=====2324=====
+//<WEIGHT>Ｂボタン</WEIGHT>を押(お)している間、ドリルで前方を攻撃(こうげき)する。
+Hold the <WEIGHT>B Button</WEIGHT> to attack forward with a drill.
+$X=====2325=====
 {C1}{C6}{C2}{C5}{C1}{C1}{C2}{C3}{01},{01}{02}{C8}{02}P{FD}{C3}{C2}{02}x{01}@{01}{C1}{02}{96}{C4}{C4}{01},{01}{02}{C8}{D5}{01}h{01}{C5}{C5}{01}X{02}{01},{01}{C1}{01}{94}{02}{C6}{C1}{02}x{01}索{02}x{02}{F0}{C0}{C0}{C0}{C0}{C0}
-$J=====2326=====
-リペア
-$J=====2327=====
-マイン
-$J=====2328=====
-バリア
-$J=====2329=====
-スプレッド
-$J=====2330=====
-ステルス
-$J=====2331=====
-弾道ミサイル
-$J=====2332=====
-<WEIGHT>Ａボタン</WEIGHT>を押(お)している間、HPを回復(かいふく)する。
-$J=====2333=====
-<WEIGHT>Ａボタン</WEIGHT>で後方に地雷(じらい)を設置(せっち)する。
-$J=====2334=====
-<WEIGHT>Ａボタン</WEIGHT>でHPが減らなくなるバリアをはる。
-$J=====2335=====
-<WEIGHT>Ａボタン</WEIGHT>で前方に攻撃(こうげき)フィールドを展開(てんかい)する。
-$J=====2336=====
-<WEIGHT>Ａボタン</WEIGHT>で透明(とうめい)になり、敵(てき)から姿(すがた)をかくす。
-$J=====2337=====
-<WEIGHT>Ａボタン</WEIGHT>で大型の誘導(ゆうどう)ミサイルを放つ。
-$J=====2338=====
+$E=====2326=====
+//リペア
+REPAIR
+$E=====2327=====
+//マイン
+MINE
+$E=====2328=====
+//バリア
+BARRIER
+$E=====2329=====
+//スプレッド
+SPREAD
+$E=====2330=====
+//ステルス
+STEALTH
+$E=====2331=====
+//弾道ミサイル
+BALLISTIC MISSILE
+$E=====2332=====
+//<WEIGHT>Ａボタン</WEIGHT>を押(お)している間、HPを回復(かいふく)する。
+Hold the <WEIGHT>A Button</WEIGHT> to recover HP.
+$E=====2333=====
+//<WEIGHT>Ａボタン</WEIGHT>で後方に地雷(じらい)を設置(せっち)する。
+Press the <WEIGHT>A Button</WEIGHT> to place a land mind behind you.
+$E=====2334=====
+//<WEIGHT>Ａボタン</WEIGHT>でHPが減らなくなるバリアをはる。
+Press the <WEIGHT>A Button</WEIGHT> to raise a barrier that prevents HP loss.
+$E=====2335=====
+//<WEIGHT>Ａボタン</WEIGHT>で前方に攻撃(こうげき)フィールドを展開(てんかい)する。
+Press the <WEIGHT>A Button</WEIGHT> to extend a damaging field in front of you.
+$E=====2336=====
+//<WEIGHT>Ａボタン</WEIGHT>で透明(とうめい)になり、敵(てき)から姿(すがた)をかくす。
+Press the <WEIGHT>A Button</WEIGHT> to turn transparent and hide from enemy sight.
+$E=====2337=====
+//<WEIGHT>Ａボタン</WEIGHT>で大型の誘導(ゆうどう)ミサイルを放つ。
+Press the <WEIGHT>A Button</WEIGHT> to fire a large guided missile.
+$X=====2338=====
 {C1}{EF}{02}{x}{C2}{01}h{01}{C2}{E1}{02}l{C3}{01}J{01}{C3}{02}T{02}h{C4}{01}"{01}{C4}{D7}{02}`{C5}{01}v{02}{C5}{D3}{02}￣{C4}{02}{F0}{C6}{FF}{02}r{C3}{01}{A4}{01}{C0}{C0}{C0}{C0}{C0}
-$J=====2339=====
-ヴァイキング
-$J=====2340=====
-エインヘルヤル
-$J=====2341=====
-ウルフヘジン
-$J=====2342=====
-ベルセルク
-$J=====2343=====
-ヴァルキリー
-$J=====2344=====
-スレイプニル
-$J=====2345=====
-HP最大値が高く、初心者向けのボディ。
-$J=====2346=====
-オールマイティな性能(せいのう)を持つボディ。
-$J=====2347=====
-加速力にすぐれたボディ。
-$J=====2348=====
-HP最大値は最も高いが、加速力・最高スピードは低いボディ。
-$J=====2349=====
-最高スピードは最も高いが、HP最大値は最も低いボディ。
-$J=====2350=====
-加速力・最高スピードが高い反面、オプションスロットが少ないボディ。
-$J=====2351=====
+$E=====2339=====
+//ヴァイキング
+VIKING
+$E=====2340=====
+//エインヘルヤル
+EINHERJAR
+$E=====2341=====
+//ウルフヘジン
+ULFHEDINN
+$E=====2342=====
+//ベルセルク
+BERSERK
+$E=====2343=====
+//ヴァルキリー
+VALKYRIE
+$E=====2344=====
+//スレイプニル
+SLEIPNIR
+$E=====2345=====
+//HP最大値が高く、初心者向けのボディ。
+A body for beginners, with high Max HP.
+$E=====2346=====
+//オールマイティな性能(せいのう)を持つボディ。
+A body with almighty ability.
+$E=====2347=====
+//加速力にすぐれたボディ。
+A body with excellent accelerating power.
+$E=====2348=====
+//HP最大値は最も高いが、加速力・最高スピードは低いボディ。
+A body with very high Max HP but low acceleration and top speed.
+$E=====2349=====
+//最高スピードは最も高いが、HP最大値は最も低いボディ。
+A body with very high top speed but very low Max HP.
+$E=====2350=====
+//加速力・最高スピードが高い反面、オプションスロットが少ないボディ。
+A body with high acceleration and top speed, but few option shots.
+$E=====2351=====
            ??????
 $J=====2352=====
       バックストリート
@@ -6501,81 +6829,113 @@ $J=====2355=====
         ポットロード
 $J=====2356=====
       ロストハイウェイ
-$J=====2357=====
-太陽街周回道
-$J=====2358=====
-熱砂の海
-$J=====2359=====
-滅びの森
-$J=====2360=====
-冷酷なる凍士
-$J=====2361=====
-呪われた海岸
-$J=====2362=====
-遥かなる荒野
-$J=====2363=====
-バックストリート
-$J=====2364=====
-ジャンプロード
-$J=====2365=====
-パークアベニュー
-$J=====2366=====
-ポットロード
-$J=====2367=====
-ロストハイウェイ
-$J=====2368=====
-ランダム
-$J=====2369=====
+$E=====2357=====
+//太陽街周回道
+SOLAR CITY LOOP
+$E=====2358=====
+//熱砂の海
+SEA OF SAND
+$E=====2359=====
+//滅びの森
+FOREST OF RUIN
+$E=====2360=====
+//冷酷なる凍土
+CRUEL TUNDRA
+$E=====2361=====
+//呪われた海岸
+CURSED BEACH
+$E=====2362=====
+//遥かなる荒野
+REMOTE WILDERNESS
+$E=====2363=====
+//バックストリート
+BACK STREET
+$E=====2364=====
+//ジャンプロード
+JUMP ROAD
+$E=====2365=====
+//パークアベニュー
+PARK AVENUE
+$E=====2366=====
+//ポットロード
+POTION ROAD
+$E=====2367=====
+//ロストハイウェイ
+LOST HIGHWAY
+$E=====2368=====
+//ランダム
+RANDOM
+$E=====2369=====
 ???
-$J=====2370=====
+$X=====2370=====
 {01} {11}{01}{18}{13}{01}{0B}{19}{01}{0B}{19}{01}X{1B}{01}A{1E}{01}{E5}{0F}{01}{A2}{10}{01}÷{13}{01}{EC}{13}{01}8{18}
-$J=====2371=====
-外で遊ぶときは、強い日差しや
-気温の変化に注意して遊びまし
-ょう
-$J=====2372=====
+$E=====2371=====
+//外で遊ぶときは、強い日差しや
+//気温の変化に注意して遊びまし
+//ょう
+DO NOT PLAY UNDER STRONG
+SUNLIGHT FOR TOO LONG
+$E=====2372=====
 <PROC=0>
 <END>
-$J=====2373=====
-バイクカラー
-「<EXTEND=0>」
-を手に入れた!!
-$J=====2374=====
+$E=====2373=====
+//バイクカラー
+//「<EXTEND=0>」
+//を手に入れた!!
+Bike Color
+"<EXTEND=0>"
+obtained!
+$E=====2374=====
 <PROC=0>
 <END>
-$J=====2375=====
-バイクタイヤ
-「<EXTEND=0>」
-を手に入れた!!
-$J=====2376=====
+$E=====2375=====
+//バイクタイヤ
+//「<EXTEND=0>」
+//を手に入れた!!
+Bike Tire
+"<EXTEND=0>"
+obtained!
+$E=====2376=====
 <PROC=0>
 <END>
-$J=====2377=====
+$X=====2377=====
 {C1}{C1}{C1}{C2}{C2}{C1}{C3}{C3}{C1}{C4}{C4}{C1}{C5}{C5}{C1}{C6}{C6}{C1}{C7}{C7}{C1}{C8}{C8}{C1}{C9}{C9}{C1}{CA}{CA}{C1}{CB}{CB}{C1}{CC}{CC}{C1}{C0}{C0}{C0}
-$J=====2378=====
-コフィングレー
-$J=====2379=====
-ソルイエロー
-$J=====2380=====
-ルナホワイト
-$J=====2381=====
-フレイムレッド
-$J=====2382=====
-フロストブルー
-$J=====2383=====
-クラウドパープル
-$J=====2384=====
-アースグリーン
-$J=====2385=====
-ダークブラック
-$J=====2386=====
-ジャンゴレッド
-$J=====2387=====
-サバタブラック
-$J=====2388=====
-トリニティーSP
-$J=====2389=====
-ロックブルー
+$E=====2378=====
+//コフィングレー
+COFFIN GRAY
+$E=====2379=====
+//ソルイエロー
+SOL YELLOW
+$E=====2380=====
+//ルナホワイト
+LUNA WHITE
+$E=====2381=====
+//フレイムレッド
+FLAME RED
+$E=====2382=====
+//フロストブルー
+FROST BLUE
+$E=====2383=====
+//クラウドパープル
+CLOUD PURPLE
+$E=====2384=====
+//アースグリーン
+EARTH GREEN
+$E=====2385=====
+//ダークブラック
+DARK BLACK
+$E=====2386=====
+//ジャンゴレッド
+DJANGO RED
+$E=====2387=====
+//サバタブラック
+SABATA BLACK
+$E=====2388=====
+//トリニティーSP
+TRINITY SP
+$E=====2389=====
+//ロックブルー
+ROCK BLUE
 $J=====2390=====
 棺桶(かんおけ)の灰。無と不安の色。
 $J=====2391=====
@@ -6914,7 +7274,7 @@ $J=====2501=====
 $J=====2502=====
 吉池博明　　　　松井博信
 小林政哉　　　　田中修平
-士田裕之　　　　細谷宜史
+土田裕之　　　　細谷宜史
 $J=====2503=====
 古城宏　　　　　田中智之
 山中智美　　　　宮本知子
@@ -7063,7 +7423,7 @@ $J=====2571=====
 $J=====2572=====
 吸血変異(アンデッド化)を極めたデュアルアーマー。
 $J=====2573=====
-謎(なぞ)多き最強の騎土(きし)。
+謎(なぞ)多き最強の騎士(きし)。
 $J=====2574=====
 ニーズホッグの乗る巨大鉄竜(きょだいてつりゅう)。ビーム砲(ほう)、空中機雷砲(くうちゅうきらいほう)、ミサイル砲(ほう)を装備。体当たり、ポイズンブレス、殺人光線などでも攻撃(こうげき)する。
 $J=====2575=====
@@ -7103,15 +7463,15 @@ $J=====2591=====
 $J=====2592=====
 太陽銃「ガン・デル・ソル」の継承者(けいしょうしゃ)、「太陽少年」。最強のヴァンパイアハンターであった父「紅(くれない)のリンゴ」から、太陽の力をあやつる術(すべ)と「深紅(しんく)のマフラー」を受けついでいる。
 $J=====2593=====
-「棺桶(かんおけ)バイク」を駆(か)る太陽少年。「戦土のバンダナ」に装着(そうちゃく)したゴーグルでその目を守っている。
+「棺桶(かんおけ)バイク」を駆(か)る太陽少年。「戦士のバンダナ」に装着(そうちゃく)したゴーグルでその目を守っている。
 $J=====2594=====
-太陽が育んだすべての生命種を守るため、地上に降臨(こうりん)した太陽の精霊(せいれい)。<NAME>をみちびき、その戦いをサポートする。かつては「紅(くれない)のリンゴ」とも戦いを共にした歴戦の勇土。
+太陽が育んだすべての生命種を守るため、地上に降臨(こうりん)した太陽の精霊(せいれい)。<NAME>をみちびき、その戦いをサポートする。かつては「紅(くれない)のリンゴ」とも戦いを共にした歴戦の勇士。
 $J=====2595=====
 いつわりの母、闇の女王(クイーン)に暗黒銃「ガン・デル・ヘル」の使い手、暗黒少年として育てられた<NAME>の兄。真実の母「マーニ」から、月の巫女(月下美人)の力と「月光のマフラー」を受け継いでいる。
 $J=====2596=====
 破壊(はかい)の獣(けもの)であることを受け入れたサバタ。その心は、「ヴァナルガンド」があたえる狂気(きょうき)に支配(しはい)されている。
 $J=====2597=====
-ぬすみの言いわけに「伝説の戦土」の子孫だとかたったため、戦土をさがし出し、その死を未然にふせぐことを命じられた自称(じしょう)「トレジャーハンター」。母の形見である「鉄鍋(てつなべ)」と「青ポンチョ」を身にまとう。
+ぬすみの言いわけに「伝説の戦士」の子孫だとかたったため、戦士をさがし出し、その死を未然にふせぐことを命じられた自称(じしょう)「トレジャーハンター」。母の形見である「鉄鍋(てつなべ)」と「青ポンチョ」を身にまとう。
 $J=====2598=====
 石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
 $J=====2599=====
@@ -7123,11 +7483,11 @@ $J=====2601=====
 $J=====2602=====
 <NAME>の家で留守番(るすばん)をしてくれている少女。かつての伯爵(はくしゃく)の襲撃(しゅうげき)により母親を失い、スミスに引き取られた。本人にその自覚はないが、ショックにより以前の記憶(きおく)を失っている。
 $J=====2603=====
-黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4土族」が大地の戦土「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
+黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
 $J=====2604=====
 アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
 $J=====2605=====
-武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4土族」最後の生き残り。風の戦土にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦土「アイテムマスター」の死を伝えられずにいる。
+武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
 $J=====2606=====
 図書館の司書。その正体は組織(ギルド)中央から派遣(はけん)された「ギルドマスター」。封印術(ふういんじゅつ)の他、護身術(ごしんじゅつ)にも長けており、リタの才能(さいのう)を開花させた張本人(ちょうほんにん)。
 $J=====2607=====
@@ -7183,7 +7543,7 @@ $J=====2631=====
 $J=====2632=====
 キッド
 $J=====2633=====
-風の戦土シャイアン
+風の戦士シャイアン
 $J=====2634=====
 レディ
 $J=====2635=====
@@ -7445,10 +7805,10 @@ $J=====2751=====
 <LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
 「思い出したか、<NAME>?
 $J=====2752=====
-わたしは風の戦土、シャイアン
+わたしは風の戦士、シャイアン
 $J=====2753=====
 このサン・ミゲルを守る太陽の
-4土族・・・
+4士族・・・
 その最後の生きのこりだ
 $J=====2754=====
 そしてこの店は武器屋(ぶきや)
@@ -7508,7 +7868,7 @@ $J=====2771=====
 いつかまた、おまえとも剣(つ
 るぎ)を交えてみたいものだ
 $J=====2772=====
-これも、哀(かな)しき戦土の性
+これも、哀(かな)しき戦士の性
 (さが)だな・・・」
 $J=====2773=====
 <PROC=0>
@@ -7662,14 +8022,14 @@ $J=====2817=====
 伯爵(はくしゃく)の襲撃(しゅ
 うげき)から人々を守り、
 $J=====2818=====
-命を落としていった太陽の4土
+命を落としていった太陽の4士
 族、3人の兄弟たち・・・
 $J=====2819=====
-炎の戦土、マジックマスター
+炎の戦士、マジックマスター
 $J=====2820=====
-氷の戦土、アイテムマスター
+氷の戦士、アイテムマスター
 $J=====2821=====
-大地の戦土、ビーストマスター
+大地の戦士、ビーストマスター
 $J=====2822=====
 かれらの仇(かたき)をうちたい
 のは山々だが・・・
@@ -7762,7 +8122,7 @@ $J=====2849=====
 「おてんこさまとのトランス(
 合身)、ソル<NAME>か
 $J=====2850=====
-われら太陽の4土族の祖先(そせ
+われら太陽の4士族の祖先(そせ
 ん)たちが残した伝承(でんしょ
 う)にも、
 $J=====2851=====
@@ -7817,7 +8177,7 @@ $J=====2865=====
 <END>
 $J=====2866=====
 <LABEL=SHAIAN>シャイアン</LABEL>
-「われら太陽の4土族に伝わる
+「われら太陽の4士族に伝わる
 伝承(でんしょう)によると、
 $J=====2867=====
 一言に闇の一族(イモータル)と
@@ -8057,7 +8417,7 @@ $J=====2945=====
 $J=====2946=====
 すごいです!!
 $J=====2947=====
-<PROC=4>もはや歴戦の勇土ですね!
+<PROC=4>もはや歴戦の勇士ですね!
 $J=====2948=====
 <PROC=3>そんな<NAME>さまには、この称号(しょうごう)を差し上げます!!」
 $J=====2949=====
@@ -9048,7 +9408,7 @@ $J=====3257=====
 すがた)へともどれたというの
 に・・・
 $J=====3258=====
-やはり闇(やみ)の戦土、暗黒少
+やはり闇(やみ)の戦士、暗黒少
 年であることからは、のがれら
 れないのか?
 $J=====3259=====
@@ -9349,7 +9709,7 @@ $J=====3346=====
 じゃがそれも、はるか昔の話じ
 ゃ・・・
 $J=====3347=====
-太陽と暗黒、火水風士の4大元
+太陽と暗黒、火水風土の4大元
 素、そのすべてをあやつりみち
 びく力・・・
 $J=====3348=====
@@ -10528,7 +10888,7 @@ $J=====3707=====
 天窓(てんまど)などの仕掛(し
 か)けを利用したり、
 $J=====3708=====
-敵(てき)の同土討(どうしう)ち
+敵(てき)の同士討(どうしう)ち
 をねらうのではなく、
 $J=====3709=====
 自分自身の手でトドメをささな
@@ -10981,7 +11341,7 @@ $J=====3846=====
 うつす鏡、月・・・
 $J=====3847=====
 月の一族には太陽と暗黒、そし
-て火水風士の4大元素、それら
+て火水風土の4大元素、それら
 みんなを受け入れる力があった
 $J=====3848=====
 その力を使いこなすことができ
@@ -12752,7 +13112,7 @@ $J=====4402=====
 「おお、そうだったな!
 $J=====4403=====
 闇の一族(イモータル)と戦う光
-の戦土、太陽少年<NAME>
+の戦士、太陽少年<NAME>
 $J=====4404=====
 やつらのあらわれるところ、少
 年もまたあらわれるということ
@@ -15323,7 +15683,7 @@ $J=====5246=====
 $J=====5247=====
 　　　デュアルアーマー+　　
 $J=====5248=====
-　　　　　黒騎土　　　　　　
+　　　　　黒騎士　　　　　　
 $J=====5249=====
  　　　　　伯　爵　　　　　 
 $J=====5250=====
@@ -15890,7 +16250,7 @@ $J=====5433=====
 <END>
 $J=====5434=====
 <LABEL>バイクコース
-「冷酷なる凍士」
+「冷酷なる凍土」
 が開放された!!</LABEL><PROC=1>
 $J=====5435=====
 <PROC=0>
@@ -16810,7 +17170,7 @@ $J=====5646=====
 のか?
 $J=====5647=====
 それじゃあ、この世界のどこか
-に伝説の戦土が・・・」
+に伝説の戦士が・・・」
 $J=====5648=====
 <PROC=0>
 <END>
@@ -16824,7 +17184,7 @@ $J=====5650=====
 $J=====5651=====
 だったらさがすだけムダさ
 $J=====5652=====
-まったく、伝説の戦土の子孫だ
+まったく、伝説の戦士の子孫だ
 なんて・・・
 $J=====5653=====
 ぬすみの言いわけにしちゃあ、
@@ -16926,7 +17286,7 @@ $J=====5684=====
 のか?
 $J=====5685=====
 それじゃあ、この世界のどこか
-に伝説の戦土が・・・」
+に伝説の戦士が・・・」
 $J=====5686=====
 <PROC=0>
 <END>
@@ -16940,7 +17300,7 @@ $J=====5688=====
 $J=====5689=====
 だったらさがすだけムダさ
 $J=====5690=====
-まったく、伝説の戦土の子孫だ
+まったく、伝説の戦士の子孫だ
 なんて・・・
 $J=====5691=====
 ぬすみの言いわけにしちゃあ、
@@ -17748,7 +18108,7 @@ $J=====5949=====
 「おいおい、
 $J=====5950=====
 そんなことができんのは伝説(
-でんせつ)の戦土ぐらいだ
+でんせつ)の戦士ぐらいだ
 $J=====5951=====
 もっともオイラのいた世界には
 そんなヤツいなかったけどな」
@@ -17764,7 +18124,7 @@ $J=====5954=====
 そこにあるのは絶望(ぜつぼう)
 だけだ・・・
 $J=====5955=====
-伝説(でんせつ)の戦土なんての
+伝説(でんせつ)の戦士なんての
 は、しょせんおとぎ話さ
 $J=====5956=====
 ま、信じる信じないはオメェの
@@ -18173,14 +18533,14 @@ $J=====6083=====
 のことか?
 $J=====6084=====
 まさかアイツが・・・
-伝説(でんせつ)の戦土?
+伝説(でんせつ)の戦士?
 $J=====6085=====
 <PROC=0>
 <END>
 $J=====6086=====
 <LABEL=TRINITY></LABEL>はっ、バカバカしい・・・
 $J=====6087=====
-伝説(でんせつ)の戦土なんてい
+伝説(でんせつ)の戦士なんてい
 るわけがねぇ
 $J=====6088=====
 たとえいたとしても、どうせ死
@@ -18287,13 +18647,13 @@ $J=====6121=====
 ホントにこんな所に伯爵(はく
 しゃく)がいんのか?
 $J=====6122=====
-アイツが本物の戦土だとしたら
+アイツが本物の戦士だとしたら
 ヴァンパイアごときに負けるは
 ずはねぇ
 $J=====6123=====
 だが伝説によれば・・・
 $J=====6124=====
-戦土は破壊(はかい)の獣(けも
+戦士は破壊(はかい)の獣(けも
 の)と戦うことなく死んだとい
 う
 $J=====6125=====
@@ -18438,7 +18798,7 @@ $J=====6170=====
 それにヴァンパイアの血?
 $J=====6171=====
 やっぱりアイツは・・・
-伝説の戦土じゃあなかったのか
+伝説の戦士じゃあなかったのか
 $J=====6172=====
 クソッ、他人を当てにするなん
 てオイラがバカだったぜ!!)
@@ -18810,7 +19170,7 @@ $J=====6292=====
 <LABEL=TRINITY>トリニティ</LABEL>
 (伝説によれば・・・
 $J=====6293=====
-戦土は破壊(はかい)の獣(けも
+戦士は破壊(はかい)の獣(けも
 の)と戦うことなく死んだとい
 う
 $J=====6294=====
@@ -18879,7 +19239,7 @@ $J=====6316=====
 その命の鼓動(こどう)が、わた
 しには聞こえます
 $J=====6317=====
-ありがとう、太陽の戦土たちよ
+ありがとう、太陽の戦士たちよ
 $J=====6318=====
 今こそ・・・
 わが大いなる力をあなたたちに
@@ -19087,7 +19447,7 @@ $J=====6385=====
 だが覚悟(かくご)しておくこと
 だ
 $J=====6386=====
-真実がどうであれ、やつは戦土
+真実がどうであれ、やつは戦士
 $J=====6387=====
 わたしと同じく、戦いの中でし
 か生きられない男だということ
@@ -19165,7 +19525,7 @@ $J=====6412=====
 それが本当にこの世界の未来な
 のか?
 $J=====6413=====
-その伝説の戦土とはいったいだ
+その伝説の戦士とはいったいだ
 れなのか?
 $J=====6414=====
 ボクには分からない・・・
@@ -19215,7 +19575,7 @@ $J=====6429=====
 るのか?
 $J=====6430=====
 分からない・・・
-コイツは本当に伝説の戦土なの
+コイツは本当に伝説の戦士なの
 か?
 $J=====6431=====
 でもあの力は本物だ・・・
@@ -20064,7 +20424,7 @@ $J=====6709=====
 $J=====6710=====
 <LABEL=TRINITY></LABEL>だれだってそうさ
 $J=====6711=====
-伝説の戦土をさがして旅する母
+伝説の戦士をさがして旅する母
 ちゃんとオイラを・・・
 $J=====6712=====
 だれも助けちゃあくれなかった
@@ -20101,7 +20461,7 @@ $J=====6721=====
 $J=====6722=====
 それどころか・・・
 $J=====6723=====
-同じ人間同土でさえ、いがみ合
+同じ人間同士でさえ、いがみ合
 い殺し合う
 $J=====6724=====
 哀(かな)しき生命種・・・
@@ -21753,7 +22113,7 @@ $J=====7275=====
 オメェを見てると・・・
 死んだ母ちゃんを思い出すぜ
 $J=====7276=====
-伝説の戦土をさがして旅するオ
+伝説の戦士をさがして旅するオ
 イラたちは、闇の一族(イモー
 タル)に目をつけられた
 $J=====7277=====
@@ -21829,7 +22189,7 @@ $J=====7300=====
 オメェを見てると・・・
 死んだ母ちゃんを思い出すぜ
 $J=====7301=====
-伝説の戦土をさがして旅するオ
+伝説の戦士をさがして旅するオ
 イラたちは、闇の一族(イモー
 タル)に目をつけられた
 $J=====7302=====
@@ -22711,7 +23071,7 @@ $J=====7583=====
 「ここは・・・
 $J=====7584=====
 かつてサバタとの死闘(しとう)
-をえんじた戦土の間
+をえんじた戦士の間
 $J=====7585=====
 王の間は・・・
 ラタトスクは近い!!
@@ -22738,7 +23098,7 @@ $J=====7593=====
 その光は万物の慈愛(じあい)と
 狂気(きょうき)を宿し、
 $J=====7594=====
-太陽と暗黒、火水風士の4大元
+太陽と暗黒、火水風土の4大元
 素、そのすべてをあやつりみち
 びく
 $J=====7595=====
@@ -22960,9 +23320,9 @@ $J=====7669=====
 最後の言葉をよ
 $J=====7670=====
 オイラと母ちゃんは、伝説の
-戦土をさがして旅を続けた
+戦士をさがして旅を続けた
 $J=====7671=====
-でも結局、伝説の戦土を見つけ
+でも結局、伝説の戦士を見つけ
 ることなんてできなかった
 $J=====7672=====
 オイラたちには、未来を変える
@@ -23010,7 +23370,7 @@ $J=====7687=====
 少しは分かるような気がするん
 だ
 $J=====7688=====
-伝説の戦土・・・
+伝説の戦士・・・
 そんなヤツが本当にいたのか?
 $J=====7689=====
 それはオイラにもわからない
@@ -23355,12 +23715,12 @@ $J=====7803=====
 「トリニティが語った未来世紀
 の伝説・・・
 $J=====7804=====
-伝説の戦土は、ヴァナルガンド
+伝説の戦士は、ヴァナルガンド
 と戦うことなく死んだという
 $J=====7805=====
 だが今、おまえは生きている
 $J=====7806=====
-それはおまえが伝説の戦土では
+それはおまえが伝説の戦士では
 ないからか?
 $J=====7807=====
 それとも・・・
@@ -23493,8 +23853,8 @@ $J=====7849=====
 そしてこのおれは、おまえに対
 するカウンター・・・
 $J=====7850=====
-光の戦土をたおすために用意さ
-れた闇(やみ)の戦土、暗黒少年
+光の戦士をたおすために用意さ
+れた闇(やみ)の戦士、暗黒少年
 $J=====7851=====
 おれたちの出会い、そして戦い
 ・・・
@@ -23760,7 +24120,7 @@ $J=====7933=====
 そう、おれは・・・
 $J=====7934=====
 おまえと戦うために用意された
-闇(やみ)・の・・戦土・・・
+闇(やみ)・の・・戦士・・・
 $J=====7935=====
 戦え、<NAME>・・・
 $J=====7936=====
@@ -25091,7 +25451,7 @@ $J=====8387=====
 $J=====8388=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「未来世紀において語られる、
-伝説の戦土・・・
+伝説の戦士・・・
 $J=====8389=====
 だがそれは、単に1人の英雄(え
 いゆう)を言うのではない
@@ -25112,7 +25472,7 @@ $J=====8394=====
 $J=====8395=====
 それら1人1人の戦い・・・
 $J=====8396=====
-その積み重ねこそが、戦土の伝
+その積み重ねこそが、戦士の伝
 説として未来に語りつがれてい
 くのだ」
 $J=====8397=====
@@ -25120,7 +25480,7 @@ $J=====8397=====
 「おいおい、
 そうじゃねぇだろ?
 $J=====8398=====
-伝説の戦土は実在する・・・
+伝説の戦士は実在する・・・
 $J=====8399=====
 オマエたちの目の前にな!!」
 $J=====8400=====
@@ -25145,7 +25505,7 @@ $J=====8406=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「そう・・・
 $J=====8407=====
-オレは伝説の戦土、
+オレは伝説の戦士、
 トリニティ!!」
 $J=====8408=====
 <PROC=0>
@@ -25233,7 +25593,7 @@ $J=====8436=====
 $J=====8437=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「未来世紀において語られる、
-伝説の戦土・・・
+伝説の戦士・・・
 $J=====8438=====
 だがそれは、単に1人の英雄(え
 いゆう)を言うのではない
@@ -25254,7 +25614,7 @@ $J=====8443=====
 $J=====8444=====
 それら1人1人の戦い・・・
 $J=====8445=====
-その積み重ねこそが、戦土の伝
+その積み重ねこそが、戦士の伝
 説として未来に語りつがれてい
 くのだ」
 $J=====8446=====
@@ -25262,7 +25622,7 @@ $J=====8446=====
 「おいおい、
 そうじゃねぇだろ?
 $J=====8447=====
-伝説の戦土は実在する・・・
+伝説の戦士は実在する・・・
 $J=====8448=====
 オマエたちの目の前にな!!」
 $J=====8449=====
@@ -25301,7 +25661,7 @@ $J=====8460=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「そう・・・
 $J=====8461=====
-オレは伝説の戦土、
+オレは伝説の戦士、
 トリニティ!!」
 $J=====8462=====
 <PROC=0>
@@ -25389,7 +25749,7 @@ $J=====8490=====
 $J=====8491=====
 <LABEL=PLAYER><NAME></LABEL>
 「トリニティが語った伝説の戦
-土・・・
+士・・・
 $J=====8492=====
 でもそれはやっぱり、ボクのこ
 となんかじゃない
@@ -25411,7 +25771,7 @@ $J=====8497=====
 $J=====8498=====
 そんな1人1人の戦い・・・
 $J=====8499=====
-その積み重ねこそが、戦土の伝
+その積み重ねこそが、戦士の伝
 説として未来に語りつがれてい
 くんだ」
 $J=====8500=====
@@ -25419,7 +25779,7 @@ $J=====8500=====
 「おいおい、
 そうじゃねぇだろ?
 $J=====8501=====
-伝説の戦土は実在する・・・
+伝説の戦士は実在する・・・
 $J=====8502=====
 オマエの目の前にな!!」
 $J=====8503=====
@@ -25444,7 +25804,7 @@ $J=====8509=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「そう・・・
 $J=====8510=====
-オレは伝説の戦土、
+オレは伝説の戦士、
 トリニティ!!」
 $J=====8511=====
 <PROC=0>
@@ -25525,7 +25885,7 @@ $J=====8536=====
 $J=====8537=====
 <LABEL=PLAYER><NAME></LABEL>
 「トリニティが語った伝説の戦
-土・・・
+士・・・
 $J=====8538=====
 でもそれはやっぱり、ボクのこ
 となんかじゃない
@@ -25547,7 +25907,7 @@ $J=====8543=====
 $J=====8544=====
 そんな1人1人の戦い・・・
 $J=====8545=====
-その積み重ねこそが、戦土の伝
+その積み重ねこそが、戦士の伝
 説として未来に語りつがれてい
 くんだ」
 $J=====8546=====
@@ -25555,7 +25915,7 @@ $J=====8546=====
 「おいおい、
 そうじゃねぇだろ?
 $J=====8547=====
-伝説の戦土は実在する・・・
+伝説の戦士は実在する・・・
 $J=====8548=====
 オマエたちの目の前にな!!」
 $J=====8549=====
@@ -25594,7 +25954,7 @@ $J=====8560=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「そう・・・
 $J=====8561=====
-オレは伝説の戦土、
+オレは伝説の戦士、
 トリニティ!!」
 $J=====8562=====
 <PROC=0>
@@ -25843,10 +26203,10 @@ $J=====8647=====
 <PROC=0>
 <END>
 $J=====8648=====
-<LABEL>黒騎土</LABEL>
-「よくぞ参った、光の戦土よ
+<LABEL>黒騎士</LABEL>
+「よくぞ参った、光の戦士よ
 $J=====8649=====
-われは黒騎土(くろきし)。
+われは黒騎士(くろきし)。
 戦いと死の神、その使いなり
 $J=====8650=====
 人の身でありながら数々の闇(
@@ -25866,7 +26226,7 @@ $J=====8654=====
 <PROC=0>
 <END>
 $J=====8655=====
-<LABEL>黒騎土</LABEL>
+<LABEL>黒騎士</LABEL>
 「他がためには戦えど・・・
 $J=====8656=====
 われらが神のためには戦えぬと
@@ -25885,16 +26245,16 @@ $J=====8661=====
 わが剣(つるぎ)の錆(さび)とな
 り、果てるが良い!
 $J=====8662=====
-参るぞ、戦土よ!!」
+参るぞ、戦士よ!!」
 $J=====8663=====
 <PROC=0>
 <END>
 $J=====8664=====
-<LABEL>黒騎土</LABEL>
+<LABEL>黒騎士</LABEL>
 「神の使いたるわれをたおすと
 は・・・
 $J=====8665=====
-見事なり、光の戦土よ!
+見事なり、光の戦士よ!
 $J=====8666=====
 われは去ろう・・・
 $J=====8667=====
@@ -25913,7 +26273,7 @@ $J=====8671=====
 <PROC=0>
 <END>
 $J=====8672=====
-<LABEL>黒騎土</LABEL>
+<LABEL>黒騎士</LABEL>
 「わが剣(つるぎ)をやぶりし証
 (あかし)・・・
 $J=====8673=====
@@ -28260,7 +28620,7 @@ $J=====9372=====
 $J=====9373=====
  ネームエントリ 
 $J=====9374=====
-　 戦土の伝説　 
+　 戦士の伝説　 
 $J=====9375=====
 　おてんこさま　
 $J=====9376=====
@@ -28394,7 +28754,7 @@ $J=====9439=====
 $J=====9440=====
 　　　強襲　　　
 $J=====9441=====
-　　 黒騎土　　 
+　　 黒騎士　　 
 $J=====9442=====
 　 ミッション!　
 $J=====9443=====
@@ -29376,68 +29736,95 @@ $J=====9896=====
 クラウドアーマー
 $J=====9897=====
 クラウドアーマー+
-$J=====9898=====
-アースアーマー
-$J=====9899=====
-アースアーマー+
-$J=====9900=====
-デュアルアーマー
-$J=====9901=====
-デュアルアーマー+
-$J=====9902=====
-黒騎土
-$J=====9903=====
-ニーズホッグ
-$J=====9904=====
-ウーズ(壁)
-$J=====9905=====
-ウーズ(床)
-$J=====9906=====
-クロロホルルン
-$J=====9907=====
-モエルルン
-$J=====9908=====
-ヒエルルン
-$J=====9909=====
-レッドスライム
-$J=====9910=====
-ブルースライム
-$J=====9911=====
-パープルスライム
-$J=====9912=====
-グリーンスライム
-$J=====9913=====
-ゴースト
-$J=====9914=====
-レイス
-$J=====9915=====
-伯爵
-$J=====9916=====
-フレスベルグ
-$J=====9917=====
-サバタ
-$J=====9918=====
-ニーズホッグ
-$J=====9919=====
-ラタトスク
-$J=====9920=====
-ヴァナルガンド
-$J=====9921=====
+$E=====9898=====
+//アースアーマー
+EARTH ARMOR
+$E=====9899=====
+//アースアーマー+
+EARTH ARMOR+
+$E=====9900=====
+//デュアルアーマー
+DUAL ARMOR
+$E=====9901=====
+//デュアルアーマー+
+DUAL ARMOR+
+$E=====9902=====
+//黒騎士
+Black Knight
+$E=====9903=====
+//ニーズホッグ
+Nidhoggr
+$E=====9904=====
+//ウーズ(壁)
+OOZE (wall)
+$E=====9905=====
+//ウーズ(床)
+OOZE (floor)
+$E=====9906=====
+//クロロホルルン
+CHLOROFORMIN'
+$E=====9907=====
+//モエルルン
+BURNIN'
+$E=====9908=====
+//ヒエルルン
+CHILLIN'
+$E=====9909=====
+//レッドスライム
+RED SLIME
+$E=====9910=====
+//ブルースライム
+BLUE SLIME
+$E=====9911=====
+//パープルスライム
+PURPLE SLIME
+$E=====9912=====
+//グリーンスライム
+GREEN SLIME
+$E=====9913=====
+//ゴースト
+GHOST
+$E=====9914=====
+//レイス
+WRAITH
+$E=====9915=====
+//伯爵
+Count
+$E=====9916=====
+//フレスベルグ
+Hresvelgr
+$E=====9917=====
+//サバタ
+Sabata
+$E=====9918=====
+//ニーズホッグ
+Nidhoggr
+$E=====9919=====
+//ラタトスク
+Ratatosk
+$E=====9920=====
+//ヴァナルガンド
+Vanargand
+$E=====9921=====
 ???
-$J=====9922=====
+$X=====9922=====
 {C1}{C1}{C1}{C1}{C7}{C7}{C6}{C6}{C6}{C6}{C3}{C6}{C6}{C7}{C1}{C4}{C5}{C1}{C7}{C5}{C3}{C3}{C3}{C3}{C3}{C3}{C6}{C6}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C7}{C7}{C7}{C1}{C1}{C1}{C1}{C1}{C1}{C1}{C4}{C4}{C5}{C5}{C6}{C6}{C7}{C7}{C9}{C9}{C3}{C7}{C1}{C1}{C3}{C4}{C5}{C4}{C5}{C6}{C7}{C3}{C3}{C3}{C6}{C3}{C5}{C4}{C1}
-$J=====9923=====
+$X=====9923=====
 {FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{00}{0F}{02}{11}{FF}{FF}{00}{01}{FF}{FF}{00}{0F}{FF}{FF}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{02}{12}{00}{04}{02}({00}{04}{02}){00}{03}{02}{03}{00}{03}{02}{1F}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{02}{1C}{00}{01}{02}{13}{FF}{FF}{FF}{FF}{00}{16}{02}'{00}{16}{02} {FF}{FF}{FF}{FF}{00}{08}{00}{06}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{14}{02}{0C}{00}{13}{02}{04}{00}{16}{02}*{00}{01}{02}{05}{00}{0D}{02}"{00}{0D}{02}{17}{FF}{FF}{FF}{FF}{00}{14}{02}{0D}{00}{14}{02}{14}{FF}{FF}{FF}{FF}{00}{19}{00}{19}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{00}{0E}{02}{02}{00}{0E}{02}{0F}{00}{0E}{02}{1D}{00}{0E}{02}{1E}{00}{0D}{02}{01}{00}{0D}{02}{07}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}
-$J=====9924=====
-通常:
-$J=====9925=====
-レア:
-$J=====9926=====
+$E=====9924=====
+//通常:
+Common:
+$E=====9925=====
+//レア:
+Rare:
+$E=====9926=====
 ---
-$J=====9927=====
-無属性
-$J=====9928=====
-ソル属性
+$E=====9927=====
+//無属性
+No Attribute
+$E=====9928=====
+//ソル属性
+Sol Attribute
 $J=====9929=====
 ダーク属性
 $J=====9930=====
@@ -29448,73 +29835,90 @@ $J=====9932=====
 クラウド属性
 $J=====9933=====
 アース属性
-$J=====9934=====
-全属性
-$J=====9935=====
-フレイム/フロスト属性
-$J=====9936=====
-ビースト
-$J=====9937=====
-アンデッド
-$J=====9938=====
-シング
-$J=====9939=====
-ファントム
-$J=====9940=====
-イモータル{00}
-$J=====9941=====
+$E=====9934=====
+//全属性
+All Attribute
+$E=====9935=====
+//フレイム/フロスト属性
+Flame/Frost Attribute
+$E=====9936=====
+//ビースト
+Beast
+$E=====9937=====
+//アンデッド
+Undead
+$U=====9938=====
+//シング
+Thing
+$E=====9939=====
+//ファントム
+Phantom
+$E=====9940=====
+//イモータル{00}
+Immortal{00}
+$X=====9941=====
 {00}{00} {00}9{00}{00}{00}{0C}{00}E{00}{00}{00}!{00}8{00}{00}{00}{00}{00}D{00}{00}{00}"{00}<{00}{00}{00}{14}{00}G{00}{00}{00}#{00};{00}{00}{00}{FA}{00}F{00}{04}{00}{05}{00}0{00}{00}{00}{0C}{00}A{00}{05}{00}{08}{00}1{00}{00}{00}{0C}{00}B{00}{05}{00}{0B}{00}2{00}{00}{00}{00}{00}C{00}{09}{00}{03}{02}={00}{09}{00}{05}{02}>{00}{00}{00}{03}{00}H{00}{09}{00}{00}{04}?{00}{00}{00}{04}{00}I{00}
 {00}{07}{00}@{00}{00}{00}{03}{00}J{00}{00}
-$J=====9942=====
+$X=====9942=====
 {00}{00} {00}{x}{00}{00}{00}{0C}{00}]{00}{00}{00}!{00}K{00}{00}{00}{00}{00}L{00}{00}{00}"{00}a{00}{00}{00}{14}{00}b{00}{00}{00}#{00}M{00}{00}{00}{FA}{00}N{00}{04}{00}{03}{00}R{00}{00}{00}{0C}{00}S{00}{05}{00}
 {00}O{00}{00}{00}{03}{00}P{00}{05}{00}{0C}{00}c{00}{00}{00}{00}{00}d{00}{09}{00}{08}{04}Z{00}{00}{00}{03}{00}[{00}
 {00}{02}{00}e{00}{00}{00}{0C}{00}f
-$J=====9943=====
+$X=====9943=====
 {00}{00} {00}{95}{00}{00}{00}{0C}{00}{96}{00}{00}{00}!{00}{97}{00}{00}{00}{00}{00}{98}{00}{00}{00}"{00}{PG01}{00}{00}{14}{00}{PG02}{00}{00}#{00}p{00}{00}{00}{FA}{00}q{00}{04}{00}{04}{00}j{00}{00}{00}{0C}{00}k{00}{05}{00}{09}{00}r{00}{00}{00}{04}{00}s{00}{05}{00}{06}{00}{93}{00}{00}{00}{0C}{00}{94}{00}{09}{00}{03}{04}{99}{00}{00}{00}{13}{00}{9A}{00}
 {00}{09}{00}m{00}{00}{00}{1D}{00}n{00}
 {00}{04}{00}y{00}{00}{00}&{00}z
-$J=====9944=====
+$X=====9944=====
 {09}{00}{03}{01}t{00}{08}{00}{0F}{00}u{00}{08}{00}{10}{00}v{00}{08}{00}{0C}{00}w{00}{00}{00}{0C}{00}x{00}{00}
-$J=====9945=====
+$X=====9945=====
 {02}{00}{0D}{00}{8C}{00}{08}{00}{06}{00}{8F}{00}{08}{00}{08}{00}{90}{00}{08}{00}
 {00}{91}{00}{00}{00}{0C}{00}{92}{00}{00}
-$J=====9946=====
+$X=====9946=====
 {09}{00}{03}{00}{PG04}{08}{00}{16}{00}{86}{00}{08}{00}{09}{00}{87}{00}{08}{00}{0D}{00}{88}{00}{00}{00}{0C}{00}{89}{00}{00}
-$J=====9947=====
+$X=====9947=====
 {00}{00} {00}{A3}{00}{00}{00}{0C}{00}{A9}{00}{00}{00}!{00}{A4}{00}{00}{00}{00}{00}{AA}{00}{00}{00}"{00}{A5}{00}{00}{00}{14}{00}{AB}{00}{00}{00}#{00}{A6}{00}{00}{00}{FA}{00}{AC}{00}{05}{00}{04}{00}{A0}{00}{00}{00}&{00}{A8}{00}
 {00}{08}{00}{A7}{00}{00}{00}{1D}{00}{AD}
-$J=====9948=====
+$X=====9948=====
 {05}{00}{07}{00}{C3}{00}{00}{00}÷{00}{C6}{00}{00}{00}%{00}{C4}{00}{00}{00}%{00}{C7}
-$J=====9949=====
+$X=====9949=====
 {C4}{02}x{02}x{02}x
-$J=====9950=====
+$X=====9950=====
 {C4}{02}{96}{02}x{02}x
-$J=====9951=====
+$X=====9951=====
 {C4}{02}{B4}{02}x{02}x
-$J=====9952=====
-サン・ミゲルを囲む練習コース。
-$J=====9953=====
-生者をこばむ死の砂漠(さばく)。
-$J=====9954=====
-辺境(へんきょう)に広がる大樹海(だいじゅかい)。
-$J=====9955=====
-火吹山(ひふきやま)へいたる氷の山道。
-$J=====9956=====
-海賊(かいぞく)の血に呪(のろ)われた海岸。
-$J=====9957=====
+$E=====9952=====
+//サン・ミゲルを囲む練習コース。
+A practice course circling San Miguel.
+$E=====9953=====
+//生者をこばむ死の砂漠(さばく)。
+A deadly desert that rejects all life.
+$E=====9954=====
+//辺境(へんきょう)に広がる大樹海(だいじゅかい)。
+An expansive forest in a remote region.
+$E=====9955=====
+//火吹山(ひふきやま)へいたる氷の山道。
+An icy path leading to a volcano.
+$E=====9956=====
+//海賊(かいぞく)の血に呪(のろ)われた海岸。
+A beach cursed by pirate blood.
+$U=====9957=====
 大地を望む静寂(せいじゃく)の荒野(こうや)。
-$J=====9958=====
-短距離(たんきょり)コース。
-$J=====9959=====
-ジャンプ台の多いコース。
-$J=====9960=====
-中距離(ちゅうきょり)コース。
-$J=====9961=====
-回復(かいふく)ポットの多いコース。
-$J=====9962=====
-長距離(ちょうきょり)コース。
-$J=====9963=====
-ランダムにコースを選択(せんたく)。
+$E=====9958=====
+//短距離(たんきょり)コース。
+A short-distance course.
+$E=====9959=====
+//ジャンプ台の多いコース。
+A course with plenty of jumps.
+$U=====9960=====
+//中距離(ちゅうきょり)コース。
+$E=====9961=====
+//回復(かいふく)ポットの多いコース。
+A course with plenty of potions.
+$E=====9962=====
+//長距離(ちょうきょり)コース。
+A long-distance course.
+$E=====9963=====
+//ランダムにコースを選択(せんたく)。
+Selects a course at random.
 $E=====9964=====
 ???
 $X=====9965=====
