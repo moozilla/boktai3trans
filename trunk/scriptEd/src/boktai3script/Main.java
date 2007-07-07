@@ -19,6 +19,7 @@ public class Main {
          ScriptInserter loader = new ScriptInserter();
          loader.compileFromFile("script.sjs");
          loader.writeToFile("shinbok-edit.gba");
+         loader.printStats();
       }
    }
 }

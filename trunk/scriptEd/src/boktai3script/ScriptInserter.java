@@ -212,4 +212,8 @@ public class ScriptInserter {
       } catch (IOException e) {
       }
    }
+   
+   void printStats() {
+      mData.printStats();
+   }
 }

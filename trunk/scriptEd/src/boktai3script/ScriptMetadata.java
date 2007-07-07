@@ -2,7 +2,11 @@ package boktai3script;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
 import java.util.ListIterator;
+import java.util.Map;
+import java.util.Set;
 
 public class ScriptMetadata {
    private class Metadatum {
@@ -21,14 +25,14 @@ public class ScriptMetadata {
    }
    public ScriptMetadata(String fileName) {
       mData = new ArrayList();
-      readFromFile(fileName);
+      restoreFromFile(fileName);
    }
    
    public void addEntry(String s, int l) {
       mData.add(new Metadatum(s, l));
    }
    
-   public void readFromFile(String fileName) {
+   public void restoreFromFile(String fileName) {
       mData.clear();
       BufferedReader file = null;
       try {
@@ -59,9 +63,8 @@ public class ScriptMetadata {
       }
    }
    
-   public void writeToFile(String fileName) {
+   public void storeToFile(String fileName) {
       PrintWriter file = null;
-      int len = mData.size();
       try {
          file = new PrintWriter(new FileOutputStream(fileName));
       } catch (IOException e) {
@@ -75,5 +78,28 @@ public class ScriptMetadata {
          file.println(datum.status + " " + datum.length);
       }
       file.close();
+   }
+   
+   public void printStats() {
+      HashMap codes = new HashMap();
+      ListIterator iter = mData.listIterator();
+      Metadatum datum;
+      while (iter.hasNext()) {
+         datum = (Metadatum) iter.next();
+         String statCode = datum.status;
+         int val = 0;
+         if (codes.containsKey(statCode)) {
+            val = ((Integer) codes.get(statCode)).intValue();
+         }
+         codes.put(statCode, new Integer(1+val));
+      }
+      Set entries = codes.entrySet();
+      Iterator iter2 = entries.iterator();
+      while (iter2.hasNext()) {
+         Map.Entry entry = (Map.Entry) iter2.next();
+         String statCode = (String) entry.getKey();
+         int count = ((Integer) entry.getValue()).intValue();
+         System.out.println(statCode + ": " + count);
+      }
    }
 }
