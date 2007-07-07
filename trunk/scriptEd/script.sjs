@@ -26033,8 +26033,7 @@ $E=====8696=====
 $E=====8697=====
 //<LABEL=OTENKO></LABEL>今おまえが装備(そうび)してい
 //る太陽銃(ガン・デル・ソル)は
-<LABEL=OTENKO></LABEL>
-To use the Gun Del Sol you
+<LABEL=OTENKO></LABEL>To use the Gun Del Sol you
 have equipped,
 $E=====8698=====
 //<WEIGHT>Ｂボタン</WEIGHT>を押(お)すと銃(じゅ
