@@ -6405,54 +6405,72 @@ $J=====2156=====
 <END>
 $E=====2157=====
 // 　　　　世紀末・・・　　　　 
-      END OF THE CENTURY 
+       END OF THE WORLD
 $E=====2158=====
 //　　　人々が太陽を忘れた　　　
 //　　　　　暗黒の時代　　　　　
-    People have forgotten
-    the Sun. A dark age...
+   People forgot about the
+   Sun. It was a dark age...
 $E=====2159=====
 // 　　闇の一族の出現により　　 
 // 　　世界は恐怖に包まれた　　 
-    The Immortals' arrival
-    strikes the world with
-    fear.
+   With the appearance of
+   the Dark Tribe, the world
+   was shrouded in fear.
 $E=====2160=====
 // 　　　生者は死者となり　　　 
 //　　死者は世界をさまよった　　
-    The deceased roam the
-    earth as undead.
+   The living turned undead
+   and roamed the earth.
 $E=====2161=====
-　　　　最後の希望たる　　　　
- 　　　戦士の活躍により　　　 
-$J=====2162=====
-　　一時は取り戻されたかに　　
- 　　　　見えた太陽も　　　　 
-$J=====2163=====
- 　　戦士が仲間の裏切りに　　 
- 　　　　　倒れると　　　　　 
-$J=====2164=====
-　　　　二度とその姿を　　　　
-　　　現すことはなかった　　　
+//　　　　最後の希望たる　　　　
+// 　　　戦士の活躍により　　　 
+   Thanks to the warriors,
+   the people's last hope,
+$E=====2162=====
+//　　一時は取り戻されたかに　　
+// 　　　　見えた太陽も　　　　 
+   It seemed the sun had
+   returned, and a brief
+   respite had been earned.
+$E=====2163=====
+// 　　戦士が仲間の裏切りに　　 
+// 　　　　　倒れると　　　　　 
+    But the warriors were
+    defeated, betrayed by
+    their friend,
+$E=====2164=====
+//　　　　二度とその姿を　　　　
+//　　　現すことはなかった　　　
+     and they were never
+     seen again.
 $E=====2165=====
 // 　　　破壊の獣は目覚め
    The Beast of Destruction
-   was awakened
+   awoke,
 $E=====2166=====
 //　　　世界は永遠の暗黒に　　　
 //　　　　　閉ざされた　　　　　
-     And the world was
+     and the world was
      plunged into eternal
      darkness.
-$J=====2167=====
-　　　太陽の光を得たとき　　　
- 　戦士は再び目覚めるという　 
-$J=====2168=====
- 　　しかし戦士のいない今　　 
-$J=====2169=====
-　　　　いったいだれに　　　　
-　　太陽を取り戻すことなど　　
-　　　　できよう・・・　　　　
+$E=====2167=====
+//　　　太陽の光を得たとき　　　
+// 　戦士は再び目覚めるという　 
+   When the Sun returns,
+   it is said the warriors
+   shall awaken once more.
+$E=====2168=====
+// 　　しかし戦士のいない今　　 
+   But who will be able to
+   take back the Sun... 
+$E=====2169=====
+//　　　　いったいだれに　　　　
+//　　太陽を取り戻すことなど　　
+//　　　　できよう・・・　　　　
+
+    now that the warriors
+    are gone?
 $E=====2170=====
 <PROC=0>
 <END>
@@ -6464,8 +6482,9 @@ $E=====2171=====
 $E=====2172=====
 <PROC=0>
 <END>
-$J=====2173=====
-  明日もまた日は昇(のぼ)る! 
+$E=====2173=====
+//  明日もまた日は昇(のぼ)る! 
+The Sun will rise tomorrow!
 $J=====2174=====
  　　　　でも・・・　　　　 
 $J=====2175=====
