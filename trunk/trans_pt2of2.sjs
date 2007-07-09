@@ -1109,7 +1109,7 @@ chase after the Count,
  =========
 //少しだけボクの食事につき合っ
 //てくれないかな?
-But I suppose I can deal
+But I suppose I can play
 with my food for just a bit.
  =========
 //あぁ、料理の心配ならいらない
@@ -2661,7 +2661,7 @@ Let's go, <NAME>!!
  =========
 //太陽と暗黒、今ふたたび雌雄(
 //しゆう)を決す!!抉す
-Solar and Dark, once again
+Sun and Darkness, once again
 competing for dominance!!
  =========
 //太陽よ、恐怖(きょうふ)しろ!!
@@ -4377,10 +4377,10 @@ Preparations complete
 Battle with me
  =========
 //しょうぶだねっとくん
-It's battle time, Lan
+It's battle time, Netto
  =========
 //まけないよロックマン
-Don't lose, MegaMan
+Don't lose, RockMan
  =========
 //ジャンゴ
 Django

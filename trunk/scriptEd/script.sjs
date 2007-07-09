@@ -4592,17 +4592,25 @@ a path with his own hands.
 $E=====1595=====
 <PROC=0>
 <END>
-$J=====1596=====
+$E=====1596=====
+//
+// 　　　　　[方角]
+//
 
- 　　　　　[方角]
+        [Directions]
 
 $J=====1597=====
-冒険者(ぼうけんしゃ)たる者、
-道にまようことなかれ
-$J=====1598=====
-画面右上は北、右下は東、
-左下は南、左上は西と知れ
-$J=====1599=====
+//冒険者(ぼうけんしゃ)たる者、
+//道にまようことなかれ
+A true adventurer never
+loses his way.
+$E=====1598=====
+//画面右上は北、右下は東、
+//左下は南、左上は西と知れ
+Up/right is North, down/
+right is East, down/left is
+South, and up/left is West.
+$E=====1599=====
 <PROC=0>
 <END>
 $J=====1600=====
@@ -18281,21 +18289,30 @@ $J=====5783=====
 $J=====5784=====
 <PROC=0>
 <END>
-$J=====5785=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おまえともあろう者がアイテ
-ムをぬすまれるとは・・・
-$J=====5786=====
-まだ本調子ではないようだな?
-$J=====5787=====
-まあ、すぎてしまったことは仕
-方がない
-$J=====5788=====
-<PROC=1><LOCK=50>明日もまた日は昇(のぼ)る!
-$J=====5789=====
-気を取り直して行こう、
-<NAME>!!」
-$J=====5790=====
+$E=====5785=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おまえともあろう者がアイテ
+//ムをぬすまれるとは・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"That thing just stole your
+items...
+$E=====5786=====
+//まだ本調子ではないようだな?
+Looks like you're still not
+back to your old self yet.
+$E=====5787=====
+//まあ、すぎてしまったことは仕
+//方がない
+Well, what's done is done.
+$E=====5788=====
+//<PROC=1><LOCK=50>明日もまた日は昇(のぼ)る!
+<PROC=1><LOCK=50>The Sun will rise tomorrow!
+$E=====5789=====
+//気を取り直して行こう、
+//<NAME>!!」
+Pull yourself together and
+continue on, <NAME>!
+$E=====5790=====
 <PROC=0>
 <END>
 $J=====5791=====
@@ -27010,7 +27027,7 @@ $E=====8683=====
 //ーを選択(せんたく)して、[つ
 //かう]を実行すればいい」
 then navigate to the Items
-menu using the <WEIGHT>L/R Button</WEIGHT>.
+page using the <WEIGHT>L/R Button</WEIGHT>.
 $E=====8684=====
 <PROC=0>
 <END>
@@ -27386,7 +27403,7 @@ By swapping frames,
 $E=====8755=====
 //攻撃方法(こうげきほうほう)を
 //切りかえることができる
-You can change the way your
+you can change the way your
 gun attacks.
 $E=====8756=====
 //フレームの装備(そうび)は、メ
@@ -27438,7 +27455,7 @@ $E=====8764=====
 $E=====8765=====
 //冒険(ぼうけん)の記録、セーブ
 //はしているか?
-Are you keeping a record of
+are you keeping a record of
 your adventures?
 $E=====8766=====
 //セーブは、メニュー画面のセー
@@ -27506,8 +27523,8 @@ $E=====8777=====
 //攻撃力(こうげきりょく)に影響
 //(えいきょう)する[チカラ]、
 //以上の3つだ
-and Strength, which affects
-the power of your attacks.
+and Skill, which affects the
+power of your attacks.
 $E=====8778=====
 //ポイントのわりふりは、メニュ
 //ー画面のステータスメニューで
@@ -27535,94 +27552,148 @@ $E=====8782=====
 //「地図を手に入れたようだな
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Looks like you got a map.
-$J=====8783=====
-ダンジョンのマップは、メニュ
-ー画面のマップメニューで確認
-(かくにん)することができる
-$J=====8784=====
-マップを見るためには、そのダ
-ンジョンの地図が必要だ
-$J=====8785=====
-ダンジョンによっては、地図が
-1枚とはかぎらないから注意し
-てくれ」
-$J=====8786=====
+$E=====8783=====
+//ダンジョンのマップは、メニュ
+//ー画面のマップメニューで確認
+//(かくにん)することができる
+You can check the dungeon
+map by selecting the Map
+page on the menu screen.
+$E=====8784=====
+//マップを見るためには、そのダ
+//ンジョンの地図が必要だ
+In order to view the map for
+a particular dungeon, you
+need to find it first!
+$E=====8785=====
+//ダンジョンによっては、地図が
+//1枚とはかぎらないから注意し
+//てくれ」
+Depending on the dungeon,
+the map may not all be in
+one piece, though."
+$E=====8786=====
 <PROC=0>
 <END>
-$J=====8787=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「これは重量スイッチだな
-$J=====8788=====
-上におもりとなるモノを乗せれ
-ば、起動(きどう)するはずだが
-・・・」
-$J=====8789=====
+$E=====8787=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「これは重量スイッチだな
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This is a weight switch.
+$E=====8788=====
+//上におもりとなるモノを乗せれ
+//ば、起動(きどう)するはずだが
+//・・・」
+Placing something heavy on
+top of it should activate
+it..."
+$E=====8789=====
 <PROC=0>
 <END>
-$J=====8790=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ソードタイプの武器(ぶき)を
-手に入れたようだな
-$J=====8791=====
-ソードは太陽銃(ガン・デル・
-ソル)とちがい、エナジーがな
-くても使うことができる
-$J=====8792=====
-太陽ショットのように、遠くの
-敵(てき)を攻撃(こうげき)する
-ことはできないが、
-$J=====8793=====
-移動(いどう)ブロック、木箱を
-破壊(はかい)することが可能(
-かのう)だ
-$J=====8794=====
-中には、さらに特殊(とくしゅ)
-な効果(こうか)を持ったソード
-もあるらしい
-$J=====8795=====
-ソードには、メニュー画面のソ
-ードメニューで装備(そうび)し
-た上で、
-$J=====8796=====
-<WEIGHT>SELECTボタン</WEIGHT>を押(お)しながら
-<WEIGHT>Ｒボタン</WEIGHT>を押(お)して行うクイ
-ックチェンジによって、
-$J=====8797=====
-持ちかえることができる
-$J=====8798=====
-<WEIGHT>Ｂボタン</WEIGHT>を押(お)すとソードを
-かまえ、はなすと攻撃(こうげ
-き)をくり出すぞ
-$J=====8799=====
-太陽銃(ガン・デル・ソル)とソ
-ード・・・
-$J=====8800=====
-それぞれの特徴(とくちょう)を
-よく理解(りかい)して、
-$J=====8801=====
-効果的(こうかてき)に使い分け
-るんだ」
-$J=====8802=====
+$E=====8790=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ソードタイプの武器(ぶき)を
+//手に入れたようだな
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Looks like you got a Sword-
+type weapon.
+$E=====8791=====
+//ソードは太陽銃(ガン・デル・
+//ソル)とちがい、エナジーがな
+//くても使うことができる
+Unlike the Gun Del Sol, you
+can use a sword when you
+don't have any energy.
+$E=====8792=====
+//太陽ショットのように、遠くの
+//敵(てき)を攻撃(こうげき)する
+//ことはできないが、
+You can't attack enemies at
+a distance like with a Solar
+Shot,
+$E=====8793=====
+//移動(いどう)ブロック、木箱を
+//破壊(はかい)することが可能(
+//かのう)だ
+but you can break wooden
+blocks with it.
+$E=====8794=====
+//中には、さらに特殊(とくしゅ)
+//な効果(こうか)を持ったソード
+//もあるらしい
+It seems there also exist
+swords with intrinsic
+special effects.
+$E=====8795=====
+//ソードには、メニュー画面のソ
+//ードメニューで装備(そうび)し
+//た上で、
+To equip swords, select the
+Swords page from the menu
+screen.
+$E=====8796=====
+//<WEIGHT>SELECTボタン</WEIGHT>を押(お)しながら
+//<WEIGHT>Ｒボタン</WEIGHT>を押(お)して行うクイ
+//ックチェンジによって、
+By pressing the <WEIGHT>R Button</WEIGHT>
+while holding <WEIGHT>SELECT</WEIGHT>
+(called a Quick Change),
+$E=====8797=====
+//持ちかえることができる
+you can change what you're
+holding.
+$E=====8798=====
+//<WEIGHT>Ｂボタン</WEIGHT>を押(お)すとソードを
+//かまえ、はなすと攻撃(こうげ
+//き)をくり出すぞ
+Raise your sword by pressing
+the <WEIGHT>B Button</WEIGHT>, then release
+it to attack.
+$E=====8799=====
+//太陽銃(ガン・デル・ソル)とソ
+//ード・・・
+The Gun Del Sol and the
+sword...
+$E=====8800=====
+//それぞれの特徴(とくちょう)を
+//よく理解(りかい)して、
+It's important to understand
+their respective features,
+$E=====8801=====
+//効果的(こうかてき)に使い分け
+//るんだ」
+in order to use them
+effectively."
+$E=====8802=====
 <PROC=0>
 <END>
-$J=====8803=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ぬぅ・・・
-$J=====8804=====
-この木箱を何とかしなければ、
-先には進めそうもないな・・・
-$J=====8805=====
-太陽銃(ガン・デル・ソル)では
-木箱を破壊(はかい)することは
-できない
-$J=====8806=====
+$E=====8803=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ぬぅ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hmm...
+$E=====8804=====
+//この木箱を何とかしなければ、
+//先には進めそうもないな・・・
+You'll have to get rid of
+these crates to go any
+farther,
+$E=====8805=====
+//太陽銃(ガン・デル・ソル)では
+//木箱を破壊(はかい)することは
+//できない
+but the Gun Del Sol can't
+destroy crates.
+$E=====8806=====
 <PROC=0>
 <END>
-$J=====8807=====
+$E=====8807=====
+//<LABEL=OTENKO></LABEL><NAME>、
+//何か別の武器(ぶき)をさがすん
+//だ」
 <LABEL=OTENKO></LABEL><NAME>、
-何か別の武器(ぶき)をさがすん
-だ」
-$J=====8808=====
+look for some other weapon."
+$E=====8808=====
 <PROC=0>
 <END>
 $J=====8809=====
