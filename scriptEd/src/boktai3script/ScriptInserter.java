@@ -113,7 +113,7 @@ public class ScriptInserter {
                curLine++;
                continue;
             }
-            cScript.addAll(parseLine(lineCtr, line));
+            cScript.addAll(parseLine(lineCtr-1, line));
             curLine++;
          }
          if (cScript.size() > 0) {
