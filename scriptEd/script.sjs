@@ -6405,7 +6405,7 @@ $J=====2156=====
 <END>
 $E=====2157=====
 // 　　　　世紀末・・・　　　　 
-       END OF THE WORLD
+    The end of the world...
 $E=====2158=====
 //　　　人々が太陽を忘れた　　　
 //　　　　　暗黒の時代　　　　　
@@ -13631,140 +13631,209 @@ $J=====4496=====
 $J=====4497=====
 <PROC=0>
 <END>
-$J=====4498=====
-<LABEL=GARIGARIKUN>イガグリ頭の少年</LABEL>
-「おっす!
-おいら、ガリガリ君!!
-$J=====4499=====
-おめぇ、よくここが分かったな
-?
-$J=====4500=====
-それに、こんな魔物(モンスタ
-ー)だらけの場所で何してんだ?
-$J=====4501=====
-おいらか?
-$J=====4502=====
-おいらは・・・
-$J=====4503=====
-・・・
-$J=====4504=====
-何でこんなトコにいんだ?」
-$J=====4505=====
+$E=====4498=====
+//<LABEL=GARIGARIKUN>イガグリ頭の少年</LABEL>
+//「おっす!
+//おいら、ガリガリ君!!
+<LABEL=GARIGARIKUN>Chestnut-Headed Boy</LABEL>:
+"Yo!
+I'm Kid Crunch!
+$E=====4499=====
+//おめぇ、よくここが分かったな
+//?
+Dude, you must know this place
+pretty well.
+$E=====4500=====
+//それに、こんな魔物(モンスタ
+//ー)だらけの場所で何してんだ?
+...what're ya doin' in such a
+monster-filled place anyway?
+$E=====4501=====
+//おいらか?
+...me?
+$E=====4502=====
+//おいらは・・・
+I...
+$E=====4503=====
+//・・・
+...
+$E=====4504=====
+//何でこんなトコにいんだ?」
+what am I doing here?"
+$E=====4505=====
 <PROC=0>
 <END>
-$J=====4506=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「まっ、いっか!!
-$J=====4507=====
-おいらには、このガリガリ君ソ
-ーダがあっからな!
-$J=====4508=====
-どんな魔物(モンスター)が来よ
-うと・・・
-$J=====4509=====
-ガリッとヘッチャラだぜ!!」
-$J=====4510=====
+$E=====4506=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「まっ、いっか!!
+<LABEL=GARIGARIKUN>Crunch Boy</LABEL>:
+"Oh, it's fine!
+$E=====4507=====
+//おいらには、このガリガリ君ソ
+//ーダがあっからな!
+I got this Soda Crunch!
+$E=====4508=====
+//どんな魔物(モンスター)が来よ
+//うと・・・
+No matter what kind of monster
+shows up...
+$U=====4509=====
+//ガリッとヘッチャラだぜ!!」
+I'll stay cool!"
+$E=====4510=====
 <PROC=0>
 <END>
-$J=====4511=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「ん?
-$J=====4512=====
-まさかおめぇ・・・
-$J=====4513=====
-このガリガリ君ソーダを知んね
-ぇのか!?
-$J=====4514=====
-ガリガリ食感のソーダ味のかき
-氷、それがこのガリガリ君ソー
-ダだ!!
-$J=====4515=====
-ガリッとかじれば、ガリッと元
-気!
-$J=====4516=====
-何なら1本60ソルで売ってやっ
-ぞ?」
-$J=====4517=====
+$E=====4511=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「ん?
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Huh?
+$E=====4512=====
+//まさかおめぇ・・・
+No way...
+$E=====4513=====
+//このガリガリ君ソーダを知んね
+//ぇのか!?
+You've never heard of Soda
+Crunch!?
+$E=====4514=====
+//ガリガリ食感のソーダ味のかき
+//氷、それがこのガリガリ君ソー
+//ダだ!!
+It's crunchy-textured, soda-
+flavored shaved ice!
+$E=====4515=====
+//ガリッとかじれば、ガリッと元
+//気!
+Bite into a Crunch and you'll
+pep right up!
+$E=====4516=====
+//何なら1本60ソルで売ってやっ
+//ぞ?」
+I'll sell ya one for
+60 Soll."
+$E=====4517=====
 <PROC=0>
 <END>
-$J=====4518=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「おっす!!
-ガリガリしてっか?
-$J=====4519=====
-ん?
-$J=====4520=====
-何でまた、こんなトコにいんの
-か?
-$J=====4521=====
-・・・
-$J=====4522=====
-まっ、細かいことは気にすんな
-$J=====4523=====
+$E=====4518=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「おっす!!
+//ガリガリしてっか?
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Yo!
+You wanna Crunch?
+$E=====4519=====
+//ん?
+Huh?
+$E=====4520=====
+//何でまた、こんなトコにいんの
+//か?
+Why'm I in this kinda place
+again?
+$E=====4521=====
+//・・・
+...
+$E=====4522=====
+//まっ、細かいことは気にすんな
+Ahaha, who cares about the
+little details, nevermind
+that!
+$E=====4523=====
 ガリガリ君ソーダさえあれば、
 どんなダンジョンだろうと、ガ
 リッとヘッチャラだぜ!!」
-$J=====4524=====
+If I've got Soda Crunch, no
+matter what the dungeon holds,
+I'll stay cool!
+$E=====4524=====
 <PROC=0>
 <END>
-$J=====4525=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「おおっ!?
-$J=====4526=====
-それは当たりスティックじゃね
-ーか!
-$J=====4527=====
-本当に当てちまったのか?
-$J=====4528=====
-しょうがねぇ・・・
-おいら秘蔵(ひぞう)のガリガリ
-君コーラと交換(こうかん)だ
-$J=====4529=====
-ガリガリ食感のコーラかき氷!!
-ガリッとかじれば、元気100倍!
-$J=====4530=====
-思う存分(ぞんぶん)ガリガリし
-てくれ!!」
-$J=====4531=====
+$E=====4525=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「おおっ!?
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Whaaa!?
+$E=====4526=====
+//それは当たりスティックじゃね
+//ーか!
+No way, a Winner Stick?
+$E=====4527=====
+//本当に当てちまったのか?
+Is it really?
+$E=====4528=====
+//しょうがねぇ・・・
+//おいら秘蔵(ひぞう)のガリガリ
+//君コーラと交換(こうかん)だ
+Guess I gotta...
+I'll exchange it for my
+precious Cola Crunch.
+$E=====4529=====
+//ガリガリ食感のコーラかき氷!!
+//ガリッとかじれば、元気100倍!
+Cola Crunch ice candy! Bite
+into a Crunch and you'll pep
+up to the max!
+$E=====4530=====
+//思う存分(ぞんぶん)ガリガリし
+//てくれ!!」
+Crunch to your heart's
+content!"
+$E=====4531=====
 <PROC=0>
 <END>
-$J=====4532=====
-「当たりスティック」を
-「ガリガリ君コーラ」と
-交換(こうかん)した!!
-$J=====4533=====
+$E=====4532=====
+//「当たりスティック」を
+//「ガリガリ君コーラ」と
+//交換(こうかん)した!!
+Traded "Winner Stick"
+for "Cola Crunch"!
+$E=====4533=====
 <PROC=0>
 <END>
-$J=====4534=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「ガリガリすっか?」
- <ALTER>ガリガリする</ALTER>　<ALTER>話をする</ALTER>
-$J=====4535=====
+$E=====4534=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「ガリガリすっか?」
+// <ALTER>ガリガリする</ALTER>　<ALTER>話をする</ALTER>
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Wanna Crunch?
+ <ALTER>Crunch</ALTER>  <ALTER>Talk</ALTER>
+$E=====4535=====
 <PROC=0>
 <END>
-$J=====4536=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「ガリガリ君ソーダはアイスキ
-ャンディーだかんな
-$J=====4537=====
-溶(と)けないうちに食べんだぞ
-?」
-$J=====4538=====
+$E=====4536=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「ガリガリ君ソーダはアイスキ
+//ャンディーだかんな
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Crunch Soda ice candy!
+$E=====4537=====
+//溶(と)けないうちに食べんだぞ
+//?」
+Eat it 'fore it melts, got
+it?"
+$E=====4538=====
 <PROC=0>
 <END>
-$J=====4539=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「当たりスティックが出たら、
-もう一本!!
-$J=====4540=====
-ガリガリ君コーラと交換(こう
-かん)すっぞ!」
-$J=====4541=====
+$E=====4539=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「当たりスティックが出たら、
+//もう一本!!
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Find a Winner Stick and you
+get another one!
+$E=====4540=====
+//ガリガリ君コーラと交換(こう
+//かん)すっぞ!」
+I'll trade it for a Cola
+Crunch!"
+$E=====4541=====
 <PROC=0>
 <END>
-$J=====4542=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「もうガリガリしたか?
+$E=====4542=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「もうガリガリしたか?
+<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+"Have you Crunched yet?
 $J=====4543=====
 ガリガリ君ソーダは、外はソー
 ダ味のキャンディー、
@@ -16808,7 +16877,6 @@ $E=====5477=====
 //おまえの復活(ふっかつ)にはお
 //れの血が、月の巫女(月下美人)
 //の力が必要というわけか・・・
-1234567890123456789012345678
 you need my blood and the
 power of the Lunar Maiden
 for your revival...
@@ -16983,7 +17051,6 @@ $E=====5510=====
 $E=====5511=====
 //このおれが、そんなことをゆる
 //すと思うのか?」
-1234567890123456789012345678
 Do you think I'd let that
 happen?"
 $E=====5512=====
@@ -17005,7 +17072,6 @@ permission.
 $E=====5516=====
 //人形には意思など・・・
 //必要ないのです!!」
-1234567890123456789012345678
 A puppet does not need a
 will!"
 $E=====5517=====
