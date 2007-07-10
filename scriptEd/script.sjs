@@ -2393,10 +2393,10 @@ $E=====997=====
 CHOCOLATE-COVERED
 $E=====998=====
 //ガリガリ君ソーダ
-SODA CRUNCH
+GARIGARI SODA
 $E=====999=====
 //ガリガリ君コーラ
-COLA CRUNCH
+GARIGARI COLA
 $E=====1000=====
 //魔法薬
 MAGICAL POTION
@@ -4467,7 +4467,7 @@ $E=====1560=====
 //「ガリガリ君」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Kid Crunch"
+"GariGari-kun"
 obtained!</LABEL><PROC=1>
 $E=====1561=====
 <PROC=0>
@@ -13645,7 +13645,7 @@ $E=====4498=====
 //おいら、ガリガリ君!!
 <LABEL=GARIGARIKUN>Chestnut-Headed Boy</LABEL>:
 "Yo!
-I'm Kid Crunch!
+I'm GariGari-kun!
 $E=====4499=====
 //おめぇ、よくここが分かったな
 //?
@@ -13674,12 +13674,12 @@ $E=====4505=====
 $E=====4506=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「まっ、いっか!!
-<LABEL=GARIGARIKUN>Crunch Boy</LABEL>:
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Oh, it's fine!
 $E=====4507=====
 //おいらには、このガリガリ君ソ
 //ーダがあっからな!
-I got this Soda Crunch!
+I got this GariGari Soda!
 $E=====4508=====
 //どんな魔物(モンスター)が来よ
 //うと・・・
@@ -13694,7 +13694,7 @@ $E=====4510=====
 $E=====4511=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「ん?
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Huh?
 $E=====4512=====
 //まさかおめぇ・・・
@@ -13702,8 +13702,9 @@ No way...
 $E=====4513=====
 //このガリガリ君ソーダを知んね
 //ぇのか!?
-You've never heard of Soda
-Crunch!?
+1234567890123456789012345678
+You've never heard of
+GariGari Soda!?
 $E=====4514=====
 //ガリガリ食感のソーダ味のかき
 //氷、それがこのガリガリ君ソー
@@ -13713,8 +13714,8 @@ flavored shaved ice!
 $E=====4515=====
 //ガリッとかじれば、ガリッと元
 //気!
-Bite into a Crunch and you'll
-pep right up!
+Bite into a GariGari and
+you'll pep right up!
 $E=====4516=====
 //何なら1本60ソルで売ってやっ
 //ぞ?」
@@ -13727,9 +13728,9 @@ $E=====4518=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「おっす!!
 //ガリガリしてっか?
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Yo!
-You wanna Crunch?
+You wanna GariGari?
 $E=====4519=====
 //ん?
 Huh?
@@ -13747,19 +13748,19 @@ Ahaha, who cares about the
 little details, nevermind
 that!
 $E=====4523=====
-ガリガリ君ソーダさえあれば、
-どんなダンジョンだろうと、ガ
-リッとヘッチャラだぜ!!」
-If I've got Soda Crunch, no
-matter what the dungeon holds,
-I'll stay cool!
+//ガリガリ君ソーダさえあれば、
+//どんなダンジョンだろうと、ガ
+//リッとヘッチャラだぜ!!」
+If I've got GariGari Soda,
+no matter what the dungeon
+holds, I'll stay cool!
 $E=====4524=====
 <PROC=0>
 <END>
 $E=====4525=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「おおっ!?
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Whaaa!?
 $E=====4526=====
 //それは当たりスティックじゃね
@@ -13774,17 +13775,17 @@ $E=====4528=====
 //君コーラと交換(こうかん)だ
 Guess I gotta...
 I'll exchange it for my
-precious Cola Crunch.
+precious GariGari Cola.
 $E=====4529=====
 //ガリガリ食感のコーラかき氷!!
 //ガリッとかじれば、元気100倍!
-Cola Crunch ice candy! Bite
-into a Crunch and you'll pep
-up to the max!
+GariGari Cola ice candy!
+Bite into a GariGari and
+you'll pep up to the max!
 $E=====4530=====
 //思う存分(ぞんぶん)ガリガリし
 //てくれ!!」
-Crunch to your heart's
+GariGari to your heart's
 content!"
 $E=====4531=====
 <PROC=0>
@@ -13794,7 +13795,7 @@ $E=====4532=====
 //「ガリガリ君コーラ」と
 //交換(こうかん)した!!
 Traded "Winner Stick"
-for "Cola Crunch"!
+for "GariGari Cola"!
 $E=====4533=====
 <PROC=0>
 <END>
@@ -13802,9 +13803,9 @@ $E=====4534=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「ガリガリすっか?」
 // <ALTER>ガリガリする</ALTER>　<ALTER>話をする</ALTER>
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
-"Wanna Crunch?
- <ALTER>Crunch</ALTER>  <ALTER>Talk</ALTER>
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
+"Wanna GariGari?
+ <ALTER>GariGari</ALTER>  <ALTER>Talk</ALTER>
 $E=====4535=====
 <PROC=0>
 <END>
@@ -13812,8 +13813,8 @@ $E=====4536=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「ガリガリ君ソーダはアイスキ
 //ャンディーだかんな
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
-"Crunch Soda ice candy!
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
+"GariGari Soda ice candy!
 $E=====4537=====
 //溶(と)けないうちに食べんだぞ
 //?」
@@ -13826,29 +13827,35 @@ $E=====4539=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「当たりスティックが出たら、
 //もう一本!!
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Find a Winner Stick and you
 get another one!
 $E=====4540=====
 //ガリガリ君コーラと交換(こう
 //かん)すっぞ!」
-I'll trade it for a Cola
-Crunch!"
+I'll trade it for a GariGari
+Cola!"
 $E=====4541=====
 <PROC=0>
 <END>
 $E=====4542=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「もうガリガリしたか?
-<LABEL=GARIGARIKUN>Kid Crunch</LABEL>:
-"Have you Crunched yet?
-$J=====4543=====
-ガリガリ君ソーダは、外はソー
-ダ味のキャンディー、
-$J=====4544=====
-中はソーダ味のかき氷の二層構
-造(にそうこうぞう)で、1度に2
-つの食感が楽しめっぞ!
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
+"Had a GariGari yet?
+$E=====4543=====
+//ガリガリ君ソーダは、外はソー
+//ダ味のキャンディー、
+GariGari Soda has soda-
+flavored candy on the
+outside,
+$E=====4544=====
+//中はソーダ味のかき氷の二層構
+//造(にそうこうぞう)で、1度に2
+//つの食感が楽しめっぞ!
+and two fun-filled layers
+of soda-flavored shaved ice
+on the inside.
 $J=====4545=====
 ちなみにガリガリ君コーラは、
 外はコーラ味のキャンディー、
