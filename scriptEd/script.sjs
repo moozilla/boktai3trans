@@ -3342,25 +3342,25 @@ $E=====1310=====
 {＋}UP=UP LEFT
 $E=====1311=====
 //{＋}上＝上
-{＋}UP=UP
+   {＋}UP=UP
 $E=====1312=====
 //{＋}上＝右上
 {＋}UP=UP RIGHT
 $E=====1313=====
 //  おそい
-  SLOW
+   SLOW   
 $E=====1314=====
 //  ふつう
-NORMAL
+  NORMAL  
 $E=====1315=====
 //  はやい
-  FAST
+   FAST   
 $E=====1316=====
 //   オン
-  ON
+    ON    
 $E=====1317=====
 //   オフ
-  OFF
+    OFF   
 $E=====1318=====
 //これを買いますか?
 Buy this?
@@ -7186,30 +7186,42 @@ TRINITY SP
 $E=====2389=====
 //ロックブルー
 ROCK BLUE
-$J=====2390=====
-棺桶(かんおけ)の灰。無と不安の色。
-$J=====2391=====
+$E=====2390=====
+//棺桶(かんおけ)の灰。無と不安の色。
+Coffin ash. The color of anxiety and nothingness.
+$E=====2391=====
 太陽の黄。命と希望の色。
-$J=====2392=====
-月の白。慈愛(じあい)と狂気(きょうき)の色。
-$J=====2393=====
-炎の赤。情熱(じょうねつ)と攻撃(こうげき)の色。
-$J=====2394=====
-氷の青。冷静と防御(ぼうぎょ)の色。
-$J=====2395=====
-雲の紫。神秘(しんぴ)と高貴(こうき)の色。
-$J=====2396=====
-大地の緑。調和と安らぎの色。
-$J=====2397=====
-暗黒の黒。死と恐怖(きょうふ)の色。
-$J=====2398=====
-太陽少年の赤。愛と勇気の色。
-$J=====2399=====
-暗黒少年の黒。罪(つみ)と罰(ばつ)の色。
-$J=====2400=====
-未来少年の紫。破壊(はかい)と創造(そうぞう)の色。
-$J=====2401=====
-ロックマンの青。友情と知性(ちせい)の色。
+Solar yellow. The color of life and hope.
+$E=====2392=====
+//月の白。慈愛(じあい)と狂気(きょうき)の色。
+Lunar white. The color of love and madness.
+$E=====2393=====
+//炎の赤。情熱(じょうねつ)と攻撃(こうげき)の色。
+Flame red. The color of passion and offense.
+$E=====2394=====
+//氷の青。冷静と防御(ぼうぎょ)の色。
+Ice blue. The color of serenity and defense.
+$E=====2395=====
+//雲の紫。神秘(しんぴ)と高貴(こうき)の色。
+Cloud purple. The color of mystery and nobility.
+$E=====2396=====
+//大地の緑。調和と安らぎの色。
+Earth green. The color of harmony and tranquility.
+$E=====2397=====
+//暗黒の黒。死と恐怖(きょうふ)の色。
+Darkness black. The color of death and despair.
+$E=====2398=====
+//太陽少年の赤。愛と勇気の色。
+Solar Boy red. The color of love and courage. 
+$E=====2399=====
+//暗黒少年の黒。罪(つみ)と罰(ばつ)の色。
+Dark Boy black. The color of sin and retribution.
+$E=====2400=====
+//未来少年の紫。破壊(はかい)と創造(そうぞう)の色。
+Future Boy purple. The color of creation and destruction.
+$E=====2401=====
+//ロックマンの青。友情と知性(ちせい)の色。
+RockMan blue. The color of friendship and intelligence.
 $E=====2402=====
 //パーツをつけかえる。
 Select parts.
@@ -18378,19 +18390,31 @@ $E=====5730=====
 $E=====5731=====
 <PROC=0>
 <END>
-$J=====5732=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタ、
-どうしてなんだ・・・?
-$J=====5733=====
-闇の女王(クイーン)に暗黒少年
-として育てられたとはいえ、
-$J=====5734=====
-おまえもまた<NAME>と同じ太陽と月の血を受けつぐ者
-$J=====5735=====
-血を分けた弟をたおし、封印(
-ふういん)までをもほどこすと
-は・・・
+$E=====5732=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタ、
+//どうしてなんだ・・・?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata,
+why did you...?
+$E=====5733=====
+//闇の女王(クイーン)に暗黒少年
+//として育てられたとはいえ、
+Even though you were brought
+up as the Dark Boy by the
+Queen,
+$E=====5734=====
+//おまえもまた<NAME>と同じ太陽と月の血を受けつぐ者
+you inherited the same Solar
+and Lunar blood as
+<NAME>.
+$E=====5735=====
+//血を分けた弟をたおし、封印(
+//ふういん)までをもほどこすと
+//は・・・
+Defeating your brother, and
+even going so far as to seal
+him away...
 $J=====5736=====
 その身に宿る暗黒物質(ダーク
 マター)の命ずるままに、世界
@@ -25022,43 +25046,55 @@ $J=====7913=====
 $J=====7914=====
 <PROC=0>
 <END>
-$J=====7915=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「ハカイ・・・
-$J=====7916=====
-ハカイ・・・
-$J=====7917=====
+$E=====7915=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「ハカイ・・・
+<LABEL=NONE>Sabata's Image</LABEL>:
+"DESTRUCTION...
+$E=====7916=====
+//ハカイ・・・
+DESTRUCTION...
+$E=====7917=====
 <PROC=0>
 <END>
-$J=====7918=====
-<LABEL=NONE></LABEL>ハカイ!!」
-$J=====7919=====
+$E=====7918=====
+//<LABEL=NONE></LABEL>ハカイ!!」
+<LABEL=NONE></LABEL>DESTRUCTION!"
+$E=====7919=====
 <PROC=0>
 <END>
-$J=====7920=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「ツブセ・・・
+$E=====7920=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「ツブセ・・・
+<LABEL=NONE>Sabata's Image</LABEL>:
+"SMASH...
 $J=====7921=====
-コワセ・・・
-$J=====7922=====
+//コワセ・・・
+BREAK...
+$E=====7922=====
 <PROC=0>
 <END>
-$J=====7923=====
-<LABEL=NONE></LABEL>ハカイセヨ!!」
-$J=====7924=====
+$E=====7923=====
+//<LABEL=NONE></LABEL>ハカイセヨ!!」
+<LABEL=NONE></LABEL>DESTROY!"
+$E=====7924=====
 <PROC=0>
 <END>
-$J=====7925=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「ハカイセヨ!
-$J=====7926=====
-イキトシイケルモノ・・・
-$J=====7927=====
+$E=====7925=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「ハカイセヨ!
+<LABEL=NONE>Sabata's Image</LABEL>:
+"DESTROY!
+$E=====7926=====
+//イキトシイケルモノ・・・
+ALL OF THEM...
+$E=====7927=====
 <PROC=0>
 <END>
-$J=====7928=====
-<LABEL=NONE></LABEL>ソノスベテヲハカイセヨ!!」
-$J=====7929=====
+$E=====7928=====
+//<LABEL=NONE></LABEL>ソノスベテヲハカイセヨ!!」
+<LABEL=NONE></LABEL>DESTROY ALL LIFE!"
+$E=====7929=====
 <PROC=0>
 <END>
 $J=====7930=====
@@ -28310,7 +28346,7 @@ $E=====8881=====
 //スター、クロロホルルンだ
 They're Phantom-type
 monsters known as
-Chloroformin'.
+Klorofolun.
 $E=====8882=====
 //冒険者(ぼうけんしゃ)が近づく
 //と、取りついてライフをうばお
@@ -31076,13 +31112,13 @@ $E=====9905=====
 OOZE (floor)
 $E=====9906=====
 //クロロホルルン
-CHLOROFORMIN'
+KLOROFOLUN
 $E=====9907=====
 //モエルルン
-BURNIN'
+BURRNUN
 $E=====9908=====
 //ヒエルルン
-CHILLIN'
+CHILLUN
 $E=====9909=====
 //レッドスライム
 RED SLIME
@@ -31139,16 +31175,21 @@ No Attribute
 $E=====9928=====
 //ソル属性
 Sol Attribute
-$J=====9929=====
-ダーク属性
-$J=====9930=====
-フレイム属性
-$J=====9931=====
-フロスト属性
-$J=====9932=====
-クラウド属性
-$J=====9933=====
-アース属性
+$E=====9929=====
+//ダーク属性
+Dark Attribute
+$E=====9930=====
+//フレイム属性
+Flame Attribute
+$E=====9931=====
+//フロスト属性
+Frost Attribute
+$E=====9932=====
+//クラウド属性
+Cloud Attribute
+$E=====9933=====
+//アース属性
+Earth Attribute
 $E=====9934=====
 //全属性
 All Attribute
@@ -31163,7 +31204,7 @@ $E=====9937=====
 Undead
 $U=====9938=====
 //シング
-Thing
+Material
 $E=====9939=====
 //ファントム
 Phantom
