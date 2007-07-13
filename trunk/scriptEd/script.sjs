@@ -12483,114 +12483,170 @@ $J=====4098=====
 $J=====4099=====
 <PROC=0>
 <END>
-$J=====4100=====
-<LABEL=SUMIRE>エプロンドレスの少女</LABEL>
-「おにいちゃん!」
-$J=====4101=====
+$E=====4100=====
+//<LABEL=SUMIRE>エプロンドレスの少女</LABEL>
+//「おにいちゃん!」
+<LABEL=SUMIRE>Girl in Apron Dress</LABEL>:
+"<NAME>!"
+$E=====4101=====
 <PROC=0>
 <END>
-$J=====4102=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「うーむ・・・
-$J=====4103=====
-まだ記憶(きおく)が完全ではな
-いようだな・・・」
-$J=====4104=====
+$E=====4102=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「うーむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hmm...
+$E=====4103=====
+//まだ記憶(きおく)が完全ではな
+//いようだな・・・」
+looks like you haven't
+recovered all of your
+memories yet..."
+$E=====4104=====
 <PROC=0>
 <END>
-$J=====4105=====
-<LABEL=SUMIRE>エプロンドレスの少女</LABEL>
-「おにいちゃん、スミレのこと
-わすれちゃったの?
-$J=====4106=====
+$E=====4105=====
+//<LABEL=SUMIRE>エプロンドレスの少女</LABEL>
+//「おにいちゃん、スミレのこと
+//わすれちゃったの?
+<LABEL=SUMIRE>Girl in White Apron</LABEL>:
+"Didja really forget about
+me, <NAME>?"
+$E=====4106=====
 <PROC=0>
 <END>
-$J=====4107=====
+$U=====4107=====
 <LABEL=SUMIRE></LABEL>スミレ、がんばっておるすばん
 してたのに・・・
-$J=====4108=====
-ひどいよう・・・
-$J=====4109=====
-くすん・・・」
-$J=====4110=====
-<LABEL=NONE>???</LABEL>
-「女の子を泣かせるなんて、感
-心しないなぁ・・・」
-$J=====4111=====
+$E=====4108=====
+//ひどいよう・・・
+you meanie...
+$E=====4109=====
+//くすん・・・」
+(sniffle)..."
+$E=====4110=====
+//<LABEL=NONE>???</LABEL>
+//「女の子を泣かせるなんて、感
+//心しないなぁ・・・」
+<LABEL=NONE>???</LABEL>:
+"Nice going, making a little
+girl cry...
+$E=====4111=====
 <PROC=0>
 <END>
-$J=====4112=====
-<LABEL=COFFIN>あやしい男</LABEL>
-「やあ、<NAME>くん・・・
-$J=====4113=====
-地下牢獄(ちかろうごく)にとじ
-こめられていたんだって?
-$J=====4114=====
-言ってみれば、そいつも1つの
-棺桶(かんおけ)・・・
-$J=====4115=====
-君はつくづく棺桶(かんおけ)に
-愛されているようだね?
-$J=====4116=====
-ふふふ・・・
-$J=====4117=====
-実は例のモノがとうとう完成し
-たんだ・・・
-$J=====4118=====
-見てくれ!
-$J=====4119=====
+$E=====4112=====
+//<LABEL=COFFIN>あやしい男</LABEL>
+//「やあ、<NAME>くん・・・
+<LABEL=COFFIN>Suspicious Man</LABEL>:
+"Hey, <NAME>...
+$E=====4113=====
+//地下牢獄(ちかろうごく)にとじ
+//こめられていたんだって?
+you were locked up in that
+underground prison, right?
+$E=====4114=====
+//言ってみれば、そいつも1つの
+//棺桶(かんおけ)・・・
+If you ask me, that place is
+like one big coffin...
+$E=====4115=====
+//君はつくづく棺桶(かんおけ)に
+//愛されているようだね?
+Coffins must really love
+you, huh?
+$E=====4116=====
+//ふふふ・・・
+Hehehe...
+$E=====4117=====
+//実は例のモノがとうとう完成し
+//たんだ・・・
+Actually, I just finished
+one.
+$E=====4118=====
+//見てくれ!
+Let me show you!
+$E=====4119=====
 <PROC=0>
 <END>
-$J=====4120=====
-<LABEL=COFFIN></LABEL>これが長年の研究の末に完成し
-た究極の棺桶(かんおけ)、ベク
-ターコフィン!
-$J=====4121=====
-そして・・・
-$J=====4122=====
-棺桶(かんおけ)バイクだ!!」
-$J=====4123=====
+$E=====4120=====
+//<LABEL=COFFIN></LABEL>これが長年の研究の末に完成し
+//た究極の棺桶(かんおけ)、ベク
+//ターコフィン!
+<LABEL=COFFIN></LABEL>This is the culmination of
+many years of research. The
+ultimate coffin...
+$E=====4121=====
+//そして・・・
+Vector Coffin!
+$E=====4122=====
+//棺桶(かんおけ)バイクだ!!」
+And... Coffin Bike!"
+$E=====4123=====
 <PROC=0>
 <END>
-$J=====4124=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「おどろいたかい?
-$J=====4125=====
-太陽エンジン搭載(とうさい)の
-魔法機械、それがこの棺桶(か
-んおけ)バイクだ
-$J=====4126=====
-こいつさえあれば、まだ見ぬダ
-ンジョンはもちろん、この世の
-果てまでもひとっ走りさ
-$J=====4127=====
-まあ使い方によっては、あの世
-に行くことになるがね」
-$J=====4128=====
+$E=====4124=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「おどろいたかい?
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Were you surprised?
+$E=====4125=====
+//太陽エンジン搭載(とうさい)の
+//魔法機械、それがこの棺桶(か
+//んおけ)バイクだ
+The Coffin Bike is a magical
+device with a Solar engine
+on board.
+$E=====4126=====
+//こいつさえあれば、まだ見ぬダ
+//ンジョンはもちろん、この世の
+//果てまでもひとっ走りさ
+With this, even unexplored
+dungeons at the ends of the
+world are just a step away.
+$E=====4127=====
+//まあ使い方によっては、あの世
+//に行くことになるがね」
+Well, depending on how you
+use it, you could wind up in
+the netherworld instead..."
+$E=====4128=====
 <PROC=0>
 <END>
-$J=====4129=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「もちろん今まで通り、
-$J=====4130=====
-闇の一族(イモータル)を封印(
-ふういん)することもできるか
-ら安心してくれ
-$J=====4131=====
-そういえばまだ、名前を決めて
-いなかったな・・・
-$J=====4132=====
-名前のないままじゃあ、こいつ
-もかわいそうだ。
-何かいい名前はあるかい?」
-$J=====4133=====
+$E=====4129=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「もちろん今まで通り、
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Of course, just like
+before,
+$E=====4130=====
+//闇の一族(イモータル)を封印(
+//ふういん)することもできるか
+//ら安心してくれ
+it can seal away Immortals,
+so don't worry.
+$E=====4131=====
+//そういえばまだ、名前を決めて
+//いなかったな・・・
+With that said, I never did
+decided on a name...
+$E=====4132=====
+//名前のないままじゃあ、こいつ
+//もかわいそうだ。
+//何かいい名前はあるかい?」
+Poor thing, it still doesn't
+have one. What's a good
+name for it?"
+$E=====4133=====
 <PROC=0>
 <END>
-$J=====4134=====
-棺桶(かんおけ)バイク
-「<BIKE>」
-を手に入れた!!<LOCK=176>
-$J=====4135=====
+$E=====4134=====
+//棺桶(かんおけ)バイク
+//「<BIKE>」
+//を手に入れた!!<LOCK=176>
+Coffin Bike
+"<BIKE>"
+obtained!<LOCK=176>
+$E=====4135=====
 <PROC=0>
 <END>
 $J=====4136=====
@@ -18396,7 +18452,7 @@ $E=====5732=====
 //どうしてなんだ・・・?
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Sabata,
-why did you...?
+why'd you do it...?
 $E=====5733=====
 //闇の女王(クイーン)に暗黒少年
 //として育てられたとはいえ、
@@ -18415,157 +18471,247 @@ $E=====5735=====
 Defeating your brother, and
 even going so far as to seal
 him away...
-$J=====5736=====
-その身に宿る暗黒物質(ダーク
-マター)の命ずるままに、世界
-をほろぼそうというのか?
-$J=====5737=====
-だが・・・
-$J=====5738=====
-あのサバタがふたたび闇の一族
-(イモータル)に加わるとは考え
-られん
-$J=====5739=====
-この裏(うら)にはきっと何かあ
-る・・・」
-$J=====5740=====
+$U=====5736=====
+//その身に宿る暗黒物質(ダーク
+//マター)の命ずるままに、世界
+//をほろぼそうというのか?
+If the Dark Matter commanded
+it, you would probably
+destroy the world, too.
+$E=====5737=====
+//だが・・・
+On the other hand...
+$E=====5738=====
+//あのサバタがふたたび闇の一族
+//(イモータル)に加わるとは考え
+//られん
+That Sabata would never
+think about joining the
+Immortals again.
+$E=====5739=====
+//この裏(うら)にはきっと何かあ
+//る・・・」
+There's definitely something
+going on beneath the surface
+here..."
+$E=====5740=====
 <PROC=0>
 <END>
-$J=====5741=====
-<LABEL=NONE>???</LABEL>
-「クックックッ・・・
-$J=====5742=====
-やはり生きていたか、
-<NAME>!!」
-$J=====5743=====
+$E=====5741=====
+//<LABEL=NONE>???</LABEL>
+//「クックックッ・・・
+<LABEL=NONE>???</LABEL>:
+"Hee hee hee...
+$E=====5742=====
+//やはり生きていたか、
+//<NAME>!!」
+You survived after all,
+<NAME>!"
+$E=====5743=====
 <PROC=0>
 <END>
-$J=====5744=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おまえは伯爵(はくしゃく)!?
-$J=====5745=====
-またしても復活(ふっかつ)を果
-たしたのか!?」
-$J=====5746=====
-<LABEL=NONE>伯爵</LABEL>
-「相変わらずのようだな。
-太陽の使者、おてんこよ
-$J=====5747=====
-わすれたわけではあるまい?
-$J=====5748=====
-わたしはヴァンパイア・ロード
-何度でもよみがえる
-$J=====5749=====
-そして破壊(はかい)の獣(けも
-の)、ヴァナルガンドの復活(ふ
-っかつ)もまた近い
-$J=====5750=====
-急いだ方が良いのではないか?
-」
-$J=====5751=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「何が言いたい?
-$J=====5752=====
-言われるまでもなく、おまえた
-ち闇の一族(イモータル)の思い
-通りにさせるつもりはない!」
-$J=====5753=====
-<LABEL=NONE>伯爵</LABEL>
-<PROC=1><LOCK=20>「クックックッ・・・
-ならば教えてやろう
-$J=====5754=====
-ヴァナルガンドの復活(ふっか
-つ)を止める、ただ一つの方法
-を」
-$J=====5755=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「なにっ!?」
-$J=====5756=====
-<LABEL=NONE>伯爵</LABEL>
-「世界の崩壊(ほうかい)を止め
-る、ただ1つの方法
-$J=====5757=====
-それは暗黒少年サバタ・・・
-$J=====5758=====
-ヴァナルガンドの後継者(こう
-けいしゃ)であるあの男をたお
-すことだ」
-$J=====5759=====
+$E=====5744=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おまえは伯爵(はくしゃく)!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"You... the Count!?
+$E=====5745=====
+//またしても復活(ふっかつ)を果
+//たしたのか!?」
+Were you really revived
+again?"
+$E=====5746=====
+//<LABEL=NONE>伯爵</LABEL>
+//「相変わらずのようだな。
+//太陽の使者、おてんこよ
+<LABEL=NONE>Count</LABEL>:
+Same as always. Messenger of
+the Sun, Otenko...
+$E=====5747=====
+//わすれたわけではあるまい?
+Surely you haven't
+forgotten?
+$E=====5748=====
+//わたしはヴァンパイア・ロード
+//何度でもよみがえる
+I am the Lord of Vampires.
+I'll be resurrected no
+matter how many times I die.
+$E=====5749=====
+//そして破壊(はかい)の獣(けも
+//の)、ヴァナルガンドの復活(ふ
+//っかつ)もまた近い
+By the way, the Beast of
+Destruction, Vanargand, is
+about to be revived too.
+$E=====5750=====
+//急いだ方が良いのではないか?
+//」
+Perhaps you'd better hurry,
+no?"
+$E=====5751=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「何が言いたい?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"What are you trying to say?
+$U=====5752=====
+//言われるまでもなく、おまえた
+//ち闇の一族(イモータル)の思い
+//通りにさせるつもりはない!」
+(iwareru made mo naku), we
+don't intend to let you
+Immortals do as you please!"
+$E=====5753=====
+//<LABEL=NONE>伯爵</LABEL>
+//<PROC=1><LOCK=20>「クックックッ・・・
+//ならば教えてやろう
+<LABEL=NONE>Count</LABEL>:
+<PROC=1><LOCK=20>"Hee hee hee...
+In that case, I'll tell you.
+$E=====5754=====
+//ヴァナルガンドの復活(ふっか
+//つ)を止める、ただ一つの方法
+//を」
+There's only one way to
+prevent Vanargand's
+resurrection."
+$E=====5755=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「なにっ!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"What is it!?"
+$E=====5756=====
+//<LABEL=NONE>伯爵</LABEL>
+//「世界の崩壊(ほうかい)を止め
+//る、ただ1つの方法
+<LABEL=NONE>Count</LABEL>:
+"There's only one way to
+stop the end of the world,
+$E=====5757=====
+//それは暗黒少年サバタ・・・
+and that is to kill
+Vanargand's successor...
+$E=====5758=====
+//ヴァナルガンドの後継者(こう
+//けいしゃ)であるあの男をたお
+//すことだ」
+the Dark Boy, Sabata."
+$E=====5759=====
 <PROC=0>
 <END>
-$J=====5760=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「バカなっ!?
-$J=====5761=====
-あのサバタが・・・
-ヴァナルガンドの後継者(こう
-けいしゃ)だと!?」
-$J=====5762=====
-<LABEL=NONE>伯爵</LABEL>
-「どうする、太陽少年?
-たおせるのか、実の兄を?
-$J=====5763=====
-<PROC=1><LOCK=60>クッカッカッカッカッ!!
-$J=====5764=====
-その覚悟(かくご)があるのなら
-・・・
-$J=====5765=====
-われらイモータル四人衆(よに
-んしゅう)を追って来い!
-$J=====5766=====
-東の地で待っているぞ、
-太陽少年<NAME>!!」
-$J=====5767=====
+$E=====5760=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「バカなっ!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"That's ridiculous!
+$E=====5761=====
+//あのサバタが・・・
+//ヴァナルガンドの後継者(こう
+//けいしゃ)だと!?」
+"Sabata...
+is Vanargand's successor!?"
+$E=====5762=====
+//<LABEL=NONE>伯爵</LABEL>
+//「どうする、太陽少年?
+//たおせるのか、実の兄を?
+<LABEL=NONE>Count</LABEL>:
+"What now, Solar Boy?
+Can you kill your brother?
+$E=====5763=====
+//<PROC=1><LOCK=60>クッカッカッカッカッ!!
+<PROC=1><LOCK=60>"Gwahahahaha!
+$E=====5764=====
+//その覚悟(かくご)があるのなら
+//・・・
+If you're prepared to do
+it...
+$E=====5765=====
+//われらイモータル四人衆(よに
+//んしゅう)を追って来い!
+Come pay the Four Immortals
+a visit!
+$E=====5766=====
+//東の地で待っているぞ、
+//太陽少年<NAME>!!」
+We'll be waiting in the
+lands to the east, Solar Boy
+<NAME>!"
+$E=====5767=====
 <PROC=0>
 <END>
-$J=====5768=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「イモータル四人衆(よにんし
-ゅう)・・・
-$J=====5769=====
-ヴァナルガンドの復活(ふっか
-つ)がやつらの目的だとすれば
-$J=====5770=====
-サバタはやつらにあやつられて
-いるのか?
-$J=====5771=====
-それとも・・・」
-$J=====5772=====
+$E=====5768=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「イモータル四人衆(よにんし
+//ゅう)・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"The Four Immortals...
+$E=====5769=====
+//ヴァナルガンドの復活(ふっか
+//つ)がやつらの目的だとすれば
+If their plan is to revive
+Vanargand,
+$E=====5770=====
+//サバタはやつらにあやつられて
+//いるのか?
+does that mean Sabata is
+just being manipulated by
+them?
+$E=====5771=====
+//それとも・・・」
+If not..."
+$E=====5772=====
 <PROC=0>
 <END>
-$J=====5773=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>・・・
-$J=====5774=====
-真実がどうであれ、いずれはそ
-の決着をつけるときが来る
-$J=====5775=====
-そのときまでに、おまえは自ら
-の心を決めておかなければなら
-ない
-$J=====5776=====
-おまえのその心が、われわれの
-運命を決することになるだろう
-$J=====5777=====
-だがたとえどんな結末が待って
-いようとも・・・
-$J=====5778=====
-わたしはいつまでも、おまえと
-共にある
-$J=====5779=====
+$E=====5773=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>...
+$E=====5774=====
+//真実がどうであれ、いずれはそ
+//の決着をつけるときが来る
+Whatever the case, you may
+have to make that decision
+at some point.
+$E=====5775=====
+//そのときまでに、おまえは自ら
+//の心を決めておかなければなら
+//ない
+When the time comes, you
+must trust your own
+feelings.
+$E=====5776=====
+//おまえのその心が、われわれの
+//運命を決することになるだろう
+Those feelings may end up
+determining our fate.
+$E=====5777=====
+//だがたとえどんな結末が待って
+//いようとも・・・
+But no matter what awaits
+us in the end,
+$E=====5778=====
+//わたしはいつまでも、おまえと
+//共にある
+I'll always be with you.
+$E=====5779=====
 <PROC=0>
 <END>
-$J=====5780=====
-<LABEL=OTENKO></LABEL>・・・とにかく今は伯爵(は
-くしゃく)を追うしかない
-$J=====5781=====
+$E=====5780=====
+//<LABEL=OTENKO></LABEL>・・・とにかく今は伯爵(は
+//くしゃく)を追うしかない
+<LABEL=OTENKO></LABEL>...anyhow, we'd better go
+after the Count.
+$E=====5781=====
 <PROC=0>
 <END>
-$J=====5782=====
-<LABEL=OTENKO></LABEL>行こう、<NAME>!!
-$J=====5783=====
-<PROC=1><LOCK=50>明日もまた日は昇(のぼ)る!」
-$J=====5784=====
+$E=====5782=====
+//<LABEL=OTENKO></LABEL>行こう、<NAME>!!
+<LABEL=OTENKO></LABEL>Let's go, <NAME>!
+$E=====5783=====
+//<PROC=1><LOCK=50>明日もまた日は昇(のぼ)る!」
+<PROC=1><LOCK=50>The Sun will rise tomorrow!"
+$E=====5784=====
 <PROC=0>
 <END>
 $E=====5785=====
@@ -29869,12 +30015,14 @@ IS THE ABOVE OK?
 $E=====9352=====
 //　　死灰の街　　
  Lifeless Town
-$J=====9353=====
-　　　伯爵　　　
+$E=====9353=====
+//　　　伯爵　　　
+   The Count
 $J=====9354=====
 　　古の大樹　　
-$J=====9355=====
-　フレスベルグ　
+$E=====9355=====
+//　フレスベルグ　
+    Hresvelgr
 $J=====9356=====
 　　 白き森　　 
 $J=====9357=====
