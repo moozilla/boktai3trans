@@ -12150,65 +12150,93 @@ $J=====3988=====
 $J=====3989=====
 <PROC=0>
 <END>
-$J=====3990=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「おにいちゃん・・・
-$J=====3991=====
+$E=====3990=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「おにいちゃん・・・
+<LABEL=SUMIRE>Violet</LABEL>:
+"<NAME>...
+$E=====3991=====
 <PROC=0>
 <END>
-$J=====3992=====
-<LABEL=SUMIRE></LABEL>ほんとうに、スミレのことおぼ
-えてないの?」
- <ALTER>おぼえてない</ALTER>　<ALTER>おぼえてる</ALTER>
-$J=====3993=====
+$E=====3992=====
+//<LABEL=SUMIRE></LABEL>ほんとうに、スミレのことおぼ
+//えてないの?」
+// <ALTER>おぼえてない</ALTER>　<ALTER>おぼえてる</ALTER>
+<LABEL=SUMIRE></LABEL>Do you really not remember
+me?
+ <ALTER>Nope</ALTER>  <ALTER>I remember</ALTER>
+$E=====3993=====
 <PROC=0>
 <END>
-$J=====3994=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「おにいちゃんのバカ!!
-$J=====3995=====
-・・・
-$J=====3996=====
-くすん・・・」
-$J=====3997=====
+$E=====3994=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「おにいちゃんのバカ!!
+<LABEL=SUMIRE>Violet</LABEL>:
+"You meanie!
+$E=====3995=====
+//・・・
+...
+$E=====3996=====
+//くすん・・・」
+(sniffle)..."
+$E=====3997=====
 <PROC=0>
 <END>
-$J=====3998=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「おにいちゃん・・・
-$J=====3999=====
+$E=====3998=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「おにいちゃん・・・
+<LABEL=SUMIRE>Violet</LABEL>:
+"<NAME>...
+$E=====3999=====
 <PROC=0>
 <END>
-$J=====4000=====
-<LABEL=SUMIRE></LABEL>ほんとうに、スミレのことおぼ</LABEL>
-えてないの?」
- <ALTER>おぼえてない</ALTER>　<ALTER>おもいだした</ALTER>
-$J=====4001=====
+$E=====4000=====
+//<LABEL=SUMIRE></LABEL>ほんとうに、スミレのことおぼ</LABEL>
+//えてないの?」
+// <ALTER>おぼえてない</ALTER>　<ALTER>おもいだした</ALTER>
+<LABEL=SUMIRE></LABEL>Do you really not remember
+me?
+ <ALTER>Nope</ALTER>  <ALTER>I remembered</ALTER>
+$E=====4001=====
 <PROC=0>
 <END>
-$J=====4002=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「よかった!!
-$J=====4003=====
-おじいちゃんもしんぱいしてた
-よ?
-$J=====4004=====
-むかいのかじやにいるから、あ
-いにいってあげてね
-$J=====4005=====
-もしかして・・・
-$J=====4006=====
-またぼうけんにいくの?
-$J=====4007=====
-それじゃあ、おるすばんはスミ
-レとクロちゃんがするからね
-$J=====4008=====
-そうこをつかいたいときは、い
-ってね
-$J=====4009=====
-おへやにかざる、ぬいぐるみも
-かえられるよ」
-$J=====4010=====
+$E=====4002=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「よかった!!
+<LABEL=SUMIRE>Violet</LABEL>:
+"Yay!
+$E=====4003=====
+//おじいちゃんもしんぱいしてた
+//よ?
+Gramps was worried too.
+$E=====4004=====
+//むかいのかじやにいるから、あ
+//いにいってあげてね
+You should visit him at the
+Solar Smith across the way,
+kay?
+$E=====4005=====
+//もしかして・・・
+Are you possibly...
+$E=====4006=====
+//またぼうけんにいくの?
+going to keep adventuring?
+$E=====4007=====
+//それじゃあ、おるすばんはスミ
+//レとクロちゃんがするからね
+Then me an' Kuro will keep
+taking care of your house.
+$E=====4008=====
+//そうこをつかいたいときは、い
+//ってね
+When you want to use the
+Warehouse, just say so.
+$E=====4009=====
+//おへやにかざる、ぬいぐるみも
+//かえられるよ」
+"I'll also take care of any
+redecorating with dolls."
+$E=====4010=====
 <PROC=0>
 <END>
 $J=====4011=====
@@ -12241,11 +12269,14 @@ $J=====4019=====
 $J=====4020=====
 <PROC=0>
 <END>
-$J=====4021=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「何するの?」
- <ALTER>そうこ</ALTER>　<ALTER>ぬいぐるみ</ALTER>　<ALTER>はなし</ALTER>
-$J=====4022=====
+$E=====4021=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「何するの?」
+// <ALTER>そうこ</ALTER>　<ALTER>ぬいぐるみ</ALTER>　<ALTER>はなし</ALTER>
+<LABEL=SUMIRE>Violet</LABEL>:
+"Whatcha want?"
+ <ALTER>Warehouse</ALTER>  <ALTER>Dolls</ALTER>  <ALTER>Talk</ALTER>
+$E=====4022=====
 <PROC=0>
 <END>
 $J=====4023=====
@@ -12346,19 +12377,27 @@ $J=====4053=====
 $J=====4054=====
 <PROC=0>
 <END>
-$J=====4055=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「サバタちゃん・・・
-どうしちゃったの?
-$J=====4056=====
-このまえは、みんなをたすけて
-くれたのに・・・
-$J=====4057=====
-おにいちゃんをいじめるの?
-わるいこになっちゃったの?
-$J=====4058=====
-そんなの、いやだよう・・・」
-$J=====4059=====
+$E=====4055=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「サバタちゃん・・・
+//どうしちゃったの?
+<LABEL=SUMIRE>Violet</LABEL>:
+"Why...
+Why did Sabata do that?
+$E=====4056=====
+//このまえは、みんなをたすけて
+//くれたのに・・・
+Before, he saved everyone...
+$E=====4057=====
+//おにいちゃんをいじめるの?
+//わるいこになっちゃったの?
+Did he bully you? Has he
+turned into a bad kid?
+$E=====4058=====
+//そんなの、いやだよう・・・」
+No way, I don't want that
+to happen..."
+$E=====4059=====
 <PROC=0>
 <END>
 $J=====4060=====
@@ -12510,14 +12549,17 @@ $E=====4105=====
 //「おにいちゃん、スミレのこと
 //わすれちゃったの?
 <LABEL=SUMIRE>Girl in White Apron</LABEL>:
-"Didja really forget about
+"Did you really forget about
 me, <NAME>?"
 $E=====4106=====
 <PROC=0>
 <END>
 $U=====4107=====
-<LABEL=SUMIRE></LABEL>スミレ、がんばっておるすばん
-してたのに・・・
+//<LABEL=SUMIRE></LABEL>スミレ、がんばっておるすばん
+//してたのに・・・
+<LABEL=SUMIRE></LABEL>I didn't give up hope... I
+even took care of your
+house...
 $E=====4108=====
 //ひどいよう・・・
 you meanie...
@@ -12549,7 +12591,7 @@ $E=====4114=====
 //棺桶(かんおけ)・・・
 If you ask me, that place is
 like one big coffin...
-$E=====4115=====
+$U=====4115=====
 //君はつくづく棺桶(かんおけ)に
 //愛されているようだね?
 Coffins must really love
@@ -12588,7 +12630,7 @@ $E=====4124=====
 //<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
 //「おどろいたかい?
 <LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
-"Were you surprised?
+"Surprised?
 $E=====4125=====
 //太陽エンジン搭載(とうさい)の
 //魔法機械、それがこの棺桶(か
@@ -12622,13 +12664,13 @@ $E=====4130=====
 //闇の一族(イモータル)を封印(
 //ふういん)することもできるか
 //ら安心してくれ
-it can seal away Immortals,
-so don't worry.
+it can seal away Immortals.
+No need to worry.
 $E=====4131=====
 //そういえばまだ、名前を決めて
 //いなかったな・・・
 With that said, I never did
-decided on a name...
+decide on a name...
 $E=====4132=====
 //名前のないままじゃあ、こいつ
 //もかわいそうだ。
@@ -12649,45 +12691,68 @@ obtained!<LOCK=176>
 $E=====4135=====
 <PROC=0>
 <END>
-$J=====4136=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「<BIKE>か・・・
-$J=====4137=====
-ふふふ・・・
-君らしいな
-$J=====4138=====
-棺桶(かんおけ)バイクはパーツ
-を交換(こうかん)することで、
-$J=====4139=====
-自分好みのマシンにカスタマイ
-ズすることができる
-$J=====4140=====
-カスタマイズをしたくなったら
-ぼくに言ってくれ
-$J=====4141=====
-ガレージに行けば、実際(じっ
-さい)にコースに出てバイクを
-走らせることもできる
-$J=====4142=====
-まずはこの街の周回道を走って
-バイクの操作(そうさ)になれて
-おくといい」
-$J=====4143=====
+$E=====4136=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「<BIKE>か・・・
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"<BIKE>, huh...
+$E=====4137=====
+//ふふふ・・・
+//君らしいな
+Hehehe...
+that's just like you.
+$E=====4138=====
+//棺桶(かんおけ)バイクはパーツ
+//を交換(こうかん)することで、
+The Coffin Bike is fully
+customizable. By swapping
+out different parts,
+$E=====4139=====
+//自分好みのマシンにカスタマイ
+//ズすることができる
+You can alter the bike to
+fit your tastes.
+$E=====4140=====
+//カスタマイズをしたくなったら
+//ぼくに言ってくれ
+When you want to customize
+it, just talk to me.
+$E=====4141=====
+//ガレージに行けば、実際(じっ
+//さい)にコースに出てバイクを
+//走らせることもできる
+If you come to the garage,
+you can do practice runs of
+bike courses.
+$E=====4142=====
+//まずはこの街の周回道を走って
+//バイクの操作(そうさ)になれて
+//おくといい」
+But first, take it around
+the Solar City Loop to get
+used to the controls."
+$E=====4143=====
 <PROC=0>
 <END>
-$J=====4144=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「おや?
-$J=====4145=====
-<NAME>くん・・・
-君の持っているそれは!?」
-$J=====4146=====
+$E=====4144=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「おや?
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Oh?
+$E=====4145=====
+//<NAME>くん・・・
+//君の持っているそれは!?」
+<NAME>... what's that you're
+holding!?"
+$E=====4146=====
 <PROC=0>
 <END>
-$J=====4147=====
-「パイルパーツ」
-をわたした!!<LOCK=96>
-$J=====4148=====
+$E=====4147=====
+//「パイルパーツ」
+//をわたした!!<LOCK=96>
+Handed over
+"Pile Parts"!<LOCK=96>
+$E=====4148=====
 <PROC=0>
 <END>
 $J=====4149=====
@@ -12806,301 +12871,441 @@ $J=====4182=====
 $J=====4183=====
 <PROC=0>
 <END>
-$J=====4184=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「やあ・・・
-$J=====4185=====
+$E=====4184=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「やあ・・・
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Hey...
+$E=====4185=====
 <PROC=0>
 <END>
-$J=====4186=====
-<LABEL=COFFIN></LABEL>何かするかい?」
- <ALTER>カスタム</ALTER>　<ALTER>リネーム</ALTER>
- <ALTER>話</ALTER>
-$J=====4187=====
+$E=====4186=====
+//<LABEL=COFFIN></LABEL>何かするかい?」
+// <ALTER>カスタム</ALTER>　<ALTER>リネーム</ALTER>
+// <ALTER>話</ALTER>
+<LABEL=COFFIN></LABEL>What can I do for you?
+ <ALTER>Custom</ALTER>  <ALTER>Rename</ALTER>
+ <ALTER>Talk</ALTER>
+$E=====4187=====
 <PROC=0>
 <END>
-$J=====4188=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「パーツがなければカスタマイ
-ズは始まらない
-$J=====4189=====
-<NAME>くん、
-まずはパーツ集めだ」
-$J=====4190=====
+$E=====4188=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「パーツがなければカスタマイ
+//ズは始まらない
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"You can't start customizing
+the bike 'til you get parts.
+$E=====4189=====
+//<NAME>くん、
+//まずはパーツ集めだ」
+Go look for parts first,
+<NAME>."
+$E=====4190=====
 <PROC=0>
 <END>
-$J=====4191=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「棺桶(かんおけ)バイクを構成
-(こうせい)する、
-$J=====4192=====
-基本(きほん)パーツはフロント
-ボディ、タイヤの3つだ
+$E=====4191=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「棺桶(かんおけ)バイクを構成
+//(こうせい)する、
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+The Coffin Bike is composed
+of various parts.
+$E=====4192=====
+//基本(きほん)パーツはフロント
+//ボディ、タイヤの3つだ
+The 3 fundamental parts are
+the front, the body, and
+the tires.
 $J=====4193=====
-フロントは攻撃方法(こうげき
-ほうほう)、すなわちウエポン
-を決めるパーツで、
-$J=====4194=====
-ウエポンによって、攻撃力(こ
-うげきりょく)とコスト(エナジ
-ー消費量)が決まる
-$J=====4195=====
-ボディはバイクの加速力、スピ
-ード、HP(頑丈さ)を決めるパー
-ツで、
-$J=====4196=====
-オプションのスロット数(装備
-可能な数)もボディによって決
-まる
-$J=====4197=====
-タイヤはハンドルとブレーキの
-性能(せいのう)と、
-$J=====4198=====
-ブーストのコスト(エナジー消
-費量)を決めるパーツで、
-$J=====4199=====
-特定の路面に対する専用(せん
-よう)のタイヤもあるようだね
-」
-$J=====4200=====
+//フロントは攻撃方法(こうげき
+//ほうほう)、すなわちウエポン
+//を決めるパーツで、
+Which Front part you equip
+determines which weapon you
+use when attacking,
+$E=====4194=====
+//ウエポンによって、攻撃力(こ
+//うげきりょく)とコスト(エナジ
+//ー消費量)が決まる
+and each weapon has its own
+attack strength and energy
+cost.
+$E=====4195=====
+//ボディはバイクの加速力、スピ
+//ード、HP(頑丈さ)を決めるパー
+//ツで、
+The Body part affects your
+bike's acceleration, speed,
+and HP (sturdiness).
+$E=====4196=====
+//オプションのスロット数(装備
+//可能な数)もボディによって決
+//まる
+It also determines how many
+Option slots you get, for
+additional equipment.
+$E=====4197=====
+//タイヤはハンドルとブレーキの
+//性能(せいのう)と、
+Tires affect your handling
+and brake efficiency,
+$E=====4198=====
+//ブーストのコスト(エナジー消
+//費量)を決めるパーツで、
+as well as your Boost
+energy cost.
+$E=====4199=====
+//特定の路面に対する専用(せん
+//よう)のタイヤもあるようだね
+//」
+There are even tires
+designed specifically for
+certain terrain."
+$E=====4200=====
 <PROC=0>
 <END>
-$J=====4201=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「バイクのパーツは、
-$J=====4202=====
-ダンジョンでの冒険(ぼうけん)
-を進めれば手に入る
-$J=====4203=====
-アーマーなどの中ボスがかくし
-持っているほか、
-$J=====4204=====
-宝箱(たからばこ)の中から見つ
-かることもあるようだね」
-$J=====4205=====
+$E=====4201=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「バイクのパーツは、
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"To find Bike Parts,
+$E=====4202=====
+//ダンジョンでの冒険(ぼうけん)
+//を進めれば手に入る
+you'll have explore
+dungeons.
+$E=====4203=====
+//アーマーなどの中ボスがかくし
+//持っているほか、
+You can find some within
+bosses like Armors,
+$E=====4204=====
+//宝箱(たからばこ)の中から見つ
+//かることもあるようだね」
+while others can be found
+inside treasure chests."
+$E=====4205=====
 <PROC=0>
 <END>
-$J=====4206=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「棺桶(かんおけ)バイクのパー
-ツ、スペシャルは
-$J=====4207=====
-地雷(じらい)を設置(せっち)す
-るなどの特別な攻撃(こうげき)
-のほか、
-$J=====4208=====
-回復(かいふく)や防御(ぼうぎ
-ょ)など、特別なアクションを
-可能(かのう)にするパーツだ
-$J=====4209=====
-スペシャルは、バイクポイント
-との交換(こうかん)でのみ手に
-入るようだね」
-$J=====4210=====
+$E=====4206=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「棺桶(かんおけ)バイクのパー
+//ツ、スペシャルは
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"The bike part Special
+provides a special attack,
+$E=====4207=====
+//地雷(じらい)を設置(せっち)す
+//るなどの特別な攻撃(こうげき)
+//のほか、
+such as laying land mines,
+$E=====4208=====
+//回復(かいふく)や防御(ぼうぎ
+//ょ)など、特別なアクションを
+//可能(かのう)にするパーツだ
+recovering HP, or
+increasing your defense.
+$E=====4209=====
+//スペシャルは、バイクポイント
+//との交換(こうかん)でのみ手に
+//入るようだね」
+You can obtain them by
+exchanging Bike Points."
+$E=====4210=====
 <PROC=0>
 <END>
-$J=====4211=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「バイクのパーツには、
-$J=====4212=====
-ダンジョンでの特殊任務(ミッ
-ション)や、サーキットでのパ
-イクアクションで、
-$J=====4213=====
-好成績(こうせいせき)をおさめ
-なければ手に入らないものもあ
-るらしい
-$J=====4214=====
-ランクSを目指してみてはどう
-だい?」
-$J=====4215=====
+$E=====4211=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「バイクのパーツには、
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Some Bike Parts are found
+through other means,
+$U=====4212=====
+//ダンジョンでの特殊任務(ミッ
+//ション)や、サーキットでのパ
+//イクアクションで、
+such as Missions in dungeons
+and Pike Actions on
+circuits.
+$E=====4213=====
+//好成績(こうせいせき)をおさめ
+//なければ手に入らないものもあ
+//るらしい
+It seems there are also
+rewards that you need good
+scores to obtain.
+$E=====4214=====
+//ランクSを目指してみてはどう
+//だい?」
+Why don't you try for
+Rank S?"
+$E=====4215=====
 <PROC=0>
 <END>
-$J=====4216=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「棺桶(かんおけ)バイクのパー
-ツ、オプションは
-$J=====4217=====
-ボディのスロット数におうじて
-装備(そうび)できる数が決まり
-$J=====4218=====
-攻撃力(こうげきりょく)やスピ
-ードといった、バイクの各パラ
-メータを上げたり、
-$J=====4219=====
-エナジーの回復(かいふく)スピ
-ードを上げるなどの、特別な効
-果(こうか)を得ることができる
-$J=====4220=====
-長所をのばすも良し、短所をお
-ぎなうも良し
-$J=====4221=====
-自分のプレイスタイルに合わせ
-て、棺桶(かんおけ)バイクを強
-化してくれ」
-$J=====4222=====
+$E=====4216=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「棺桶(かんおけ)バイクのパー
+//ツ、オプションは
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+Bike Options are special
+parts,
+$E=====4217=====
+//ボディのスロット数におうじて
+//装備(そうび)できる数が決まり
+which fit into slots on the
+Bike Body.
+$E=====4218=====
+//攻撃力(こうげきりょく)やスピ
+//ードといった、バイクの各パラ
+//メータを上げたり、
+They can increase attack
+power and speed along with
+all the bike's attributes,
+$E=====4219=====
+//エナジーの回復(かいふく)スピ
+//ードを上げるなどの、特別な効
+//果(こうか)を得ることができる
+speed up energy recovery,
+and provide other special
+effects.
+$E=====4220=====
+//長所をのばすも良し、短所をお
+//ぎなうも良し
+They're good for both
+boosting strong points and
+compensating for weaknesses.
+$E=====4221=====
+//自分のプレイスタイルに合わせ
+//て、棺桶(かんおけ)バイクを強
+//化してくれ」
+Reinforce your Coffin Bike
+to fit your playing style."
+$E=====4222=====
 <PROC=0>
 <END>
-$J=====4223=====
-スミレの人形だ
-$J=====4224=====
-足のうらにはアンジェレッタと
-書かれている
-$J=====4225=====
-帰宅(きたく)したスミレの代わ
-りに、おるすばんをしてくれて
-いるようだ
-$J=====4226=====
+$E=====4223=====
+//スミレの人形だ
+A figure of Violet.
+$U=====4224=====
+//足のうらにはアンジェレッタと
+//書かれている
+"Angeletta" is written on
+the bottom of the foot.
+$E=====4225=====
+//帰宅(きたく)したスミレの代わ
+//りに、おるすばんをしてくれて
+//いるようだ
+It seems to be watching
+over the house now that
+Violet has gone home.
+$E=====4226=====
 <PROC=0>
 <END>
-$J=====4227=====
-何をしますか?
- <ALTER>倉庫</ALTER>　<ALTER>ぬいぐるみ</ALTER>
-$J=====4228=====
+$E=====4227=====
+//何をしますか?
+// <ALTER>倉庫</ALTER>　<ALTER>ぬいぐるみ</ALTER>
+What would you like?
+ <ALTER>Warehouse</ALTER>  <ALTER>Dolls</ALTER>
+$E=====4228=====
 <PROC=0>
 <END>
-$J=====4229=====
-<LABEL=KURO>黒猫(くろねこ)</LABEL>
-「ミャア?」
-$J=====4230=====
+$E=====4229=====
+//<LABEL=KURO>黒猫(くろねこ)</LABEL>
+//「ミャア?」
+<LABEL=KURO>Black Cat</LABEL>:
+"Meow?"
+$E=====4230=====
 <PROC=0>
 <END>
-$J=====4231=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「クロちゃんったら、あいかわ
-らずねてばっかりなの
-$J=====4232=====
+$E=====4231=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「クロちゃんったら、あいかわ
+//らずねてばっかりなの
+<LABEL=SUMIRE>Violet</LABEL>:
+"All Kuro ever does is
+sleep.
+$U=====4232=====
 おきたとおもったら、すぐにど
 っかいっちゃうし
-$J=====4233=====
-こういうのを[ふうらいぼう]っ
-ていうのよ」
-$J=====4234=====
+$U=====4233=====
+//こういうのを[ふうらいぼう]っ
+//ていうのよ」
+Now that's what I call a
+bum."
+$E=====4234=====
 <PROC=0>
 <END>
-$J=====4235=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4236=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「もう・・・
-$J=====4237=====
+$E=====4235=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4236=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「もう・・・
+<LABEL=SUMIRE>Violet</LABEL>:
+"Sheesh...
+$E=====4237=====
 <PROC=0>
 <END>
-$J=====4238=====
-<LABEL=SUMIRE></LABEL>ぷーだっ!!」
-$J=====4239=====
+$U=====4238=====
+//<LABEL=SUMIRE></LABEL>ぷーだっ!!」
+<LABEL=SUMIRE></LABEL>Lazy bum!"
+$E=====4239=====
 <PROC=0>
 <END>
-$J=====4240=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?
-$J=====4241=====
-・・・
-$J=====4242=====
+$E=====4240=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?
+$E=====4241=====
+//・・・
+...
+$E=====4242=====
 <PROC=0>
 <END>
-$J=====4243=====
-<LABEL=KURO></LABEL>ミャ!!」
-$J=====4244=====
+$E=====4243=====
+//<LABEL=KURO></LABEL>ミャ!!」
+<LABEL=KURO></LABEL>Meow!"
+$E=====4244=====
 <PROC=0>
 <END>
-$J=====4245=====
-称号
-「グランドマスター」
-を手に入れた!!<LOCK=176>
-$J=====4246=====
+$E=====4245=====
+//称号
+//「グランドマスター」
+//を手に入れた!!<LOCK=176>
+Title
+"Grand Master"
+obtained!<LOCK=176>
+$E=====4246=====
 <PROC=0>
 <END>
-$J=====4247=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4248=====
+$E=====4247=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4248=====
 <PROC=0>
 <END>
-$J=====4249=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?」
-$J=====4250=====
+$E=====4249=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?"
+$E=====4250=====
 <PROC=0>
 <END>
-$J=====4251=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4252=====
+$E=====4251=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4252=====
 <PROC=0>
 <END>
-$J=====4253=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?
-$J=====4254=====
+$E=====4253=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?"
+$E=====4254=====
 <PROC=0>
 <END>
-$J=====4255=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4256=====
+$E=====4255=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4256=====
 <PROC=0>
 <END>
-$J=====4257=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?」
-$J=====4258=====
+$E=====4257=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?"
+$E=====4258=====
 <PROC=0>
 <END>
-$J=====4259=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4260=====
+$E=====4259=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4260=====
 <PROC=0>
 <END>
-$J=====4261=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?」
-$J=====4262=====
+$E=====4261=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?"
+$E=====4262=====
 <PROC=0>
 <END>
-$J=====4263=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4264=====
+$E=====4263=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4264=====
 <PROC=0>
 <END>
-$J=====4265=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?」
-$J=====4266=====
+$E=====4265=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?"
+$E=====4266=====
 <PROC=0>
 <END>
-$J=====4267=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア」
-$J=====4268=====
+$E=====4267=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow."
+$E=====4268=====
 <PROC=0>
 <END>
-$J=====4269=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア?」
-$J=====4270=====
+$E=====4269=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア?」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow?"
+$E=====4270=====
 <PROC=0>
 <END>
-$J=====4271=====
-<LABEL=KURO>クロ</LABEL>
-「ミャア・・・」
-$J=====4272=====
+$E=====4271=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャア・・・」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow..."
+$E=====4272=====
 <PROC=0>
 <END>
-$J=====4273=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「太陽の街サン・ミゲル・・・
-$J=====4274=====
-おまえとおまえの父親、リンゴ
-のふるさと
-$J=====4275=====
-何とか無事帰ることができたな
-・・・
-$J=====4276=====
-だが、本当の戦いはこれからだ
+$E=====4273=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「太陽の街サン・ミゲル・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"The Solar City, San
+Miguel...
+$E=====4274=====
+//おまえとおまえの父親、リンゴ
+//のふるさと
+You and your father Ringo...
+This is your home town.
+$E=====4275=====
+//何とか無事帰ることができたな
+//・・・
+We managed to get back here
+safely...
+$E=====4276=====
+//だが、本当の戦いはこれからだ
+But the real fight starts
+now.
 $J=====4277=====
 まずはこの街で、冒険(ぼうけ
 ん)の準備(じゅんび)を整えよ
@@ -18746,24 +18951,35 @@ $J=====5791=====
 $J=====5792=====
 <PROC=0>
 <END>
-$J=====5793=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「くっ、
-街中にアンデッドがっ!!
-$J=====5794=====
-伯爵(はくしゃく)の仕業か!?
-$J=====5795=====
+$E=====5793=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「くっ、
+//街中にアンデッドがっ!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Argh,
+undead in the city!
+$E=====5794=====
+//伯爵(はくしゃく)の仕業か!?
+Is the Count behind this!?
+$E=====5795=====
 <PROC=0>
 <END>
-$J=====5796=====
-<LABEL=OTENKO></LABEL><NAME>、急いでやつをさが
-し出すんだ!
-$J=====5797=====
-伯爵(はくしゃく)をたおし、サ
-バタの居所(いどころ)を聞き出
-すぞ!!
-$J=====5798=====
-<PROC=1><LOCK=70>太陽と共にあらんことを!」
+$E=====5796=====
+//<LABEL=OTENKO></LABEL><NAME>、急いでやつをさが
+//し出すんだ!
+<LABEL=OTENKO></LABEL>
+<NAME>, hurry up and
+find him!
+$E=====5797=====
+//伯爵(はくしゃく)をたおし、サ
+//バタの居所(いどころ)を聞き出
+//すぞ!!
+Defeat the count, and we can
+get Sabata's location out of
+him!
+$E=====5798=====
+//<PROC=1><LOCK=70>太陽と共にあらんことを!」
+<PROC=1><LOCK=70>May the Sun be with you!"
 $J=====5799=====
 <PROC=0>
 <END>
