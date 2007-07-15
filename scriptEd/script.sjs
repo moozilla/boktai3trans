@@ -9657,46 +9657,70 @@ $J=====3185=====
 $J=====3186=====
 <PROC=0>
 <END>
-$J=====3187=====
-<LABEL=SMITH>初老の男</LABEL>
-「おお、
-<NAME>におてんこ!!
-$J=====3188=====
-心配しておったぞ?
-$J=====3189=====
-まさかあのサバタが、おまえた
-ちをうらぎるとは・・・
-$J=====3190=====
-ん、どうしたんじゃ?」
-$J=====3191=====
+$E=====3187=====
+//<LABEL=SMITH>初老の男</LABEL>
+//「おお、
+//<NAME>におてんこ!!
+<LABEL=SMITH>Aging Man</LABEL>:
+"Oh,
+<NAME> and Otenko!
+$E=====3188=====
+//心配しておったぞ?
+We were worried about you.
+$E=====3189=====
+//まさかあのサバタが、おまえた
+//ちをうらぎるとは・・・
+I can't believe that Sabata
+betrayed you...
+$E=====3190=====
+//ん、どうしたんじゃ?」
+...what's the matter?"
+$E=====3191=====
 <PROC=0>
 <END>
-$J=====3192=====
-<LABEL=SMITH>初老の男</LABEL>
-「なに!?
-記憶喪失(きおくそうしつ)?
-$J=====3193=====
-むう・・・
-$J=====3194=====
-ヴァンパイアの再生能力(さい
-せいのうりょく)、その代償(だ
-いしょう)なのか?
-$J=====3195=====
-だが、見たところ深刻(しんこ
-く)な症状(しょうじょう)では
-なさそうじゃな
-$J=====3196=====
-あせってもしかたがない・・・
-少しずつ思い出していくんじゃ
-$J=====3197=====
-わしは鋼鉄(こうてつ)のスミス
-$J=====3198=====
-かつてはおまえの親父、リンゴ
-に銃(じゅう)を教えたこともあ
-ったが、
-$J=====3199=====
-今は戦いをしりぞき、鍛冶屋(
-かじや)をやっておる
+$E=====3192=====
+//<LABEL=SMITH>初老の男</LABEL>
+//「なに!?
+//記憶喪失(きおくそうしつ)?
+<LABEL=SMITH>Aging Man</LABEL>:
+"What!?
+You lost your memory?
+$E=====3193=====
+//むう・・・
+Hrm...
+$E=====3194=====
+//ヴァンパイアの再生能力(さい
+//せいのうりょく)、その代償(だ
+//いしょう)なのか?
+maybe that's a side-effect
+of the vampiric regeneration
+ability.
+$E=====3195=====
+//だが、見たところ深刻(しんこ
+//く)な症状(しょうじょう)では
+//なさそうじゃな
+It doesn't look too serious,
+though.
+$E=====3196=====
+//あせってもしかたがない・・・
+//少しずつ思い出していくんじゃ
+Can't rush things. It'll all
+come back to you bit by bit.
+$E=====3197=====
+//わしは鋼鉄(こうてつ)のスミス
+I'm Steel Smith.
+$E=====3198=====
+//かつてはおまえの親父、リンゴ
+//に銃(じゅう)を教えたこともあ
+//ったが、
+I once taught your father
+Ringo how to use a gun,
+$R=====3199=====
+//今は戦いをしりぞき、鍛冶屋(
+//かじや)をやっておる
+but now I'm retired from
+fighting and I run this here
+smithy.
 $J=====3200=====
 おまえの持つ太陽の力を利用す
 れば、ソードをより強力なもの
@@ -9748,28 +9772,39 @@ $J=====3214=====
 $J=====3215=====
 <PROC=0>
 <END>
-$J=====3216=====
-<LABEL=SMITH>スミス</LABEL>
-「まずはそこにあるパネルを読
-んでくれ
-$J=====3217=====
+$E=====3216=====
+//<LABEL=SMITH>スミス</LABEL>
+//「まずはそこにあるパネルを読
+//んでくれ
+<LABEL=SMITH>Smith</LABEL>:
+"First off, read those
+panels over there.
+$E=====3217=====
 <PROC=0>
 <END>
-$J=====3218=====
-<LABEL=SMITH></LABEL>太陽鍛冶(たいようかじ)につい
-ての、基本を学ぶことができる
-ぞ」
-$J=====3219=====
+$E=====3218=====
+//<LABEL=SMITH></LABEL>太陽鍛冶(たいようかじ)につい
+//ての、基本を学ぶことができる
+//ぞ」
+<LABEL=SMITH></LABEL>They'll help you study the
+basics of SOLARSMITH.
+$E=====3219=====
 <PROC=0>
 <END>
-$J=====3220=====
-<LABEL=SMITH>スミス</LABEL>
-「鍛冶(かじ)か?」
- <ALTER>鍛冶をする</ALTER>　<ALTER>話をする</ALTER>
-$J=====3221=====
-<LABEL=SMITH>スミス</LABEL>
-「おお・・・
-レベルアップじゃ!!
+$E=====3220=====
+//<LABEL=SMITH>スミス</LABEL>
+//「鍛冶(かじ)か?」
+// <ALTER>鍛冶をする</ALTER>　<ALTER>話をする</ALTER>
+<LABEL=SMITH>Smith</LABEL>:
+"Forge something?
+ <ALTER>Forge</ALTER>  <ALTER>Talk</ALTER>
+$E=====3221=====
+//<LABEL=SMITH>スミス</LABEL>
+//「おお・・・
+//レベルアップじゃ!!
+<LABEL=SMITH>Smith</LABEL>:
+"Oh...
+it leveled up!
 $J=====3222=====
 鍛冶(かじ)の出来は・・・
 $J=====3223=====
@@ -9784,10 +9819,13 @@ SP(特殊効果)は・・・
 $J=====3226=====
 <PROC=0>
 <END>
-$J=====3227=====
-<LABEL=SMITH>スミス</LABEL>
-「むう・・・
-レベルダウンじゃ
+$E=====3227=====
+//<LABEL=SMITH>スミス</LABEL>
+//「むう・・・
+//レベルダウンじゃ
+<LABEL=SMITH>Smith</LABEL>:
+"Hrm...
+it was downgraded.
 $J=====3228=====
 鍛冶(かじ)の出来は・・・
 $J=====3229=====
@@ -14962,109 +15000,170 @@ $J=====4690=====
 $J=====4691=====
 <PROC=0>
 <END>
-$J=====4692=====
-太陽鍛冶について
- <ALTER>太陽鍛冶とは</ALTER>　<ALTER>鍛冶の内容</ALTER>
- <ALTER>材料の選択</ALTER>　　<ALTER>鍛冶の手順</ALTER>
-$J=====4693=====
+$E=====4692=====
+//太陽鍛冶について
+// <ALTER>太陽鍛冶とは</ALTER>　<ALTER>鍛冶の内容</ALTER>
+// <ALTER>材料の選択</ALTER>　　<ALTER>鍛冶の手順</ALTER>
+About SOLARSMITH:
+ <ALTER>What is it?</ALTER>   <ALTER>What's used?</ALTER>
+ <ALTER>Choosing parts</ALTER>      <ALTER>Method</ALTER>
+$E=====4693=====
 <PROC=0>
 <END>
-$J=====4694=====
-太陽鍛冶(たいようかじ)とは、
-$J=====4695=====
-太陽の力を利用した鍛冶(熱し
-た金属を打ちきたえて物を作る
-こと)である
-$J=====4696=====
+$E=====4694=====
+//太陽鍛冶(たいようかじ)とは、
+SOLARSMITH is the art of 
+$E=====4695=====
+//太陽の力を利用した鍛冶(熱し
+//た金属を打ちきたえて物を作る
+//こと)である
+using the sun's energy for
+forging (shaping heated
+metal into objects).
+$E=====4696=====
 <PROC=0>
 <END>
-$J=====4697=====
-太陽鍛冶(たいようかじ)では、
-$J=====4698=====
-ソードにアクセサリーをかけ合
-わせることで、新しいソードを
-作り出すことができる
-$J=====4699=====
-無料で何度でも行なうことがで
-きるが、
-$J=====4700=====
-材料となるソードとアクセサリ
-ーは、自分で用意しなければな
-らない
-$J=====4701=====
+$E=====4697=====
+//太陽鍛冶(たいようかじ)では、
+In SOLARSMITH,
+$E=====4698=====
+//ソードにアクセサリーをかけ合
+//わせることで、新しいソードを
+//作り出すことができる
+a sword and an accessory are
+used as the materials to
+create one new sword.
+//ソードにアクセサリーをかけ合
+//わせることで、新しいソードを
+//作り出すことができる
+$E=====4699=====
+//無料で何度でも行なうことがで
+//きるが、
+You can do it any number of
+times for free,
+$E=====4700=====
+//材料となるソードとアクセサリ
+//ーは、自分で用意しなければな
+//らない
+but you must supply the
+materials yourself.
+$E=====4701=====
 <PROC=0>
 <END>
-$J=====4702=====
-鍛冶(かじ)を行なうにはまず、
-$J=====4703=====
-持っているソードとアクセサリ
-ーの中から1つずつ、材料を選
-ばなければならない
-$J=====4704=====
-装備中(そうびちゅう)のものや
-倉庫にあずけてあるものは、
-$J=====4705=====
-選択(せんたく)することができ
-ないので要注意
-$J=====4706=====
-また材料にしたソードとアクセ
-サリーは、元にはもどらない。
-よく考えてから決定すること
-$J=====4707=====
+$E=====4702=====
+//鍛冶(かじ)を行なうにはまず、
+Before forging can begin,
+$E=====4703=====
+//持っているソードとアクセサリ
+//ーの中から1つずつ、材料を選
+//ばなければならない
+you must first choose a
+sword and an accessory to
+use as materials.
+$E=====4704=====
+//装備中(そうびちゅう)のものや
+//倉庫にあずけてあるものは、
+You can't choose items
+stored in the Warehouse, or
+ones you're equipped with.
+$E=====4705=====
+//選択(せんたく)することができ
+//ないので要注意
+And once you've used them,
+you can't turn them back,
+$E=====4706=====
+//また材料にしたソードとアクセ
+//サリーは、元にはもどらない。
+//よく考えてから決定すること
+so decide carefully.
+$E=====4707=====
 <PROC=0>
 <END>
-$J=====4708=====
-ソードについて
- <ALTER>鍛冶の結果</ALTER>　　<ALTER>頑丈さ</ALTER>
- <ALTER>ランクとSP</ALTER>　　<ALTER>レベル</ALTER>
-$J=====4709=====
+$E=====4708=====
+//ソードについて
+// <ALTER>鍛冶の結果</ALTER>　　<ALTER>頑丈さ</ALTER>
+// <ALTER>ランクとSP</ALTER>　　<ALTER>レベル</ALTER>
+About Swords:
+ <ALTER>After forging</ALTER>  <ALTER>Durability</ALTER>
+ <ALTER>Rank and SP</ALTER>    <ALTER>Level</ALTER>
+$E=====4709=====
 <PROC=0>
 <END>
-$J=====4710=====
-太陽鍛冶(たいようかじ)におい
-ては、
-$J=====4711=====
-同じ組み合わせの材料からは同
-じソードが作られる
-$J=====4712=====
-組み合わせによって、よりレベ
-ルの高いソードが作られること
-もあれば、
-$J=====4713=====
-レベルの低いソードが作られる
-ことも、元のままのソードが作
-られることもある
-$J=====4714=====
-ただし同じ名前のソードであっ
-ても、
-$J=====4715=====
-鍛冶(かじ)の出来やその回数、
-運しだいで、その能力は異(こ
-と)なってくる
-$J=====4716=====
+$E=====4710=====
+//太陽鍛冶(たいようかじ)におい
+//ては、
+When using SOLARSMITH,
+$E=====4711=====
+//同じ組み合わせの材料からは同
+//じソードが作られる
+the same combination of
+materials will result in
+the same type of sword.
+$E=====4712=====
+//組み合わせによって、よりレベ
+//ルの高いソードが作られること
+//もあれば、
+Depending on the combination
+of materials used, you can
+create a higher-level sword,
+$E=====4713=====
+//レベルの低いソードが作られる
+//ことも、元のままのソードが作
+//られることもある
+but you can also end up with
+a lower-level sword or a
+sword of the same level.
+$E=====4714=====
+//ただし同じ名前のソードであっ
+//ても、
+Even if you end up with a
+sword of the same name,
+$E=====4715=====
+//鍛冶(かじ)の出来やその回数、
+//運しだいで、その能力は異(こ
+//と)なってくる
+there's still a chance that
+it will obtain a new SP
+Effect.
+$E=====4716=====
 <PROC=0>
 <END>
-$J=====4717=====
-ソードの頑丈(がんじょう)さは
-太陽鍛冶(たいようかじ)の出来
-によって変わり、
-$J=====4718=====
-ソードの名前の前に付く丸いマ
-ーク、ダメージメーターで表さ
-れる
-$J=====4719=====
-ダメージメーターはソードを使
-うことで欠けていき、
-$J=====4720=====
-メーターがなくなると、そのソ
-ードは折(お)れてしまう
-$J=====4721=====
-折(お)れたソードは威力(いり
-ょく)が1になってしまうが、
-$J=====4722=====
-鍛冶(かじ)による作り直し、作
-り変えが可能(かのう)だ
-$J=====4723=====
+$E=====4717=====
+//ソードの頑丈(がんじょう)さは
+//太陽鍛冶(たいようかじ)の出来
+//によって変わり、
+The durability of your sword
+depends on the quality of
+your forging.
+$E=====4718=====
+//ソードの名前の前に付く丸いマ
+//ーク、ダメージメーターで表さ
+//れる
+The circular icon next to
+the sword's name serves as a
+damage meter.
+$E=====4719=====
+//ダメージメーターはソードを使
+//うことで欠けていき、
+The damage meter decreases
+as you use the sword,
+$E=====4720=====
+//メーターがなくなると、そのソ
+//ードは折(お)れてしまう
+and if it runs out, the
+sword will break.
+$E=====4721=====
+//折(お)れたソードは威力(いり
+//ょく)が1になってしまうが、
+A broken sword's attack
+power is reduced to 1,
+$E=====4722=====
+//鍛冶(かじ)による作り直し、作
+//り変えが可能(かのう)だ
+but it can be restored to
+its former ability if you
+re-forge it.
+$E=====4723=====
 <PROC=0>
 <END>
 $J=====4724=====
@@ -15684,72 +15783,126 @@ $J=====4918=====
 $J=====4919=====
 <PROC=0>
 <END>
-$J=====4920=====
-材料にする武器を2つ選ぶんだ。
-$J=====4921=====
-これでいいんだな?
-$J=====4922=====
-まだ装備できないがいいんだな?
-$J=====4923=====
-お前の腕ではまだ無理なようだ。
-$J=====4924=====
-鍛冶をやめるのか?
-$J=====4925=====
-材料の選択(せんたく)が終わる
-と鍛冶(かじ)が開始される
-$J=====4926=====
-まずは炉(ろ)の炎(ほのお)でソ
-ードを熱する
-$J=====4927=====
-炎(ほのお)の温度がゲージで表
-示(ひょうじ)され、
-$J=====4928=====
-ゲージの上に目標となる温度が
-しめされるので、
-$J=====4929=====
-<WEIGHT>Ａボタン</WEIGHT>を使って炎(ほのお)の
-温度を調節しよう
-$J=====4930=====
-炎(ほのお)の温度はボタンを押
-(お)すたびに上がり、
-$J=====4931=====
-ボタンを押(お)さなければ下が
-る
-$J=====4932=====
-<WEIGHT>Ａボタン</WEIGHT>を使って炎(ほのお)の
-温度をコントロールし、目標の
-温度に合わせ続けよう
-$J=====4933=====
-次に熱したソードをハンマーで
-たたいてきたえる
-$J=====4934=====
-炎(ほのお)のゲージに代わって
-ハンマーのゲージが表示(ひょ
-うじ)されるので、
-$J=====4935=====
-<WEIGHT>Ａボタン</WEIGHT>を使ってソードをきた
-えよう
-$J=====4936=====
-ハンマーのゲージの上に目標と
-なるポイントがしめされるので
-$J=====4937=====
-タイミング良く<WEIGHT>Ａボタン</WEIGHT>を押(
-お)してソードをたたこう
-$J=====4938=====
-以上を制限時間(せいげんじか
-ん)が切れるまでくり返せば、
-新しいソードが完成する
-$J=====4939=====
-GREAT!が多いほど、より頑丈(
-がんじょう)なソードを作るこ
-とができるぞ
-$J=====4940=====
-また炎(ほのお)とハンマー、2
-つのゲージの動きは太陽ゲージ
-の値に左右される
-$J=====4941=====
-太陽の光を味方につけ、最強の
-ソードを作り出そう
+$E=====4920=====
+//材料にする武器を2つ選ぶんだ。
+Choose the materials to
+forge.
+$E=====4921=====
+//これでいいんだな?
+Is this alright?
+$E=====4922=====
+//まだ装備できないがいいんだな?
+Even though you can't equip
+it yet?
+$E=====4923=====
+//お前の腕ではまだ無理なようだ。
+Looks like you're not
+skilled enough yet.
+$E=====4924=====
+//鍛冶をやめるのか?
+Done forging?
+$E=====4925=====
+//材料の選択(せんたく)が終わる
+//と鍛冶(かじ)が開始される
+Once the materials are
+chosen, the forging begins.
+$E=====4926=====
+//まずは炉(ろ)の炎(ほのお)でソ
+//ードを熱する
+You start off by heating the
+sword in the flames of the
+kiln.
+$E=====4927=====
+//炎(ほのお)の温度がゲージで表
+//示(ひょうじ)され、
+The gauge indicates the
+temperature of the flames.
+$E=====4928=====
+//ゲージの上に目標となる温度が
+//しめされるので、
+Along the gauge is a mark
+indicating the desired
+temperature for your sword.
+$E=====4929=====
+//<WEIGHT>Ａボタン</WEIGHT>を使って炎(ほのお)の
+//温度を調節しよう
+Control the temperature of
+the flames using the
+<WEIGHT>A Button</WEIGHT>.
+$E=====4930=====
+//炎(ほのお)の温度はボタンを押
+//(お)すたびに上がり、
+Every time you press the
+button, the temperature of
+the flames rises,
+$E=====4931=====
+//ボタンを押(お)さなければ下が
+//る
+and if you don't press it,
+the temperature will
+steadily decrease.
+$E=====4932=====
+//<WEIGHT>Ａボタン</WEIGHT>を使って炎(ほのお)の
+//温度をコントロールし、目標の
+//温度に合わせ続けよう
+Try to keep the temperature
+of the flames aligned with
+the mark on the gauge.
+$E=====4933=====
+//次に熱したソードをハンマーで
+//たたいてきたえる
+Once the sword is heated,
+you need to strike it with
+the hammer to temper it.
+$E=====4934=====
+//炎(ほのお)のゲージに代わって
+//ハンマーのゲージが表示(ひょ
+//うじ)されるので、
+The flame gauge is replaced
+with the hammer gauge,
+$E=====4935=====
+//<WEIGHT>Ａボタン</WEIGHT>を使ってソードをきた
+//えよう
+and now the <WEIGHT>A Button</WEIGHT> is used
+to temper the sword.
+$E=====4936=====
+//ハンマーのゲージの上に目標と
+//なるポイントがしめされるので
+Along the hammer gauge is a
+mark indicating the right
+point to strike the sword.
+$E=====4937=====
+//タイミング良く<WEIGHT>Ａボタン</WEIGHT>を押(
+//お)してソードをたたこう
+Using the <WEIGHT>A Button</WEIGHT>, try to
+time your hits correctly.
+$E=====4938=====
+//以上を制限時間(せいげんじか
+//ん)が切れるまでくり返せば、
+//新しいソードが完成する
+When the time limit runs
+out, your new sword is
+complete.
+$E=====4939=====
+//GREAT!が多いほど、より頑丈(
+//がんじょう)なソードを作るこ
+//とができるぞ
+If you got mostly GREATs,
+you'll end up with a more
+durable sword.
+$E=====4940=====
+//また炎(ほのお)とハンマー、2
+//つのゲージの動きは太陽ゲージ
+//の値に左右される
+The movement speed of both
+gauges is determined by the
+value of the Solar Gauge.
+$E=====4941=====
+//太陽の光を味方につけ、最強の
+//ソードを作り出そう
+With the sunlight as your
+ally, you'll no doubt make
+the toughest of swords.
 $E=====4942=====
 //セーブしますか?
 // <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
