@@ -1978,7 +1978,7 @@ SABER<EXTEND=0>
 $E=====837=====
 //シルバーエッジ<EXTEND=0>
 SILVER EDGE<EXTEND=0>
-$E=====838=====
+$U=====838=====
 //深山<EXTEND=0>
 SHINZAN<EXTEND=0>
 $E=====839=====
@@ -2067,129 +2067,188 @@ $E=====866=====
 Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 $E=====867=====
 //Lv.<VAR=0>　威力:<VAR=1>　刺突(しとつ)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>　Power:<VAR=1>  A straight sword used for stabbing. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====868=====
-Lv.<VAR=0>　威力:<VAR=1>　古代の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====869=====
-Lv.<VAR=0>　威力:<VAR=1>　短めの長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====870=====
-Lv.<VAR=0>　威力:<VAR=1>　両手用の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====871=====
-Lv.<VAR=0>　威力:<VAR=1>　洗練(せんれん)された直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====872=====
-Lv.<VAR=0>　威力:<VAR=1>　青銅製(せいどうせい)の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====873=====
-Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====874=====
-Lv.<VAR=0>　威力:<VAR=1>　幅広(はばひろ)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====875=====
-Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====876=====
-Lv.<VAR=0>　威力:<VAR=1>　騎士(きし)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====877=====
-Lv.<VAR=0>　威力:<VAR=1>　けんか用の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====878=====
-Lv.<VAR=0>　威力:<VAR=1>　野バラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====879=====
-Lv.<VAR=0>　威力:<VAR=1>　湾曲(わんきょく)の内側に刃(は)のある曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====880=====
-Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====881=====
-Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====882=====
-Lv.<VAR=0>　威力:<VAR=1>　炎(ほのお)をかたどった大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====883=====
-Lv.<VAR=0>　威力:<VAR=1>　切断(せつだん)用の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====884=====
-Lv.<VAR=0>　威力:<VAR=1>　巨大な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====885=====
-Lv.<VAR=0>　威力:<VAR=1>　突(つ)き斬(き)り両用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====886=====
-Lv.<VAR=0>　威力:<VAR=1>　銀製(ぎんせい)の曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====887=====
-Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====888=====
-Lv.<VAR=0>　威力:<VAR=1>　かご状(じょう)の柄(え)の付いた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====889=====
-Lv.<VAR=0>　威力:<VAR=1>　鋼鉄製(こうてつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====890=====
-Lv.<VAR=0>　威力:<VAR=1>　騎兵(きへい)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====891=====
-Lv.<VAR=0>　威力:<VAR=1>　片手半剣(かたてはんけん)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====892=====
-Lv.<VAR=0>　威力:<VAR=1>　血を吸(す)う直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====893=====
-Lv.<VAR=0>　威力:<VAR=1>　切っ先の重さで斬(き)る曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====894=====
-Lv.<VAR=0>　威力:<VAR=1>　命を輝(かがや)かす刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====895=====
-Lv.<VAR=0>　威力:<VAR=1>　美しい長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====896=====
-Lv.<VAR=0>　威力:<VAR=1>　偉大(いだい)な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====897=====
-Lv.<VAR=0>　威力:<VAR=1>　氷の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====898=====
-Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====899=====
-Lv.<VAR=0>　威力:<VAR=1>　剣(つるぎ)の王。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====900=====
-Lv.<VAR=0>　威力:<VAR=1>　金のバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====901=====
-Lv.<VAR=0>　威力:<VAR=1>　ダマスカス鋼(こう)で作られた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====902=====
-Lv.<VAR=0>　威力:<VAR=1>　曇(くも)りのない刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====903=====
-Lv.<VAR=0>　威力:<VAR=1>　全(まった)き剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====904=====
-Lv.<VAR=0>　威力:<VAR=1>　白金製(はっきんせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====905=====
-Lv.<VAR=0>　威力:<VAR=1>　ダイヤモンドで作られた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====906=====
-Lv.<VAR=0>　威力:<VAR=1>　青いバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====907=====
-Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====908=====
-Lv.<VAR=0>　威力:<VAR=1>　呪(のろ)われた名刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====909=====
-Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====910=====
-Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====911=====
-Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====912=====
-Lv.<VAR=0>　威力:<VAR=1>　最強の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====913=====
-Lv.??　威力:??　暗子ちゃんとの愛の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====914=====
-Lv.??　威力:<VAR=1>　ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-$J=====915=====
+Lv.<VAR=0>　Power:<VAR=1>  A straight sword used for thrusting. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====868=====
+//Lv.<VAR=0>　威力:<VAR=1>　古代の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient curved sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====869=====
+//Lv.<VAR=0>　威力:<VAR=1>　短めの長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====870=====
+//Lv.<VAR=0>　威力:<VAR=1>　両手用の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A two-handed greatsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====871=====
+//Lv.<VAR=0>　威力:<VAR=1>　洗練(せんれん)された直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A polished straight sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====872=====
+//Lv.<VAR=0>　威力:<VAR=1>　青銅製(せいどうせい)の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of bronze. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====873=====
+//Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of the Sun. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====874=====
+//Lv.<VAR=0>　威力:<VAR=1>　幅広(はばひろ)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A broad longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====875=====
+//Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of iron. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====876=====
+//Lv.<VAR=0>　威力:<VAR=1>　騎士(きし)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by knights. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====877=====
+//Lv.<VAR=0>　威力:<VAR=1>　けんか用の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword used for close-quarter fighting. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====878=====
+//Lv.<VAR=0>　威力:<VAR=1>　野バラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a wild rose. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====879=====
+//Lv.<VAR=0>　威力:<VAR=1>　湾曲(わんきょく)の内側に刃(は)のある曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the sharp edge on the inner side. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====880=====
+//Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of flame. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====881=====
+//Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword made of iron. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====882=====
+//Lv.<VAR=0>　威力:<VAR=1>　炎(ほのお)をかたどった大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword modeled after a flame. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====883=====
+//Lv.<VAR=0>　威力:<VAR=1>　切断(せつだん)用の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword used for severing limbs. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====884=====
+//Lv.<VAR=0>　威力:<VAR=1>　巨大な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An enormous sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====885=====
+//Lv.<VAR=0>　威力:<VAR=1>　突(つ)き斬(き)り両用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used for both stabbing and cutting. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====886=====
+//Lv.<VAR=0>　威力:<VAR=1>　銀製(ぎんせい)の曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of silver. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 
-$J=====916=====
-レベルが上がるほど威力(いりょく)が上がる。
-$J=====917=====
-ライフがへるほど威力(いりょく)が上がる。
-$J=====918=====
+$E=====887=====
+//Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of earth. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====888=====
+//Lv.<VAR=0>　威力:<VAR=1>　かご状(じょう)の柄(え)の付いた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with a basket-hilt. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====889=====
+//Lv.<VAR=0>　威力:<VAR=1>　鋼鉄製(こうてつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of steel. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====890=====
+//Lv.<VAR=0>　威力:<VAR=1>　騎兵(きへい)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by cavalry. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====891=====
+//Lv.<VAR=0>　威力:<VAR=1>　片手半剣(かたてはんけん)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A one-handed longsword-and-a-half. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====892=====
+//Lv.<VAR=0>　威力:<VAR=1>　血を吸(す)う直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword that sucks blood. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====893=====
+//Lv.<VAR=0>　威力:<VAR=1>　切っ先の重さで斬(き)る曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with a heavy tip for beheading. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====894=====
+//Lv.<VAR=0>　威力:<VAR=1>　命を輝(かがや)かす刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana that brightens your life. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====895=====
+//Lv.<VAR=0>　威力:<VAR=1>　美しい長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A beautiful longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====896=====
+//Lv.<VAR=0>　威力:<VAR=1>　偉大(いだい)な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A great sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====897=====
+//Lv.<VAR=0>　威力:<VAR=1>　氷の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of ice. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====898=====
+//Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of wind. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====899=====
+//Lv.<VAR=0>　威力:<VAR=1>　剣(つるぎ)の王。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The king of swords. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====900=====
+//Lv.<VAR=0>　威力:<VAR=1>　金のバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword in the shape of a golden rose. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====901=====
+//Lv.<VAR=0>　威力:<VAR=1>　ダマスカス鋼(こう)で作られた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of Damascus steel. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====902=====
+//Lv.<VAR=0>　威力:<VAR=1>　曇(くも)りのない刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The katana of clear skies. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====903=====
+//Lv.<VAR=0>　威力:<VAR=1>　全(まった)き剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A flawless sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====904=====
+//Lv.<VAR=0>　威力:<VAR=1>　白金製(はっきんせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword made of platinum. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====905=====
+//Lv.<VAR=0>　威力:<VAR=1>　ダイヤモンドで作られた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of diamond. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====906=====
+//Lv.<VAR=0>　威力:<VAR=1>　青いバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a blue rose. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====907=====
+//Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of wind. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====908=====
+//Lv.<VAR=0>　威力:<VAR=1>　呪(のろ)われた名刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The legendary cursed katana. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====909=====
+//Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of flame. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====910=====
+//Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword with the power of earth. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====911=====
+//Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of the Sun. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====912=====
+//Lv.<VAR=0>　威力:<VAR=1>　最強の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The ultimate greatsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====913=====
+//Lv.??　威力:??　暗子ちゃんとの愛の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.??  Power:??  Proof of Doomy's love. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====914=====
+//Lv.??　威力:<VAR=1>　ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.??  Power:<VAR=1>  Proof of RockMan's friendship. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+$E=====915=====
+
+$E=====916=====
+//レベルが上がるほど威力(いりょく)が上がる。
+Attack Power is relative to your level.
+$E=====917=====
+//ライフがへるほど威力(いりょく)が上がる。
+//Power increases as you lose Life.
+25% Attack Power boost.
+$E=====918=====
 ライフがふえるほど威力(いりょく)が上がる。
-$J=====919=====
-エナジーを消費してソル属性(ぞくせい)を付加する。
-$J=====920=====
-エナジーを消費してフレイム属性(ぞくせい)を付加する。
-$J=====921=====
-エナジーを消費してフロスト属性(ぞくせい)を付加する。
-$J=====922=====
-エナジーを消費してクラウド属性(ぞくせい)を付加する。
-$J=====923=====
-エナジーを消費してアース属性(ぞくせい)を付加する。
-$J=====924=====
-敵(てき)をふき飛ばす(低)。
-$J=====925=====
-敵(てき)をふき飛ばす(高)。
+Attack Power is relative to your Life.
+$E=====919=====
+//エナジーを消費してソル属性(ぞくせい)を付加する。
+Adds Sol element to attacks (5 ENE).
+$E=====920=====
+//エナジーを消費してフレイム属性(ぞくせい)を付加する。
+Adds Flame element to attacks (10 ENE).
+$E=====921=====
+//エナジーを消費してフロスト属性(ぞくせい)を付加する。
+Adds Frost element to attacks (10 ENE).
+$E=====922=====
+//エナジーを消費してクラウド属性(ぞくせい)を付加する。
+Adds Cloud element to attacks (10 ENE).
+$E=====923=====
+//エナジーを消費してアース属性(ぞくせい)を付加する。
+Adds Earth element to attacks (10 ENE).
+$E=====924=====
+//敵(てき)をふき飛ばす(低)。
+Low chance of knockback effect.
+$E=====925=====
+//敵(てき)をふき飛ばす(高)。
+High chance of knockback effect.
 $E=====926=====
 //敵(てき)をマヒさせる(低)。
-Paralyzes enemies (weak).
+Low chance of paralyzing enemies.
 $E=====927=====
 //敵(てき)をマヒさせる(高)。
-Paralyzes enemies (strong).
+High chance of paralyzing enemies.
 $E=====928=====
 //敵(てき)をたおすとライフが回復(かいふく)する。
 Restores Life as you defeat enemies.
@@ -2204,22 +2263,23 @@ $E=====931=====
 Drains Energy as you defeat enemies.
 $E=====932=====
 //レベルが上がるほど威力(いりょく)が下がる。
-Gains power as your level increases.
+//Power drops as your level increases.
+100% boost to Attack Power.
 $E=====933=====
 //ダーク属性(ぞくせい)に弱くなる。
-Becomes weak to Dark attribute.
+Makes you weak to Dark.
 $E=====934=====
 //フレイム属性(ぞくせい)に弱くなる。
-Becomes weak to Flame attribute.
+Makes you weak to Flame.
 $E=====935=====
 //フロスト属性(ぞくせい)に弱くなる。
-Becomes weak to Frost attribute.
+Makes you weak to Frost.
 $E=====936=====
 //クラウド属性(ぞくせい)に弱くなる。
-Becomes weak to Cloud attribute.
+Makes you weak to Cloud.
 $E=====937=====
 //アース属性(ぞくせい)に弱くなる。
-Becomes weak to Earth attribute.
+Makes you weak to Earth.
 $E=====938=====
 //これを捨てますか?
 Trash this?
@@ -7447,30 +7507,39 @@ EXPLANATION
 $E=====2452=====
 //バイクバトル
 BIKE BATTLE
-$J=====2453=====
-データ配信
-$J=====2454=====
-クロスオーバーバトル2
+$E=====2453=====
+//データ配信
+Data Transfer
+$E=====2454=====
+//クロスオーバーバトル2
+Crossover Battle 2
 $J=====2455=====
 ロードに失敗しました。
 セーブデータが存在しないか、
 壊れています。
 $J=====2456=====
-通信ケーブルを使って友達とバイクバトルができます。
-$J=====2457=====
-通信ケーブルを使ってデータ配信サービスを受けることができます。
-$J=====2458=====
-ワイヤレスアダプタを使ってロックマンエグゼ6と通信対戦ができます。
-$J=====2459=====
-データがありません。Ａボタン、またはＢボタンでもどります。
-$J=====2460=====
-       ゲームスタート
-$J=====2461=====
+//通信ケーブルを使って友達とバイクバトルができます。
+Battle a friend using the link cable.
+$E=====2457=====
+//通信ケーブルを使ってデータ配信サービスを受けることができます。
+Transfer data using the link cable.
+$E=====2458=====
+//ワイヤレスアダプタを使ってロックマンエグゼ6と通信対戦ができます。
+Crossover Battle with Rockman.EXE 6 using the wireless adapter.
+$E=====2459=====
+//データがありません。Ａボタン、またはＢボタンでもどります。
+No data. Press the A or B Button to return.
+$E=====2460=====
+//       ゲームスタート
+        GAME START
+$E=====2461=====
            ? ? ?
-$J=====2462=====
-      バイクアクション
-$J=====2463=====
-        バイクバトル
+$E=====2462=====
+//      バイクアクション
+        BIKE ACTION
+$E=====2463=====
+//        バイクバトル
+        BIKE BATTLE
 $J=====2464=====
 最初のステージを体験プレイ!!
 $J=====2465=====
@@ -7484,40 +7553,63 @@ $X=====2468=====
 $E=====2469=====
 //<WEIGHT>キャスト</WEIGHT>
 <WEIGHT>CAST</WEIGHT>
-$J=====2470=====
+$E=====2470=====
+//<WEIGHT><NAME></WEIGHT>
+//<WEIGHT>/陽子ちゃん&暗子ちゃん</WEIGHT>
+//水間真紀
 <WEIGHT><NAME></WEIGHT>
-<WEIGHT>/陽子ちゃん&暗子ちゃん</WEIGHT>
-水間真紀
-$J=====2471=====
-<WEIGHT>おてんこさま/伯爵/???</WEIGHT>
-大塚明夫
-$J=====2472=====
-<WEIGHT>サバタ/ニーズホッグ</WEIGHT>
-重松朋
-$J=====2473=====
-<WEIGHT>ラタトスク/フレスベルグ</WEIGHT>
-<WEIGHT>/棺桶屋</WEIGHT>
-石田彰
-$J=====2474=====
-<WEIGHT>トリニティ</WEIGHT>
-小池亜希子
-$J=====2475=====
-<WEIGHT>カーミラ/リタ/スミレ</WEIGHT>
-小暮英麻
-$J=====2476=====
-<WEIGHT>ザジ</WEIGHT>
-氷上恭子
-$J=====2477=====
-<WEIGHT>スミス/シャイアン/エンニオ</WEIGHT>
-上田陽司
-$J=====2478=====
-<WEIGHT>キッド</WEIGHT>
-中村俊洋
-$J=====2479=====
-<WEIGHT>レディ</WEIGHT>
-児玉孝子
-$J=====2480=====
-<WEIGHT>スタッフ</WEIGHT>
+<WEIGHT>/Luxana & Doomy</WEIGHT>
+Maki Mizuma
+$E=====2471=====
+//<WEIGHT>おてんこさま/伯爵/???</WEIGHT>
+//大塚明夫
+<WEIGHT>Master Otenko/Count/???</WEIGHT>
+Akio Otsuka
+$E=====2472=====
+//<WEIGHT>サバタ/ニーズホッグ</WEIGHT>
+//重松朋
+<WEIGHT>Sabata/Nidhoggr</WEIGHT>
+Tomo Shigematsu
+$E=====2473=====
+//<WEIGHT>ラタトスク/フレスベルグ</WEIGHT>
+//<WEIGHT>/棺桶屋</WEIGHT>
+//石田彰
+<WEIGHT>Ratatosk/Hresvelgr</WEIGHT>
+<WEIGHT>/Coffin Shopkeeper</WEIGHT>
+Akira Ishida
+$E=====2474=====
+//<WEIGHT>トリニティ</WEIGHT>
+//小池亜希子
+<WEIGHT>Trinity</WEIGHT>
+Akiko Koike
+$E=====2475=====
+//<WEIGHT>カーミラ/リタ/スミレ</WEIGHT>
+//小暮英麻
+<WEIGHT>Carmilla/Lita/Violet</WEIGHT>
+Emi Kogure
+$E=====2476=====
+//<WEIGHT>ザジ</WEIGHT>
+//氷上恭子
+<WEIGHT>Zazie</WEIGHT>
+Kyoko Hikami
+$E=====2477=====
+//<WEIGHT>スミス/シャイアン/エンニオ</WEIGHT>
+//上田陽司
+<WEIGHT>Smith/Cheyenne/Ennio</WEIGHT>
+Youji Ueda
+$E=====2478=====
+//<WEIGHT>キッド</WEIGHT>
+//中村俊洋
+<WEIGHT>Kid</WEIGHT>
+Toshihiro Nakamura
+$E=====2479=====
+//<WEIGHT>レディ</WEIGHT>
+//児玉孝子
+<WEIGHT>Lady</WEIGHT>
+Takako Kodama
+$E=====2480=====
+//<WEIGHT>スタッフ</WEIGHT>
+<WEIGHT>STAFF</WEIGHT>
 $J=====2481=====
 <WEIGHT>原案</WEIGHT>
 小島秀夫
@@ -7884,7 +7976,7 @@ $E=====2591=====
 Attacks include White Arm, Black Arm, Bite, Mystery Beam, and Destruction Beam.
 $E=====2592=====
 //太陽銃「ガン・デル・ソル」の継承者(けいしょうしゃ)、「太陽少年」。最強のヴァンパイアハンターであった父「紅(くれない)のリンゴ」から、太陽の力をあやつる術(すべ)と「深紅(しんく)のマフラー」を受けついでいる。
-The successor to the Gun Del Sol, the Solar Boy. Received his Solar power and the Crimson Muffler from his father, Red Ringo.
+The successor to the Gun Del Sol, the Solar Boy. Received his Solar power and the Crimson Scarf from his father, Red Ringo.
 $E=====2593=====
 //「棺桶(かんおけ)バイク」を駆(か)る太陽少年。「戦士のバンダナ」に装着(そうちゃく)したゴーグルでその目を守っている。
 The Solar Boy riding the Coffin Bike. Protects his eyes with goggles equipped on the Warrior's Bandana.
@@ -7893,7 +7985,7 @@ $E=====2594=====
 The Messenger of the Sun, descended to earth to protect all the Sun's creatures. He guides <NAME> and supports him in battle. He is a brave warrior who once fought alongside Red Ringo.
 $E=====2595=====
 //いつわりの母、闇の女王(クイーン)に暗黒銃「ガン・デル・ヘル」の使い手、暗黒少年として育てられた<NAME>の兄。真実の母「マーニ」から、月の巫女(月下美人)の力と「月光のマフラー」を受け継いでいる。
-<NAME>'s older brother, brought up as the Dark Boy to use the Gun del Hel by his fake mother, the Queen. Inherited the power of the Moon Beauty and the Moonlight Muffler from his real mother, Mani.
+<NAME>'s older brother, brought up as the Dark Boy to use the Gun del Hel by his fake mother, the Queen. Inherited the power of the Moon Beauty and the Moonlight Scarf from his real mother, Mani.
 $E=====2596=====
 //破壊(はかい)の獣(けもの)であることを受け入れたサバタ。その心は、「ヴァナルガンド」があたえる狂気(きょうき)に支配(しはい)されている。
 Sabata after succeeding the Beast of Destruction. The madness induced by Vanargand is controlling him.
@@ -8203,97 +8295,158 @@ $J=====2729=====
 探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
 $J=====2730=====
 脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-$J=====2731=====
-<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
-「良く来たな、<NAME>
-$J=====2732=====
-噂(うわさ)は聞いている・・・
-大変な目にあったようだな?
-$J=====2733=====
-ん?
-まさか・・・
-$J=====2734=====
-かつて剣(つるぎ)をも交えた、
-このわたしをわすれてしまった
-のか?
-$J=====2735=====
-それどころか、おまえにあたえ
-たはずの風の祝福までもが、失
-われているではないか!
-$J=====2736=====
-ううむ・・・
-$J=====2737=====
-きっかけさえあれば、思い出せ
-るかも知れん
-$J=====2738=====
-今一度、おまえに祝福をあたえ
-よう
-$J=====2739=====
-行くぞ?」
-$J=====2740=====
+$E=====2731=====
+//<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
+//「良く来たな、<NAME>
+<LABEL=SHAIAN>Long-Haired Man</LABEL>:
+"It's good to see you again,
+<NAME>.
+$E=====2732=====
+//噂(うわさ)は聞いている・・・
+//大変な目にあったようだな?
+Rumor has it that you went
+through some tough times.
+$E=====2733=====
+//ん?
+//まさか・・・
+Huh?
+Did you...
+$E=====2734=====
+//かつて剣(つるぎ)をも交えた、
+//このわたしをわすれてしまった
+//のか?
+did you forget about me, the
+man who once crossed swords
+with you?
+$U=====2735=====
+//それどころか、おまえにあたえ
+//たはずの風の祝福までもが、失
+//われているではないか!
+On the contrary, I gave you
+the wind's blessing. Or did
+you lose that too?
+$E=====2736=====
+//ううむ・・・
+Hm.
+$U=====2737=====
+//きっかけさえあれば、思い出せ
+//るかも知れん
+Maybe you need something to
+help you remember.
+$E=====2738=====
+//今一度、おまえに祝福をあたえ
+//よう
+I'll give you the blessing
+again.
+$E=====2739=====
+//行くぞ?」
+Ready?"
+$E=====2740=====
 <PROC=0>
 <END>
-$J=====2741=====
-風の祝福を得た!
-$J=====2742=====
+$E=====2741=====
+//風の祝福を得た!
+You received the wind's
+blessing!
+$E=====2742=====
 <PROC=0>
 <END>
-$J=====2743=====
-スペシャルアクション
-「ダッシュ」
-を思い出した!!
-$J=====2744=====
-ダッシュは高速で移動(いどう)
-するための太陽魔法だ
-$J=====2745=====
-太陽ゲージがゼロでは使うこと
-ができないが、
-$J=====2746=====
-太陽ゲージの値が高いほど、よ
-り速く移動することができる
-$J=====2747=====
-ただし、ダッシュ中は通常の2
-倍ダメージを受けるので注意が
-必要だ
-$J=====2748=====
-ダッシュを行うにはクイックチ
-ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
-ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
-$J=====2749=====
-スペシャルアクションにダッシ
-ュを選んだ状態(じょうたい)で
-<WEIGHT>Ｌボタン</WEIGHT>を押(お)せばいい
-$J=====2750=====
+$E=====2743=====
+//スペシャルアクション
+//「ダッシュ」
+//を思い出した!!
+Special Action
+"Dash"
+remembered!
+$E=====2744=====
+//ダッシュは高速で移動(いどう)
+//するための太陽魔法だ
+Dash is a Sun Magic that
+lets you move quickly.
+$E=====2745=====
+//太陽ゲージがゼロでは使うこと
+//ができないが、
+You can't use it if the
+Solar Gauge is at zero,
+$E=====2746=====
+//太陽ゲージの値が高いほど、よ
+//り速く移動することができる
+but the higher it goes, the
+faster you can move.
+$E=====2747=====
+//ただし、ダッシュ中は通常の2
+//倍ダメージを受けるので注意が
+//必要だ
+But be careful, since you
+usually take twice as much
+damage when dashing.
+$E=====2748=====
+//ダッシュを行うにはクイックチ
+//ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
+//ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
+Select dash by pressing the
+<WEIGHT>L Button</WEIGHT> while holding
+<WEIGHT>SELECT</WEIGHT> (Quick Change).
+$E=====2749=====
+//スペシャルアクションにダッシ
+//ュを選んだ状態(じょうたい)で
+//<WEIGHT>Ｌボタン</WEIGHT>を押(お)せばいい
+To dash during a Special
+Action, just press the
+<WEIGHT>L Button</WEIGHT>.
+$E=====2750=====
 <PROC=0>
 <END>
-$J=====2751=====
-<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
-「思い出したか、<NAME>?
-$J=====2752=====
-わたしは風の戦士、シャイアン
-$J=====2753=====
-このサン・ミゲルを守る太陽の
-4士族・・・
-その最後の生きのこりだ
-$J=====2754=====
-そしてこの店は武器屋(ぶきや)
-$J=====2755=====
-今はまだ、品ぞろえも少ないが
-・・・
-$J=====2756=====
-おまえが太陽鍛冶(たいようか
-じ)で新しいソードを作り出せ
-ば、
-$J=====2757=====
-それを量産して、店頭にならべ
-ることもできよう
-$J=====2758=====
-鍛冶(かじ)についてのくわしい
-話は、スミスに聞いてくれ
-$J=====2759=====
-何はともあれ・・・
-またいそがしくなりそうだな」
-$J=====2760=====
+$E=====2751=====
+//<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
+//「思い出したか、<NAME>?
+<LABEL=SHAIAN>Long-Haired Man</LABEL>:
+"Did you remember,
+<NAME>?
+$E=====2752=====
+//わたしは風の戦士、シャイアン
+I'm the Wind Warrior,
+Cheyenne.
+$E=====2753=====
+//このサン・ミゲルを守る太陽の
+//4士族・・・
+//その最後の生きのこりだ
+I'm the Guard of San Miguel
+and last survivor of the
+four Sun Warrior classes.
+$E=====2754=====
+//そしてこの店は武器屋(ぶきや)
+This is the Weapon Shop.
+$E=====2755=====
+//今はまだ、品ぞろえも少ないが
+//・・・
+I don't have much in stock
+yet...
+$E=====2756=====
+//おまえが太陽鍛冶(たいようか
+//じ)で新しいソードを作り出せ
+//ば、
+but if you make a new sword
+with SOLARSMITH,
+$E=====2757=====
+//それを量産して、店頭にならべ
+//ることもできよう
+I'll be able to mass-
+produce it and put it on
+sale.
+$E=====2758=====
+//鍛冶(かじ)についてのくわしい
+//話は、スミスに聞いてくれ
+If you want to learn more
+about forging, talk to
+Smith.
+$U=====2759=====
+//何はともあれ・・・
+//またいそがしくなりそうだな」
+Anyway...
+things will start picking up
+again."
+$E=====2760=====
 <PROC=0>
 <END>
 $J=====2761=====
@@ -8390,94 +8543,145 @@ $J=====2788=====
 $J=====2789=====
 <PROC=0>
 <END>
-$J=====2790=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「何にするんだ?」
- <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
-$J=====2791=====
+$E=====2790=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「何にするんだ?」
+// <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"What do you want?"
+ <ALTER>Shop</ALTER>  <ALTER>Talk</ALTER>
+$E=====2791=====
 <PROC=0>
 <END>
-$J=====2792=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「うむ・・・
-$J=====2793=====
-ここであつかっているソードは
-並のものばかりだ
-$J=====2794=====
-より強力なソードがほしかった
-ら、スミスのところで太陽鍛冶
-(たいようかじ)をするといい」
-$J=====2795=====
+$E=====2792=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「うむ・・・
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Hm.
+$E=====2793=====
+//ここであつかっているソードは
+//並のものばかりだ
+The swords available here
+are only of average quality.
+$E=====2794=====
+//より強力なソードがほしかった
+//ら、スミスのところで太陽鍛冶
+//(たいようかじ)をするといい」
+If you want a stronger one,
+you should use SOLARSMITH at
+Smith's place."
+$E=====2795=====
 <PROC=0>
 <END>
-$J=====2796=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「うむ・・・
-$J=====2797=====
-ソードの買い取り価格(かかく)
-は、そのソードがどれだけ強化
-されているかによって変わる
-$J=====2798=====
-ランクの高いソードや、SP(特
-殊効果)の付いたソードは、高
-値で買い取るぞ」
-$J=====2799=====
+$E=====2796=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「うむ・・・
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Hm.
+$E=====2797=====
+//ソードの買い取り価格(かかく)
+//は、そのソードがどれだけ強化
+//されているかによって変わる
+The selling price of a sword
+can vary depending on its
+durability.
+$E=====2798=====
+//ランクの高いソードや、SP(特
+//殊効果)の付いたソードは、高
+//値で買い取るぞ」
+Swords that have a high rank
+or SP effects will also
+fetch a higher price."
+$E=====2799=====
 <PROC=0>
 <END>
-$J=====2800=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「あの伯爵(はくしゃく)がふた
-たびよみがえったか・・・
-$J=====2801=====
-かつてこの太陽の街をおそった
-伯爵(はくしゃく)と、
-$J=====2802=====
-その下僕(げぼく)たるアンデッ
-ドたち
-$J=====2803=====
-やつらの手によって街は壊滅(
-かいめつ)し、
-$J=====2804=====
-スミスは片目を、わたしは3人
-の兄弟を、
-$J=====2805=====
-そしておまえは・・・
-父を失い、母をうばわれた
-$J=====2806=====
-これ以上、やつらの犠牲者(ぎ
-せいしゃ)をふやしてはならな
-い!
-$J=====2807=====
-たのんだぞ、
-太陽少年<NAME>!!」
-$J=====2808=====
+$E=====2800=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「あの伯爵(はくしゃく)がふた
+//たびよみがえったか・・・
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"So the Count has been
+resurrected again...
+$E=====2801=====
+//かつてこの太陽の街をおそった
+//伯爵(はくしゃく)と、
+He once attacked this City
+of the Sun,
+$E=====2802=====
+//その下僕(げぼく)たるアンデッ
+//ドたち
+along with his undead
+servants.
+$E=====2803=====
+//やつらの手によって街は壊滅(
+//かいめつ)し、
+The city was destroyed by
+their hands.
+$E=====2804=====
+//スミスは片目を、わたしは3人
+//の兄弟を、
+Smith lost an eye, I lost my
+dear brothers,
+$E=====2805=====
+//そしておまえは・・・
+//父を失い、母をうばわれた
+and you...
+You lost your mother, Mani.
+$E=====2806=====
+//これ以上、やつらの犠牲者(ぎ
+//せいしゃ)をふやしてはならな
+//い!
+We can't let them take any
+more victims!
+$E=====2807=====
+//たのんだぞ、
+//太陽少年<NAME>!!」
+We're counting on you,
+Solar Boy <NAME>!"
+$E=====2808=====
 <PROC=0>
 <END>
-$J=====2809=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「ソードでの攻撃(こうげき)に
-は3つのスタイルがある
-$J=====2810=====
-突(つ)きは、すばやい攻撃(こ
-うげき)が可能(かのう)なスタ
-イル、
-$J=====2811=====
-横斬(よこぎ)りは、広範囲(こ
-うはんい)への攻撃(こうげき)
-が可能(かのう)なスタイル、
-$J=====2812=====
-縦斬(たてぎ)りは、最も強力な
-攻撃(こうげき)が可能(かのう)
-なスタイルだ
-$J=====2813=====
-攻撃(こうげき)がどのスタイル
-になるかは、ソードごとに決ま
-っている
-$J=====2814=====
-まずはいろいろなソードを使っ
-てみて、それどれの特徴(とく
-ちょう)を良く理解するんだ」
-$J=====2815=====
+$E=====2809=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「ソードでの攻撃(こうげき)に
+//は3つのスタイルがある
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Swords have 3 kinds of
+attack styles:
+$E=====2810=====
+//突(つ)きは、すばやい攻撃(こ
+//うげき)が可能(かのう)なスタ
+//イル、
+The thrust, which allows you
+to attack quickly,
+$E=====2811=====
+//横斬(よこぎ)りは、広範囲(こ
+//うはんい)への攻撃(こうげき)
+//が可能(かのう)なスタイル、
+The horizontal slash, which
+has a wide range of attack,
+$E=====2812=====
+//縦斬(たてぎ)りは、最も強力な
+//攻撃(こうげき)が可能(かのう)
+//なスタイルだ
+And the vertical slash,
+which is the strongest of
+the three.
+$E=====2813=====
+//攻撃(こうげき)がどのスタイル
+//になるかは、ソードごとに決ま
+//っている
+Which attack style you can
+use varies depending on the
+sword.
+$E=====2814=====
+//まずはいろいろなソードを使っ
+//てみて、それどれの特徴(とく
+//ちょう)を良く理解するんだ」
+Try forging different types
+of swords to figure out
+their respective abilities."
+$E=====2815=====
 <PROC=0>
 <END>
 $J=====2816=====
@@ -8741,158 +8945,231 @@ $J=====2896=====
 $J=====2897=====
 <PROC=0>
 <END>
-$J=====2898=====
-<PROC=1><LABEL=RITA>リボンの少女</LABEL>
-「<NAME>さま!!
-$J=====2899=====
-無事おもどりになられたんです
-ね!
-$J=====2900=====
-<PROC=2>本当に、よかった・・・
-$J=====2901=====
-<PROC=3>えっ!?
-記憶喪失(きおくそうしつ)?
-$J=====2902=====
-まさか・・・
-$J=====2903=====
-わたしのことも覚えていらっし
-ゃらないんですか?
-$J=====2904=====
-わたしです!
-$J=====2905=====
-大地の巫女(みこ)、
-$J=====2906=====
-<PROC=4>リタです!!」
-$J=====2907=====
+$E=====2898=====
+//<PROC=1><LABEL=RITA>リボンの少女</LABEL>
+//「<NAME>さま!!
+<PROC=1><LABEL=RITA>Girl with Ribbon</LABEL>:
+"Master <NAME>!
+$E=====2899=====
+//無事おもどりになられたんです
+//ね!
+You came back safely!
+$E=====2900=====
+//<PROC=2>本当に、よかった・・・
+<PROC=2>Oh, thank goodness...
+$E=====2901=====
+//<PROC=3>えっ!?
+//記憶喪失(きおくそうしつ)?
+<PROC=3>Ehhh!?
+Amnesia?
+$E=====2902=====
+//まさか・・・
+You mean...
+$E=====2903=====
+//わたしのことも覚えていらっし
+//ゃらないんですか?
+you don't remember me?
+$E=====2904=====
+//わたしです!
+It's me!
+$E=====2905=====
+//大地の巫女(みこ)、
+The Earthly Maiden,
+$E=====2906=====
+//<PROC=4>リタです!!」
+<PROC=4>Lita!"
+$E=====2907=====
 <PROC=0>
 <END>
-$J=====2908=====
-<PROC=5><LABEL=RITA>リタ</LABEL>
-「そんな・・・
-$J=====2909=====
-・・・
-$J=====2910=====
-<PROC=6>わかりました
-$J=====2911=====
-わたしが何とかしてみせましょ
-う・・・」
-$J=====2912=====
+$E=====2908=====
+//<PROC=5><LABEL=RITA>リタ</LABEL>
+//「そんな・・・
+<PROC=5><LABEL=RITA>Lita</LABEL>:
+"No way...
+$E=====2909=====
+//・・・
+...
+$E=====2910=====
+//<PROC=6>わかりました
+<PROC=6>I understand.
+$E=====2911=====
+//わたしが何とかしてみせましょ
+//う・・・」
+I'll find a way to do it
+somehow..."
+$E=====2912=====
 <PROC=0>
 <END>
-$J=====2913=====
-<LABEL=RITA>リタ</LABEL>
-「善(ぜん)は急げです。
-さっそく始めますよ?
-$J=====2914=====
-まずは・・・
-目をつむってください」
-$J=====2915=====
+$E=====2913=====
+//<LABEL=RITA>リタ</LABEL>
+//「善(ぜん)は急げです。
+//さっそく始めますよ?
+<LABEL=RITA>Lita</LABEL>:
+"We'd better hurry. Let's
+start right away.
+$E=====2914=====
+//まずは・・・
+//目をつむってください」
+First...
+close your eyes."
+$E=====2915=====
 <PROC=0>
 <END>
-$J=====2916=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「リタ・・・
-$J=====2917=====
-本当にだいじょうぶなのか?」
-$J=====2918=====
-<LABEL=RITA>リタ</LABEL>
-「おまかせください
-$J=====2919=====
-マスターに聞いたことがありま
-す
-$J=====2920=====
-たしかこういう場合には・・・
-ショック療法(りょうほう)がい
-いんです!
-$J=====2921=====
-さあ、<NAME>さま。
-歯を食いしばって・・・
-$J=====2922=====
-いいですか?
-行きますよ・・・」
-$J=====2923=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ショック療法(りょうほう)?
-$J=====2924=====
-ちょっと待て!!
-$J=====2925=====
-アンデッドを素手でたおすほど
-のおまえがそんなことをすれば
-・・・
-$J=====2926=====
-逃げるんだ、<NAME>!!」
-$J=====2927=====
+$E=====2916=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「リタ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Lita...
+$E=====2917=====
+//本当にだいじょうぶなのか?」
+Is this really alright?"
+$E=====2918=====
+//<LABEL=RITA>リタ</LABEL>
+//「おまかせください
+<LABEL=RITA>Lita</LABEL>:
+"Just trust me.
+$E=====2919=====
+//マスターに聞いたことがありま
+//す
+I learned from the master.
+$E=====2920=====
+//たしかこういう場合には・・・
+//ショック療法(りょうほう)がい
+//いんです!
+If I recall correctly, this
+kind of situation calls
+for... shock therapy!
+$E=====2921=====
+//さあ、<NAME>さま。
+//歯を食いしばって・・・
+Okay, Master <NAME>.
+Grit your teeth and prepare
+yourself...
+$E=====2922=====
+//いいですか?
+//行きますよ・・・」
+Are you ready?
+Here I go..."
+$E=====2923=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ショック療法(りょうほう)?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Shock therapy?
+$E=====2924=====
+//ちょっと待て!!
+Hey, wait!
+$E=====2925=====
+//アンデッドを素手でたおすほど
+//のおまえがそんなことをすれば
+//・・・
+You could defeat the undead
+with your bare hands. If you
+tried that kind of thing...
+$E=====2926=====
+//逃げるんだ、<NAME>!!」
+Run away, <NAME>!"
+$E=====2927=====
 <PROC=0>
 <END>
-$J=====2928=====
-<LABEL=RITA>リタ</LABEL>
-「チェストーーーッ!!!!!!」<LOCK=60>
-$J=====2929=====
+$E=====2928=====
+//<LABEL=RITA>リタ</LABEL>
+//「チェストーーーッ!!!!!!」<LOCK=60>
+<LABEL=RITA>Lita</LABEL>:
+"Chest Attaaaaack!!!!!!"<LOCK=60>
+$E=====2929=====
 <PROC=0>
 <END>
-$J=====2930=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>ーーーッ!!」
-$J=====2931=====
+$E=====2930=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>ーーーッ!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>!!!"
+$E=====2931=====
 <PROC=0>
 <END>
-$J=====2932=====
-<PROC=7><LABEL=RITA>リタ</LABEL>
-「申しわけありません。
-つい・・・」
-$J=====2933=====
+$E=====2932=====
+//<PROC=7><LABEL=RITA>リタ</LABEL>
+//「申しわけありません。
+//つい・・・」
+<PROC=7><LABEL=RITA>Lita</LABEL>:
+"I'm so sorry.
+...okay, next-"
+$E=====2933=====
 <PROC=0>
 <END>
-$J=====2934=====
+$U=====2934=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 (何も言うな・・・
-$J=====2935=====
+$U=====2935=====
 だまってたえるのも・・・
 男のやさしさだぞ!!)
 $J=====2936=====
 <PROC=0>
 <END>
-$J=====2937=====
-<PROC=3><LABEL=RITA>リタ</LABEL>
-「この道具屋では、
-$J=====2938=====
-太陽の果実を始めとする回復(
-かいふく)アイテムや、
-$J=====2939=====
-さまざまな効果(こうか)で冒険
-(ぼうけん)のお手伝いをする、
-$J=====2940=====
+$E=====2937=====
+//<PROC=3><LABEL=RITA>リタ</LABEL>
+//「この道具屋では、
+<PROC=3><LABEL=RITA>Lita</LABEL>
+"In this Item Shop,
+$E=====2938=====
+//太陽の果実を始めとする回復(
+//かいふく)アイテムや、
+we sell recovery items,
+starting with solar fruit.
+$E=====2939=====
+//さまざまな効果(こうか)で冒険
+//(ぼうけん)のお手伝いをする、
+We also sell various support
+items to help you on your
+quest.
+$U=====2940=====
 サポートアイテムを取りあつか
 っています
-$J=====2941=====
-何はともあれ・・・
-$J=====2942=====
-<PROC=4>まずはこちらのアイテムで、ラ
-イフを回復(かいふく)してくだ
-さい!!」
-$J=====2943=====
+$E=====2941=====
+//何はともあれ・・・
+Anyway...
+$E=====2942=====
+//<PROC=4>まずはこちらのアイテムで、ラ
+//イフを回復(かいふく)してくだ
+//さい!!」
+<PROC=4>
+please use these items to
+recover your health!"
+$E=====2943=====
 <PROC=0>
 <END>
-$J=====2944=====
-<LABEL=RITA>リタ</LABEL>
-「<NAME>さま・・・
-$J=====2945=====
-レベルが99になるまできたえ上
-げるなんて、
-$J=====2946=====
-すごいです!!
-$J=====2947=====
-<PROC=4>もはや歴戦の勇士ですね!
-$J=====2948=====
-<PROC=3>そんな<NAME>さまには、この称号(しょうごう)を差し上げます!!」
-$J=====2949=====
+$E=====2944=====
+//<LABEL=RITA>リタ</LABEL>
+//「<NAME>さま・・・
+<LABEL=RITA>Lita</LABEL>:
+"Master <NAME>...
+$E=====2945=====
+//レベルが99になるまできたえ上
+//げるなんて、
+You kept training until you
+got to level 99...
+$E=====2946=====
+//すごいです!!
+amazing!
+$E=====2947=====
+//<PROC=4>もはや歴戦の勇士ですね!
+<PROC=4>You're a veteran warrior
+now, huh?
+$E=====2948=====
+//<PROC=3>そんな<NAME>さまには、この称号(しょうごう)を差し上げます!!」
+<PROC=3>In that case, I bestow this
+title upon you, <NAME>!"
+$E=====2949=====
 <PROC=0>
 <END>
-$J=====2950=====
-称号
-「アデプト」
-を手に入れた!!<LOCK=176>
-$J=====2951=====
+$E=====2950=====
+//称号
+//「アデプト」
+//を手に入れた!!<LOCK=176>
+Title
+"Adept"
+obtained!<LOCK=176>
+$E=====2951=====
 <PROC=0>
 <END>
 $J=====2952=====
@@ -8912,33 +9189,47 @@ $J=====2955=====
 $J=====2956=====
 <PROC=0>
 <END>
-$J=====2957=====
-<LABEL=RITA>リタ</LABEL>
-「お買い物ですか?」
- <ALTER>お買い物</ALTER>　<ALTER>お話</ALTER>
-$J=====2958=====
+$E=====2957=====
+//<LABEL=RITA>リタ</LABEL>
+//「お買い物ですか?」
+<LABEL=RITA>Lita</LABEL>:
+"Come to buy something?"
+ <ALTER>Shop</ALTER>  <ALTER>Talk</ALTER>
+$E=====2958=====
 <PROC=0>
 <END>
-$J=====2959=====
-<LABEL=RITA>リタ</LABEL>
-「ありがとうございました!!
-$J=====2960=====
-アイテムが必要なときには、い
-つでもいらしてくださいね
-$J=====2961=====
-<PROC=8>いつも心に太陽を!」
-$J=====2962=====
+$E=====2959=====
+//<LABEL=RITA>リタ</LABEL>
+//「ありがとうございました!!
+<LABEL=RITA>Lita</LABEL>:
+"Thank you very much!
+$E=====2960=====
+//アイテムが必要なときには、い
+//つでもいらしてくださいね
+Whenever you need items, you
+can always stop by, okay?
+$E=====2961=====
+//<PROC=8>いつも心に太陽を!」
+<PROC=8>Keep the Sun always in your
+heart!"
+$E=====2962=====
 <PROC=0>
 <END>
-$J=====2963=====
-<LABEL=RITA>リタ</LABEL>
-「ありがとうございました!!
-$J=====2964=====
-十分に準備(じゅんび)を整えて
-お出かけくださいね
-$J=====2965=====
-<PROC=8>いつも心に太陽を!」
-$J=====2966=====
+$E=====2963=====
+//<LABEL=RITA>リタ</LABEL>
+//「ありがとうございました!!
+<LABEL=RITA>Lita</LABEL>:
+"Thank you very much!
+$E=====2964=====
+//十分に準備(じゅんび)を整えて
+//お出かけくださいね
+Always take the time to
+prepare before heading out.
+$E=====2965=====
+//<PROC=8>いつも心に太陽を!」
+<PROC=8>Keep the sun always in your
+heart!"
+$E=====2966=====
 <PROC=0>
 <END>
 $J=====2967=====
@@ -9805,18 +10096,24 @@ $E=====3221=====
 <LABEL=SMITH>Smith</LABEL>:
 "Oh...
 it leveled up!
-$J=====3222=====
-鍛冶(かじ)の出来は・・・
-$J=====3223=====
-グレートが<VAR=0>回、
-グッドが<VAR=1>回、
-バッドが<VAR=2>回か
-$J=====3224=====
+$E=====3222=====
+//鍛冶(かじ)の出来は・・・
+The forging results are...
+$E=====3223=====
+//グレートが<VAR=0>回、
+//グッドが<VAR=1>回、
+//バッドが<VAR=2>回か
+GREAT: <VAR=0> times
+GOOD:  <VAR=1> times
+BAD:   <VAR=2> times
+$E=====3224=====
 <EXTEND=0>
-$J=====3225=====
-SP(特殊効果)は・・・
+$E=====3225=====
+//SP(特殊効果)は・・・
+//<EXTEND=1>
+SP effect:
 <EXTEND=1>
-$J=====3226=====
+$E=====3226=====
 <PROC=0>
 <END>
 $E=====3227=====
@@ -9826,54 +10123,78 @@ $E=====3227=====
 <LABEL=SMITH>Smith</LABEL>:
 "Hrm...
 it was downgraded.
-$J=====3228=====
-鍛冶(かじ)の出来は・・・
-$J=====3229=====
-グレートが<VAR=0>回、
-グッドが<VAR=1>回、
-バッドが<VAR=2>回か
-$J=====3230=====
+$E=====3228=====
+//鍛冶(かじ)の出来は・・・
+The forging results are...
+$E=====3229=====
+//グレートが<VAR=0>回、
+//グッドが<VAR=1>回、
+//バッドが<VAR=2>回か
+GREAT: <VAR=0> times
+GOOD:  <VAR=1> times
+BAD:   <VAR=2> times
+$E=====3230=====
 <EXTEND=0>
-$J=====3231=====
-SP(特殊効果)は・・・
+$E=====3231=====
+//SP(特殊効果)は・・・
+//<EXTEND=1>
+SP effect:
 <EXTEND=1>
-$J=====3232=====
+$E=====3232=====
 <PROC=0>
 <END>
-$J=====3233=====
-<LABEL=SMITH>スミス</LABEL>
-「ほう・・・
-ランクアップじゃ!
-$J=====3234=====
-鍛冶(かじ)の出来は・・・
-$J=====3235=====
-グレートが<VAR=0>回、
-グッドが<VAR=1>回、
-バッドが<VAR=2>回か
-$J=====3236=====
+$E=====3233=====
+//<LABEL=SMITH>スミス</LABEL>
+//「ほう・・・
+//ランクアップじゃ!
+<LABEL=SMITH>Smith</LABEL>:
+"Hey...
+it went up a rank!
+$E=====3234=====
+//鍛冶(かじ)の出来は・・・
+The forging results are...
+$E=====3235=====
+//グレートが<VAR=0>回、
+//グッドが<VAR=1>回、
+//バッドが<VAR=2>回か
+GREAT: <VAR=0> times
+GOOD:  <VAR=1> times
+BAD:   <VAR=2> times
+$E=====3236=====
 <EXTEND=0>
-$J=====3237=====
-SP(特殊効果)は・・・
+$E=====3237=====
+//SP(特殊効果)は・・・
+//<EXTEND=1>
+SP effect:
 <EXTEND=1>
-$J=====3238=====
+$E=====3238=====
 <PROC=0>
 <END>
-$J=====3239=====
-<LABEL=SMITH>スミス</LABEL>
-「ふう・・・
-変化なしか
-$J=====3240=====
-鍛冶(かじ)の出来は・・・
-$J=====3241=====
-グレートが<VAR=0>回、
-グッドが<VAR=1>回、
-バッドが<VAR=2>回か
-$J=====3242=====
+$E=====3239=====
+//<LABEL=SMITH>スミス</LABEL>
+//「ふう・・・
+//変化なしか
+<LABEL=SMITH>Smith</LABEL>:
+"Heh...
+it didn't change.
+$E=====3240=====
+//鍛冶(かじ)の出来は・・・
+The forging results are...
+$E=====3241=====
+//グレートが<VAR=0>回、
+//グッドが<VAR=1>回、
+//バッドが<VAR=2>回か
+GREAT: <VAR=0> times
+GOOD:  <VAR=1> times
+BAD:   <VAR=2> times
+$E=====3242=====
 <EXTEND=0>
-$J=====3243=====
-SP(特殊効果)は・・・
+$E=====3243=====
+//SP(特殊効果)は・・・
+//<EXTEND=1>
+SP effect:
 <EXTEND=1>
-$J=====3244=====
+$E=====3244=====
 <PROC=0>
 <END>
 $J=====3245=====
@@ -12128,190 +12449,306 @@ $J=====3930=====
 $J=====3931=====
 <PROC=0>
 <END>
-$J=====3932=====
-<LABEL=CLOCK>眼鏡(めがね)の老人</LABEL>
-「ひさしぶりじゃな、
-小僧(こぞう)・・・
-$J=====3933=====
-なに?
-このわしを覚えていないじゃと
-!?
-$J=====3934=====
-何じゃそれは!!
-いくらわしでも、そこまでもの
-わすれがはげしくはないぞ!
-$J=====3935=====
-老いたとはいえこのエンニオ、
-$J=====3936=====
-この時計塔(とけいとう)を守る
-仕事をおろそかにしたことは、
-1度たりとてないんじゃ
-$J=====3937=====
-さあ、おまえの悪ふざけにつき
-合っているヒマはない
-$J=====3938=====
-用がないのなら、とっとと帰る
-んじゃ。いいな?」
-$J=====3939=====
+$E=====3932=====
+//<LABEL=CLOCK>眼鏡(めがね)の老人</LABEL>
+//「ひさしぶりじゃな、
+//小僧(こぞう)・・・
+<LABEL=CLOCK>Old Man with Glasses</LABEL>:
+"Long time no see, young'un.
+$E=====3933=====
+//なに?
+//このわしを覚えていないじゃと
+//!?
+What?
+You don't remember me!?
+$E=====3934=====
+//何じゃそれは!!
+//いくらわしでも、そこまでもの
+//わすれがはげしくはないぞ!
+Well, I never!
+Even at my age I haven't
+become THAT forgetful.
+$E=====3935=====
+//老いたとはいえこのエンニオ、
+The name's Ennio.
+$E=====3936=====
+//この時計塔(とけいとう)を守る
+//仕事をおろそかにしたことは、
+//1度たりとてないんじゃ
+It's my job to keep watch on
+this clock tower and make
+sure time's a-tickin'.
+$E=====3937=====
+//さあ、おまえの悪ふざけにつき
+//合っているヒマはない
+Now then, I don't have time
+for your pranks.
+$E=====3938=====
+//用がないのなら、とっとと帰る
+//んじゃ。いいな?」
+If you have no business with
+me, you should be on your
+way. Okay?" 
+$E=====3939=====
 <PROC=0>
 <END>
-$J=====3940=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「なに?
-時間がずれとるじゃと?
-$J=====3941=====
+$E=====3940=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「なに?
+//時間がずれとるじゃと?
+<LABEL=CLOCK>Ennio</LABEL>:
+"What?
+The time's off, you say?
+$E=====3941=====
 <PROC=0>
 <END>
-$J=====3942=====
-<LABEL=CLOCK></LABEL>このわしの大時計が狂(くる)っ</LABEL>
-とると言うのか!?」
- <ALTER>狂ってる</ALTER>　<ALTER>狂ってない</ALTER>
-$J=====3943=====
+$E=====3942=====
+//<LABEL=CLOCK></LABEL>このわしの大時計が狂(くる)っ</LABEL>
+//とると言うのか!?」
+// <ALTER>狂ってる</ALTER>　<ALTER>狂ってない</ALTER>
+<LABEL=CLOCK></LABEL>You dare tell me my clock's
+wrong!?"
+<ALTER>It's wrong</ALTER>  <ALTER>It's not wrong</ALTER>
+$E=====3943=====
 <PROC=0>
 <END>
-$J=====3944=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「ダメじゃ、ダメじゃ!!
-$J=====3945=====
-今日はもう、時計の設定を変更
-(へんこう)したじゃろう?
-$J=====3946=====
-時計を直せるのは、1日に1度だ
-けじゃ
-$J=====3947=====
-分かったら、とっとと帰るんじ
-ゃ。いいな?」
-$J=====3948=====
+$E=====3944=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「ダメじゃ、ダメじゃ!!
+<LABEL=CLOCK>Ennio</LABEL>:
+"No, I tell you! No! 
+$E=====3945=====
+//今日はもう、時計の設定を変更
+//(へんこう)したじゃろう?
+The clock's already been
+adjusted once today, right?
+$E=====3946=====
+//時計を直せるのは、1日に1度だ
+//けじゃ
+I can only change the clock
+once a day. 
+$E=====3947=====
+//分かったら、とっとと帰るんじ
+//ゃ。いいな?」
+Got it? Then you should be
+on your way. Okay?"
+$E=====3948=====
 <PROC=0>
 <END>
-$J=====3949=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「ううむ・・・仕方ないのう
-$J=====3950=====
-だがこの街の住人はみな、この
-大時計と共にくらして来たのじ
-ゃ
-$J=====3951=====
-簡単(かんたん)に時を変えるこ
-とはできん
-$J=====3952=====
-時計を直せるのは、1日に1度だ
-けじゃ
-$J=====3953=====
-時計の設定を変更(へんこう)し
-たら、データをセーブするから
-やり直しはできんぞ
-$J=====3954=====
+$E=====3949=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「ううむ・・・仕方ないのう
+<LABEL=CLOCK>Ennio</LABEL>:
+"Hmm... Oh well. These
+things happen.
+$E=====3950=====
+//だがこの街の住人はみな、この
+//大時計と共にくらして来たのじ
+//ゃ
+But the people in this town
+all rely on that big clock,
+you see.
+$E=====3951=====
+//簡単(かんたん)に時を変えるこ
+//とはできん
+I can't change it easily.
+$E=====3952=====
+//時計を直せるのは、1日に1度だ
+//けじゃ
+It can only be adjusted once
+a day, you know. And once
+the time's changed,
+$E=====3953=====
+//時計の設定を変更(へんこう)し
+//たら、データをセーブするから
+//やり直しはできんぞ
+you can't undo it because
+the data'll be saved.
+$E=====3954=====
 <PROC=0>
 <END>
-$J=====3955=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「またか・・・仕方ないのう
-$J=====3956=====
-時計を直せるのは、1日に1度だ
-けじゃ
-$J=====3957=====
-時計の設定を変更(へんこう)し
-たら、データをセーブするから
-やり直しはできんぞ
-$J=====3958=====
+$E=====3955=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「またか・・・仕方ないのう
+<LABEL=CLOCK>Ennio</LABEL>:
+"Hmm... Oh well. These
+things happen.
+$E=====3956=====
+//時計を直せるのは、1日に1度だ
+//けじゃ
+It can only be adjusted once
+a day, you know. And once
+the time's changed,
+$E=====3957=====
+//時計の設定を変更(へんこう)し
+//たら、データをセーブするから
+//やり直しはできんぞ
+you can't undo it because
+the data'll be saved.
+$E=====3958=====
 <PROC=0>
 <END>
-$J=====3959=====
-<LABEL=CLOCK></LABEL>どうする、小僧(こぞう)?
-時計を直すのか?」
- <ALTER>直す</ALTER>　<ALTER>直さない</ALTER>
-$J=====3960=====
+$E=====3959=====
+//<LABEL=CLOCK></LABEL>どうする、小僧(こぞう)?
+//時計を直すのか?」
+// <ALTER>直す</ALTER>　<ALTER>直さない</ALTER>
+<LABEL=CLOCK></LABEL>What do you say then,
+young'un?"
+ <ALTER>Fix it</ALTER>  <ALTER>Don't fix it</ALTER>
+$E=====3960=====
 <PROC=0>
 <END>
-$J=====3961=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「これでよし!!
-$J=====3962=====
-まったく、骨(ほね)が折(お)れ
-るわい・・・
-$J=====3963=====
-さあ、用はすんだじゃろう?
-とっとと帰るんじゃ。いいな?
-」
-$J=====3964=====
+$E=====3961=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「これでよし!!
+<LABEL=CLOCK>Ennio</LABEL>:
+Great, all set!
+$E=====3962=====
+//まったく、骨(ほね)が折(お)れ
+//るわい・・・
+It wasn't easy, mind you.
+$E=====3963=====
+//さあ、用はすんだじゃろう?
+//とっとと帰るんじゃ。いいな?
+//」
+All done then? In that case,
+you should be on your way.
+Okay?"
+$E=====3964=====
 <PROC=0>
 <END>
-$J=====3965=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「何じゃ、冷やかしか?
-$J=====3966=====
-時は金なりということわざを知
-らんのか?
-$J=====3967=====
-わしはいそがしいんじゃ。
-つまらんことでわずらわせるん
-じゃない
-$J=====3968=====
-わしの大時計が狂(くる)っとる
-はずなかろう?
-$J=====3969=====
-そもそもこの大時計は、かつて
-旧世界(きゅうせかい)をほろぼ
-した大崩壊(だいほうかい)以来
-$J=====3970=====
-1度たりともおくれたことはな
-いんじゃ・・・
-$J=====3971=====
-なに?
-$J=====3972=====
-その話は前にも聞いたじゃと?
-$J=====3973=====
-なんじゃ、わしをわすれたなど
-とウソを言いよって!
-$J=====3974=====
-しっかり覚えておるではないか
-!!
-$J=====3975=====
-老人をからかうのも、たいがい
-にせい!
-$J=====3976=====
-まったく、近ごろの子供は礼儀
-(れいぎ)というものを知らん!!
-」
-$J=====3977=====
+$E=====3965=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「何じゃ、冷やかしか?
+<LABEL=CLOCK>Ennio</LABEL>:
+"So you were just having a
+laugh, were you?
+$E=====3966=====
+//時は金なりということわざを知
+//らんのか?
+Have you never heard the
+saying that time is money?
+$E=====3967=====
+//わしはいそがしいんじゃ。
+//つまらんことでわずらわせるん
+//じゃない
+I'm a busy man, you know. I
+don't have time for this
+kind of messing around.
+$E=====3968=====
+//わしの大時計が狂(くる)っとる
+//はずなかろう?
+It's hardly likely that my
+clock would be out of sync
+now, is it?
+$E=====3969=====
+//そもそもこの大時計は、かつて
+//旧世界(きゅうせかい)をほろぼ
+//した大崩壊(だいほうかい)以来
+In fact, it hasn't lost any
+time for ages,
+$E=====3970=====
+//1度たりともおくれたことはな
+//いんじゃ・・・
+not since the Great Collapse
+that destroyed the old
+world.
+$E=====3971=====
+//なに?
+What did you say?
+$E=====3972=====
+//その話は前にも聞いたじゃと?
+You've heard that speech
+before?
+$E=====3973=====
+//なんじゃ、わしをわすれたなど
+//とウソを言いよって!
+Then all that stuff about
+you losing your memory was a
+lie!
+$E=====3974=====
+//しっかり覚えておるではないか
+//!!
+Well! You've certainly got
+some nerve, lad!
+$E=====3975=====
+//老人をからかうのも、たいがい
+//にせい!
+The nerve of the next
+generation, teasing old
+people like that!
+$E=====3976=====
+//まったく、近ごろの子供は礼儀
+//(れいぎ)というものを知らん!!
+//」
+Honestly! The youth of today
+just have no manners at
+all!"
+$E=====3977=====
 <PROC=0>
 <END>
-$J=====3978=====
-<LABEL=CLOCK>エンニオ</LABEL>
-「何じゃ、冷やかしか?
-$J=====3979=====
-時は金なりということわざを知
-らんのか?
-$J=====3980=====
-わしはいそがしいんじゃ。
-つまらんことでわずらわせるん
-じゃない
-$J=====3981=====
-わしの大時計が狂(くる)っとる
-はずなかろう?
-$J=====3982=====
-そもそもこの大時計は、かつて
-旧世界(きゅうせかい)をほろぼ
-した大崩壊(だいほうかい)以来
-$J=====3983=====
-1度たりともおくれたことはな
-いんじゃ・・・
-$J=====3984=====
-なに?
-$J=====3985=====
-その話は前にも聞いたじゃと?
-$J=====3986=====
-ええい、口のへらん小僧(こぞ
-う)じゃな!
-$J=====3987=====
-もういいわ、とっとと帰れ!!
-2度と来るんじゃないぞ!
-$J=====3988=====
-まったく、近ごろの子供は礼儀
-(れいぎ)というものを知らん!!
-」
-$J=====3989=====
+$E=====3978=====
+//<LABEL=CLOCK>エンニオ</LABEL>
+//「何じゃ、冷やかしか?
+<LABEL=CLOCK>Ennio</LABEL>:
+"So you were just having a
+laugh, were you?
+$E=====3979=====
+//時は金なりということわざを知
+//らんのか?
+Have you never heard the
+saying that time is money?
+$E=====3980=====
+//わしはいそがしいんじゃ。
+//つまらんことでわずらわせるん
+//じゃない
+I'm a busy man, you know. I
+don't have time for this
+kind of messing around.
+$E=====3981=====
+//わしの大時計が狂(くる)っとる
+//はずなかろう?
+It's hardly likely that my
+clock would be out of sync
+now, is it?
+$E=====3982=====
+//そもそもこの大時計は、かつて
+//旧世界(きゅうせかい)をほろぼ
+//した大崩壊(だいほうかい)以来
+In fact, it hasn't lost any
+time for ages,
+$E=====3983=====
+//1度たりともおくれたことはな
+//いんじゃ・・・
+not since the Great Collapse
+that destroyed the old
+world.
+$E=====3984=====
+//なに?
+What did you say?
+$E=====3985=====
+//その話は前にも聞いたじゃと?
+You've heard that speech
+before?
+$E=====3986=====
+//ええい、口のへらん小僧(こぞ
+//う)じゃな!
+Well! You've certainly got
+some nerve, lad!
+$E=====3987=====
+//もういいわ、とっとと帰れ!!
+//2度と来るんじゃないぞ!
+That's it! Get outta here!
+I don't want to set eyes on
+you ever again!
+$E=====3988=====
+//まったく、近ごろの子供は礼儀
+//(れいぎ)というものを知らん!!
+//」
+Honestly! The youth of
+today just have no manners
+at all!"
+$E=====3989=====
 <PROC=0>
 <END>
 $E=====3990=====
@@ -12644,15 +13081,19 @@ single day."
 $E=====4071=====
 <PROC=0>
 <END>
-$J=====4072=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「おにいちゃんとおてんこさま
-が、がっしんするの!?
-$J=====4073=====
-いいなぁ・・・
-スミレもクロちゃんとがっしん
-したーい!!」
-$J=====4074=====
+$E=====4072=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「おにいちゃんとおてんこさま
+//が、がっしんするの!?
+<LABEL=SUMIRE>Violet</LABEL>:
+"You and Otenko combined!?
+$E=====4073=====
+//いいなぁ・・・
+//スミレもクロちゃんとがっしん
+//したーい!!」
+Lucky...
+I wanna combine with Nero!"
+$E=====4074=====
 <PROC=0>
 <END>
 $E=====4075=====
@@ -12663,7 +13104,7 @@ $E=====4075=====
 Warehouse,
 $E=====4076=====
 //くさったり、とけたりしないの
-Items won't go bad or
+items won't go bad or
 dissolve.
 $E=====4077=====
 //なまものやチョコレートをあず
@@ -13546,40 +13987,58 @@ We managed to get back here
 safely...
 $E=====4276=====
 //だが、本当の戦いはこれからだ
-But the real fight starts
+but the real fight starts
 now.
-$J=====4277=====
-まずはこの街で、冒険(ぼうけ
-ん)の準備(じゅんび)を整えよ
-う
-$J=====4278=====
-みんなの話を良く聞いて、
-$J=====4279=====
-各施設(しせつ)の役割と利用方
-法を、しっかり理解(りかい)し
-ておくんだ
-$J=====4280=====
-いいな、<NAME>」
-$J=====4281=====
+$E=====4277=====
+//まずはこの街で、冒険(ぼうけ
+//ん)の準備(じゅんび)を整えよ
+//う
+First you'd better make
+your preparations here.
+$E=====4278=====
+//みんなの話を良く聞いて、
+Make sure to visit every
+building,
+$E=====4279=====
+//各施設(しせつ)の役割と利用方
+//法を、しっかり理解(りかい)し
+//ておくんだ
+and talk to everyone, to get
+a good idea of what each
+place can do for you.
+$E=====4280=====
+//いいな、<NAME>」
+Okay, <NAME>?
+$E=====4281=====
 <PROC=0>
 <END>
-$J=====4282=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>・・・
-$J=====4283=====
-どうやらおまえは、この物語の
-結末(エンディング)をすべて見
-たようだな
-$J=====4284=====
-では、おまえにこれをわたさね
-ばなるまい・・・」
-$J=====4285=====
+$E=====4282=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>...
+$E=====4283=====
+//どうやらおまえは、この物語の
+//結末(エンディング)をすべて見
+//たようだな
+Looks like you've seen all
+the possible endings to this
+tale.
+$E=====4284=====
+//では、おまえにこれをわたさね
+//ばなるまい・・・」
+I suppose I'd better pass
+this on to you..."
+$E=====4285=====
 <PROC=0>
 <END>
-$J=====4286=====
-称号
-「ストーリーテラー」
-を手に入れた!!<LOCK=176>
+$E=====4286=====
+//称号
+//「ストーリーテラー」
+//を手に入れた!!<LOCK=176>
+Title
+"Story Teller"
+obtained!<LOCK=176>
 $J=====4287=====
 <PROC=0>
 <END>
@@ -13618,57 +14077,91 @@ $J=====4297=====
 $J=====4298=====
 <PROC=0>
 <END>
-$J=====4299=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「伯爵(はくしゃく)の言葉を覚
-えているか?
-$J=====4300=====
-新たなる敵(てき)、イモータル
-四人衆(よにんしゅう)
-$J=====4301=====
-やつらが復活(ふっかつ)をもく
-ろむ、破壊(はかい)の獣(けも
-の)、ヴァナルガンド
-$J=====4302=====
-そしてその後継者(こうけいし
-ゃ)、暗黒少年・・・
-$J=====4303=====
-サバタは本当に、この世紀末世
-界を崩壊(ほうかい)させるつも
-りなのか?
-$J=====4304=====
-・・・
-$J=====4305=====
-とにかく今は、伯爵(はくしゃ
-く)という手がかりを追うしか
-ない
-$J=====4306=====
-<NAME>、
-準備(じゅんび)が整いしだい、
-出発するぞ!」
-$J=====4307=====
+$E=====4299=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「伯爵(はくしゃく)の言葉を覚
+//えているか?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Do you remember the Count's
+words?
+$E=====4300=====
+//新たなる敵(てき)、イモータル
+//四人衆(よにんしゅう)
+Our new enemy is the group
+called the Four Immortals.
+$E=====4301=====
+//やつらが復活(ふっかつ)をもく
+//ろむ、破壊(はかい)の獣(けも
+//の)、ヴァナルガンド
+Their plan is to revive the
+Beast of Destruction,
+Vanargand.
+$E=====4302=====
+//そしてその後継者(こうけいし
+//ゃ)、暗黒少年・・・
+And its successor is the
+Dark Boy...
+$E=====4303=====
+//サバタは本当に、この世紀末世
+//界を崩壊(ほうかい)させるつも
+//りなのか?
+Does Sabata really intend to
+bring about the end of the
+world?
+$E=====4304=====
+//・・・
+...
+$E=====4305=====
+//とにかく今は、伯爵(はくしゃ
+//く)という手がかりを追うしか
+//ない
+Well, all we can do for now
+is follow the Count's trail.
+$E=====4306=====
+//<NAME>、
+//準備(じゅんび)が整いしだい、
+//出発するぞ!」
+<NAME>, make your
+preparations, and let's get
+going!
+$E=====4307=====
 <PROC=0>
 <END>
-$J=====4308=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おまえにレベルがあるように
-$J=====4309=====
-敵(てき)モンスターにも、それ
-ぞれにレベルがある
-$J=====4310=====
-敵(てき)モンスターのレベルを
-知るには、
-$J=====4311=====
-敵(てき)を攻撃(こうげき)した
-時に画面右上に出る、数値を見
-ればいい
-$J=====4312=====
-たとえ同じ種類のモンスターで
-あっても、時間や場所によって
-その強さは同じとはかぎらない
-$J=====4313=====
-注意するんだ」
-$J=====4314=====
+$E=====4308=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おまえにレベルがあるように
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Your level represents your
+combat experience.
+$E=====4309=====
+//敵(てき)モンスターにも、それ
+//ぞれにレベルがある
+Enemy monsters each have
+their own levels, too.
+$E=====4310=====
+//敵(てき)モンスターのレベルを
+//知るには、
+To determine an enemy
+monster's level,
+$E=====4311=====
+//敵(てき)を攻撃(こうげき)した
+//時に画面右上に出る、数値を見
+//ればいい
+check the number at the top
+right of the screen after
+you hit the monster.
+$E=====4312=====
+//たとえ同じ種類のモンスターで
+//あっても、時間や場所によって
+//その強さは同じとはかぎらない
+Even monsters of the same
+type can have different
+strengths,
+$E=====4313=====
+//注意するんだ」
+depending on where and when
+you fight them. Stay alert!"
+$E=====4314=====
 <PROC=0>
 <END>
 $J=====4315=====
@@ -14677,15 +15170,15 @@ thanks to your help.
 $E=====4605=====
 //その恩(おん)にむくいるために
 //も、
-Since you went on an
-adventure to restore this
+Since you restored this
 city,
 $E=====4606=====
 //この街の復興(ふっこう)ときみ
 //の冒険(ぼうけん)には、全面的
 //に協力するからね!!」
-to repay the favor, we'll
-help out however we can!"
+we'll do whatever we can to
+help out on your adventure
+to repay the favor!"
 $E=====4607=====
 <PROC=0>
 <END>
@@ -14853,151 +15346,240 @@ $J=====4644=====
 $J=====4645=====
 <PROC=0>
 <END>
-$J=====4646=====
-<LABEL=PEOPLE3>老人</LABEL>
-「おお、おぬしか!!
-$J=====4647=====
-ひさしぶりだの。
-元気にしておったか?
-$J=====4648=====
-何じゃ?
-わしを覚えておらんのか?
-$J=====4649=====
-わしはルイス
-$J=====4650=====
-わしがこうして無事生きていら
-れるのも、おぬしが助けてくれ
-たおかげじゃ
-$J=====4651=====
-その恩(おん)にむくいるために
-も、
-$J=====4652=====
-この街の復興(ふっこう)とおぬ
-しの冒険(ぼうけん)には、全面
-的に協力するからの!!」
-$J=====4653=====
+$E=====4646=====
+//<LABEL=PEOPLE3>老人</LABEL>
+//「おお、おぬしか!!
+<LABEL=PEOPLE3>Old Man</LABEL>:
+"Oh, it's you!
+$E=====4647=====
+//ひさしぶりだの。
+//元気にしておったか?
+It's been a while.
+Doing well?
+$E=====4648=====
+//何じゃ?
+//わしを覚えておらんのか?
+Huh?
+You lost your memory?
+$E=====4649=====
+//わしはルイス
+I'm Luis.
+$E=====4650=====
+//わしがこうして無事生きていら
+//れるのも、おぬしが助けてくれ
+//たおかげじゃ
+Thanks to your help, I'm
+living peacefully now.
+$E=====4651=====
+//その恩(おん)にむくいるために
+//も、
+Since you restored this
+city,
+$E=====4652=====
+//この街の復興(ふっこう)とおぬ
+//しの冒険(ぼうけん)には、全面
+//的に協力するからの!!」
+we'll do whatever we can to
+help out on your adventure
+to repay the favor!"
+$E=====4653=====
 <PROC=0>
 <END>
-$J=====4654=====
-<LABEL=PEOPLE3>ルイス</LABEL>
-「知っとるかの?
-$J=====4655=====
-メニュー画面などで、画面の下
-に説明が流れておるときは、
-$J=====4656=====
-<WEIGHT>SELECTボタン</WEIGHT>を押(お)すことで
-説明を早送りにすることができ
-るんじゃ
-$J=====4657=====
-読みたい情報(じょうほう)をさ
-がすのに、便利じゃぞ」
-$J=====4658=====
+$E=====4654=====
+//<LABEL=PEOPLE3>ルイス</LABEL>
+//「知っとるかの?
+<LABEL=PEOPLE3>Luis</LABEL>:
+"Did you know?
+$E=====4655=====
+//メニュー画面などで、画面の下
+//に説明が流れておるときは、
+On menu screens, when
+there's an explanation
+scrolling across the bottom,
+$E=====4656=====
+//<WEIGHT>SELECTボタン</WEIGHT>を押(お)すことで
+//説明を早送りにすることができ
+//るんじゃ
+You can fast-forward through
+it by holding <WEIGHT>SELECT</WEIGHT>.
+$E=====4657=====
+//読みたい情報(じょうほう)をさ
+//がすのに、便利じゃぞ」
+It's convenient for finding
+the information you want to
+read!
+$E=====4658=====
 <PROC=0>
 <END>
-$J=====4659=====
-<LABEL=PEOPLE3>ルイス</LABEL>
-「そういえば最近、あの男を見
-かけんの
-$J=====4660=====
-ほれ、あの記憶(きおく)のない
-???(ハテナ)とかいう男じゃよ
-$J=====4661=====
-[夜にならないと出てこない]、
-みょうな男じゃったが・・・
-$J=====4662=====
-元気でやっとるのかのう?」
-$J=====4663=====
+$E=====4659=====
+//<LABEL=PEOPLE3>ルイス</LABEL>
+//「そういえば最近、あの男を見
+//かけんの
+<LABEL=PEOPLE3>Luis</LABEL>:
+That reminds me, I haven't
+seen that man around lately.
+$E=====4660=====
+//ほれ、あの記憶(きおく)のない
+//???(ハテナ)とかいう男じゃよ
+Y'know, that ??? (Hatena)
+guy who lost his memory.
+$E=====4661=====
+//[夜にならないと出てこない]、
+//みょうな男じゃったが・・・
+He only came out at night.
+He was an odd man...
+$E=====4662=====
+//元気でやっとるのかのう?」
+I wonder how he's doing?"
+$E=====4663=====
 <PROC=0>
 <END>
-$J=====4664=====
-<LABEL=PEOPLE3>ルイス</LABEL>
-「ところでおぬしは、
-$J=====4665=====
-ゲームオーバーになったことは
-あるかの?
-$J=====4666=====
-冒険(ぼうけん)の途中(とちゅ
-う)でたおれても、暗黒ローン
-にソルをはらえば、
-$J=====4667=====
-コンティニューする(たおれた
-エリアの始めからやり直す)こ
-とができるんじゃ
-$J=====4668=====
-ローンにはらうソルは太陽バン
-クから引き落とされるから、
-$J=====4669=====
-バンクの残高は、常(つね)に確
-認(かくにん)しておくんじゃぞ
-」
-$J=====4670=====
+$E=====4664=====
+//<LABEL=PEOPLE3>ルイス</LABEL>
+//「ところでおぬしは、
+<LABEL=PEOPLE3>Luis</LABEL>:
+"By the way, sonny,
+$E=====4665=====
+//ゲームオーバーになったことは
+//あるかの?
+Have you ever gotten a Game
+Over?
+$E=====4666=====
+//冒険(ぼうけん)の途中(とちゅ
+//う)でたおれても、暗黒ローン
+//にソルをはらえば、
+If you're defeated during
+your adventure, you can make
+a payment to Dark Loans,
+$E=====4667=====
+//コンティニューする(たおれた
+//エリアの始めからやり直す)こ
+//とができるんじゃ
+and continue from when you
+entered the area where you
+died.
+$E=====4668=====
+//ローンにはらうソルは太陽バン
+//クから引き落とされるから、
+The payment is automatically
+withdrawn from the Solar
+Bank,
+$E=====4669=====
+//バンクの残高は、常(つね)に確
+//認(かくにん)しておくんじゃぞ
+//」
+so you should always keep
+track of your remaining
+balance."
+$E=====4670=====
 <PROC=0>
 <END>
-$J=====4671=====
-<LABEL=PEOPLE3>ルイス</LABEL>
-「知っとるかの?
-$J=====4672=====
-ショップで買い物をするには通
-貨、ソル(SOLL)が必要なんじゃ
-が、
-$J=====4673=====
-使われるソルは太陽バンクから
-の引き落としなんじゃ
-$J=====4674=====
-いくら太陽スタンドにエナジー
-(ENE)を貯めても、
-$J=====4675=====
-バンクに移し替(か)えてソルに
-しなければ、買い物には使えん
-気をつけるんじゃ」
-$J=====4676=====
+$E=====4671=====
+//<LABEL=PEOPLE3>ルイス</LABEL>
+//「知っとるかの?
+<LABEL=PEOPLE1>Luis</LABEL>:
+"Did you know?
+$E=====4672=====
+//ショップで買い物をするには通
+//貨、ソル(SOLL)が必要なんじゃ
+//が、
+You need currency (called
+Soll) to shop at a store,
+$E=====4673=====
+//使われるソルは太陽バンクから
+//の引き落としなんじゃ
+but that Soll is pulled from
+your Solar Bank account.
+$E=====4674=====
+//いくら太陽スタンドにエナジー
+//(ENE)を貯めても、
+No matter how much energy
+you have stored in Solar
+Stations,
+$E=====4675=====
+//バンクに移し替(か)えてソルに
+//しなければ、買い物には使えん
+//気をつけるんじゃ」
+if you don't transfer it
+into your bank account, you
+can't use it for shopping."
+$E=====4676=====
 <PROC=0>
 <END>
 $J=====4677=====
-<LABEL=PEOPLE3>ルイス</LABEL>
-「知っとるかの?
-$J=====4678=====
-コンティニューしたときに暗黒
-ローン支払(しはら)われるソル
-は、
-$J=====4679=====
-太陽バンクから引き落とされる
-んじゃが、
-$J=====4680=====
-バンクの残高が足りない場合は
-ローンへの借金になるんじゃ
-$J=====4681=====
-コンティニューをくり返して、
-借金まみれにならないように注
-意するんじゃぞ?
-$J=====4682=====
-あとで大変なことになるからの
-!!」
-$J=====4683=====
+//<LABEL=PEOPLE3>ルイス</LABEL>
+//「知っとるかの?
+<LABEL=PEOPLE1>Luis</LABEL>:
+"Did you know?
+$E=====4678=====
+//コンティニューしたときに暗黒
+//ローン支払(しはら)われるソル
+//は、
+When you Continue, you must
+make a Soll payment to Dark
+Loans,
+$E=====4679=====
+//太陽バンクから引き落とされる
+//んじゃが、
+which is taken out of your
+Solar Bank account.
+$E=====4680=====
+//バンクの残高が足りない場合は
+//ローンへの借金になるんじゃ
+But if you don't have enough
+Soll, you'll go into debt to
+Dark Loans.
+$E=====4681=====
+//コンティニューをくり返して、
+//借金まみれにならないように注
+//意するんじゃぞ?
+If you keep Continuing,
+you won't be able to repay
+your debt,
+$E=====4682=====
+//あとで大変なことになるからの
+//!!」
+and then something awful
+will happen!"
+$E=====4683=====
 <PROC=0>
 <END>
-$J=====4684=====
-<LABEL=PEOPLE3>ルイス</LABEL>
-「おぬしは何か知っておるか?
-$J=====4685=====
-棺桶屋(かんおけや)のことじゃ
-よ
-$J=====4686=====
-あんなに執着(しゅうちゃく)し
-ておった棺桶(かんおけ)いじり
-をやめて、
-$J=====4687=====
-今は機械いじりばかりしておる
-$J=====4688=====
-おまけにあんな黒眼鏡(くろめ
-がね)なんぞかけよって!
-$J=====4689=====
-このままではわしの棺桶(かん
-おけ)が・・・
-$J=====4690=====
-わしの棺桶(かんおけ)は、いっ
-たいどうなるんじゃ!!」
-$J=====4691=====
+$E=====4684=====
+//<LABEL=PEOPLE3>ルイス</LABEL>
+//「おぬしは何か知っておるか?
+<LABEL=PEOPLE3>Luis</LABEL>:
+Did you know, sonny?
+$E=====4685=====
+//棺桶屋(かんおけや)のことじゃ
+//よ
+That coffin seller,
+$E=====4686=====
+//あんなに執着(しゅうちゃく)し
+//ておった棺桶(かんおけ)いじり
+//をやめて、
+he's stopped working so
+single-mindedly on coffins,
+$E=====4687=====
+//今は機械いじりばかりしておる
+and now he's working on
+nothing but machines.
+$E=====4688=====
+//おまけにあんな黒眼鏡(くろめ
+//がね)なんぞかけよって!
+What's worse, he's hanging
+out with that shady
+sunglasses guy!
+$E=====4689=====
+//このままではわしの棺桶(かん
+//おけ)が・・・
+At this rate, just what...
+$E=====4690=====
+//わしの棺桶(かんおけ)は、いっ
+//たいどうなるんじゃ!!」
+what kind of crazy
+contraption is my coffin
+going to be!?"
+$E=====4691=====
 <PROC=0>
 <END>
 $E=====4692=====
