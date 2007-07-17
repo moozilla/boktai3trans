@@ -2064,152 +2064,152 @@ $E=====865=====
 ROCKBUSTER
 $E=====866=====
 //Lv.<VAR=0>　威力:<VAR=1>　古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====867=====
 //Lv.<VAR=0>　威力:<VAR=1>　刺突(しとつ)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>　Power:<VAR=1>  A straight sword used for thrusting. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>　Power:<VAR=1>  A straight sword used for thrusting. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====868=====
 //Lv.<VAR=0>　威力:<VAR=1>　古代の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  An ancient curved sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient curved sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====869=====
 //Lv.<VAR=0>　威力:<VAR=1>　短めの長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====870=====
 //Lv.<VAR=0>　威力:<VAR=1>　両手用の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A two-handed greatsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A two-handed greatsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====871=====
 //Lv.<VAR=0>　威力:<VAR=1>　洗練(せんれん)された直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A polished straight sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A polished straight sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====872=====
 //Lv.<VAR=0>　威力:<VAR=1>　青銅製(せいどうせい)の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of bronze. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of bronze. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====873=====
 //Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of the Sun. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of the Sun. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====874=====
 //Lv.<VAR=0>　威力:<VAR=1>　幅広(はばひろ)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A broad longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A broad longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====875=====
 //Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of iron. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of iron. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====876=====
 //Lv.<VAR=0>　威力:<VAR=1>　騎士(きし)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by knights. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by knights. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====877=====
 //Lv.<VAR=0>　威力:<VAR=1>　けんか用の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword used for close-quarter fighting. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword used for close-quarter fighting. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====878=====
 //Lv.<VAR=0>　威力:<VAR=1>　野バラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a wild rose. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a wild rose. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====879=====
 //Lv.<VAR=0>　威力:<VAR=1>　湾曲(わんきょく)の内側に刃(は)のある曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the sharp edge on the inner side. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the sharp edge on the inner side. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====880=====
 //Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of flame. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of flame. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====881=====
 //Lv.<VAR=0>　威力:<VAR=1>　鉄製(てつせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword made of iron. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword made of iron. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====882=====
 //Lv.<VAR=0>　威力:<VAR=1>　炎(ほのお)をかたどった大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A greatsword modeled after a flame. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword modeled after a flame. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====883=====
 //Lv.<VAR=0>　威力:<VAR=1>　切断(せつだん)用の曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword used for severing limbs. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword used for severing limbs. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====884=====
 //Lv.<VAR=0>　威力:<VAR=1>　巨大な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  An enormous sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  An enormous sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====885=====
 //Lv.<VAR=0>　威力:<VAR=1>　突(つ)き斬(き)り両用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword used for both stabbing and cutting. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used for both stabbing and cutting. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====886=====
 //Lv.<VAR=0>　威力:<VAR=1>　銀製(ぎんせい)の曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of silver. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of silver. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 
 $E=====887=====
 //Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of earth. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana with the power of earth. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====888=====
 //Lv.<VAR=0>　威力:<VAR=1>　かご状(じょう)の柄(え)の付いた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword with a basket-hilt. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with a basket-hilt. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====889=====
 //Lv.<VAR=0>　威力:<VAR=1>　鋼鉄製(こうてつせい)の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of steel. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of steel. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====890=====
 //Lv.<VAR=0>　威力:<VAR=1>　騎兵(きへい)用の直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by cavalry. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword used by cavalry. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====891=====
 //Lv.<VAR=0>　威力:<VAR=1>　片手半剣(かたてはんけん)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A one-handed longsword-and-a-half. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A one-handed longsword-and-a-half. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====892=====
 //Lv.<VAR=0>　威力:<VAR=1>　血を吸(す)う直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword that sucks blood. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword that sucks blood. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====893=====
 //Lv.<VAR=0>　威力:<VAR=1>　切っ先の重さで斬(き)る曲剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword with a heavy tip for beheading. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with a heavy tip for beheading. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====894=====
 //Lv.<VAR=0>　威力:<VAR=1>　命を輝(かがや)かす刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A katana that brightens your life. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A katana that brightens your life. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====895=====
 //Lv.<VAR=0>　威力:<VAR=1>　美しい長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A beautiful longsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A beautiful longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====896=====
 //Lv.<VAR=0>　威力:<VAR=1>　偉大(いだい)な剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A great sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A great sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====897=====
 //Lv.<VAR=0>　威力:<VAR=1>　氷の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of ice. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of ice. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====898=====
 //Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of wind. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of wind. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====899=====
 //Lv.<VAR=0>　威力:<VAR=1>　剣(つるぎ)の王。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  The king of swords. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The king of swords. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====900=====
 //Lv.<VAR=0>　威力:<VAR=1>　金のバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword in the shape of a golden rose. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword in the shape of a golden rose. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====901=====
 //Lv.<VAR=0>　威力:<VAR=1>　ダマスカス鋼(こう)で作られた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of Damascus steel. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword made of Damascus steel. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====902=====
 //Lv.<VAR=0>　威力:<VAR=1>　曇(くも)りのない刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  The katana of clear skies. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The katana of clear skies. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====903=====
 //Lv.<VAR=0>　威力:<VAR=1>　全(まった)き剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A flawless sword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A flawless sword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====904=====
 //Lv.<VAR=0>　威力:<VAR=1>　白金製(はっきんせい)の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword made of platinum. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword made of platinum. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====905=====
 //Lv.<VAR=0>　威力:<VAR=1>　ダイヤモンドで作られた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of diamond. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword made of diamond. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====906=====
 //Lv.<VAR=0>　威力:<VAR=1>　青いバラをかたどった直剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a blue rose. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A straight sword modeled after a blue rose. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====907=====
 //Lv.<VAR=0>　威力:<VAR=1>　風の力を秘(ひ)めた曲刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of wind. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A curved sword with the power of wind. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====908=====
 //Lv.<VAR=0>　威力:<VAR=1>　呪(のろ)われた名刀。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  The legendary cursed katana. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The legendary cursed katana. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====909=====
 //Lv.<VAR=0>　威力:<VAR=1>　炎の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of flame. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of flame. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====910=====
 //Lv.<VAR=0>　威力:<VAR=1>　大地の力を秘(ひ)めた大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A greatsword with the power of earth. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A greatsword with the power of earth. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====911=====
 //Lv.<VAR=0>　威力:<VAR=1>　太陽の力を秘(ひ)めた長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of the Sun. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  A longsword with the power of the Sun. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====912=====
 //Lv.<VAR=0>　威力:<VAR=1>　最強の大剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.<VAR=0>  Power:<VAR=1>  The ultimate greatsword. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.<VAR=0>  Power:<VAR=1>  The ultimate greatsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====913=====
 //Lv.??　威力:??　暗子ちゃんとの愛の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.??  Power:??  Proof of Doomy's love. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.??  Power:??  Proof of Doomy's love. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====914=====
 //Lv.??　威力:<VAR=1>　ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.??  Power:<VAR=1>  Proof of RockMan's friendship. <WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
+Lv.??  Power:<VAR=1>  Proof of RockMan's friendship. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====915=====
 
 $E=====916=====
@@ -7035,8 +7035,9 @@ Press the <WEIGHT>B Button</WEIGHT> to fire a shot forward.
 $E=====2320=====
 //<WEIGHT>Ｂボタン</WEIGHT>で左右にカーブするショットを放つ。
 Press the <WEIGHT>B Button</WEIGHT> to fire a shot that curves left and right.
-$U=====2321=====
-<WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、貫通力(かんつうりょく)のあるチャージショットを放つ。
+$E=====2321=====
+//<WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、貫通力(かんつうりょく)のあるチャージショットを放つ。
+Hold the <WEIGHT>B Button</WEIGHT> to charge up a piercing shot.
 $E=====2322=====
 //<WEIGHT>Ｂボタン</WEIGHT>で前方に2発のミサイルを放つ。
 Press the <WEIGHT>B Button</WEIGHT> to fire two missiles forward.
@@ -8118,7 +8119,7 @@ $E=====2643=====
 Puppet Master Ratatosk
 $U=====2644=====
 //???(ハテナ)
-??? (Hatena)
+??? (Unknown)
 $E=====2645=====
 //ロックマン
 RockMan
@@ -8684,29 +8685,44 @@ their respective abilities."
 $E=====2815=====
 <PROC=0>
 <END>
-$J=====2816=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「あの日・・・
-$J=====2817=====
-伯爵(はくしゃく)の襲撃(しゅ
-うげき)から人々を守り、
-$J=====2818=====
-命を落としていった太陽の4士
-族、3人の兄弟たち・・・
-$J=====2819=====
-炎の戦士、マジックマスター
-$J=====2820=====
-氷の戦士、アイテムマスター
-$J=====2821=====
-大地の戦士、ビーストマスター
-$J=====2822=====
-かれらの仇(かたき)をうちたい
-のは山々だが・・・
+$E=====2816=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「あの日・・・
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"That day...
+$E=====2817=====
+//伯爵(はくしゃく)の襲撃(しゅ
+//うげき)から人々を守り、
+three of the four Sun
+Warrior brothers lost their
+lives,
+$E=====2818=====
+//命を落としていった太陽の4士
+//族、3人の兄弟たち・・・
+protecting the people from
+the Count's raid.
+$E=====2819=====
+//炎の戦士、マジックマスター
+The Flame Warrior,
+Magic Master.
+$E=====2820=====
+//氷の戦士、アイテムマスター
+The Ice Warrior,
+Item Master.
+$E=====2821=====
+//大地の戦士、ビーストマスター
+The Earth Warrior,
+Beast Master.
+$E=====2822=====
+//かれらの仇(かたき)をうちたい
+//のは山々だが・・・
+They took a great deal of
+their enemies with them...
 $J=====2823=====
 わたしには、かれらから受けつ
 いだ使命がある
 $J=====2824=====
-この太陽の街を守るという使命
+この太陽の街を守るという
 が・・・
 $J=====2825=====
 <NAME>、
@@ -11030,127 +11046,194 @@ $J=====3495=====
 $J=====3496=====
 <PROC=0>
 <END>
-$J=====3497=====
-<LABEL=LADY>ミステリアスな女性</LABEL>
-「あら、<NAME>くん
-$J=====3498=====
-聞いたわよ。
-記憶喪失(きおくそうしつ)だな
-んて・・・大変だったわね
-$J=====3499=====
-・・・
-$J=====3500=====
-もしかして・・・
-$J=====3501=====
-まだ治ってないの?
-$J=====3502=====
-う～ん、こまったわねぇ・・・
-$J=====3503=====
-そんな状態(じょうたい)のあな
-たに、
-$J=====3504=====
-組織(ギルド)の仕事を手伝って
-もらうわけにはいかないし
-$J=====3505=====
-大変なのよ・・・
-東の町々をヴァンパイアがおそ
-っているらしくて、
-$J=====3506=====
-組織(ギルド)は、その対応(た
-いおう)と対策(たいさく)にて
-んてこまいなの
-$J=====3507=====
-まったく、ネコの手も借りたい
-くらいだわ・・・」
-$J=====3508=====
+$E=====3497=====
+//<LABEL=LADY>ミステリアスな女性</LABEL>
+//「あら、<NAME>くん
+<LABEL=LADY>Mysterious Woman</LABEL>:
+"Oh, <NAME>.
+$E=====3498=====
+//聞いたわよ。
+//記憶喪失(きおくそうしつ)だな
+//んて・・・大変だったわね
+I heard all about it.
+You lost your memory...
+how terrible.
+$E=====3499=====
+//・・・
+...
+$E=====3500=====
+//もしかして・・・
+Wait...
+$E=====3501=====
+//まだ治ってないの?
+you're still not better?
+$E=====3502=====
+//う～ん、こまったわねぇ・・・
+Yeah, that's going to be a
+problem...
+$E=====3503=====
+//そんな状態(じょうたい)のあな
+//たに、
+With you in that condition,
+$E=====3504=====
+//組織(ギルド)の仕事を手伝って
+//もらうわけにはいかないし
+you won't be able to help me
+out with my Guild work. This
+is terrible...
+$E=====3505=====
+//大変なのよ・・・
+//東の町々をヴァンパイアがおそ
+//っているらしくて、
+It seems the cities to the
+east have been attacked by
+vampires,
+$E=====3506=====
+//組織(ギルド)は、その対応(た
+//いおう)と対策(たいさく)にて
+//んてこまいなの
+so the Guild is extremely
+busy dealing with that and
+planning a counterattack.
+$E=====3507=====
+//まったく、ネコの手も借りたい
+//くらいだわ・・・」
+I'm so short on helping
+hands, I'd even settle
+for a cat's paws..."
+$E=====3508=====
 <PROC=0>
 <END>
-$J=====3509=====
-<LABEL=NONE>???</LABEL>
-「ミャア」
-$J=====3510=====
+$E=====3509=====
+//<LABEL=NONE>???</LABEL>
+//「ミャア」
+<LABEL=NONE>???</LABEL>:
+"Meow."
+$E=====3510=====
 <PROC=0>
 <END>
-$J=====3511=====
-<LABEL=LADY>ミステリアスな女性</LABEL>
-「ありがとう、クロちゃん
-$J=====3512=====
-でもあなたには、大切なお仕事
-があるでしょ?
-$J=====3513=====
-スミレちゃんをしっかり守るの
-よ?」
-$J=====3514=====
+$E=====3511=====
+//<LABEL=LADY>ミステリアスな女性</LABEL>
+//「ありがとう、クロちゃん
+<LABEL=LADY>Mysterious Woman</LABEL>:
+"Thank you, Kuro,
+$E=====3512=====
+//でもあなたには、大切なお仕事
+//があるでしょ?
+but don't you already have
+an important job to do?
+$E=====3513=====
+//スミレちゃんをしっかり守るの
+//よ?」
+Take good care of Violet,
+okay?"
+$E=====3514=====
 <PROC=0>
 <END>
-$J=====3515=====
-<LABEL=KURO>クロ</LABEL>
-「ミャ!」
-$J=====3516=====
+$E=====3515=====
+//<LABEL=KURO>クロ</LABEL>
+//「ミャ!」
+<LABEL=KURO>Kuro</LABEL>:
+"Meow!"
+$E=====3516=====
 <PROC=0>
 <END>
-$J=====3517=====
-<LABEL=LADY>ミステリアスな女性</LABEL>
-「とにかく・・・
-$J=====3518=====
-あなたにはまず、すべてを思い
-出してもらわなくちゃ
-$J=====3519=====
-時間がおしいわ。
-ショック療法(りょうほう)で行
-くわよ?
-$J=====3520=====
-さあ、目をつむって・・・」
-$J=====3521=====
+$E=====3517=====
+//<LABEL=LADY>ミステリアスな女性</LABEL>
+//「とにかく・・・
+<LABEL=LADY>Mysterious Woman</LABEL>:
+"Anyhow...
+$E=====3518=====
+//あなたにはまず、すべてを思い
+//出してもらわなくちゃ
+you need to get that memory
+back, first of all.
+$E=====3519=====
+//時間がおしいわ。
+//ショック療法(りょうほう)で行
+//くわよ?
+Time is precious.
+Shall we try shock therapy?
+$E=====3520=====
+//さあ、目をつむって・・・」
+Close your eyes, now..."
+$E=====3521=====
 <PROC=0>
 <END>
-$J=====3522=====
+$E=====3522=====
+//
+//　　　　　チュッ{heart}
+//<LOCK=60>
 
-　　　　　チュッ{heart}
+　　　　　*smooch*{heart}
 <LOCK=60>
-$J=====3523=====
+$E=====3523=====
 <PROC=0>
 <END>
-$J=====3524=====
-<LABEL=LADY>ミステリアスな女性</LABEL>
-「あらら・・・
-$J=====3525=====
-ちょーっと、刺激(しげき)が強
-すぎたかしら・・・?」
-$J=====3526=====
+$E=====3524=====
+//<LABEL=LADY>ミステリアスな女性</LABEL>
+//「あらら・・・
+<LABEL=LADY>Mysterious Woman</LABEL>:
+"Oh dear...
+$E=====3525=====
+//ちょーっと、刺激(しげき)が強
+//すぎたかしら・・・?」
+perhaps that was too much
+stimulation..."
+$E=====3526=====
 <PROC=0>
 <END>
-$J=====3527=====
-<LABEL=LADY>ミステリアスな女性</LABEL>
-「だいじょうぶ、
-<NAME>くん?
-$J=====3528=====
+$E=====3527=====
+//<LABEL=LADY>ミステリアスな女性</LABEL>
+//「だいじょうぶ、
+//<NAME>くん?
+<LABEL=LADY>Mysterious Woman</LABEL>:
+"Are you alright,
+<NAME>?
+$E=====3528=====
 <PROC=0>
 <END>
-$J=====3529=====
-<LABEL=LADY></LABEL>わたしはレディ。
-この図書館で本の管理をしてい
-る司書よ
-$J=====3530=====
-本はさまざまな知識(ちしき)を
-あたえてくれるわ
-$J=====3531=====
-敵(てき)モンスターについては
-魔物図鑑(まものずかん)、
-$J=====3532=====
-ソードとアクセサリーについて
-は鍛冶図鑑(かじずかん)、
-$J=====3533=====
-集めたブロマイドはアルバムで
-確認(かくにん)することができ
-るわ
-$J=====3534=====
-以上の3冊(さつ)は西側の壁(か
-べ)の本棚(ほんだな)にあるか
-ら、
-$J=====3535=====
-好きなだけ読んでいってね{note}」
-$J=====3536=====
+$E=====3529=====
+//<LABEL=LADY></LABEL>わたしはレディ。
+//この図書館で本の管理をしてい
+//る司書よ
+<LABEL=LADY></LABEL>I'm Lady.
+I take care of the books in
+this library.
+$E=====3530=====
+//本はさまざまな知識(ちしき)を
+//あたえてくれるわ
+Books can teach you many
+things.
+$E=====3531=====
+//敵(てき)モンスターについては
+//魔物図鑑(まものずかん)、
+The Monster Guide deals
+with enemy monsters,
+$E=====3532=====
+//ソードとアクセサリーについて
+//は鍛冶図鑑(かじずかん)、
+and the Forging Guide deals
+with swords and accessories.
+$E=====3533=====
+//集めたブロマイドはアルバムで
+//確認(かくにん)することができ
+//るわ
+You can view the photographs
+you've collected in the
+Album.
+$E=====3534=====
+//以上の3冊(さつ)は西側の壁(か
+//べ)の本棚(ほんだな)にあるか
+//ら、
+These three books can be
+found on the western
+bookshelves,
+$E=====3535=====
+//好きなだけ読んでいってね{note}」
+so feel free to read them
+as much as you like{note}"
+$E=====3536=====
 <PROC=0>
 <END>
 $J=====3537=====
@@ -11175,11 +11258,14 @@ $J=====3542=====
 $J=====3543=====
 <PROC=0>
 <END>
-$J=====3544=====
-称号
-「SPエージェント」
-を手に入れた!!<LOCK=176>
-$J=====3545=====
+$E=====3544=====
+//称号
+//「SPエージェント」
+//を手に入れた!!<LOCK=176>
+Title
+"SP Agent"
+obtained!<LOCK=176>
+$E=====3545=====
 <PROC=0>
 <END>
 $J=====3546=====
@@ -11745,32 +11831,43 @@ $J=====3717=====
 $J=====3718=====
 <PROC=0>
 <END>
-$J=====3719=====
-<LABEL=ZAJI>ニーソックスの少女</LABEL>
-「んにゃ・・・?
-もうちょいねかせてぇや」
-$J=====3720=====
+$E=====3719=====
+//<LABEL=ZAJI>ニーソックスの少女</LABEL>
+//「んにゃ・・・?
+//もうちょいねかせてぇや」
+<LABEL=ZAJI>Girl in Knee Socks</LABEL>:
+"Huh...? Lemme sleep just a
+bit more, awright?"
+$E=====3720=====
 <PROC=0>
 <END>
-$J=====3721=====
-<LABEL=ZAJI>ニーソックスの少女</LABEL>
-「にゃっ!?」
-$J=====3722=====
+$E=====3721=====
+//<LABEL=ZAJI>ニーソックスの少女</LABEL>
+//「にゃっ!?」
+<LABEL=ZAJI>Girl in Knee Socks</LABEL>:
+"What!?"
+$E=====3722=====
 <PROC=0>
 <END>
-$J=====3723=====
-<LABEL=ZAJI>ニーソックスの少女</LABEL>
-「・・・
-$J=====3724=====
-<PROC=1>なんや・・・<NAME>か
-$J=====3725=====
-<PROC=2>まあええわ・・・
-$J=====3726=====
-それはそうと、あんたも大変や
-ったみたいやね
-$J=====3727=====
-記憶喪失(きおくそうしつ)やっ
-て?
+$E=====3723=====
+//<LABEL=ZAJI>ニーソックスの少女</LABEL>
+//「・・・
+<LABEL=ZAJI>Girl in Knee Socks</LABEL>:
+"...
+$E=====3724=====
+//<PROC=1>なんや・・・<NAME>か
+<PROC=1>Oh, it's <NAME>.
+$E=====3725=====
+//<PROC=2>まあええわ・・・
+<PROC=2>Aw, it's awright.
+$E=====3726=====
+//それはそうと、あんたも大変や
+//ったみたいやね
+Boy, yer lookin' awful.
+$E=====3727=====
+//記憶喪失(きおくそうしつ)やっ
+//て?
+Yer lost yer memory?
 $J=====3728=====
 せやけど<NAME>・・・
 それホンマなん?
@@ -11778,13 +11875,17 @@ $J=====3729=====
 うちからの借金、チャラにしよ
 う思て、フリしとるだけちゃう
 やろな?
-$J=====3730=====
-あんたがこわしたソル・デ・バ
-イスの弁償代(べんしょうだい)
-1000万ソル!!
-$J=====3731=====
-わすれたとは言わせへんで!」
-$J=====3732=====
+$E=====3730=====
+//あんたがこわしたソル・デ・バ
+//イスの弁償代(べんしょうだい)
+//1000万ソル!!
+If yer break it, yer gonna
+owe me 'bout a million Sol!
+$E=====3731=====
+//わすれたとは言わせへんで!」
+And don' go tellin' me yer
+forgot!"
+$E=====3732=====
 <PROC=0>
 <END>
 $J=====3733=====
@@ -11809,10 +11910,12 @@ $J=====3737=====
 $J=====3738=====
 <PROC=0>
 <END>
-$J=====3739=====
-「暗黒カード」
-を手に入れた!!<LOCK=50>
-$J=====3740=====
+$E=====3739=====
+//「暗黒カード」
+//を手に入れた!!<LOCK=50>
+"Dark Card"
+obtained!<LOCK=50>
+$E=====3740=====
 <PROC=0>
 <END>
 $J=====3741=====
@@ -13092,7 +13195,7 @@ $E=====4073=====
 //スミレもクロちゃんとがっしん
 //したーい!!」
 Lucky...
-I wanna combine with Nero!"
+I wanna combine with Kuro!"
 $E=====4074=====
 <PROC=0>
 <END>
@@ -15421,7 +15524,7 @@ seen that man around lately.
 $E=====4660=====
 //ほれ、あの記憶(きおく)のない
 //???(ハテナ)とかいう男じゃよ
-Y'know, that ??? (Hatena)
+Y'know, that ??? (Unknown)
 guy who lost his memory.
 $E=====4661=====
 //[夜にならないと出てこない]、
@@ -15796,7 +15899,7 @@ $E=====4737=====
 //かげんこさま
 MASTER KAGENKO
 $E=====4738=====
-おがんくさま
+//おがんくさま
 MASTER OGANKU
 $E=====4739=====
 //どろんぼさま
@@ -16993,7 +17096,7 @@ $E=====5086=====
 //　　　　　追憶の書　　　　　
 //
 
-      RECORD BOOK
+         RECORD BOOK
 
 $E=====5087=====
 <PROC=0>
@@ -17464,14 +17567,16 @@ $E=====5176=====
 //
 //　　　　　[手配書]　　　　　
 
-     [Request Sheet]
-$J=====5177=====
+      [Request Sheet]
+$E=====5177=====
+//<EXTEND=0>
+//討伐完了(とうばつかんりょう)
 <EXTEND=0>
-討伐完了(とうばつかんりょう)
-$J=====5178=====
+  extermination complete.
+$E=====5178=====
 <PROC=0>
 <END>
-$J=====5179=====
+$E=====5179=====
 
 　　　　　[手配書]　　　　　
 $J=====5180=====
@@ -17545,52 +17650,52 @@ $J=====5202=====
 <END>
 $E=====5203=====
 //　　　　　グール+
-          Ghoul+
+          Ghoul +
 $E=====5204=====
 //　　　　　マミー+
-          Mummy+
+          Mummy +
 $E=====5205=====
 //　　　　　ゴーレム+
-          Golem+
+          Golem +
 $E=====5206=====
 //　　　　ハウンド+
-         Hound+
+          Hound +
 $E=====5207=====
 //　　　　　ヴォーン+
-           Vorn+
+           Vorn +
 $E=====5208=====
 //　　　　スケルトン+
-        Skeleton+
+         Skeleton +
 $E=====5209=====
 //太陽の使者「おてんこさま」のぬいぐるみ。ライフを回復(かいふく)してくれる。
-Solar Messenger "Otenko" Doll. Fully restores your Life.
+Solar Messenger "Otenko" doll. Fully restores your Life.
 $E=====5210=====
 //太陽のいしゃ「おけんこさま」のぬいぐるみ。ステータス異常(いじょう)を治してくれる。
-Solar Doctor "Okenko" Doll. Heals status effects.
+Solar Doctor "Okenko" doll. Heals status effects.
 $E=====5211=====
 //太陽のはぐれもの「かげんこさま」のぬいぐるみ。暗黒虫の出現をおさえてくれる。
-Solar Stray "Kagenko" Doll. Prevents Dark Bugs from appearing.
+Solar Stray "Kagenko" doll. Prevents Dark Bugs from appearing.
 $E=====5212=====
 //太陽の音楽家「おがんくさま」のぬいぐるみ。音楽を聞かせてくれる。
-Solar Musician "Oganku" Doll. Gives you access to Sound Test.
+Solar Musician "Oganku" doll. Gives you access to Sound Test.
 $E=====5213=====
 //太陽のよっぱらい「どろんぼさま」のぬいぐるみ。おみやげを買ってきて(?)くれる。
-Solar Drunkard "Doronbo" Doll. Occasionally buys you gifts.
+Solar Drunkard "Doronbo" doll. Occasionally buys you gifts.
 $E=====5214=====
 //太陽のたんてい「おたんてさま」のぬいぐるみ。ワンテッドモンスターをさがしてくれる。
-Solar Detective "Otante" Doll. Finds Wanted monsters.
+Solar Detective "Otante" doll. Finds Wanted monsters.
 $E=====5215=====
 //太陽バンクと暗黒ローンの受付嬢(うけつけじょう)、「陽子ちゃんと暗子ちゃん」のぬいぐるみ。あずけるとき、借りるときの利率とおしおきをサービスしてくれる。
-Solar Bank and Dark Loans receptionist "Luxana and Doomy" Dolls. Adjust interest rates in your favor.
+Solar Bank and Dark Loans receptionist "Luxana and Doomy" dolls. Adjust interest rates in your favor.
 $E=====5216=====
 //ネットナビ「ロックマン」のぬいぐるみ。エナジーを回復(かいふく)してくれる。
-Net Navi "RockMan" Doll. Fully restores your ENE.
+Net Navi "RockMan" doll. Fully restores your ENE.
 $E=====5217=====
 //ネットナビ「ブルース」のぬいぐるみ。太陽鍛冶(たいようかじ)において、GREAT!を出やすく、SP(特殊効果)を付きやすくしてくれる。
-Net Navi "Blues" Doll. Makes it easier to get GREATs and SP-Rank weapons at the Solar Smith.
+Net Navi "Blues" doll. Makes it easier to get GREATs and SP effects at the Solar Smith.
 $E=====5218=====
 //ネットナビ「カーネル」のぬいぐるみ。トランスゲージを満タンにしてくれる。
-Net Navi "Colonel" Doll. Fills your Trance Gauge.
+Net Navi "Colonel" doll. Fills your Trance Gauge.
 $E=====5219=====
 //どのランクに挑みますか?
 // <ALTER>ブロンズ</ALTER>
@@ -32315,196 +32420,278 @@ $J=====9807=====
 相手の選択を待っています。
 $J=====9808=====
 今回のクロスオーバーポイント
-$J=====9809=====
-クロスオーバーポイントの合計
-$J=====9810=====
-きょうもクロスオーバー
-$J=====9811=====
-たいよぉーーーーーー
-$J=====9812=====
-あすもまたひはのぼる
-$J=====9813=====
-フッハッハッハッハッ
-$J=====9814=====
-じゅんびかんりょう
-$J=====9815=====
-ボクとバトルだ
-$J=====9816=====
-しょうぶだ　ねっとくん
-$J=====9817=====
-まけないよ　ロックマン
-$J=====9818=====
-ジャンゴ
-$J=====9819=====
-サバタ
-$J=====9820=====
-おてんこ
-$J=====9821=====
-リタ
-$J=====9822=====
-リンゴ
-$J=====9823=====
-スミス
-$J=====9824=====
-スミレ
-$J=====9825=====
-ザジ
-$J=====9826=====
-シャイアン
-$J=====9827=====
-マーニ
-$J=====9828=====
-ダーイン
-$J=====9829=====
-スネーク
-$J=====9830=====
-リキッド
-$J=====9831=====
-ソリダス
-$J=====9832=====
-ディンゴ
-$J=====9833=====
-レオ
-$J=====9834=====
+$E=====9809=====
+//クロスオーバーポイントの合計
+Crossover Point Total
+$U=====9810=====
+//きょうもクロスオーバー
+Today's Crossover
+$E=====9811=====
+//たいよぉーーーーーー
+Sunliiiight!
+$E=====9812=====
+//あすもまたひはのぼる
+The Sun will rise tomorrow
+$E=====9813=====
+//フッハッハッハッハッ
+Hwa ha ha ha ha
+$E=====9814=====
+//じゅんびかんりょう
+Preparations complete
+$E=====9815=====
+//ボクとバトルだ
+Fight with me
+$E=====9816=====
+//しょうぶだ　ねっとくん
+It's game time, Netto
+$E=====9817=====
+//まけないよ　ロックマン
+Don't lose, RockMan
+$E=====9818=====
+//ジャンゴ
+DJANGO
+$E=====9819=====
+//サバタ
+SABATA
+$E=====9820=====
+//おてんこ
+OTENKO
+$E=====9821=====
+//リタ
+LITA
+$E=====9822=====
+//リンゴ
+RINGO
+$E=====9823=====
+//スミス
+SMITH
+$E=====9824=====
+//スミレ
+VIOLET
+$E=====9825=====
+//ザジ
+ZAZIE
+$E=====9826=====
+//シャイアン
+CHEYENNE
+$E=====9827=====
+//マーニ
+MANI
+$E=====9828=====
+//ダーイン
+DAINN
+$E=====9829=====
+//スネーク
+SNAKE
+$E=====9830=====
+//リキッド
+LIQUID
+$E=====9831=====
+//ソリダス
+SOLIDUS
+$E=====9832=====
+//ディンゴ
+DINGO
+$E=====9833=====
+//レオ
+LEO
+$X=====9834=====
 {00}{1B}{00}{1C}{00}{1D}{00}÷{00}%{00}
-$J=====9835=====
+$X=====9835=====
 {02}{02}{02}{0D}{02}{0F}{02}{1D}{02}{1E}{02}
-$J=====9836=====
+$X=====9836=====
 {02}{03}{02}{10}{02}{13}{02}{1F}{02}
-$J=====9837=====
+$X=====9837=====
 {02}{04}{02}{05}{02}{12}{02}{14}{02} {02}
-$J=====9838=====
-ポイズナー
-$J=====9839=====
-パープレクサー
-$J=====9840=====
-ポップバド
-$J=====9841=====
-ドラゴンパピー
-$J=====9842=====
-スパイダー
-$J=====9843=====
-ポイズンスパイダー
-$J=====9844=====
-ビー
-$J=====9845=====
-ポイズンビー
-$J=====9846=====
-キラービー
-$J=====9847=====
-バット
-$J=====9848=====
-ヴァンパイアバット
-$J=====9849=====
-クロウ
-$J=====9850=====
-レイブン
-$J=====9851=====
-センチピード
-$J=====9852=====
-ハウンド
-$J=====9853=====
-ホットドッグ
-$J=====9854=====
-アイスドッグ
-$J=====9855=====
-ハウンド+
-$J=====9856=====
-アイビー
-$J=====9857=====
-オクトパス
-$J=====9858=====
-グール
-$J=====9859=====
-ゾンビ
-$J=====9860=====
+$E=====9838=====
+//ポイズナー
+POISONER
+$E=====9839=====
+//パープレクサー
+PERPLEXER
+$E=====9840=====
+//ポップバド
+POPBUD
+$E=====9841=====
+//ドラゴンパピー
+DRAGON PUPPY
+$E=====9842=====
+//スパイダー
+SPIDER
+$E=====9843=====
+//ポイズンスパイダー
+POISON SPIDER
+$E=====9844=====
+//ビー
+BEE
+$E=====9845=====
+//ポイズンビー
+POISON BEE
+$E=====9846=====
+//キラービー
+KILLER BEE
+$E=====9847=====
+//バット
+BAT
+$E=====9848=====
+//ヴァンパイアバット
+VAMPIRE BAT
+$E=====9849=====
+//クロウ
+CROW
+$E=====9850=====
+//レイブン
+RAVEN
+$E=====9851=====
+//センチピード
+CENTIPEDE
+$E=====9852=====
+//ハウンド
+HOUND
+$E=====9853=====
+//ホットドッグ
+HOT DOG
+$E=====9854=====
+//アイスドッグ
+ICE DOG
+$E=====9855=====
+//ハウンド+
+HOUND +
+$E=====9856=====
+//アイビー
+IVY
+$E=====9857=====
+//オクトパス
+OCTOPUS
+$E=====9858=====
+//グール
+GHOUL
+$E=====9859=====
+//ゾンビ
+ZOMBIE
+$E=====9860=====
 グール+
-$J=====9861=====
-マミー
-$J=====9862=====
-ガスト
-$J=====9863=====
-マミー+
-$J=====9864=====
-ヴォーン
-$J=====9865=====
-ヴォーン+
-$J=====9866=====
-石像
-$J=====9867=====
-甲冑
-$J=====9868=====
-スタチューオブガルム
-$J=====9869=====
-ムスペルヘッド
-$J=====9870=====
-ポイズンハンド
-$J=====9871=====
-スクリーマー
-$J=====9872=====
-ウインド砲
-$J=====9873=====
-バルカン砲
-$J=====9874=====
-プラズマ砲
-$J=====9875=====
-スケルトン
-$J=====9876=====
-スケルトンフェンサー
-$J=====9877=====
-スケルトンアーチャー
-$J=====9878=====
-ブラックスケルトン
-$J=====9879=====
-ブラックフェンサー
-$J=====9880=====
-ブラックアーチャー
-$J=====9881=====
-スケルトン+
-$J=====9882=====
-クレイゴーレム
-$J=====9883=====
-ストーンゴーレム
-$J=====9884=====
-ゴーレム+
-$J=====9885=====
-ミミック
-$J=====9886=====
-ソード
-$J=====9887=====
-ソード+
-$J=====9888=====
-アックス
-$J=====9889=====
-アックス+
-$J=====9890=====
-ブロンズアーマー
-$J=====9891=====
-アイアンアーマー
-$J=====9892=====
-フレイムアーマー
-$J=====9893=====
-フレイムアーマー+
-$J=====9894=====
-フロストアーマー
-$J=====9895=====
-フロストアーマー+
-$J=====9896=====
-クラウドアーマー
-$J=====9897=====
-クラウドアーマー+
+GHOUL +
+$E=====9861=====
+//マミー
+MUMMY
+$E=====9862=====
+//ガスト
+GHAST
+$E=====9863=====
+//マミー+
+MUMMY +
+$E=====9864=====
+//ヴォーン
+VORN
+$E=====9865=====
+//ヴォーン+
+VORN +
+$E=====9866=====
+//石像
+STATUE
+$E=====9867=====
+//甲冑
+ARMOR
+$E=====9868=====
+//スタチューオブガルム
+$E=====9869=====
+//ムスペルヘッド
+$E=====9870=====
+//ポイズンハンド
+$E=====9871=====
+//スクリーマー
+SCREAMER
+$E=====9872=====
+//ウインド砲
+WIND CANNON
+$E=====9873=====
+//バルカン砲
+VULCAN CANNON
+$E=====9874=====
+//プラズマ砲
+PLASMA CANNON
+$E=====9875=====
+//スケルトン
+SKELETON
+$E=====9876=====
+//スケルトンフェンサー
+SKELETON FENCER
+$E=====9877=====
+//スケルトンアーチャー
+SKELETON ARCHER
+$E=====9878=====
+//ブラックスケルトン
+BLACK SKELETON
+$E=====9879=====
+//ブラックフェンサー
+BLACK FENCER
+$E=====9880=====
+//ブラックアーチャー
+BLACK ARCHER
+$E=====9881=====
+//スケルトン+
+SKELETON +
+$E=====9882=====
+//クレイゴーレム
+CLAY GOLEM
+$E=====9883=====
+//ストーンゴーレム
+STONE GOLEM
+$E=====9884=====
+//ゴーレム+
+GOLEM +
+$E=====9885=====
+//ミミック
+MIMIC
+$E=====9886=====
+//ソード
+SWORD
+$E=====9887=====
+//ソード+
+SWORD +
+$E=====9888=====
+//アックス
+AXE
+$E=====9889=====
+//アックス+
+AXE +
+$E=====9890=====
+//ブロンズアーマー
+BRONZE ARMOR
+$E=====9891=====
+//アイアンアーマー
+IRON ARMOR
+$E=====9892=====
+//フレイムアーマー
+FLAME ARMOR
+$E=====9893=====
+//フレイムアーマー+
+FLAME ARMOR +
+$E=====9894=====
+//フロストアーマー
+FROST ARMOR
+$E=====9895=====
+//フロストアーマー+
+FROST ARMOR +
+$E=====9896=====
+//クラウドアーマー
+CLOUD ARMOR
+$E=====9897=====
+//クラウドアーマー+
+CLOUD ARMOR +
 $E=====9898=====
 //アースアーマー
 EARTH ARMOR
 $E=====9899=====
 //アースアーマー+
-EARTH ARMOR+
+EARTH ARMOR +
 $E=====9900=====
 //デュアルアーマー
 DUAL ARMOR
 $E=====9901=====
 //デュアルアーマー+
-DUAL ARMOR+
+DUAL ARMOR +
 $E=====9902=====
 //黒騎士
 Black Knight
@@ -32513,10 +32700,10 @@ $E=====9903=====
 Nidhoggr
 $E=====9904=====
 //ウーズ(壁)
-OOZE (wall)
+WALL OOZE
 $E=====9905=====
 //ウーズ(床)
-OOZE (floor)
+FLOOR OOZE
 $E=====9906=====
 //クロロホルルン
 KLOROFOLUN
@@ -32570,7 +32757,7 @@ $X=====9923=====
 {FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{00}{0F}{02}{11}{FF}{FF}{00}{01}{FF}{FF}{00}{0F}{FF}{FF}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{00}{01}{00}{13}{02}{12}{00}{04}{02}({00}{04}{02}){00}{03}{02}{03}{00}{03}{02}{1F}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{01}{02}{1C}{00}{01}{02}{13}{FF}{FF}{FF}{FF}{00}{16}{02}'{00}{16}{02} {FF}{FF}{FF}{FF}{00}{08}{00}{06}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{14}{02}{0C}{00}{13}{02}{04}{00}{16}{02}*{00}{01}{02}{05}{00}{0D}{02}"{00}{0D}{02}{17}{FF}{FF}{FF}{FF}{00}{14}{02}{0D}{00}{14}{02}{14}{FF}{FF}{FF}{FF}{00}{19}{00}{19}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{FF}{FF}{00}{0D}{00}{0E}{02}{02}{00}{0E}{02}{0F}{00}{0E}{02}{1D}{00}{0E}{02}{1E}{00}{0D}{02}{01}{00}{0D}{02}{07}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}{FF}
 $E=====9924=====
 //通常:
-Common:
+Normal:
 $E=====9925=====
 //レア:
 Rare:
