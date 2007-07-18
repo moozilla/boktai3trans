@@ -63,11 +63,11 @@ $J=====17=====
 $E=====18=====
 <PROC=0>
 <END>
-$J=====19=====
+$E=====19=====
 //
 //<LABEL>　　　鉄格子を開けろ!!</LABEL>
 
-<LABEL>Open the iron gate!</LABEL>
+<LABEL>    Open the iron grate!</LABEL>
 $E=====20=====
 <PROC=0>
 <END>
@@ -75,7 +75,7 @@ $E=====21=====
 //
 //<LABEL>　[黄のカギ]を手に入れろ!!</LABEL>
 
-<LABEL>  Find the Yellow Key!</LABEL>
+<LABEL>    Find the Yellow Key!</LABEL>
 $E=====22=====
 <PROC=0>
 <END>
@@ -131,47 +131,70 @@ $J=====37=====
 $J=====38=====
 <PROC=0>
 <END>
-$J=====39=====
-おじさん
-「坊主(ぼうず)、こんなところ
-で何をしている?
-$J=====40=====
-この街はもうダメだ・・・
-$J=====41=====
-闇の一族(イモータル)の放った
-暗黒物質(ダークマター)により
-$J=====42=====
-街全体が吸血変異(アンデッド
-化)を起こし始めている
-$J=====43=====
-命があるうちに、さっさとにげ
-るんだ!」
-$J=====44=====
+$E=====39=====
+//おじさん
+//「坊主(ぼうず)、こんなところ
+//で何をしている?
+Middle-Aged Man:
+"What are you doing in a
+place like this, kid?
+$E=====40=====
+//この街はもうダメだ・・・
+This city's no good.
+$E=====41=====
+//闇の一族(イモータル)の放った
+//暗黒物質(ダークマター)により
+Because of all the Dark
+Matter left behind by the
+Immortals,
+$E=====42=====
+//街全体が吸血変異(アンデッド
+//化)を起こし始めている
+the entire city will soon be
+swarming with undead.
+$E=====43=====
+//命があるうちに、さっさとにげ
+//るんだ!」
+Anything living had better
+get out fast!"
+$E====44=====
 <PROC=0>
 <END>
-$J=====45=====
-おじさん
-「まちがってもヤツらと戦おう
-などと思うなよ?
-$J=====46=====
-われわれ人間の力が、闇の一族
-(イモータル)にかなうはずはな
-い・・・
-$J=====47=====
-しかもこの街をおそっているの
-は、伯爵(はくしゃく)とかいう
-$J=====48=====
-吸血鬼(ヴァンパイア)の君主(
-ロード)らしいからな
-$J=====49=====
-組織(ギルド)のエージェントに
-なったワタシの息子も、
-$J=====50=====
-その伯爵(はくしゃく)にたおさ
-れたと聞く・・・
-$J=====51=====
-さあ、早く行くんだ!!」
-$J=====52=====
+$E=====45=====
+//おじさん
+//「まちがってもヤツらと戦おう
+//などと思うなよ?
+Middle-Aged Man:
+"If I'm not mistaken, you
+plan on fighting them?
+$E=====46=====
+//われわれ人間の力が、闇の一族
+//(イモータル)にかなうはずはな
+//い・・・
+We humans can't hope to
+challenge the Immortals.
+$E=====47=====
+//しかもこの街をおそっているの
+//は、伯爵(はくしゃく)とかいう
+Besides, the one leading the
+attack is called the Count.
+$E=====48=====
+//吸血鬼(ヴァンパイア)の君主(
+//ロード)らしいからな
+He's the Lord of Vampires.
+$E=====49=====
+//組織(ギルド)のエージェントに
+//なったワタシの息子も、
+My son, a Guild agent,
+$E=====50=====
+//その伯爵(はくしゃく)にたおさ
+//れたと聞く・・・
+was killed by him...
+$E=====51=====
+//さあ、早く行くんだ!!」
+Now hurry up and get out of
+here!"
+$E=====52=====
 <PROC=0>
 <END>
 $J=====53=====
@@ -8356,7 +8379,7 @@ $E=====2743=====
 //スペシャルアクション
 //「ダッシュ」
 //を思い出した!!
-Special Action
+Solar Magic
 "Dash"
 remembered!
 $E=====2744=====
@@ -9148,8 +9171,7 @@ $E=====2942=====
 //<PROC=4>まずはこちらのアイテムで、ラ
 //イフを回復(かいふく)してくだ
 //さい!!」
-<PROC=4>
-please use these items to
+<PROC=4>please use these items to
 recover your health!"
 $E=====2943=====
 <PROC=0>
@@ -9545,18 +9567,25 @@ $J=====3056=====
 $J=====3057=====
 <PROC=0>
 <END>
-$J=====3058=====
-<LABEL=KID>アフロの男</LABEL>
-「来たな、ソーラーボーイ!!
-$J=====3059=====
-記憶喪失(きおくそうしつ)にな
-ったんだって?
-とんだ災難(さいなん)だったな
-$J=====3060=====
-でも、もう治ったんだろ?
-$J=====3061=====
-なぬっ!!
-オレが分からない?
+$E=====3058=====
+//<LABEL=KID>アフロの男</LABEL>
+//「来たな、ソーラーボーイ!!
+<LABEL=KID>Afro Man</LABEL>:
+"You came, Soolaar Boyyy!
+$E=====3059=====
+//記憶喪失(きおくそうしつ)にな
+//ったんだって?
+//とんだ災難(さいなん)だったな
+You got amnesia?
+What a drag, man.
+$E=====3060=====
+//でも、もう治ったんだろ?
+And you still ain't better?
+$E=====3061=====
+//なぬっ!!
+//オレが分からない?
+Woah!
+You don't remember me?
 $J=====3062=====
 そいつはバッドだぜ・・・
 $J=====3063=====
@@ -9614,10 +9643,12 @@ $J=====3078=====
 $J=====3079=====
 <PROC=0>
 <END>
-$J=====3080=====
-「レザーアーマー」
-を手に入れた!!
-$J=====3081=====
+$E=====3080=====
+//「レザーアーマー」
+//を手に入れた!!
+"Leather Armor"
+obtained!
+$E=====3081=====
 <PROC=0>
 <END>
 $J=====3082=====
@@ -9657,36 +9688,50 @@ $J=====3091=====
 $J=====3092=====
 <PROC=0>
 <END>
-$J=====3093=====
-<LABEL=KID>キッド</LABEL>
-「買い物か?」
- <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
-$J=====3094=====
+$E=====3093=====
+//<LABEL=KID>キッド</LABEL>
+//「買い物か?」
+// <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
+<LABEL=KID>Kid</LABEL>:
+"Wanna shop?"
+ <ALTER>SHOP</ALTER>  <ALTER>TALK</ALTER>
+$E=====3094=====
 <PROC=0>
 <END>
-$J=====3095=====
-<LABEL=KID>キッド</LABEL>
-「サンキュー!!
-$J=====3096=====
-アクセサリーが必要になったら
-いつでも来てくれよ?」
-$J=====3097=====
+$E=====3095=====
+//<LABEL=KID>キッド</LABEL>
+//「サンキュー!!
+<LABEL=KID>Kid</LABEL>:
+"You're the man!
+$E=====3096=====
+//アクセサリーが必要になったら
+//いつでも来てくれよ?」
+If ya ever need accessories,
+you know where to come, man.
+$E=====3097=====
 <PROC=0>
 <END>
-$J=====3098=====
-<LABEL=KID>キッド</LABEL>
-「サンキュー!!
-$J=====3099=====
-あまったアクセサリーは買い取
-るからな。
-よろしくたのむぜ?」
-$J=====3100=====
+$E=====3098=====
+//<LABEL=KID>キッド</LABEL>
+//「サンキュー!!
+<LABEL=KID>Kid</LABEL>:
+"You're the man!
+$E=====3099=====
+//あまったアクセサリーは買い取
+//るからな。
+//よろしくたのむぜ?」
+I'll buy any accessories if
+they're weighin' ya down!
+I'm all on that!"
+$E=====3100=====
 <PROC=0>
 <END>
-$J=====3101=====
-<LABEL=KID>キッド</LABEL>
-「サバタにやられたんだって?
-$J=====3102=====
+$E=====3101=====
+//<LABEL=KID>キッド</LABEL>
+//「サバタにやられたんだって?
+<LABEL=KID>Kid</LABEL>:
+"Tricked by Sabata, huh?
+$E=====3102=====
 兄弟ゲンカもほどほどにな
 $J=====3103=====
 たしかにアイツは、口も悪けり
@@ -9968,7 +10013,7 @@ $E=====3187=====
 //<LABEL=SMITH>初老の男</LABEL>
 //「おお、
 //<NAME>におてんこ!!
-<LABEL=SMITH>Aging Man</LABEL>:
+<LABEL=SMITH>Middle-Aged Man</LABEL>:
 "Oh,
 <NAME> and Otenko!
 $E=====3188=====
@@ -9989,7 +10034,7 @@ $E=====3192=====
 //<LABEL=SMITH>初老の男</LABEL>
 //「なに!?
 //記憶喪失(きおくそうしつ)?
-<LABEL=SMITH>Aging Man</LABEL>:
+<LABEL=SMITH>Middle-Aged Man</LABEL>:
 "What!?
 You lost your memory?
 $E=====3193=====
@@ -11146,8 +11191,8 @@ $E=====3517=====
 $E=====3518=====
 //あなたにはまず、すべてを思い
 //出してもらわなくちゃ
-you need to get that memory
-back, first of all.
+we need to get that memory
+of yours back.
 $E=====3519=====
 //時間がおしいわ。
 //ショック療法(りょうほう)で行
@@ -11394,20 +11439,28 @@ $J=====3584=====
 $J=====3585=====
 <PROC=0>
 <END>
-$J=====3586=====
-<LABEL=LADY>レディ</LABEL>
-「どう、調子は?」
- <ALTER>仕事の話</ALTER>　<ALTER>世間話</ALTER>
-$J=====3587=====
+$E=====3586=====
+//<LABEL=LADY>レディ</LABEL>
+//「どう、調子は?」
+// <ALTER>仕事の話</ALTER>　<ALTER>世間話</ALTER>
+<LABEL=LADY>Lady</LABEL>:
+"How's it going?
+ <ALTER>JOBS</ALTER>  <ALTER>CHAT</ALTER>
+$E=====3587=====
 <PROC=0>
 <END>
-$J=====3588=====
-<LABEL=LADY>レディ</LABEL>
-「あら、<NAME>くん。
-やる気満々ね!!
-$J=====3589=====
-それじゃあ、仕事について説明
-するわね?
+$E=====3588=====
+//<LABEL=LADY>レディ</LABEL>
+//「あら、<NAME>くん。
+//やる気満々ね!!
+<LABEL=LADY>Lady</LABEL>:
+"My, <NAME>, you're looking
+full of energy!
+$E=====3589=====
+//それじゃあ、仕事について説明
+//するわね?
+In that case, shall I
+explain jobs to you?
 $J=====3590=====
 わたしの所属(しょぞく)する組
 織(ギルド)というのは、この世
@@ -14165,19 +14218,27 @@ $J=====4292=====
 $J=====4293=====
 <PROC=0>
 <END>
-$J=====4294=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>、
-$J=====4295=====
-まずはみんなの話を良く聞いて
-$J=====4296=====
-各施設(しせつ)の役割と利用方
-法を、しっかり理解(りかい)し
-ておくんだ
-$J=====4297=====
-伯爵(はくしゃく)を追うのは、
-その後だ」
-$J=====4298=====
+$E=====4294=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>,
+$E=====4295=====
+//まずはみんなの話を良く聞いて
+you should talk to everyone
+first.
+$E=====4296=====
+//各施設(しせつ)の役割と利用方
+//法を、しっかり理解(りかい)し
+//ておくんだ
+Figure out what each
+building is used for,
+$E=====4297=====
+//伯爵(はくしゃく)を追うのは、
+//その後だ」
+and then we can go after the
+Count."
+$E=====4298=====
 <PROC=0>
 <END>
 $E=====4299=====
@@ -14509,29 +14570,44 @@ $J=====4388=====
 $J=====4389=====
 <PROC=0>
 <END>
-$J=====4390=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「敵(てき)モンスターには、
-$J=====4391=====
-レベルのちがいのほかにも、ラ
-ンクのちがいというものがある
-$J=====4392=====
-形は同じでも色がちがうという
-モンスターを見たことはないか
-?
-$J=====4393=====
-それらのモンスターは、画面右
-上に表示されるレベル以上の能
-力(のうりょく)を持っている
-$J=====4394=====
-またスケルトンのように、
-$J=====4395=====
-武器(ぶき)を装備(そうび)する
-ことでランクがアップしている
-モンスターもいる
-$J=====4396=====
-くれぐれも注意してくれ」
-$J=====4397=====
+$E=====4390=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「敵(てき)モンスターには、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Besides different levels,
+$E=====4391=====
+//レベルのちがいのほかにも、ラ
+//ンクのちがいというものがある
+enemy monsters can also have
+different ranks.
+$E=====4392=====
+//形は同じでも色がちがうという
+//モンスターを見たことはないか
+//?
+Have you seen any monsters
+that are a different color
+than usual?
+$E=====4393=====
+//それらのモンスターは、画面右
+//上に表示されるレベル以上の能
+//力(のうりょく)を持っている
+Those monsters are stronger
+than their level suggests.
+$E=====4394=====
+//またスケルトンのように、
+In addition to the regular
+Skeleton,
+$E=====4395=====
+//武器(ぶき)を装備(そうび)する
+//ことでランクがアップしている
+//モンスターもいる
+There are higher-ranked
+versions equipped with
+weapons.
+$E=====4396=====
+//くれぐれも注意してくれ」
+Be careful out there."
+$E=====4397=====
 <PROC=0>
 <END>
 $J=====4398=====
@@ -14542,12 +14618,12 @@ $J=====4399=====
 少年?
 $J=====4400=====
 君はたしか・・・」
-$J=====4401=====
+$E=====4401=====
 <PROC=0>
 <END>
 $J=====4402=====
-<LABEL=PEOPLE2>見覚えのある男</LABEL>
-「おお、そうだったな!
+//<LABEL=PEOPLE2>見覚えのある男</LABEL>
+//「おお、そうだったな!
 $J=====4403=====
 闇の一族(イモータル)と戦う光
 の戦士、太陽少年<NAME>
@@ -14605,11 +14681,14 @@ $J=====4418=====
 $J=====4419=====
 <PROC=0>
 <END>
-$J=====4420=====
-<LABEL=PEOPLE2>???(ハテナ)</LABEL>
-「どうする?」
- <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
-$J=====4421=====
+$E=====4420=====
+//<LABEL=PEOPLE2>???(ハテナ)</LABEL>
+//「どうする?」
+// <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
+<LABEL=PEOPLE2>??? (Unknown)</LABEL>:
+"What do you want?"
+ <ALTER>SHOP</ALTER>  <ALTER>TALK</ALTER>
+$E=====4421=====
 <PROC=0>
 <END>
 $J=====4422=====
@@ -20115,8 +20194,7 @@ $E=====5795=====
 $E=====5796=====
 //<LABEL=OTENKO></LABEL><NAME>、急いでやつをさが
 //し出すんだ!
-<LABEL=OTENKO></LABEL>
-<NAME>, hurry up and
+<LABEL=OTENKO></LABEL><NAME>, hurry up and
 find him!
 $E=====5797=====
 //伯爵(はくしゃく)をたおし、サ
@@ -20128,7 +20206,7 @@ him!
 $E=====5798=====
 //<PROC=1><LOCK=70>太陽と共にあらんことを!」
 <PROC=1><LOCK=70>May the Sun be with you!"
-$J=====5799=====
+$E=====5799=====
 <PROC=0>
 <END>
 $J=====5800=====
@@ -21063,22 +21141,31 @@ $J=====6096=====
 $J=====6097=====
 <PROC=0>
 <END>
-$J=====6098=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ふむ・・・
-$J=====6099=====
-レバースイッチは見当たらない
-が、
-$J=====6100=====
-どこかに、この鉄格子(てつご
-うし)を開けるための仕掛(しか
-)けがあるはずだ
-$J=====6101=====
+$E=====6098=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ふむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hm...
+$E=====6099=====
+//レバースイッチは見当たらない
+//が、
+When you're blocked by a
+grate but you can't find a
+lever switch,
+$E=====6100=====
+//どこかに、この鉄格子(てつご
+//うし)を開けるための仕掛(しか
+//)けがあるはずだ
+there should be another
+device somewhere that can
+open it.
+$E=====6101=====
 <PROC=0>
 <END>
-$J=====6102=====
-<LABEL=OTENKO></LABEL>わかるか、<NAME>?」
-$J=====6103=====
+$E=====6102=====
+//<LABEL=OTENKO></LABEL>わかるか、<NAME>?」
+<LABEL=OTENKO></LABEL>Understand, <NAME>?"
+$E=====6103=====
 <PROC=0>
 <END>
 $J=====6104=====
@@ -29897,81 +29984,126 @@ $E=====8888=====
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Looks like you got a part
 for the Gun Del Sol.
-$J=====8889=====
-それは太陽銃(ガン・デル・ソ
-ル)レンズ、フレイムだ
-$J=====8890=====
-太陽銃(ガン・デル・ソル)はレ
-ンズをつけかえることで、
-$J=====8891=====
-攻撃属性(こうげきぞくせい)を
-切りかえることができる
-$J=====8892=====
-レンズの装備(そうび)は、メ
-ニュー画面の太陽銃(ガン・デ
-ル・ソル)メニューで行うんだ
-$J=====8893=====
-装備(そうび)したレンズは、
-$J=====8894=====
-<WEIGHT>SELECTボタン</WEIGHT>を押(お)しながら
-<WEIGHT>Ｂボタン</WEIGHT>を押(お)して行うクイ
-ックチェンジによって、
-$J=====8895=====
-自由につけかえることができる
-$J=====8896=====
-敵(てき)モンスターには、相手
-の苦手とする属性(ぞくせい)で
-攻撃(こうげき)することで、
-$J=====8897=====
-より多くのダメージをあたえる
-ことが可能(かのう)だ
-$J=====8898=====
-また、炎(ほのお)の力を宿した
-フレイム属性(ぞくせい)の攻撃
-(こうげき)には、
-$J=====8899=====
-燭台(しょくだい)に炎(ほのお)
-を点す効果もあるぞ
-$J=====8900=====
-そういえば下のフロアにも1つ
-燭台(しょくだい)があったな」
-$J=====8901=====
+$E=====8889=====
+//それは太陽銃(ガン・デル・ソ
+//ル)レンズ、フレイムだ
+That's a solar gun lens,
+Flame.
+$E=====8890=====
+//太陽銃(ガン・デル・ソル)はレ
+//ンズをつけかえることで、
+By replacing the lens on the
+Gun del Sol,
+$E=====8891=====
+//攻撃属性(こうげきぞくせい)を
+//切りかえることができる
+you can change the element
+of your attacks.
+$E=====8892=====
+//レンズの装備(そうび)は、メ
+//ニュー画面の太陽銃(ガン・デ
+//ル・ソル)メニューで行うんだ
+To equip a lens, go to the
+Solar Gun page on the menu
+screen.
+$E=====8893=====
+//装備(そうび)したレンズは、
+To Quick Change your
+equipped lens,
+$E=====8894=====
+//<WEIGHT>SELECTボタン</WEIGHT>を押(お)しながら
+//<WEIGHT>Ｂボタン</WEIGHT>を押(お)して行うクイ
+//ックチェンジによって、
+you can also press the
+<WEIGHT>B Button</WEIGHT> while holding
+<WEIGHT>SELECT</WEIGHT>.
+$E=====8895=====
+//自由につけかえることができる
+Feel free to swap lenses as
+often as you want.
+$E=====8896=====
+//敵(てき)モンスターには、相手
+//の苦手とする属性(ぞくせい)で
+//攻撃(こうげき)することで、
+If you attack an enemy
+monster with its elemental
+weakness,
+$E=====8897=====
+//より多くのダメージをあたえる
+//ことが可能(かのう)だ
+the damage you deal will
+greatly increase.
+$E=====8898=====
+//また、炎(ほのお)の力を宿した
+//フレイム属性(ぞくせい)の攻撃
+//(こうげき)には、
+Also, because the Flame lens
+contains the power of fire,
+$E=====8899=====
+//燭台(しょくだい)に炎(ほのお)
+//を点す効果もあるぞ
+you can light candlesticks
+with it.
+$E=====8900=====
+//そういえば下のフロアにも1つ
+//燭台(しょくだい)があったな」
+Now that I think about it,
+there was a candlestick on
+the floor below..."
+$E=====8901=====
 <PROC=0>
 <END>
-$J=====8902=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「待て、<NAME>!!
-$J=====8903=====
-あれはビースト(獣)タイプのモ
-ンスター、ポイズンスパイダー
-だ
-$J=====8904=====
+$E=====8902=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「待て、<NAME>!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Wait, <NAME>!
+$E=====8903=====
+//あれはビースト(獣)タイプのモ
+//ンスター、ポイズンスパイダー
+//だ
+That's a Poison Spider, a
+Beast-type monster.
+$E=====8904=====
 <PROC=0>
 <END>
-$J=====8905=====
-<LABEL=OTENKO></LABEL>やつのはく毒液(どくえき)は、
-毒化の状態異常(じょうたいい
-じょう)を引き起こす
-$J=====8906=====
-毒化は、視界(しかい)がうばわ
-れる非常(ひじょう)に危険(き
-けん)な状態(じょうたい)だ
+$E=====8905=====
+//<LABEL=OTENKO></LABEL>やつのはく毒液(どくえき)は、
+//毒化の状態異常(じょうたいい
+//じょう)を引き起こす
+<LABEL=OTENKO></LABEL>It spits venom that causes
+Poisoned status.
+$E=====8906=====
+//毒化は、視界(しかい)がうばわ
+//れる非常(ひじょう)に危険(き
+//けん)な状態(じょうたい)だ
+It's very dangerous to be
+Poisoned, as your vision
+becomes extremely blurry.
 $J=====8907=====
 <PROC=0>
 <END>
-$J=====8908=====
-<LABEL=OTENKO></LABEL>時間がたてば自然回復(しぜん
-かいふく)もするが、
-$J=====8909=====
-毒消しを持っているのなら、早
-めに使った方がいいぞ」
-$J=====8910=====
+$E=====8908=====
+//<LABEL=OTENKO></LABEL>時間がたてば自然回復(しぜん
+//かいふく)もするが、
+<LABEL=OTENKO></LABEL>It will wear off on its own
+after a certain amount of
+time,
+$E=====8909=====
+//毒消しを持っているのなら、早
+//めに使った方がいいぞ」
+but if you have an Antidote
+on hand, you should use it
+right away."
+$E=====8910=====
 <PROC=0>
 <END>
-$J=====8911=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「暗いな・・・
-$J=====8912=====
+$E=====8911=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「暗いな・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"It's dark in here...
+$E=====8912=====
 <PROC=0>
 <END>
 $J=====8913=====
@@ -30184,41 +30316,60 @@ $J=====8977=====
 $J=====8978=====
 <PROC=0>
 <END>
-$J=====8979=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ん?
-$J=====8980=====
+$E=====8979=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ん?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hm?
+$E=====8980=====
 <PROC=0>
 <END>
-$J=====8981=====
-<LABEL=OTENKO></LABEL>あれはシング(物)タイプのモン
-スター、スケルトンだ
-$J=====8982=====
-特別な武器(ぶき)は持たないが
-何度でもよみがえる再生能力(
-さいせいのうりょく)を持つ
-$J=====8983=====
-やつの再生(さいせい)をふせぐ
-には、属性攻撃(ぞくせいこう
-げき)でトドメをさすしかない
-$J=====8984=====
+$E=====8981=====
+//<LABEL=OTENKO></LABEL>あれはシング(物)タイプのモン
+//スター、スケルトンだ
+<LABEL=OTENKO></LABEL>Those are Skeletons,
+Material-type monsters.
+$E=====8982=====
+//特別な武器(ぶき)は持たないが
+//何度でもよみがえる再生能力(
+//さいせいのうりょく)を持つ
+They don't have any special
+weapons, but they can
+regenerate indefinitely.
+$E=====8983=====
+//やつの再生(さいせい)をふせぐ
+//には、属性攻撃(ぞくせいこう
+//げき)でトドメをさすしかない
+To prevent a Skeleton from
+regenerating, finish it off
+with an elemental attack.
+$E=====8984=====
 <PROC=0>
 <END>
-$J=====8985=====
-<LABEL=OTENKO></LABEL>戦うのなら、エナジーの残量に
-は注意しろよ?」
-$J=====8986=====
+$E=====8985=====
+//<LABEL=OTENKO></LABEL>戦うのなら、エナジーの残量に
+//は注意しろよ?」
+<LABEL=OTENKO></LABEL>Make sure to store up a lot
+of energy before you go into
+battle."
+$E=====8986=====
 <PROC=0>
 <END>
-$J=====8987=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ふむ・・・
-$J=====8988=====
-敵(てき)モンスターはいないよ
-うだな
-$J=====8989=====
-太陽結界を召喚(しょうかん)す
-るぞ!」
+$E=====8987=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ふむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hm...
+$E=====8988=====
+//敵(てき)モンスターはいないよ
+//うだな
+There don't seem to be any
+monsters here...
+$U=====8989=====
+//太陽結界を召喚(しょうかん)す
+//るぞ!」
+Let's summon a Solar
+Barrier!"
 $J=====8990=====
 <PROC=0>
 <END>
