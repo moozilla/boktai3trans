@@ -4530,7 +4530,7 @@ $E=====1554=====
 //「人形使いラタトスク」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Puppet Master Ratatosk"
+"Ratatosk the Puppeteer"
 obtained!</LABEL><PROC=1>
 $E=====1555=====
 <PROC=0>
@@ -8139,7 +8139,7 @@ $E=====2642=====
 Machine King Nidhoggr
 $E=====2643=====
 //人形使いラタトスク
-Puppet Master Ratatosk
+Ratatosk the Puppeteer
 $U=====2644=====
 //???(ハテナ)
 ??? (Unknown)
@@ -8573,7 +8573,7 @@ $E=====2790=====
 // <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
 <LABEL=SHAIAN>Cheyenne</LABEL>:
 "What do you want?"
- <ALTER>Shop</ALTER>  <ALTER>Talk</ALTER>
+ <ALTER>Buy</ALTER>  <ALTER>Talk</ALTER>
 $E=====2791=====
 <PROC=0>
 <END>
@@ -9030,7 +9030,7 @@ $E=====2909=====
 ...
 $E=====2910=====
 //<PROC=6>わかりました
-<PROC=6>I understand.
+<PROC=6>I've got it.
 $E=====2911=====
 //わたしが何とかしてみせましょ
 //う・・・」
@@ -9232,7 +9232,7 @@ $E=====2957=====
 //「お買い物ですか?」
 <LABEL=RITA>Lita</LABEL>:
 "Come to buy something?"
- <ALTER>Shop</ALTER>  <ALTER>Talk</ALTER>
+ <ALTER>Buy</ALTER>  <ALTER>Talk</ALTER>
 $E=====2958=====
 <PROC=0>
 <END>
@@ -9270,40 +9270,59 @@ heart!"
 $E=====2966=====
 <PROC=0>
 <END>
-$J=====2967=====
-<LABEL=RITA>リタ</LABEL>
-「<NAME>さま!!
-$J=====2968=====
-???(ハテナ)さんから買い付け
-ることのできるアイテムが、す
-べてそろいました!
-$J=====2969=====
-品切れになることはありません
-から、これからもどんどん利用
-してくださいね
-$J=====2970=====
-それから、こちらは買い付けた
-アイテムといっしょに送られて
-きたものなのですが・・・
-$J=====2971=====
-<NAME>さまが注文されたんですか?」
+$E=====2967=====
+//<LABEL=RITA>リタ</LABEL>
+//「<NAME>さま!!
+<LABEL=RITA>Lita</LABEL>:
+"Master <NAME>!
+$E=====2968=====
+//???(ハテナ)さんから買い付け
+//ることのできるアイテムが、す
+//べてそろいました!
+We now offer all the items
+that ??? (Unknown) sells.
+$E=====2969=====
+//品切れになることはありません
+//から、これからもどんどん利用
+//してくださいね
+We won't go out of stock, so
+you can use them freely from
+now on.
+$E=====2970=====
+//それから、こちらは買い付けた
+//アイテムといっしょに送られて
+//きたものなのですが・・・
+By the way, this showed up
+along with the shipment...
+$E=====2971=====
+//<NAME>さまが注文されたんですか?」
+Were you the one who ordered
+it, Master <NAME>?"
 $J=====2972=====
 <PROC=0>
 <END>
-$J=====2973=====
-バイクフロント
-「フェアリーテイル」
-を手に入れた!!<LOCK=176>
-$J=====2974=====
+$E=====2973=====
+//バイクフロント
+//「フェアリーテイル」
+//を手に入れた!!<LOCK=176>
+Bike Front
+"Fairy Tale"
+obtained!<LOCK=176>
+$E=====2974=====
 <PROC=0>
 <END>
-$J=====2975=====
-<LABEL=RITA>リタ</LABEL>
-「そんなものを買われるなんて
-・・・
-$J=====2976=====
-<NAME>さまもやっぱり、男の子なんですね{note}」
-$J=====2977=====
+$E=====2975=====
+//<LABEL=RITA>リタ</LABEL>
+//「そんなものを買われるなんて
+//・・・
+<LABEL=RITA>Lita</LABEL>:
+"Buying such a thing...
+$E=====2976=====
+//<NAME>さまもやっぱり、男の子なんですね{note}」
+You're still just a boy
+after all,
+Master <NAME>{note}"
+$E=====2977=====
 <PROC=0>
 <END>
 $J=====2978=====
@@ -9694,7 +9713,7 @@ $E=====3093=====
 // <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
 <LABEL=KID>Kid</LABEL>:
 "Wanna shop?"
- <ALTER>SHOP</ALTER>  <ALTER>TALK</ALTER>
+ <ALTER>Buy</ALTER>  <ALTER>Talk</ALTER>
 $E=====3094=====
 <PROC=0>
 <END>
@@ -10641,32 +10660,43 @@ $J=====3359=====
 $J=====3360=====
 <PROC=0>
 <END>
-$J=====3361=====
-<LABEL=COACH>サングラスの男</LABEL>
-「おそいぞ、<NAME>!!
-$J=====3362=====
-そんなことでは、この熱き鉄馬
-の世界で頂点(ちょうてん)に立
-つことはできんぞ!」
-$J=====3363=====
+$E=====3361=====
+//<LABEL=COACH>サングラスの男</LABEL>
+//「おそいぞ、<NAME>!!
+<LABEL=COACH>Sunglasses Man</LABEL>:
+"You're late, <NAME>!
+$U=====3362=====
+//そんなことでは、この熱き鉄馬
+//の世界で頂点(ちょうてん)に立
+//つことはできんぞ!」
+How are you going to climb
+to the top of the pack if
+you keep this up?"
+// hot iron horse world? Is that like dog-eat-dog?
+$E=====3363=====
 <PROC=0>
 <END>
 $J=====3364=====
 <LABEL=COACH>サングラスの男</LABEL>
 「どうやら・・・
 $J=====3365=====
-自らの置かれた立場というもの
-を、分かっていないようだな?
-$J=====3366=====
-では教えてやろう・・・
-$J=====3367=====
-わたしは今日からおまえのコー
-チをすることになった・・・
-$J=====3368=====
-・・・コーチだ
-$J=====3369=====
-何のコーチか?
-決まっている!!
+//自らの置かれた立場というもの
+//を、分かっていないようだな?
+$E=====3366=====
+//では教えてやろう・・・
+Then let me teach you...
+$E=====3367=====
+//わたしは今日からおまえのコー
+//チをすることになった・・・
+From now on, I'm gonna be your coach...
+$E=====3368=====
+//・・・コーチだ
+...coach...
+$E=====3369=====
+//何のコーチか?
+//決まっている!!
+What kind of coach?
+Hmm... that's it!
 $J=====3370=====
 荒野(こうや)をかける熱き鉄馬
 棺桶(かんおけ)バイクだ!」
@@ -10759,11 +10789,14 @@ $J=====3396=====
 $J=====3397=====
 <PROC=0>
 <END>
-$J=====3398=====
-称号
-「チャンピオン」
-を手に入れた!!<LOCK=176>
-$J=====3399=====
+$E=====3398=====
+//称号
+//「チャンピオン」
+//を手に入れた!!<LOCK=176>
+Title
+"Champion"
+obtained!<LOCK=176>
+$E=====3399=====
 <PROC=0>
 <END>
 $J=====3400=====
@@ -10778,11 +10811,14 @@ $J=====3402=====
 $J=====3403=====
 <PROC=0>
 <END>
-$J=====3404=====
-<LABEL=COACH></LABEL>さっさと始めるぞ!!」
- <ALTER>カスタム</ALTER>　　<ALTER>リネーム</ALTER>
- <ALTER>サーキット</ALTER>　<ALTER>話</ALTER>
-$J=====3405=====
+$E=====3404=====
+//<LABEL=COACH></LABEL>さっさと始めるぞ!!」
+// <ALTER>カスタム</ALTER>　　<ALTER>リネーム</ALTER>
+// <ALTER>サーキット</ALTER>　<ALTER>話</ALTER>
+<LABEL=COACH></LABEL>"Let's get started!
+ <ALTER>Custom</ALTER>   <ALTER>Rename</ALTER>
+ <ALTER>Circuit</ALTER>  <ALTER>Talk</ALTER>
+$E=====3405=====
 <PROC=0>
 <END>
 $J=====3406=====
@@ -11445,7 +11481,7 @@ $E=====3586=====
 // <ALTER>仕事の話</ALTER>　<ALTER>世間話</ALTER>
 <LABEL=LADY>Lady</LABEL>:
 "How's it going?
- <ALTER>JOBS</ALTER>  <ALTER>CHAT</ALTER>
+ <ALTER>Jobs</ALTER>  <ALTER>Chat</ALTER>
 $E=====3587=====
 <PROC=0>
 <END>
@@ -12010,11 +12046,14 @@ $J=====3751=====
 $J=====3752=====
 <PROC=0>
 <END>
-$J=====3753=====
-称号
-「ダークハンター」
-を手に入れた!!<LOCK=176>
-$J=====3754=====
+$E=====3753=====
+//称号
+//「ダークハンター」
+//を手に入れた!!<LOCK=176>
+Title
+"Dark Hunter"
+obtained!<LOCK=176>
+$E=====3754=====
 <PROC=0>
 <END>
 $J=====3755=====
@@ -12032,11 +12071,14 @@ $J=====3757=====
 $J=====3758=====
 <PROC=0>
 <END>
-$J=====3759=====
-<LABEL=ZAJI>ザジ</LABEL>
-「何か用なん?」
- <ALTER>星読み</ALTER>　<ALTER>話</ALTER>
-$J=====3760=====
+$E=====3759=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「何か用なん?」
+// <ALTER>星読み</ALTER>　<ALTER>話</ALTER>
+<LABEL=ZAJI>Zazie</LABEL>:
+"Whatcha want?"
+ <ALTER>Star Reading</ALTER>  <ALTER>Talk</ALTER>
+$E=====3760=====
 <PROC=0>
 <END>
 $J=====3761=====
@@ -14687,7 +14729,7 @@ $E=====4420=====
 // <ALTER>買い物</ALTER>　<ALTER>話</ALTER>
 <LABEL=PEOPLE2>??? (Unknown)</LABEL>:
 "What do you want?"
- <ALTER>SHOP</ALTER>  <ALTER>TALK</ALTER>
+ <ALTER>Buy</ALTER>  <ALTER>Talk</ALTER>
 $E=====4421=====
 <PROC=0>
 <END>
@@ -16191,17 +16233,22 @@ $J=====4803=====
 $J=====4804=====
 <PROC=0>
 <END>
-$J=====4805=====
-<LABEL=ROCKMAN></LABEL>何をしようか?」
- <ALTER>ポイント交換</ALTER>　<ALTER>情報収集</ALTER>
- <ALTER>プラグアウト</ALTER>
-$J=====4806=====
+$E=====4805=====
+//<LABEL=ROCKMAN></LABEL>何をしようか?」
+// <ALTER>ポイント交換</ALTER>　<ALTER>情報収集</ALTER>
+// <ALTER>プラグアウト</ALTER>
+<LABEL=ROCKMAN></LABEL>What do you want to do?
+ <ALTER>Point Exchange</ALTER>  <ALTER>Gather Info</ALTER>
+ <ALTER>Plug Out</ALTER>
+$E=====4806=====
 <PROC=0>
 <END>
-$J=====4807=====
-<LABEL=ROCKMAN></LABEL>何をしようか?」
- <ALTER>情報収集</ALTER>　<ALTER>プラグアウト</ALTER>
-$J=====4808=====
+$E=====4807=====
+//<LABEL=ROCKMAN></LABEL>何をしようか?」
+// <ALTER>情報収集</ALTER>　<ALTER>プラグアウト</ALTER>
+<LABEL=ROCKMAN></LABEL>What do you want to do?
+ <ALTER>Gather Info</ALTER>  <ALTER>Plug Out</ALTER>
+$E=====4808=====
 <PROC=0>
 <END>
 $J=====4809=====
@@ -16233,11 +16280,14 @@ $J=====4816=====
 $J=====4817=====
 <PROC=0>
 <END>
-$J=====4818=====
-<LABEL=ROCKMAN></LABEL><VAR=1>ポイント使って、アクセサ
-リーと交換(こうかん)する?」
- <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
-$J=====4819=====
+$E=====4818=====
+//<LABEL=ROCKMAN></LABEL><VAR=1>ポイント使って、アクセサ
+//リーと交換(こうかん)する?」
+// <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
+<LABEL=ROCKMAN></LABEL><VAR=1>Exchange points for an
+accessory?"
+ <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
+$E=====4819=====
 <PROC=0>
 <END>
 $J=====4820=====
@@ -17404,8 +17454,8 @@ all about.
 $E=====5132=====
 //<PROC=5><PROC=6>よろしくお付き合いくださいね
 //{note}」
-<PROC=5><PROC=6>Looking forward
-to doing business with you!{note}"
+<PROC=5><PROC=6>Looking forward to doing
+business with you!{note}"
 $E=====5133=====
 <PROC=0>
 <END>
@@ -17507,7 +17557,8 @@ $E=====5150=====
 //あずけておくのが吉、ですよ{note}
 //」
 so it's smart to
-save surplus solar energy.{note}"
+save surplus solar
+energy.{note}"
 $E=====5151=====
 <PROC=0>
 <END>
@@ -17618,7 +17669,7 @@ your adventure
 $E=====5170=====
 //冒険(ぼうけん)をやり直すこと
 //ができます
-From the moment you set foot
+from the moment you set foot
 in that particular area.
 $E=====5171=====
 //ただし、やり直しにはそれなり
@@ -18651,7 +18702,7 @@ $U=====5464=====
 //だが少なくとも、おれの夢(ゆ
 //め)ではないようだ・・・」
 It doesn't seem to be my
-dream, at least..."
+dream, though..."
 $E=====5465=====
 <PROC=0>
 <END>
@@ -18660,17 +18711,16 @@ $E=====5466=====
 //「こいつか、
 //おれをよんだのは?
 <LABEL=SABATA>Boy in Black</LABEL>:
-This must be what called me
-here...
+Is this what called me here?
 $E=====5467=====
 //ねむっている?
 //いや、これは・・・
-It's sleeping?
+Is it sleeping?
 No, it's...
 $E=====5468=====
 //月の一族による封印(ふういん)
 //か?
-sealed by the Lunar Clan.
+sealed by the Lunar Family.
 $E=====5469=====
 //だとすれば、なみの怪物(かい
 //ぶつ)ではあるまいが・・・」
@@ -18683,12 +18733,13 @@ $E=====5471=====
 //<LABEL=SABATA>黒衣の少年</LABEL>
 //「これは・・・
 <LABEL=SABATA>Boy in Black</LABEL>:
-"My Lunar blood is...
+"That felt like...
 $E=====5472=====
 //おれの身体に流れる月の血が、
 //月の一族が警告(けいこく)して
 //いる!?」
-warning me!"
+my Lunar Family blood,
+trying to warn me!"
 $E=====5473=====
 <PROC=0>
 <END>
@@ -18697,7 +18748,8 @@ $E=====5474=====
 //「すでに目覚めていたか
 //・・・」
 <LABEL=SABATA>Boy in Black</LABEL>:
-"Too late to wake up now..."
+"Looks like it's already
+awakened..."
 $E=====5475=====
 <PROC=0>
 <END>
@@ -18710,9 +18762,9 @@ $E=====5477=====
 //おまえの復活(ふっかつ)にはお
 //れの血が、月の巫女(月下美人)
 //の力が必要というわけか・・・
-you need my blood and the
-power of the Lunar Maiden
-for your revival...
+you need my blood, the power
+of a Moon Beauty, for your
+revival...
 $E=====5478=====
 //だが、そうはいかん!
 I can't allow that!
@@ -18730,8 +18782,8 @@ $E=====5481=====
 //「クッ、
 //まさかこいつは・・・」
 <LABEL=SABATA>Boy in Black</LABEL>:
-"Ugh,
-it's impossible..."
+"Geh, what is this
+thing...?"
 $E=====5482=====
 <PROC=0>
 <END>
@@ -18766,24 +18818,23 @@ $E=====5489=====
 //生も死もあたえられず、ただそ
 //こに存在(そんざい)するもの、
 //絶対存在(エターナル)
-A being given neither birth
-nor death, merely living, an
-Eternal.
+A being given neither life
+nor death, merely existing,
+absolute (an Eternal).
 $E=====5490=====
 //たとえ夢(ゆめ)の中であろうと
 //も・・・
-Even if this were a dream...
+It exists even in dreams...
 $E=====5491=====
 //暗黒少年であるあなたに、たお
 //せる相手ではありません
-You, the Dark Boy, are
-defeated without anyone to
-turn to.
+It's not an opponent the
+Dark Boy could defeat.
 $E=====5492=====
 //命を持たないものを殺すことな
 //ど、できはしない
 You can't kill that which
-has no life, and neither can
+was never alive. Neither can
 your younger brother,
 $E=====5493=====
 //太陽の力をあやつるあなたの弟
@@ -18840,22 +18891,21 @@ $E=====5503=====
 //「人形使いとよばれるわたくし
 //にも・・・
 <LABEL=RATA>Boy in White</LABEL>:
-For a puppeteer such as
-myself,
+Even for me, the Puppeteer,
 $E=====5504=====
 //絶対存在(エターナル)であるヴ
 //ァナルガンドをあやつることな
 //ど、できはしない
-controlling Vanargand, an
-Eternal, would not be
+controlling an Eternal like
+Vanargand would not be
 possible.
 $E=====5505=====
 //ですが、暗黒少年でありながら
 //月の血を宿したあなたであれば
 //話は別です
-However, for the Dark Boy,
-who carries Lunar blood, it
-is a different story.
+However, if I had the Dark
+Boy with his Lunar blood, it
+would be a different story.
 $E=====5506=====
 //月の巫女(月下美人)の力をもっ
 //てすれば、
@@ -18875,7 +18925,7 @@ $E=====5509=====
 //そう、この大いなる力を手にす
 //ることができるのです」
 Oh yes, I could obtain such
-incredible power."
+and incredible power."
 $E=====5510=====
 //<LABEL=SABATA>サバタ</LABEL>
 //<PROC=1><LOCK=6>「フッ・・・
@@ -18884,7 +18934,7 @@ $E=====5510=====
 $E=====5511=====
 //このおれが、そんなことをゆる
 //すと思うのか?」
-Do you think I'd let that
+You think I'd let that
 happen?"
 $E=====5512=====
 <PROC=0>
@@ -18905,8 +18955,8 @@ permission.
 $E=====5516=====
 //人形には意思など・・・
 //必要ないのです!!」
-A puppet does not need a
-will!"
+A puppet has no need for
+free will!"
 $E=====5517=====
 <PROC=0>
 <END>
@@ -18914,7 +18964,7 @@ $E=====5518=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「ヌグッ、これは・・・!」
 <LABEL=SABATA>Sabata</LABEL>:
-"Ugh, this is...!"
+"Ngh, this is...!"
 $E=====5519=====
 <PROC=0>
 <END>
