@@ -8374,18 +8374,18 @@ You received the wind's
 blessing!
 $E=====2742=====
 <PROC=0>
-<END>
+<END>.
 $E=====2743=====
 //スペシャルアクション
 //「ダッシュ」
 //を思い出した!!
-Solar Magic
+Special Action
 "Dash"
 remembered!
 $E=====2744=====
 //ダッシュは高速で移動(いどう)
 //するための太陽魔法だ
-Dash is a Sun Magic that
+Dash is Solar Magic that
 lets you move quickly.
 $E=====2745=====
 //太陽ゲージがゼロでは使うこと
@@ -16051,7 +16051,7 @@ $E=====4747=====
 $E=====4748=====
 //プラグインしますか?
 // <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
-Jack in?
+Plug in?
  <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
 $E=====4749=====
 <PROC=0>
@@ -17233,7 +17233,7 @@ $E=====5087=====
 $E=====5088=====
 // <ALTER>総合記録</ALTER>　<ALTER>浄化記録</ALTER>
 // <ALTER>バイクバトル</ALTER>
- <ALTER>Synthesis</ALTER>  <ALTER>Purification</ALTER>
+ <ALTER>Game Data</ALTER>  <ALTER>Purification</ALTER>
  <ALTER>Bike Battle</ALTER>
 $E=====5089=====
 <PROC=0>
@@ -17242,7 +17242,7 @@ $E=====5090=====
 // <ALTER>総合記録</ALTER>　<ALTER>浄化記録</ALTER>
 // <ALTER>バイクバトル</ALTER>
 // <ALTER>クロスオーバーバトル</ALTER>
- <ALTER>Synthesis</ALTER>  <ALTER>Purification</ALTER>
+ <ALTER>Game Data</ALTER>  <ALTER>Purification</ALTER>
  <ALTER>Bike Battle</ALTER>
  <ALTER>Crossover Battle</ALTER>
 $E=====5091=====
@@ -18206,10 +18206,10 @@ $U=====5314=====
 //こんなところにまでたどり着く
 //たぁ、
 After all that effort,
-$U=====5315=====
+$E=====5315=====
 //オレさまの迷宮(めいきゅう)を
 //クリアしただけのことはある
-You just managed to get
+you just managed to get
 through my labyrinth.
 $E=====5316=====
 //だがしかしっ!!
@@ -18738,8 +18738,8 @@ $E=====5472=====
 //おれの身体に流れる月の血が、
 //月の一族が警告(けいこく)して
 //いる!?」
-my Lunar Family blood,
-trying to warn me!"
+my Lunar blood, trying to
+warn me!"
 $E=====5473=====
 <PROC=0>
 <END>
@@ -18820,7 +18820,7 @@ $E=====5489=====
 //絶対存在(エターナル)
 A being given neither life
 nor death, merely existing,
-absolute (an Eternal).
+absolute, Eternal.
 $E=====5490=====
 //たとえ夢(ゆめ)の中であろうと
 //も・・・
@@ -18855,19 +18855,19 @@ accomplish by resurrecting
 such a monster?
 $E=====5496=====
 //この星に生きるすべての命、
-Assuming the will of the
-Galaxy Universe...
+Even if wiping out all life
+on this star...
 $E=====5497=====
 //それをほろぼすことが銀河宇宙
 //(ぎんがうちゅう)の意思だとし
 //ても、
-is to wipe out all life on
-this star,
+is the will of the Galaxy
+Universe,
 $E=====5498=====
 //おまえたち自身をもほろぼすつ
 //もりはあるまい?」
-do you intend to destroy
-yourselves too?"
+do you really intend to
+destroy yourselves too?"
 $E=====5499=====
 <PROC=0>
 <END>
@@ -18925,7 +18925,7 @@ $E=====5509=====
 //そう、この大いなる力を手にす
 //ることができるのです」
 Oh yes, I could obtain such
-and incredible power."
+an incredible power."
 $E=====5510=====
 //<LABEL=SABATA>サバタ</LABEL>
 //<PROC=1><LOCK=6>「フッ・・・
@@ -18934,7 +18934,7 @@ $E=====5510=====
 $E=====5511=====
 //このおれが、そんなことをゆる
 //すと思うのか?」
-You think I'd let that
+you think I'd let that
 happen?"
 $E=====5512=====
 <PROC=0>
@@ -20378,90 +20378,136 @@ $J=====5835=====
 $J=====5836=====
 <PROC=0>
 <END>
-$J=====5837=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「また、オメェか・・・
-$J=====5838=====
-だがオイラと同じ所に目をつけ
-るたぁ・・・なかなか見どころ
-があるぜ
-$J=====5839=====
-何ならオイラの弟子になるか?
-$J=====5840=====
-オイラはトレジャーハンター、
-未来少年トリニティ!!」
-$J=====5841=====
+$E=====5837=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「また、オメェか・・・
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"You again...
+$U=====5838=====
+//だがオイラと同じ所に目をつけ
+//るたぁ・・・なかなか見どころ
+//があるぜ
+Looks like we've got our
+eyes set on the same goal...
+you've got potential, kid.
+$E=====5839=====
+//何ならオイラの弟子になるか?
+You wanna be my apprentice?
+$E=====5840=====
+//オイラはトレジャーハンター、
+//未来少年トリニティ!!」
+I'm Future Boy Trinity, a
+treasure hunter!"
+$E=====5841=====
 <PROC=0>
 <END>
-$J=====5842=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「おいおい、かんちがいすんな
-よ?
-$J=====5843=====
-トレジャーハンターってのは、
-れっきとした職業(しょくぎょ
-う)だ
-$J=====5844=====
-お宝(たから)を求めて世界をさ
-すらう冒険者(ぼうけんしゃ)!
-$J=====5845=====
-死の危険(きけん)をもかえりみ
-ない永遠(えいえん)の挑戦者(
-ちょうせんしゃ)!
-$J=====5846=====
-これぞ男のロマンだぜ!!
+$E=====5842=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「おいおい、かんちがいすんな
+//よ?
+<LABEL=TRINITY>Trinity</LABEL>:
+"Hey, hey, don't
+misunderstand.
+$E=====5843=====
+//トレジャーハンターってのは、
+//れっきとした職業(しょくぎょ
+//う)だ
+Treasure hunting is a
+reputable occupation, y'see.
+$E=====5844=====
+//お宝(たから)を求めて世界をさ
+//すらう冒険者(ぼうけんしゃ)!
+An adventurer who roams the
+world, hunting for treasure!
+$E=====5845=====
+//死の危険(きけん)をもかえりみ
+//ない永遠(えいえん)の挑戦者(
+//ちょうせんしゃ)!
+An eternal challenger who
+faces deadly peril without a
+second thought!
+$U=====5846=====
+//これぞ男のロマンだぜ!!
+A true Roman man!
 $J=====5847=====
 そこいらのコソドロといっしょ
 にしてもらっちゃあこまる
 $J=====5848=====
 ま、オメェだってにたようなも
 んだろ?
-$J=====5849=====
-ところでオメェ、名前は?
-$J=====5850=====
-太陽少年<NAME>?
-どっかで聞いたような名前だな
-・・・
-$J=====5851=====
-まぁいい、コイツはオメェにゆ
-ずってやるよ
-$J=====5852=====
-なぁに、これからは師匠(しし
-ょう)と弟子だ。
-えんりょはいらねーぜ!」
-$J=====5853=====
+$E=====5849=====
+//ところでオメェ、名前は?
+By the way, what's yer name?
+$E=====5850=====
+//太陽少年<NAME>?
+//どっかで聞いたような名前だな
+//・・・
+Solar Boy <NAME>?
+Where've I heard that name
+before...
+$E=====5851=====
+//まぁいい、コイツはオメェにゆ
+//ずってやるよ
+oh, nevermind. I'll let you
+have this one.
+$E=====5852=====
+//なぁに、これからは師匠(しし
+//ょう)と弟子だ。
+//えんりょはいらねーぜ!」
+Hey, we're master and pupil
+now. Let's put aside our
+differences!"
+$E=====5853=====
 <PROC=0>
 <END>
-$J=====5854=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「それじゃあオイラは先に行く
-ぜ!
-$J=====5855=====
-<PROC=1><LOCK=10>じゃあな!!」
-$J=====5856=====
+$E=====5854=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「それじゃあオイラは先に行く
+//ぜ!
+<LABEL=TRINITY>Trinity</LABEL>:
+"Alright, I'm goin' ahead!
+$E=====5855=====
+//<PROC=1><LOCK=10>じゃあな!!」
+<PROC=1><LOCK=10>Later!"
+$E=====5856=====
 <PROC=0>
 <END>
-$J=====5857=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ところで<NAME>、
-$J=====5858=====
-このワープ魔方陣(まほうじん)
-を覚えているか?
-$J=====5859=====
-これを使えばダンジョン入口と
-の行き来が自由にできる
-$J=====5860=====
-転移(ワープ)を行なうには、魔
-方陣の上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せ
-ばいい
-$J=====5861=====
-もし今の装備(そうび)に不安が
-あるのなら、
-$J=====5862=====
-一度サン・ミゲルにもどって、
-装備(そうび)を整えてはどうだ
-?」
-$J=====5863=====
+$E=====5857=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ところで<NAME>、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"By the way, <NAME>,
+$E=====5858=====
+//このワープ魔方陣(まほうじん)
+//を覚えているか?
+do you remember this Warp
+Magic Square?
+$E=====5859=====
+//これを使えばダンジョン入口と
+//の行き来が自由にできる
+You can use it to move
+freely between here and the
+dungeon entrance.
+$E=====5860=====
+//転移(ワープ)を行なうには、魔
+//方陣の上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せ
+//ばいい
+To warp, stand on top of the
+Warp Magic Square and press
+the <WEIGHT>A Button</WEIGHT>.
+$E=====5861=====
+//もし今の装備(そうび)に不安が
+//あるのなら、
+If you're not confident in
+your current equipment,
+$E=====5862=====
+//一度サン・ミゲルにもどって、
+//装備(そうび)を整えてはどうだ
+//?」
+why not make a trip back to
+San Miguel and get
+everything in order?"
+$E=====5863=====
 <PROC=0>
 <END>
 $J=====5864=====
@@ -20476,365 +20522,558 @@ $J=====5866=====
 $J=====5867=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「ん、あれは・・・?」
-$J=====5868=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「アイツは・・・<NAME>!?
-$J=====5869=====
-あの伯爵(はくしゃく)からにげ
-のびたのか・・・
-$J=====5870=====
-なかなかやるな、太陽少年!!
-$J=====5871=====
-それにしてもあの棺桶(かんお
-け)・・・
-$J=====5872=====
-中身はまさか・・・
-お宝(たから)か!?
-$J=====5873=====
-くーっ、
-弟子のぶんざいであんなに!
-$J=====5874=====
-ひとりじめにはさせねーぞ!!」
-$J=====5875=====
+$E=====5868=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「アイツは・・・<NAME>!?
+<LABEL=TRINITY>Trinity</LABEL>:
+"Hey, that's... <NAME>!?
+$E=====5869=====
+//あの伯爵(はくしゃく)からにげ
+//のびたのか・・・
+He managed to get away from
+the Count...
+$E=====5870=====
+//なかなかやるな、太陽少年!!
+Nice goin', Solar Boy!
+$E=====5871=====
+//それにしてもあの棺桶(かんお
+//け)・・・
+Even so, that coffin...
+$E=====5872=====
+//中身はまさか・・・
+//お宝(たから)か!?
+Could there be... treasure
+inside!?
+$E=====5873=====
+//くーっ、
+//弟子のぶんざいであんなに!
+Hey, you're just a pupil!
+$E=====5874=====
+//ひとりじめにはさせねーぞ!!」
+Don't keep it all to
+yourself!"
+$E=====5875=====
 <PROC=0>
 <END>
-$J=====5876=====
-<LABEL=PLAYER><NAME></LABEL>
-「うっ・・・!?」
-$J=====5877=====
+$E=====5876=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「うっ・・・!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"Ooooh...!?"
+$E=====5877=====
 <PROC=0>
 <END>
-$J=====5878=====
-<LABEL=NONE>???</LABEL>
-「<NAME>・・・
-$J=====5879=====
-今ふたたび、目覚めたようだな
-$J=====5880=====
-かつてその身に受けたヴァンパ
-イアの血、暗黒の力に・・・
-$J=====5881=====
-だがそれでいい
-$J=====5882=====
-たとえそれが暗黒の力であった
-としても、
-$J=====5883=====
-力そのものには正義(せいぎ)も
-悪もないのだからな
-$J=====5884=====
-大切なのはそれを使う者・・・
-その者の心だ」
-$J=====5885=====
+$E=====5878=====
+//<LABEL=NONE>???</LABEL>
+//「<NAME>・・・
+<LABEL=NONE>???</LABEL>:
+"<NAME>...
+$E=====5879=====
+//今ふたたび、目覚めたようだな
+it seems that the vampire
+blood that once dwelled
+within your body,
+$E=====5880=====
+//かつてその身に受けたヴァンパ
+//イアの血、暗黒の力に・・・
+the power of darkness, has
+awoken once again.
+$E=====5881=====
+//だがそれでいい
+However, there is nothing
+wrong with that.
+$E=====5882=====
+//たとえそれが暗黒の力であった
+//としても、
+Even though it's the power
+of darkness,
+$E=====5883=====
+//力そのものには正義(せいぎ)も
+//悪もないのだからな
+power itself is neither good
+nor evil.
+$U=====5884=====
+//大切なのはそれを使う者・・・
+//その者の心だ」
+The important thing is how
+you use it... that's the
+heart of the matter."
+$E=====5885=====
 <PROC=0>
 <END>
-$J=====5886=====
-<LABEL=NONE>???</LABEL>
-「よく聞け、<NAME>
-$J=====5887=====
-戦いの中、おまえの心が高ぶる
-と、画面左上にあるTRC(トラン
-スゲージ)が増加(ぞうか)する
-$J=====5888=====
-心の高ぶり、すなわちTRC(トラ
-ンスゲージ)が頂点(ちょうてん
-)に達したとき、
-$J=====5889=====
-おまえは自身の限界(げんかい)
-をこえた存在(そんざい)へと、
-$J=====5890=====
-トランス(変身)することが可能
-(かのう)となる
-$J=====5891=====
-トランスを行うにはクイックチ
-ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
-ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
-$J=====5892=====
-スペシャルアクションにトラン
-スを選んだ状態(じょうたい)で
-<WEIGHT>Ｌボタン</WEIGHT>を押せばいい
-$J=====5893=====
-ヴァンパイア・・・
-すなわちダーク<NAME>にトランスした状態では、
-$J=====5894=====
-<WEIGHT>Ａボタン</WEIGHT>でダーククロウ(切り
-さき攻撃)、
-$J=====5895=====
-<WEIGHT>Ｂボタン</WEIGHT>でダークファング(吸
-血攻撃)を行うことができる
-$J=====5896=====
-ダークファング(吸血攻撃)では
-$J=====5897=====
-かみついた相手からライフをう
-ばい、回復(かいふく)すること
-ができ、
-$J=====5898=====
-<WEIGHT>Ｂボタン</WEIGHT>を連打することで、連
-続してかみつくこともできるぞ
-$J=====5899=====
-だが注意しろ
-$J=====5900=====
-トランス中は太陽銃(たいよう
-じゅう)やソードを使うことは
-できない
-$J=====5901=====
-トランス発動後、TRC(トランス
-ゲージ)は時間と共に減少(げん
-しょう)し、
-$J=====5902=====
-ゲージがゼロになったとき、ト
-ランスは終了(しゅうりょう)す
-る」
-$J=====5903=====
+$E=====5886=====
+//<LABEL=NONE>???</LABEL>
+//「よく聞け、<NAME>
+<LABEL=NONE>???</LABEL>:
+"Listen well, <NAME>.
+As your emotional levels
+rise during battle,
+$E=====5887=====
+//戦いの中、おまえの心が高ぶる
+//と、画面左上にあるTRC(トラン
+//スゲージ)が増加(ぞうか)する
+the TRC gauge at the upper-
+left of the screen will
+increase.
+$E=====5888=====
+//心の高ぶり、すなわちTRC(トラ
+//ンスゲージ)が頂点(ちょうてん
+//)に達したとき、
+When your emotional level,
+your TRC gauge, reaches its
+peak,
+$E=====5889=====
+//おまえは自身の限界(げんかい)
+//をこえた存在(そんざい)へと、
+it will be possible to
+surpass your body's limits,
+$E=====5890=====
+//トランス(変身)することが可能
+//(かのう)となる
+and go into Trance mode.
+$E=====5891=====
+//トランスを行うにはクイックチ
+//ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
+//ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
+To select Trance using Quick
+Change, hold <WEIGHT>SELECT</WEIGHT> and
+press the <WEIGHT>L Button</WEIGHT>.
+$E=====5892=====
+//スペシャルアクションにトラン
+//スを選んだ状態(じょうたい)で
+//<WEIGHT>Ｌボタン</WEIGHT>を押せばいい
+With Trance selected as your
+Special Action, press the
+<WEIGHT>L Button</WEIGHT> to transform.
+$E=====5893=====
+//ヴァンパイア・・・
+//すなわちダーク<NAME>にトランスした状態では、
+As a vampire... that is, as
+Dark <NAME>,
+$E=====5894=====
+/<WEIGHT>Ａボタン</WEIGHT>でダーククロウ(切り
+//さき攻撃)、
+press the <WEIGHT>A Button</WEIGHT> for
+Dark Claw (a cutting
+attack),
+$E=====5895=====
+//<WEIGHT>Ｂボタン</WEIGHT>でダークファング(吸
+//血攻撃)を行うことができる
+or the <WEIGHT>B Button</WEIGHT> for Dark
+Fang (a blood-sucking
+attack).
+$E=====5896=====
+//ダークファング(吸血攻撃)では
+By using Dark Fang,
+$E=====5897=====
+//かみついた相手からライフをう
+//ばい、回復(かいふく)すること
+//ができ、
+you will drain life from the
+enemy you've bitten and
+recover your own Life.
+$E=====5898=====
+//<WEIGHT>Ｂボタン</WEIGHT>を連打することで、連
+//続してかみつくこともできるぞ
+Keep tapping the <WEIGHT>B Button</WEIGHT> to
+bite the enemy repeatedly.
+$E=====5899=====
+//だが注意しろ
+Be aware, though--
+$E=====5900=====
+//トランス中は太陽銃(たいよう
+//じゅう)やソードを使うことは
+//できない
+you can't use the Solar Gun
+while you're transformed.
+$E=====5901=====
+//トランス発動後、TRC(トランス
+//ゲージ)は時間と共に減少(げん
+//しょう)し、
+After you've started a
+Trance, the TRC gauge
+will drain over time,
+$E=====5902=====
+//ゲージがゼロになったとき、ト
+//ランスは終了(しゅうりょう)す
+//る」
+and when it hits zero, the
+Trance will end."
+$E=====5903=====
 <PROC=0>
 <END>
-$J=====5904=====
-<LABEL=NONE>???</LABEL>
-「わすれるな
-$J=====5905=====
-光差すところ、影(かげ)は落ち
-る
-$J=====5906=====
-影(かげ)なき光など、ないのだ
-ということを・・・」
-$J=====5907=====
+$E=====5904=====
+//<LABEL=NONE>???</LABEL>
+//「わすれるな
+<LABEL=NONE>???</LABEL>:
+"Don't forget.
+$E=====5905=====
+//光差すところ、影(かげ)は落ち
+//る
+Wherever the light shines,
+it casts a shadow.
+$E=====5906=====
+//影(かげ)なき光など、ないのだ
+//ということを・・・」
+There would be no light
+without shadows..."
+$E=====5907=====
 <PROC=0>
 <END>
-$J=====5908=====
-スペシャルアクション
-「トランス・ダーク」
-を思い出した!!
-$J=====5909=====
+$E=====5908=====
+//スペシャルアクション
+//「トランス・ダーク」
+//を思い出した!!
+Special Action
+"Dark Trance"
+remembered!
+$E=====5909=====
 <PROC=0>
 <END>
-$J=====5910=====
-???
-「よう、<NAME>!!」
-$J=====5911=====
+$E=====5910=====
+//???
+//「よう、<NAME>!!」
+???:
+"Yo, <NAME>!"
+$E=====5911=====
 <PROC=0>
 <END>
-$J=====5912=====
+$E=====5912=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「いいところに来たな
-$J=====5913=====
-オメェの腕前(うでまえ)を見せ
-てもらおうか
-$J=====5914=====
-この扉(とびら)のカギをさがし
-てくるんだ
-$J=====5915=====
-これくらいのことができねぇよ
-うじゃあ、トレジャーハンター
-失格(しっかく)だからな
-$J=====5916=====
-制限時間(せいげんじかん)は1
-分だ
-$J=====5917=====
-オイラをがっかりさせないでく
-れよ?」
-$J=====5918=====
+$E=====5913=====
+//オメェの腕前(うでまえ)を見せ
+//てもらおうか
+Why doncha show me your
+skill?
+$E=====5914=====
+//この扉(とびら)のカギをさがし
+//てくるんだ
+Find the key to this door.
+If you can't handle
+something like that,
+$E=====5915=====
+//これくらいのことができねぇよ
+//うじゃあ、トレジャーハンター
+//失格(しっかく)だからな
+you'll be disqualified as a
+treasure hunter.
+$E=====5916=====
+//制限時間(せいげんじかん)は1
+//分だ
+The time limit is 1 minute.
+$E=====5917=====
+//オイラをがっかりさせないでく
+//れよ?」
+Don't disappoint me, okay?"
+$E=====5918=====
 <PROC=0>
 <END>
-$J=====5919=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「やるじゃねぇか!
-$J=====5920=====
+$E=====5919=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「やるじゃねぇか!
+<LABEL=TRINITY>Trinity</LABEL>:
+"You did it!
+$E=====5920=====
 <PROC=0>
 <END>
-$J=====5921=====
-<LABEL=TRINITY></LABEL>さすがはオイラの弟子だぜ」
-$J=====5922=====
+$E=====5921=====
+//<LABEL=TRINITY></LABEL>さすがはオイラの弟子だぜ」
+<LABEL=TRINITY></LABEL>Just what I'd expect from my
+apprentice."
+$E=====5922=====
 <PROC=0>
 <END>
-$J=====5923=====
-[黄のカギ]を使った!!
-$J=====5924=====
+$E=====5923=====
+//[黄のカギ]を使った!!
+"Yellow Key" obtained!
+$E=====5924=====
 <PROC=0>
 <END>
-$J=====5925=====
-<LABEL=TRINITY>トリニティ</LABEL>
-<PROC=1><LOCK=10>「じゃあな!!」
-$J=====5926=====
+$E=====5925=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//<PROC=1><LOCK=10>「じゃあな!!」
+<LABEL=TRINITY>Trinity</LABEL>:
+<PROC=1><LOCK=10>"Later!"
+$E=====5926=====
 <PROC=0>
 <END>
-$J=====5927=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「おそいぜ、<NAME>!!
-$J=====5928=====
+$E=====5927=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「おそいぜ、<NAME>!!
+<LABEL=TRINITY>Trinity</LABEL>:
+"You're late, <NAME>!
+$E=====5928=====
 <PROC=0>
 <END>
-$J=====5929=====
-<LABEL=TRINITY></LABEL>ま、これが師匠(ししょう)と弟
-子の実力差ってやつだな
-$J=====5930=====
-<LABEL=TRINITY></LABEL>オイラのようにクールなトレジ
-ャーハンターになりたかったら
-$J=====5931=====
-もう少し頭をきたえろよ!」
-$J=====5932=====
+$E=====5929=====
+//<LABEL=TRINITY></LABEL>ま、これが師匠(ししょう)と弟
+//子の実力差ってやつだな
+<LABEL=TRINITY></LABEL>Well, that's the difference
+between a master and an
+apprentice.
+$E=====5930=====
+//<LABEL=TRINITY></LABEL>オイラのようにクールなトレジ
+//ャーハンターになりたかったら
+<LABEL=TRINITY></LABEL>If you want to become a cool
+treasure hunter like me,
+$E=====5931=====
+//もう少し頭をきたえろよ!」
+you've got a bit more
+training to do!"
+$E=====5932=====
 <PROC=0>
 <END>
-$J=====5933=====
-ミッション失敗(ホントはビジュアル)
-$J=====5934=====
+$U=====5933=====
+//ミッション失敗(ホントはビジュアル)
+Mission Failed (reality is visible)
+$E=====5934=====
 <PROC=0>
 <END>
-$J=====5935=====
-<LABEL=TRINITY>トリニティ</LABEL>
-<PROC=1><LOCK=6>「じゃあな!!」
-$J=====5936=====
+$E=====5935=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//<PROC=1><LOCK=6>「じゃあな!!」
+<LABEL=TRINITY>Trinity</LABEL>:
+<PROC=1><LOCK=6>"Later!"
+$E=====5936=====
 <PROC=0>
 <END>
-$J=====5937=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「何だ、オメェか・・・
-おどかすなよ
-$J=====5938=====
-オメェもこの部屋が気になるの
-か?
-$J=====5939=====
-さすがはオイラの弟子、
-と言いたいところだが・・・
-$J=====5940=====
-ここだけはあきらめるしかない
-ぜ
-$J=====5941=====
-ヤバイにおいがプンプンしやが
-る
-$J=====5942=====
-例の伯爵(はくしゃく)とかいう
-ヴァンパイアにちがいない
-$J=====5943=====
-引きぎわだな。とっととずらか
-ったほうがいいぜ?
-$J=====5944=====
-なに!?
-伯爵(はくしゃく)をたおす?　
-$J=====5945=====
-おいおい、
-$J=====5946=====
+$E=====5937=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「何だ、オメェか・・・
+//おどかすなよ
+<LABEL=TRINITY>Trinity</LABEL>:
+"Oh, it's you...
+don't scare me like that.
+$E=====5938=====
+//オメェもこの部屋が気になるの
+//か?
+You feelin' uneasy about this room too?
+$U=====5939=====
+//さすがはオイラの弟子、
+//と言いたいところだが・・・
+That's just like my
+apprentice, is what I'd
+like to say,
+$E=====5940=====
+//ここだけはあきらめるしかない
+//ぜ
+but we can't give up just
+yet!
+$E=====5941=====
+//ヤバイにおいがプンプンしやが
+//る
+This place reeks of danger.
+$E=====5942=====
+//例の伯爵(はくしゃく)とかいう
+//ヴァンパイアにちがいない
+It's the smell of a vampire
+like the Count, no mistaking
+it.
+$U=====5943=====
+//引きぎわだな。とっととずらか
+//ったほうがいいぜ?
+$E=====5944=====
+//なに!?
+//伯爵(はくしゃく)をたおす?　
+What!?
+Defeat the Count?
+$E=====5945=====
+//おいおい、
+Hey, hey,
+$E=====5946=====
 <PROC=0>
 <END>
-$J=====5947=====
-<LABEL=TRINITY></LABEL>人間が闇の一族(イモータル)に
-勝てるわけないだろ?」
- <ALTER>勝てる</ALTER>  <ALTER>分からない</ALTER>
-$J=====5948=====
+$E=====5947=====
+//<LABEL=TRINITY></LABEL>人間が闇の一族(イモータル)に
+//勝てるわけないだろ?」
+// <ALTER>勝てる</ALTER>  <ALTER>分からない</ALTER>
+<LABEL=TRINITY></LABEL>
+A human can't win against an
+Immortal, right?
+ <ALTER>I'll win</ALTER>  <ALTER>I don't know</ALTER>
+$E=====5948=====
 <PROC=0>
 <END>
-$J=====5949=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「おいおい、
-$J=====5950=====
-そんなことができんのは伝説(
-でんせつ)の戦士ぐらいだ
-$J=====5951=====
-もっともオイラのいた世界には
-そんなヤツいなかったけどな」
-$J=====5952=====
+$E=====5949=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「おいおい、
+<LABEL=TRINITY>Trinity</LABEL>:
+"Hey, hey,
+$E=====5950=====
+//そんなことができんのは伝説(
+//でんせつ)の戦士ぐらいだ
+Only the Legendary Warrior
+could do somethin' like
+that.
+$E=====5951=====
+//もっともオイラのいた世界には
+//そんなヤツいなかったけどな」
+Though there's no one like
+that in the world I'm from.
+$E=====5952=====
 <PROC=0>
 <END>
-$J=====5953=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「オイラの生まれた世界、
-未来世紀・・・
+$E=====5953=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「オイラの生まれた世界、
+//未来世紀・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"The world where I was born,
+the Future Era...
 $J=====5954=====
 太陽をうばわれた暗黒の世界。
 そこにあるのは絶望(ぜつぼう)
 だけだ・・・
-$J=====5955=====
-伝説(でんせつ)の戦士なんての
-は、しょせんおとぎ話さ
-$J=====5956=====
-ま、信じる信じないはオメェの
-自由だ
-$J=====5957=====
-とにかくオイラは行かねぇから
-な!
-$J=====5958=====
-あばよ!!」
-$J=====5959=====
+it's a world of darkness
+where the Sun was taken
+away. Only despair remains.
+$E=====5955=====
+//伝説(でんせつ)の戦士なんての
+//は、しょせんおとぎ話さ
+The Legendary Warrior is
+just a fairy tale from the
+early days of the battle.
+$E=====5956=====
+//ま、信じる信じないはオメェの
+//自由だ
+Well, whether or not you
+believe me is up to you.
+$E=====5957=====
+//とにかくオイラは行かねぇから
+//な!
+Anyway, I'm not goin'!
+$E=====5958=====
+//あばよ!!」
+So long!"
+$E=====5959=====
 <PROC=0>
 <END>
-$J=====5960=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「やってみなけりゃ分からない
-・・・?
-$J=====5961=====
-分かるんだよ・・・未来からや
-って来たオイラにはな」
-$J=====5962=====
+$E=====5960=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「やってみなけりゃ分からない
+//・・・?
+<LABEL=TRINITY>Trinity</LABEL>:
+"You don't know if you can
+do it...?
+$E=====5961=====
+//分かるんだよ・・・未来からや
+//って来たオイラにはな」
+I know the answer...
+I came here from the future,
+after all."
+$E=====5962=====
 <PROC=0>
 <END>
-$J=====5963=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「オイラの生まれた世界、
-未来世紀・・・
-$J=====5964=====
-太陽をうばわれた暗黒の世界。
-そこにあるのは絶望(ぜつぼう)
-だけだ・・・
-$J=====5965=====
-オイラはそこから、タイムスト
-リップでやって来たというわけ
-さ
-$J=====5966=====
-ま、信じる信じないはオメェの
-自由だ
-$J=====5967=====
-とにかくオイラは行かねぇから
-な!
-$J=====5968=====
-あばよ!!」
-$J=====5969=====
+$E=====5963=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「オイラの生まれた世界、
+//未来世紀・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"The world where I was born,
+the Future Era...
+$E=====5964=====
+//太陽をうばわれた暗黒の世界。
+//そこにあるのは絶望(ぜつぼう)
+//だけだ・・・
+it's a world of darkness
+where the Sun was taken
+away. Only despair remains.
+$E=====5965=====
+//オイラはそこから、タイムスト
+//リップでやって来たというわけ
+//さ
+that's why I came here usin'
+a Timestrip in the first
+place.
+$E=====5966=====
+//ま、信じる信じないはオメェの
+//自由だ
+Well, whether or not you
+believe me is up to you.
+$E=====5967=====
+//とにかくオイラは行かねぇから
+//な!
+Anyway, I'm not goin'!
+$E=====5968=====
+//あばよ!!」
+So long!"
+$E=====5969=====
 <PROC=0>
 <END>
-$J=====5970=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「アイツ、ホントに行っちまっ
-たよ・・・
-$J=====5971=====
-伯爵(はくしゃく)ってのは、そ
-んなにすごいお宝(たから)を持
-ってんのか?
-$J=====5972=====
-それに・・・もしかしてこの時
-代の闇の一族(イモータル)は弱
-いんじゃないか?
-$J=====5973=====
-そうだよ・・・
-そうにちがいねぇ!!
-$J=====5974=====
+$E=====5970=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「アイツ、ホントに行っちまっ
+//たよ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"He really went in...
+$E=====5971=====
+//伯爵(はくしゃく)ってのは、そ
+//んなにすごいお宝(たから)を持
+//ってんのか?
+Wouldn't the Count have some
+incredible treasure?
+$E=====5972=====
+//それに・・・もしかしてこの時
+//代の闇の一族(イモータル)は弱
+//いんじゃないか?
+Besides... the Immortals in
+this era might be weaker.
+$E=====5973=====
+//そうだよ・・・
+//そうにちがいねぇ!!
+Yeah...
+Yeah, I'm sure of it!
+$U=====5974=====
 でなきゃあ、闇の一族(イモー
 タル)と戦おうだなんて思わね
 ぇもんな!
-$J=====5975=====
-よーしっ、どれほどのお宝(た
-から)かは知らねぇが・・・
-$J=====5976=====
-アイツのひとりじめにはさせね
-ぇぜ!!」
-$J=====5977=====
+$E=====5975=====
+//よーしっ、どれほどのお宝(た
+//から)かは知らねぇが・・・
+Alright, dunno how much
+treasure there is...
+$E=====5976=====
+//アイツのひとりじめにはさせね
+//ぇぜ!!」
+but I'm not lettin' him take
+it all for himself!"
+$E=====5977=====
 <PROC=0>
 <END>
 $J=====5978=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「アンデッドを使って町々をお
-そい、
-$J=====5979=====
-その住人からエナジーをうばう
-・・・
-$J=====5980=====
-まったく退屈(たいくつ)な任務
-(にんむ)だ
-$J=====5981=====
-わたしにいどんでくる者もいな
-くはなかったが・・・
-$J=====5982=====
-勝負の見えている戦いなど、お
-もしろくはない
-$J=====5983=====
-おまえもそうは思わないか、
-太陽少年<NAME>?」
-$J=====5984=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「アンデッドを使って町々をお
+//そい、
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Attacking cities with
+undead,
+$E=====5979=====
+//その住人からエナジーをうばう
+//・・・
+and draining the energy from
+their inhabitants...
+$E=====5980=====
+//まったく退屈(たいくつ)な任務
+//(にんむ)だ
+what a boring job.
+$E=====5981=====
+//わたしにいどんでくる者もいな
+//くはなかったが・・・
+It's not as if nothing has
+come to challenge me...
+$E=====5982=====
+//勝負の見えている戦いなど、お
+//もしろくはない
+but there's no fun in a
+battle when you already know
+the outcome.
+$E=====5983=====
+//おまえもそうは思わないか、
+//太陽少年<NAME>?」
+Don't you feel the same way,
+Solar Boy <NAME>?"
+$E=====5984=====
 <PROC=0>
 <END>
 $J=====5985=====
@@ -20854,154 +21093,227 @@ $J=====5988=====
 $J=====5989=====
 兄、サバタにたおされたおまえ
 を復活(ふっかつ)させた
-$J=====5990=====
-おまえは暗黒の力によって生き
-長らえたのだ・・・
-$J=====5991=====
-太陽少年ともあろう者が皮肉な
-ものだな!
-$J=====5992=====
+$E=====5990=====
+//おまえは暗黒の力によって生き
+//長らえたのだ・・・
+You've only survived this
+long thanks to the power of
+darkness...
+$E=====5991=====
+//太陽少年ともあろう者が皮肉な
+//ものだな!
+and you're the Solar Boy!
+Oh, the irony!
+$E=====5992=====
 <PROC=0>
 <END>
-$J=====5993=====
-<LABEL=HAKUSYAKU></LABEL>クッカッカッカッカッ!!」
-$J=====5994=====
+$E=====5993=====
+//<LABEL=HAKUSYAKU></LABEL>クッカッカッカッカッ
+!!」
+<LABEL=HAKUSYAKU></LABEL>Bwa ha ha ha ha!"
+$E=====5994=====
 <PROC=0>
 <END>
-$J=====5995=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「伯爵(はくしゃく)、
-サバタはどこにいる!?」
-$J=====5996=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「知ってどうする?
-$J=====5997=====
-覚悟(かくご)はできたのか、
-<NAME>?
-$J=====5998=====
-兄をたおす覚悟(かくご)は?」
-$J=====5999=====
+$E=====5995=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「伯爵(はくしゃく)、
+//サバタはどこにいる!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Where is Sabata, Count!?"
+$E=====5996=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「知ってどうする?
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"What would you do if you
+knew?
+$E=====5997=====
+//覚悟(かくご)はできたのか、
+//<NAME>?
+Are you prepared, <NAME>?
+$E=====5998=====
+//兄をたおす覚悟(かくご)は?」
+Prepared to kill your
+brother?
+$E=====5999=====
 <PROC=0>
 <END>
-$J=====6000=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「クックックッ・・・」
-$J=====6001=====
+$E=====6000=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「クックックッ・・・」
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Heh heh heh..."
+$E=====6001=====
 <PROC=0>
 <END>
-$J=====6002=====
-<LABEL=NONE>???</LABEL>
-「ちょっと待ったーっ!!」
-$J=====6003=====
+$E=====6002=====
+//<LABEL=NONE>???</LABEL>
+//「ちょっと待ったーっ!!」
+<LABEL=NONE>???</LABEL>:
+"Stop right there!"
+$E=====6003=====
 <PROC=0>
 <END>
-$J=====6004=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おまえは・・・」
-$J=====6005=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「何だおまえは?」
-$J=====6006=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「オイラはトレジャーハンター
-未来少年トリニティ!!
-$J=====6007=====
-ヴァンパイア・ロード、伯爵(
-はくしゃく)!
-$J=====6008=====
+$E=====6004=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おまえは・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"It's you..."
+$E=====6005=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「何だおまえは?」
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Who are you?"
+$E=====6006=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「オイラはトレジャーハンター
+//未来少年トリニティ!!
+<LABEL=TRINITY>Trinity</LABEL>:
+I'm Future Boy Trinity,
+treasure hunter!
+$E=====6007=====
+//ヴァンパイア・ロード、伯爵(
+//はくしゃく)!
+Vampire Lord, Count!
+$E=====6008=====
 <PROC=0>
 <END>
-$J=====6009=====
-<LABEL=TRINITY></LABEL>テメェはオイラがたおす!!」
-$J=====6010=====
+$E=====6009=====
+//<LABEL=TRINITY></LABEL>テメェはオイラがたおす!!」
+<LABEL=TRINITY></LABEL>I'm gonna defeat you!"
+$E=====6010=====
 <PROC=0>
 <END>
-$J=====6011=====
-<LABEL=PLAYER><NAME></LABEL>
-「待て、トリニティ!!」
-$J=====6012=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「<NAME>、ここは師匠(ししょう)にまかせておけ!」
-$J=====6013=====
+$E=====6011=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「待て、トリニティ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity, wait!"
+$E=====6012=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「<NAME>、ここは師匠(ししょう)にまかせておけ!」
+<LABEL=TRINITY>Trinity</LABEL>:
+"<NAME>, let your master
+take it from here!"
+$E=====6013=====
 <PROC=0>
 <END>
-$J=====6014=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「ハンッ、
-ザコに用はないわ!!」
-$J=====6015=====
+$E=====6014=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「ハンッ、
+//ザコに用はないわ!!」
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Hah.
+Useless, small fry!"
+$E=====6015=====
 <PROC=0>
 <END>
-$J=====6016=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「バカな・・・!?
-$J=====6017=====
-この時代の闇の一族(イモータ
-ル)は弱いんじゃあ・なかった
-・・のか・・・」
-$J=====6018=====
+$E=====6016=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「バカな・・・!?
+<LABEL=TRINITY>Trinity</LABEL>:
+"No way...!?
+$E=====6017=====
+//この時代の闇の一族(イモータ
+//ル)は弱いんじゃあ・なかった
+//・・のか・・・」
+The Immortals in this era
+aren't weaker... after...
+all..."
+$E=====6018=====
 <PROC=0>
 <END>
-$J=====6019=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ!!」
-$J=====6020=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「つまらんジャマが入ったな
-$J=====6021=====
+$E=====6019=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity!"
+$E=====6020=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「つまらんジャマが入ったな
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"What a boring interruption.
+$E=====6021=====
 <PROC=0>
 <END>
-$J=====6022=====
-<LABEL=HAKUSYAKU></LABEL>わたしがほっするもの・・・
-それは恐怖(きょうふ)だ
-$J=====6023=====
-死をともなわない戦いに何の意
-味がある?
-$J=====6024=====
-だがおまえとなら、本当の戦い
-を味わえる
-$J=====6025=====
-わが好敵手(ライバル)、
-太陽少年<NAME>!!
-$J=====6026=====
-共に血の舞踏(ぶとう)をまおう
-ではないか!」
-$J=====6027=====
+$E=====6022=====
+//<LABEL=HAKUSYAKU></LABEL>わたしがほっするもの・・・
+//それは恐怖(きょうふ)だ
+<LABEL=HAKUSYAKU></LABEL>What I truly desire...
+is fear.
+$E=====6023=====
+//死をともなわない戦いに何の意
+//味がある?
+What meaning is there in a
+battle that's not to the
+death?
+$E=====6024=====
+//だがおまえとなら、本当の戦い
+//を味わえる
+But with you, I can savor a
+true battle.
+$E=====6025=====
+//わが好敵手(ライバル)、
+//太陽少年<NAME>!!
+My rival,
+Solar Boy <NAME>!
+$E=====6026=====
+//共に血の舞踏(ぶとう)をまおう
+//ではないか!」
+Let us begin the Dance of
+Death!"
+$E=====6027=====
 <PROC=0>
 <END>
-$J=====6028=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし、伯爵(はくしゃく)を封
-印(ふういん)したな
-$J=====6029=====
-この棺桶(かんおけ)を闇の領域
-(ダンジョン)から運び出し、
-$J=====6030=====
-太陽の光で浄化(じょうか)する
-んだ!」
-$J=====6031=====
+$E=====6028=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし、伯爵(はくしゃく)を封
+//印(ふういん)したな
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Good job, you sealed away
+the Count.
+$E=====6029=====
+//この棺桶(かんおけ)を闇の領域
+//(ダンジョン)から運び出し、
+Carry that coffin out of the
+dungeon,
+$E=====6030=====
+//太陽の光で浄化(じょうか)する
+//んだ!」
+and purify it in the light
+of the Sun!"
+$E=====6031=====
 <PROC=0>
 <END>
-$J=====6032=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「あいつが心配か?
-$J=====6033=====
-ねているだけだ。
-心配はいらん」
-$J=====6034=====
+$E=====6032=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「あいつが心配か?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Worried about that guy?
+$E=====6033=====
+//ねているだけだ。
+//心配はいらん」
+He's just sleeping.
+No need to worry."
+$E=====6034=====
 <PROC=0>
 <END>
-$J=====6035=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「いいか、<NAME>
-$J=====6036=====
-棺桶(かんおけ)の近くで<WEIGHT>Ａボタ
-ン</WEIGHT>を押(お)して棺桶(かんおけ)
-をつかみ、
-$J=====6037=====
-そのまま<WEIGHT>{＋}ボタン</WEIGHT>で移動(いど
-う)すれば、棺桶(かんおけ)を
-運ぶことができる
+$E=====6035=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「いいか、<NAME>
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Okay, <NAME>.
+$E=====6036=====
+//棺桶(かんおけ)の近くで<WEIGHT>Ａボタ
+//ン</WEIGHT>を押(お)して棺桶(かんおけ)
+//をつかみ、
+Press the <WEIGHT>A Button</WEIGHT> near the
+coffin to grab onto it,
+$E=====6037=====
+//そのまま<WEIGHT>{＋}ボタン</WEIGHT>で移動(いど
+//う)すれば、棺桶(かんおけ)を
+//運ぶことができる
+then use the <WEIGHT>{＋}Control Pad</WEIGHT>
+to drag it around.
 $J=====6038=====
 封印(ふういん)したとはいって
 も相手は闇の一族(イモータル)
@@ -21020,12 +21332,13 @@ $J=====6041=====
 $J=====6042=====
 たのんだぞ、
 太陽少年<NAME>!!
-$J=====6043=====
-<PROC=1><LOCK=70>太陽と共にあらんことを!」
+$E=====6043=====
+//<PROC=1><LOCK=70>太陽と共にあらんことを!」
+<PROC=1><LOCK=70>May the Sun be with you!"
 $J=====6044=====
 <PROC=0>
 <END>
-$J=====6045=====
+$E=====6045=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「うん・・・
 $J=====6046=====
@@ -21033,29 +21346,41 @@ $J=====6046=====
 $J=====6047=====
 <PROC=0>
 <END>
-$J=====6048=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「伯爵(はくしゃく)は!?
-アイツはどこに行った!?」
-$J=====6049=====
+$E=====6048=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「伯爵(はくしゃく)は!?
+//アイツはどこに行った!?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"The Count!?
+Where is he!?"
+$E=====6049=====
 <PROC=0>
 <END>
-$J=====6050=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「まさか
-オイラの代わりに・・・
-$J=====6051=====
-うぅ・・・
-すまない、<NAME>
-$J=====6052=====
+$E=====6050=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「まさか
+//オイラの代わりに・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"Don't tell me you...
+in my stead...
+$E=====6051=====
+//うぅ・・・
+//すまない、<NAME>
+Oooh...
+I'm sorry, <NAME>.
+$E=====6052=====
 <PROC=0>
 <END>
-$J=====6053=====
-<LABEL=TRINITY></LABEL>だがオメェの死をムダにはしな
-い!
-$J=====6054=====
-お宝(たから)はオイラが必ず手
-に入れてやるからな!!」
+$E=====6053=====
+//<LABEL=TRINITY></LABEL>だがオメェの死をムダにはしな
+//い!
+<LABEL=TRINITY></LABEL>But I won't let your death
+be in vain!
+$E=====6054=====
+//お宝(たから)はオイラが必ず手
+//に入れてやるからな!!」
+I'll definitely obtain his
+treasure!"
 $J=====6055=====
 <PROC=0>
 <END>
@@ -32600,13 +32925,15 @@ $J=====9799=====
 ワイヤレスアダプタがあれば、
 クロスオーバーバトル2をプレ
 イすることができます。
-$J=====9800=====
+$E=====9800=====
 <EXTEND=0>
-$J=====9801=====
+$E=====9801=====
 <EXTEND=1>
-$J=====9802=====
-<LABEL=NONE>ロックマン</LABEL>
-「<EXTEND=2>」
+$E=====9802=====
+//<LABEL=NONE>ロックマン</LABEL>
+//「<EXTEND=2>」
+<LABEL=NONE>RockMan</LABEL>:
+"<EXTEND=2>"
 $J=====9803=====
 接続がキャンセルされました。
 $J=====9804=====
@@ -32615,18 +32942,21 @@ $J=====9805=====
 <WEIGHT>「<EXTEND=2>」</WEIGHT>
 バトルの申し込みがありました
 <WEIGHT>Ａボタン</WEIGHT>でバトルを開始します
-$J=====9806=====
-通信中です。
-$J=====9807=====
-相手の選択を待っています。
-$J=====9808=====
-今回のクロスオーバーポイント
+$E=====9806=====
+//通信中です。
+Transmitting.
+$E=====9807=====
+//相手の選択を待っています。
+Waiting for opponent to choose.
+$E=====9808=====
+//今回のクロスオーバーポイント
+Today's Crossover Points
 $E=====9809=====
 //クロスオーバーポイントの合計
 Crossover Point Total
 $U=====9810=====
 //きょうもクロスオーバー
-Today's Crossover
+Crossover today too
 $E=====9811=====
 //たいよぉーーーーーー
 Sunliiiight!
