@@ -357,7 +357,6 @@ $J=====84=====
 アナタのその、決意を秘(ひ)め
 た瞳(ひとみ)を見ていると、お
 兄さまを思い出すの
-1234567890123456789012345678
 $J=====85=====
 この街を守るために、エージェ
 ントになると言って出て行った
@@ -3952,7 +3951,7 @@ $E=====1414=====
 //「弾道ミサイル」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Special
-"Ballistic Missile"
+"Missiles"
 obtained!</LABEL><PROC=1>
 $E=====1415=====
 <PROC=0>
@@ -7211,7 +7210,7 @@ $E=====2330=====
 STEALTH
 $E=====2331=====
 //弾道ミサイル
-BALLISTIC MISSILE
+MISSILES
 $E=====2332=====
 //<WEIGHT>Ａボタン</WEIGHT>を押(お)している間、HPを回復(かいふく)する。
 Hold the <WEIGHT>A Button</WEIGHT> to recover HP.
@@ -8164,16 +8163,21 @@ $J=====2605=====
 武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
 $J=====2606=====
 図書館の司書。その正体は組織(ギルド)中央から派遣(はけん)された「ギルドマスター」。封印術(ふういんじゅつ)の他、護身術(ごしんじゅつ)にも長けており、リタの才能(さいのう)を開花させた張本人(ちょうほんにん)。
-$J=====2607=====
-愛する者を失い、そのショックに自分をも失ってしまった男。棺桶(かんおけ)に執着(しゅうちゃく)し、ついには究極の棺桶(かんおけ)「ベクターコフィン」と「棺桶(かんおけ)バイク」を作るにいたった。コーチとの関係は・・・?
-$J=====2608=====
-棺桶獣(かんおけじゅう)エレファンと共に、突如(とつじょ)としてあらわれた鬼(おに)コーチ。なぜか棺桶(かんおけ)バイクのすべてを知りつくしており、執拗(しつよう)に<NAME>をしごき上げる。棺桶屋(かんおけや)との関係は・・・?
-$J=====2609=====
-時計塔(とけいとう)の管理人。人付き合いが苦手で、口は悪いが、おこっているわけではないようだ。
-$J=====2610=====
-サン・ミゲルに住む動物好きな青年。大きな身体に見合わず、気は小さい。
-$J=====2611=====
-サン・ミゲルに住む散歩好きな老人。白くて長いヒゲが自慢(じまん)。
+$E=====2607=====
+//愛する者を失い、そのショックに自分をも失ってしまった男。棺桶(かんおけ)に執着(しゅうちゃく)し、ついには究極の棺桶(かんおけ)「ベクターコフィン」と「棺桶(かんおけ)バイク」を作るにいたった。コーチとの関係は・・・?
+A man who lost himself from the shock of losing his loved one. Attached to coffins, he has finally created the ultimate coffin "Vector Coffin" and "Coffin Bike". Just what is his connection to Coach...?
+$E=====2608=====
+//棺桶獣(かんおけじゅう)エレファンと共に、突如(とつじょ)としてあらわれた鬼(おに)コーチ。なぜか棺桶(かんおけ)バイクのすべてを知りつくしており、執拗(しつよう)に<NAME>をしごき上げる。棺桶屋(かんおけや)との関係は・・・?
+A devilish coach who suddenly appeared along with the Coffin Monster, Elefan. He somehow knows all there is to know about the Coffin Bike, and puts <NAME> through intense training. Just what is his connection to the Coffin Shopkeeper...?
+$E=====2609=====
+//時計塔(とけいとう)の管理人。人付き合いが苦手で、口は悪いが、おこっているわけではないようだ。
+The clocktower's manager. He's not very friendly and speaks harshly, but he doesn't actually seem to be angry.
+$E=====2610=====
+//サン・ミゲルに住む動物好きな青年。大きな身体に見合わず、気は小さい。
+A young man living in San Miguel who likes animals. Despite his large body, he is quite meek.
+$E=====2611=====
+//サン・ミゲルに住む散歩好きな老人。白くて長いヒゲが自慢(じまん)。
+An old man living in San Miguel who likes going on walks. Proud of his long, white beard.
 $J=====2612=====
 イモータル四人衆(よにんしゅう)の1人。好敵手(ライバル)との戦いを求めて復活(ふっかつ)した「ヴァンパイア・ロード」。闇の女王(クイーン)への忠誠心(ちゅうせいしん)からか、<NAME>をサバタの下へとみちびき、ラタトスクの野望を妨害(ぼうがい)した。
 $J=====2613=====
@@ -8182,12 +8186,15 @@ $J=====2614=====
 イモータル四人衆(よにんしゅう)の1人。鉄(くろがね)の軍団(ぐんだん)を作り出し、自らは巨大鉄竜(きょだいてつりゅう)に乗りこむマッドサイエンティスト。食い気優先(ゆうせん)のフレスベルグとは犬猿(けんえん)の仲。
 $J=====2615=====
 イモータル四人衆(よにんしゅう)の1人。破壊(はかい)の獣(けもの)の恐怖(きょうふ)による世界支配(せかいしはい)をもくろみ、サバタや他の闇の一族(イモータル)を利用する。物理的にも精神的(せいしんてき)にも、他者をあやつる能力(のうりょく)に長けている。
-$J=====2616=====
-異世界からの来訪者(らいほうしゃ)。記憶(きおく)がないという自らの状況(じょうきょう)を楽しんでいる。単独潜入任務(たんどくせんにゅうにんむ)を得意とするが、女性にはだまされやすい・・・らしい。
-$J=====2617=====
-異世界からの来訪者(らいほうしゃ)。真面目な性格(せいかく)のネットナビ。闇(やみ)のネットナビ「シェードマン」を追って世紀末世界にあらわれた。共に戦った<NAME>とは、固い友情(ゆうじょう)で結ばれている。
-$J=====2618=====
-異世界からの来訪者(らいほうしゃ)。「ガリガリ君ソーダ」さえあれば、どんな魔物(モンスター)もヘッチャラ!!・・・らしい。ピンチになると「シャリシャリ君」に変身!!・・・するらしいが、そのすがたを見た者はいない。
+$E=====2616=====
+//異世界からの来訪者(らいほうしゃ)。記憶(きおく)がないという自らの状況(じょうきょう)を楽しんでいる。単独潜入任務(たんどくせんにゅうにんむ)を得意とするが、女性にはだまされやすい・・・らしい。
+A visitor from another world. A man with no memories, he is enjoying himself while unaware of his circumstances. Proud of his solo infiltration missions, he is easily deceived by women... apparently.
+$E=====2617=====
+//異世界からの来訪者(らいほうしゃ)。真面目な性格(せいかく)のネットナビ。闇(やみ)のネットナビ「シェードマン」を追って世紀末世界にあらわれた。共に戦った<NAME>とは、固い友情(ゆうじょう)で結ばれている。
+A visitor from another world. A NetNavi with a genuine personality. The Dark NetNavi, ShadeMan, later appeared in this world. Fighting him alongside <NAME>, the two developed a strong bond of friendship.
+$E=====2618=====
+//異世界からの来訪者(らいほうしゃ)。「ガリガリ君ソーダ」さえあれば、どんな魔物(モンスター)もヘッチャラ!!・・・らしい。ピンチになると「シャリシャリ君」に変身!!・・・するらしいが、そのすがたを見た者はいない。
+A visitor from another world. As long as he has GariGari Soda, he'll stay cool! ...apparently. Transforms into ShariShari-kun when in danger! ...or so it seems, but that form has never been seen.
 $E=====2619=====
 ?????
 $E=====2620=====
@@ -8375,72 +8382,101 @@ $E=====2697=====
  
 $E=====2698=====
  
-$J=====2699=====
-残滅任務
+$E=====2699=====
+//残滅任務
+Extermination Mission
 $E=====2700=====
 //探索任務
 Search Mission
 $E=====2701=====
 //脱出任務
 Escape Mission
-$J=====2702=====
-残滅任務
-$J=====2703=====
-探索任務
-$J=====2704=====
-脱出任務
-$J=====2705=====
-残滅任務
-$J=====2706=====
-探索任務
-$J=====2707=====
-脱出任務
-$J=====2708=====
-残滅任務
-$J=====2709=====
-探索任務
-$J=====2710=====
-脱出任務
-$J=====2711=====
-残滅任務
-$J=====2712=====
-探索任務
-$J=====2713=====
-脱出任務
-$J=====2714=====
-ダンジョンを探索する
-$J=====2715=====
+$E=====2702=====
+//残滅任務
+Extermination Mission
+$E=====2703=====
+//探索任務
+Search Mission
+$E=====2704=====
+//脱出任務
+Escape Mission
+$E=====2705=====
+//残滅任務
+Extermination Mission
+$E=====2706=====
+//探索任務
+Search Mission
+$E=====2707=====
+//脱出任務
+Escape Mission
+$E=====2708=====
+//残滅任務
+Extermination Mission
+$E=====2709=====
+//探索任務
+Search Mission
+$E=====2710=====
+//脱出任務
+Escape Mission
+$E=====2711=====
+//残滅任務
+Extermination Mission
+$E=====2712=====
+//探索任務
+Search Mission
+$E=====2713=====
+//脱出任務
+Escape Mission
+$E=====2714=====
+//ダンジョンを探索する
+Search the Dungeon
+$E=====2715=====
 ???
-$J=====2716=====
-残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-$J=====2717=====
-探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-$J=====2718=====
-脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-$J=====2719=====
-残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-$J=====2720=====
-探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-$J=====2721=====
-脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-$J=====2722=====
-残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-$J=====2723=====
-探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-$J=====2724=====
-脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-$J=====2725=====
-残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-$J=====2726=====
-探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-$J=====2727=====
-脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
-$J=====2728=====
-残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-$J=====2729=====
-探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
-$J=====2730=====
-脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
+$E=====2716=====
+//残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
+Extermination Mission: Defeat all enemy monsters!
+$E=====2717=====
+//探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
+Search Mission: Get the 3 Goddess Statues!
+$E=====2718=====
+//脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
+Escape Mission: Escape without being seen!
+$E=====2719=====
+//残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
+Extermination Mission: Defeat all enemy monsters!
+$E=====2720=====
+//探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
+Search Mission: Get the 3 Goddess Statues!
+$E=====2721=====
+//脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
+Escape Mission: Escape without being seen!
+$E=====2722=====
+//残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
+Extermination Mission: Defeat all enemy monsters!
+$E=====2723=====
+//探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
+Search Mission: Get the 3 Goddess Statues!
+$E=====2724=====
+//脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
+Escape Mission: Escape without being seen!
+$E=====2725=====
+//残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
+Extermination Mission: Defeat all enemy monsters!
+$E=====2726=====
+//探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
+Search Mission: Get the 3 Goddess Statues!
+$E=====2727=====
+//脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
+Escape Mission: Escape without being seen!
+$E=====2728=====
+//残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
+Extermination Mission: Defeat all enemy monsters!
+$E=====2729=====
+//探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
+Search Mission: Get the 3 Goddess Statues!
+$E=====2730=====
+//脱出任務(だっしゅつにんむ)：敵(てき)モンスターに見つからずに、ダンジョンから脱出(だっしゅつ)せよ!!
+Escape Mission: Escape without being seen!
 $E=====2731=====
 //<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
 //「良く来たな、<NAME>
@@ -8468,9 +8504,9 @@ $U=====2735=====
 //それどころか、おまえにあたえ
 //たはずの風の祝福までもが、失
 //われているではないか!
-On the contrary, I gave you
-the wind's blessing. Or did
-you lose that too?
+On the contrary, didn't you
+lose the wind's blessing I
+gave you?
 $E=====2736=====
 //ううむ・・・
 Hm.
@@ -8530,16 +8566,16 @@ $E=====2748=====
 //ダッシュを行うにはクイックチ
 //ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
 //ながら<WEIGHT>Ｌボタン</WEIGHT>を押して)、
-Select dash by pressing the
-<WEIGHT>L Button</WEIGHT> while holding
-<WEIGHT>SELECT</WEIGHT> (Quick Change).
+To select Dash using Quick
+Change, hold <WEIGHT>SELECT</WEIGHT> and
+press the <WEIGHT>L Button</WEIGHT>.
 $E=====2749=====
 //スペシャルアクションにダッシ
 //ュを選んだ状態(じょうたい)で
 //<WEIGHT>Ｌボタン</WEIGHT>を押(お)せばいい
-To dash during a Special
-Action, just press the
-<WEIGHT>L Button</WEIGHT>.
+With Dash selected as your
+Special Action, press the
+<WEIGHT>L Button</WEIGHT> to use it.
 $E=====2750=====
 <PROC=0>
 <END>
@@ -8589,9 +8625,9 @@ Smith.
 $U=====2759=====
 //何はともあれ・・・
 //またいそがしくなりそうだな」
-Anyway...
-things will start picking up
-again."
+In any case...
+business should pick up
+again soon."
 $E=====2760=====
 <PROC=0>
 <END>
@@ -9253,18 +9289,23 @@ $E=====2932=====
 //「申しわけありません。
 //つい・・・」
 <PROC=7><LABEL=RITA>Lita</LABEL>:
-"I'm so sorry.
-...okay, next-"
+"I'm so sorry!
+I..."
 $E=====2933=====
 <PROC=0>
 <END>
-$U=====2934=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-(何も言うな・・・
+$E=====2934=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//(何も言うな・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+(Don't say anything...
 $U=====2935=====
-だまってたえるのも・・・
-男のやさしさだぞ!!)
-$J=====2936=====
+//だまってたえるのも・・・
+//男のやさしさだぞ!!)
+Enduring it silently...
+that's how a man shows his
+kindness!)
+$E=====2936=====
 <PROC=0>
 <END>
 $E=====2937=====
@@ -9280,13 +9321,14 @@ starting with solar fruit.
 $E=====2939=====
 //さまざまな効果(こうか)で冒険
 //(ぼうけん)のお手伝いをする、
-We also sell various support
-items to help you on your
-quest.
-$U=====2940=====
-サポートアイテムを取りあつか
-っています
-$E=====2941=====
+We also deal in support
+items,
+$E=====2940=====
+//サポートアイテムを取りあつか
+//っています
+with various effects to help
+you on your quest.
+$U=====2941=====
 //何はともあれ・・・
 Anyway...
 $E=====2942=====
@@ -9332,21 +9374,30 @@ obtained!<LOCK=176>
 $E=====2951=====
 <PROC=0>
 <END>
-$J=====2952=====
-<LABEL=RITA>リタ</LABEL>
-「力を持つ者にとって大切なこ
-とは、
-$J=====2953=====
-<PROC=2>その力をいかに使うか、そして
-いかに使わないか、ということ
-です
-$J=====2954=====
-アデプトとは道を極めし者のこ
-と・・・
-$J=====2955=====
-<PROC=3>くれぐれも、道をふみ外さない
-でくださいね」
-$J=====2956=====
+$E=====2952=====
+//<LABEL=RITA>リタ</LABEL>
+//「力を持つ者にとって大切なこ
+//とは、
+<LABEL=RITA>Lita</LABEL>:
+"The important thing about
+having power...
+$E=====2953=====
+//<PROC=2>その力をいかに使うか、そして
+//いかに使わないか、ということ
+//です
+<PROC=2>is how you use it, and how
+you choose not to use it.
+$E=====2954=====
+//アデプトとは道を極めし者のこ
+//と・・・
+An Adept has made it to the
+end of his path...
+$E=====2955=====
+//<PROC=3>くれぐれも、道をふみ外さない
+//でくださいね」
+<PROC=3>Never stray from that path,
+okay?"
+$E=====2956=====
 <PROC=0>
 <END>
 $E=====2957=====
@@ -9420,7 +9471,7 @@ $E=====2971=====
 //<NAME>さまが注文されたんですか?」
 Were you the one who ordered
 it, Master <NAME>?"
-$J=====2972=====
+$E=====2972=====
 <PROC=0>
 <END>
 $E=====2973=====
@@ -9727,19 +9778,26 @@ $E=====3061=====
 //オレが分からない?
 Woah!
 You don't remember me?
-$J=====3062=====
-そいつはバッドだぜ・・・
-$J=====3063=====
-まさかオマエ・・・
-このオレのナイスなアフロまで
-わすれちゃいないだろ?
-$J=====3064=====
-オレはキッド!!
-このナイスな店でナイスなアク
-セサリーを売るナイスな男さ!
-$J=====3065=====
-オマエとはナイスな仲なんだぜ
-?
+$E=====3062=====
+//そいつはバッドだぜ・・・
+That's baaad, boy...
+$E=====3063=====
+//まさかオマエ・・・
+//このオレのナイスなアフロまで
+//わすれちゃいないだろ?
+aw naw...
+ya even forgot my cool afro?
+$E=====3064=====
+//オレはキッド!!
+//このナイスな店でナイスなアク
+//セサリーを売るナイスな男さ!
+I'm Kid! I'm a cool guy, and
+I sell cool accessories in
+this cool store!
+$E=====3065=====
+//オマエとはナイスな仲なんだぜ
+//?
+You a cool guy too?
 $J=====3066=====
 なんせオマエには・・・
 9000ソルもの大金をかしてやっ
@@ -10214,17 +10272,22 @@ $R=====3199=====
 but now I'm retired from
 fighting and I run this here
 smithy.
-$J=====3200=====
-おまえの持つ太陽の力を利用す
-れば、ソードをより強力なもの
-へと強化することができるぞ
-$J=====3201=====
-言わば太陽鍛冶(たいようかじ)
-じゃ
-$J=====3202=====
-今のわしにできるのは鍛冶(か
-じ)くらいじゃが・・・
-$J=====3203=====
+$E=====3200=====
+//おまえの持つ太陽の力を利用す
+//れば、ソードをより強力なもの
+//へと強化することができるぞ
+Using your Solar power, you
+can reinforce your swords
+into more powerful versions.
+$E=====3201=====
+//言わば太陽鍛冶(たいようかじ)
+//じゃ
+I call it SOLARSMITH.
+$U=====3202=====
+//今のわしにできるのは鍛冶(か
+//じ)くらいじゃが・・・
+All I can do now is forge...
+$U=====3203=====
 協力はおしまんからな!!」
 $J=====3204=====
 <PROC=0>
@@ -10246,11 +10309,14 @@ $J=====3208=====
 $J=====3209=====
 <PROC=0>
 <END>
-$J=====3210=====
-称号
-「アルケミスト」
-を手に入れた!!<LOCK=176>
-$J=====3211=====
+$E=====3210=====
+//称号
+//「アルケミスト」
+//を手に入れた!!<LOCK=176>
+Title
+"Alchemist"
+obtained!<LOCK=176>
+$E=====3211=====
 <PROC=0>
 <END>
 $J=====3212=====
@@ -10415,63 +10481,99 @@ $J=====3251=====
 付かなかったようじゃな」
 $J=====3252=====
 付かないようじゃな」
-$J=====3253=====
-<LABEL=SMITH>スミス</LABEL>
-「最強のヴァンパイアハンター
-であったおまえの親父が、
-$J=====3254=====
-長年にわたりさがし続けていた
-最愛の息子・・・
-$J=====3255=====
-おさなくして闇の女王(クイー
-ン)にさらわれた、おまえの兄
-・・・
-$J=====3256=====
-死の都イストラカンでの数々の
-死闘(しとう)をへて、
-$J=====3257=====
-ようやく、本来のあるべき姿(
-すがた)へともどれたというの
-に・・・
-$J=====3258=====
-やはり闇(やみ)の戦士、暗黒少
-年であることからは、のがれら
-れないのか?
-$J=====3259=====
-暗黒物質(ダークマター)の呪縛
-(じゅばく)からは、のがれられ
-ないというのか?
-$J=====3260=====
-サバタ・・・」
-$J=====3261=====
+$E=====3253=====
+//<LABEL=SMITH>スミス</LABEL>
+//「最強のヴァンパイアハンター
+//であったおまえの親父が、
+<LABEL=SMITH>Smith</LABEL>:
+Your father, the strongest
+Vampire Hunter,
+$E=====3254=====
+//長年にわたりさがし続けていた
+//最愛の息子・・・
+wandered around for many
+years searching for his
+beloved son...
+$E=====3255=====
+//おさなくして闇の女王(クイー
+//ン)にさらわれた、おまえの兄
+//・・・
+Your brother, kidnapped at a
+young age by the Queen...
+$E=====3256=====
+//死の都イストラカンでの数々の
+//死闘(しとう)をへて、
+he fought many life-and-
+death battles in the City of
+Death, Istrakan.
+$U=====3257=====
+//ようやく、本来のあるべき姿(
+//すがた)へともどれたというの
+//に・・・
+They say he finally returned
+to his original form...
+$U=====3258=====
+//やはり闇(やみ)の戦士、暗黒少
+//年であることからは、のがれら
+//れないのか?
+Is it really impossible to
+escape from being the Dark
+Warrior, the Dark Boy?
+$E=====3259=====
+//暗黒物質(ダークマター)の呪縛
+//(じゅばく)からは、のがれられ
+//ないというのか?
+Is it really impossible to
+escape from Dark Matter's
+curse?
+$E=====3260=====
+//サバタ・・・」
+Sabata..."
+$E=====3261=====
 <PROC=0>
 <END>
-$J=====3262=====
-<LABEL=SMITH>スミス</LABEL>
-「太陽鍛冶(たいようかじ)を行
-うには、
-$J=====3263=====
-当然ながら、材料となるソード
-とアクセサリーが必要じゃ
-$J=====3264=====
-ソードはシャイアンの武器屋(
-ぶきや)で買うことができるが
-$J=====3265=====
-おまえが太陽鍛冶(たいようか
-じ)で新しいソードを作り出せ
-ば、
-$J=====3266=====
-それを量産して、武器屋(ぶき
-や)の品ぞろえをふやすことが
-できるぞ
-$J=====3267=====
-またアクセサリーは、キッドの
-アクセサリー屋で買うことがで
-きるが、
-$J=====3268=====
-たおした敵(てき)モンスターが
-落とすこともあるぞ」
-$J=====3269=====
+$E=====3262=====
+//<LABEL=SMITH>スミス</LABEL>
+//「太陽鍛冶(たいようかじ)を行
+//うには、
+<LABEL=SMITH>Smith</LABEL>:
+"When using SOLARSMITH,
+$E=====3263=====
+//当然ながら、材料となるソード
+//とアクセサリーが必要じゃ
+you will of course need
+ingredients: a sword and an
+accessory.
+$E=====3264=====
+///ソードはシャイアンの武器屋(
+//ぶきや)で買うことができるが
+You can buy some swords from
+Cheyenne's weapon shop,
+$E=====3265=====
+//おまえが太陽鍛冶(たいようか
+//じ)で新しいソードを作り出せ
+//ば、
+but if you end up with a new
+sword through SOLARSMITH,
+$E=====3266=====
+//それを量産して、武器屋(ぶき
+//や)の品ぞろえをふやすことが
+//できるぞ
+Cheyenne will mass-produce
+it and add it to the list of
+available weapons.
+$E=====3267=====
+//またアクセサリーは、キッドの
+//アクセサリー屋で買うことがで
+//きるが、
+Likewise, you can buy
+accessories from Kid's shop,
+$E=====3268=====
+//たおした敵(てき)モンスターが
+//落とすこともあるぞ」
+but defeated monsters may
+also drop them."
+$E=====3269=====
 <PROC=0>
 <END>
 $J=====3270=====
@@ -10791,35 +10893,39 @@ $U=====3362=====
 //そんなことでは、この熱き鉄馬
 //の世界で頂点(ちょうてん)に立
 //つことはできんぞ!」
-How are you going to climb
-to the top of the pack if
-you keep this up?"
-// hot iron horse world? Is that like dog-eat-dog?
+If you keep this up, how are
+you ever going to climb to
+the top of the pack?"
 $E=====3363=====
 <PROC=0>
 <END>
-$J=====3364=====
-<LABEL=COACH>サングラスの男</LABEL>
-「どうやら・・・
-$J=====3365=====
+$E=====3364=====
+//<LABEL=COACH>サングラスの男</LABEL>
+//「どうやら・・・
+<LABEL=COACH>Sunglasses Man</LABEL>:
+"It seems like...
+$E=====3365=====
 //自らの置かれた立場というもの
 //を、分かっていないようだな?
+you don't realize the
+situation you're in.
 $E=====3366=====
 //では教えてやろう・・・
 Then let me teach you...
 $E=====3367=====
 //わたしは今日からおまえのコー
 //チをすることになった・・・
-From now on, I'm gonna be your coach...
+from now on, I'm gonna be
+your coach...
 $E=====3368=====
 //・・・コーチだ
 ...coach...
 $E=====3369=====
 //何のコーチか?
 //決まっている!!
-What kind of coach?
+what kind of coach?
 Hmm... that's it!
-$J=====3370=====
+$U=====3370=====
 荒野(こうや)をかける熱き鉄馬
 棺桶(かんおけ)バイクだ!」
 $J=====3371=====
@@ -10832,15 +10938,20 @@ $J=====3373=====
 いずれ身をもって、この鉄馬の
 世界のきびしさを知ることにな
 る・・・
-$J=====3374=====
-では、教習にうつるぞ!
-$J=====3375=====
-まずは、棺桶(かんおけ)バイク
-の操作(そうさ)からだ
-$J=====3376=====
-<WEIGHT>{＋}ボタン</WEIGHT>はバイクの移動(いど
-う)に使用する。いわばハンド
-ルだ
+$E=====3374=====
+//では、教習にうつるぞ!
+Well then, I'll train you!
+$E=====3375=====
+//まずは、棺桶(かんおけ)バイク
+//の操作(そうさ)からだ
+We'll start with the Coffin
+Bike's controls.
+$E=====3376=====
+//<WEIGHT>{＋}ボタン</WEIGHT>はバイクの移動(いど
+//う)に使用する。いわばハンド
+//ルだ
+To steer with the Handle,
+move the <WEIGHT>{＋}Control Pad</WEIGHT>.
 $J=====3377=====
 <WEIGHT>Ｒボタン</WEIGHT>は、押(お)している間
 バイクを加速させる。すなわち
@@ -11439,26 +11550,37 @@ as much as you like{note}"
 $E=====3536=====
 <PROC=0>
 <END>
-$J=====3537=====
-<LABEL=LADY>レディ</LABEL>
-「やったわね、
-<NAME>くん!!
-$J=====3538=====
-すべての闇の領域(ダンジョン)
-の、すべての任務(ミッション)
-をランクSでクリアした上、
-$J=====3539=====
-すべてのワンテッドモンスター
-を退治(たいじ)するなんて!
-$J=====3540=====
-組織(ギルド)にも腕(うで)の立
-つのエージェントはいるけれど
-・・・
-$J=====3541=====
-あなたほどの人はいないわ!!
-$J=====3542=====
-これはごほうびよ・・・」
-$J=====3543=====
+$E=====3537=====
+//<LABEL=LADY>レディ</LABEL>
+//「やったわね、
+//<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+"Wonderful, <NAME>!
+$E=====3538=====
+//すべての闇の領域(ダンジョン)
+//の、すべての任務(ミッション)
+//をランクSでクリアした上、
+Not only did you clear every
+mission in every dungeon
+with an S rank,
+$E=====3539=====
+//すべてのワンテッドモンスター
+//を退治(たいじ)するなんて!
+you exterminated all the
+Wanted monsters, too!
+$E=====3540=====
+//組織(ギルド)にも腕(うで)の立
+//つのエージェントはいるけれど
+//・・・
+There are other skilled
+agents in the Guild...
+$E=====3541=====
+//あなたほどの人はいないわ!!
+but none  as skilled as you!
+$E=====3542=====
+//これはごほうびよ・・・」
+Here is your reward..."
+$E=====3543=====
 <PROC=0>
 <END>
 $E=====3544=====
@@ -11471,43 +11593,63 @@ obtained!<LOCK=176>
 $E=====3545=====
 <PROC=0>
 <END>
-$J=====3546=====
-<LABEL=LADY>レディ</LABEL>
-「よろこんでもらえたかしら?
-$J=====3547=====
-それとも・・・
-$J=====3548=====
-もうちょっと刺激的(しげきて
-き)なごほうびの方が、良かっ
-たかな{note}」
-$J=====3549=====
+$E=====3546=====
+//<LABEL=LADY>レディ</LABEL>
+//「よろこんでもらえたかしら?
+<LABEL=LADY>Lady</LABEL>:
+"Are you happy with that?
+$E=====3547=====
+//それとも・・・
+or...
+$E=====3548=====
+//もうちょっと刺激的(しげきて
+//き)なごほうびの方が、良かっ
+//たかな{note}」
+would you prefer a more
+stimulating prize?{note}"
+$E=====3549=====
 <PROC=0>
 <END>
-$J=====3550=====
-<LABEL=LADY>レディ</LABEL>
-「ちょうどいいところに来たわ
-ね、<NAME>くん
-$J=====3551=====
-追憶(ついおく)の書の封印(ふ
-ういん)をといたの
-$J=====3552=====
-カウンターの横、東側の本棚(
-ほんだな)よ
-$J=====3553=====
-ぜひ見ていってね」
-$J=====3554=====
+$E=====3550=====
+//<LABEL=LADY>レディ</LABEL>
+//「ちょうどいいところに来たわ
+//ね、<NAME>くん
+<LABEL=LADY>Lady</LABEL>:
+"You've come to the right
+place, <NAME>.
+$E=====3551=====
+//追憶(ついおく)の書の封印(ふ
+//ういん)をといたの
+I've broken the seal on the
+record book.
+$E=====3552=====
+//カウンターの横、東側の本棚(
+//ほんだな)よ
+It's on the bookshelf on the
+eastern wall, beside the
+counter.
+$E=====3553=====
+//ぜひ見ていってね」
+Be sure to check it out."
+$E=====3554=====
 <PROC=0>
 <END>
-$J=====3555=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターをしと
-めたようね、<NAME>くん!!
-$J=====3556=====
-グール+の賞品は、レアアイテ
-ムだったわね・・・
-$J=====3557=====
-さぁて、何が出るかしら?」
-$J=====3558=====
+$E=====3555=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターをしと
+//めたようね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+It seems you took out a
+Wanted monster, <NAME>!
+$E=====3556=====
+//グール+の賞品は、レアアイテ
+//ムだったわね・・・
+The prize for a Ghoul + is a
+rare item.
+$E=====3557=====
+//さぁて、何が出るかしら?」
+Now, what might appear?"
+$E=====3558=====
 <PROC=0>
 <END>
 $J=====3559=====
@@ -11753,44 +11895,68 @@ $J=====3628=====
 $J=====3629=====
 <PROC=0>
 <END>
-$J=====3630=====
-<LABEL=LADY>レディ</LABEL>
-「さすがは<NAME>くんね!!
-$J=====3631=====
-すべての闇の領域(ダンジョン)
-の、すべての任務(ミッション)
-をクリアするなんて!
-$J=====3632=====
-せっかくだから、さらに上を目
-指してみたらどう?
-$J=====3633=====
-ランクSでクリアしたときのご
-ほうびは、ほかでは手に入らな
-いモノばかりよ」
-$J=====3634=====
+$E=====3630=====
+//<LABEL=LADY>レディ</LABEL>
+//「さすがは<NAME>くんね!!
+<LABEL=LADY>Lady</LABEL>:
+Well done, <NAME>!
+$E=====3631=====
+//すべての闇の領域(ダンジョン)
+//の、すべての任務(ミッション)
+//をクリアするなんて!
+You cleared every mission in
+every dungeon!
+$E=====3632=====
+//せっかくだから、さらに上を目
+//指してみたらどう?
+It will be difficult, but
+why don't you try aiming
+even higher?
+$E=====3633=====
+//ランクSでクリアしたときのご
+//ほうびは、ほかでは手に入らな
+//いモノばかりよ」
+The reward for getting an S
+rank on all missions can't
+be obtained anywhere else."
+$E=====3634=====
 <PROC=0>
 <END>
-$J=====3635=====
-<LABEL=LADY>レディ</LABEL>
-「すごいわね<NAME>くん!!
-$J=====3636=====
-すべての闇の領域(ダンジョン)
-の、すべての任務(ミッション)
-をランクSでクリアするなんて!
-$J=====3637=====
-あなたの実力は、すでにエージ
-ェントの限界(げんかい)をこえ
-ているわ
-$J=====3638=====
-これだったら、リタちゃんの徒
-手空挙(としゅくうけん)にもた
-えられるわね
-$J=====3639=====
-マスターであるわたしとしては
-ちょっぴり心配だったのよ
-$J=====3640=====
-ああ、一安心だわ{note}」
-$J=====3641=====
+$E=====3635=====
+//<LABEL=LADY>レディ</LABEL>
+//「すごいわね<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+"Amazing, <NAME>!
+$E=====3636=====
+//すべての闇の領域(ダンジョン)
+//の、すべての任務(ミッション)
+//をランクSでクリアするなんて!
+You cleared every mission in
+every dungeon with an S
+rank!
+$E=====3637=====
+//あなたの実力は、すでにエージ
+//ェントの限界(げんかい)をこえ
+//ているわ
+Your abilities are already
+beyond that of an agent.
+$E=====3638=====
+//これだったら、リタちゃんの徒
+//手空挙(としゅくうけん)にもた
+//えられるわね
+I bet you could even
+withstand Lita's bare-fisted
+attacks now.
+$E=====3639=====
+//マスターであるわたしとしては
+//ちょっぴり心配だったのよ
+Even a master like me would
+be a little worried about
+those.
+$E=====3640=====
+//ああ、一安心だわ{note}」
+Ahh, what a relief{note}"
+$E=====3641=====
 <PROC=0>
 <END>
 $J=====3642=====
@@ -11805,23 +11971,32 @@ $J=====3644=====
 $J=====3645=====
 特定の条件(じょうけん)を満た
 さないと、出現しないらしいの
-$J=====3646=====
-あせらずに、気長にさがした方
-がいいわね」
+$E=====3646=====
+//あせらずに、気長にさがした方
+//がいいわね」
+Remain patient and search
+carefully for them."
 $J=====3647=====
 <PROC=0>
 <END>
-$J=====3648=====
-<LABEL=LADY>レディ</LABEL>
-「さすがは<NAME>くんよね
-$J=====3649=====
-凶悪(きょうあく)なワンテッド
-モンスターをもたおしちゃうな
-んて
-$J=====3650=====
-この調子で次の手配書もよろし
-くね{note}」
-$J=====3651=====
+$E=====3648=====
+//<LABEL=LADY>レディ</LABEL>
+//「さすがは<NAME>くんよね
+<LABEL=LADY>Lady</LABEL>:
+"Well done, <NAME>.
+$E=====3649=====
+//凶悪(きょうあく)なワンテッド
+//モンスターをもたおしちゃうな
+//んて
+You managed to defeat the
+fiendish Wanted monster.
+$E=====3650=====
+//この調子で次の手配書もよろし
+//くね{note}」
+I'm counting on you to keep
+it up with the next Search
+Request.{note}"
+$E=====3651=====
 <PROC=0>
 <END>
 $J=====3652=====
@@ -12203,25 +12378,36 @@ $E=====3759=====
 $E=====3760=====
 <PROC=0>
 <END>
-$J=====3761=====
-<LABEL=ZAJI>ザジ</LABEL>
-「読めたでっ!!」
-$J=====3762=====
+$E=====3761=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「読めたでっ!!」
+<LABEL=ZAJI>Zazie</LABEL>:
+"Read 'em!"
+$E=====3762=====
 <PROC=0>
 <END>
-$J=====3763=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの中にある2つの力、
-ソルとダーク・・・
-$J=====3764=====
-今のあんたはソルに・・・
-太陽の側にかたむいとるみたい
-やな
-$J=====3765=====
-さすがは太陽少年や
-$J=====3766=====
-おてんこさまも安心やね」
-$J=====3767=====
+$E=====3763=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの中にある2つの力、
+//ソルとダーク・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"Ya got two powers within
+ya, Sol and Dark...
+$E=====3764=====
+//今のあんたはソルに・・・
+//太陽の側にかたむいとるみたい
+//やな
+Yer Sol right now...
+yeah, looks like yer leanin'
+toward the Sun.
+$E=====3765=====
+//さすがは太陽少年や
+Well, what else'd ya expect
+from the Solar Boy.
+$E=====3766=====
+//おてんこさまも安心やね」
+Guess Otenko can rest easy."
+$E=====3767=====
 <PROC=0>
 <END>
 $J=====3768=====
@@ -13918,13 +14104,13 @@ $E=====4192=====
 //基本(きほん)パーツはフロント
 //ボディ、タイヤの3つだ
 The 3 fundamental parts are
-the Front, the Body, and
-the Tires.
+the front, the body, and
+the tires.
 $J=====4193=====
 //フロントは攻撃方法(こうげき
 //ほうほう)、すなわちウエポン
 //を決めるパーツで、
-Which Front part you equip
+Which front part you equip
 determines which weapon you
 use when attacking,
 $E=====4194=====
@@ -13938,7 +14124,7 @@ $E=====4195=====
 //ボディはバイクの加速力、スピ
 //ード、HP(頑丈さ)を決めるパー
 //ツで、
-The Body part affects your
+The body part affects your
 bike's acceleration, speed,
 and HP (sturdiness).
 $E=====4196=====
@@ -13946,7 +14132,7 @@ $E=====4196=====
 //可能な数)もボディによって決
 //まる
 It also determines how many
-Option slots you get, for
+option slots you get, for
 additional equipment.
 $E=====4197=====
 //タイヤはハンドルとブレーキの
@@ -13996,8 +14182,8 @@ $E=====4206=====
 //「棺桶(かんおけ)バイクのパー
 //ツ、スペシャルは
 <LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
-"The bike part Special
-provides a special attack,
+"The Special bike parts
+provide a special attack,
 $E=====4207=====
 //地雷(じらい)を設置(せっち)す
 //るなどの特別な攻撃(こうげき)
@@ -15523,8 +15709,8 @@ $E=====4606=====
 //の冒険(ぼうけん)には、全面的
 //に協力するからね!!」
 we'll do whatever we can to
-help out on your adventure
-to repay the favor!"
+repay the favor, by helping
+you out on your adventure!"
 $E=====4607=====
 <PROC=0>
 <END>
@@ -15654,42 +15840,62 @@ $J=====4632=====
 $J=====4633=====
 <PROC=0>
 <END>
-$J=====4634=====
-<LABEL=PEOPLE1>マルチェロ</LABEL>
-「知ってるかい?
-$J=====4635=====
-コンティニューにかかる費用は
-200ソルだよね?
-$J=====4636=====
-でも高いところから落ちてゲー
-ムオーバーになった場合だけは
-$J=====4637=====
-タダでコンティニューできるん
-だ
-$J=====4638=====
-暗黒ローンも意外に良心的だよ
-ね」
-$J=====4639=====
+$E=====4634=====
+//<LABEL=PEOPLE1>マルチェロ</LABEL>
+//「知ってるかい?
+<LABEL=PEOPLE1>Marcello</LABEL>:
+"Did you know?
+$E=====4635=====
+//コンティニューにかかる費用は
+//200ソルだよね?
+It costs 200 Soll to
+Continue.
+$E=====4636=====
+//でも高いところから落ちてゲー
+//ムオーバーになった場合だけは
+But if you get a Game Over
+by falling from a high
+place,
+$E=====4637=====
+//タダでコンティニューできるん
+//だ
+you can Continue for free.
+$E=====4638=====
+//暗黒ローンも意外に良心的だよ
+//ね」
+Dark Loans is surprisingly
+fair."
+$E=====4639=====
 <PROC=0>
 <END>
-$J=====4640=====
-<LABEL=PEOPLE1>マルチェロ</LABEL>
-「知ってるかい?
-$J=====4641=====
-宝箱(たからばこ)っていうのは
-通常(つうじょう)オレンジ色な
-んだけど、
-$J=====4642=====
-中には青色や緑色の宝箱(たか
-らばこ)もあるんだ
-$J=====4643=====
-青色の宝箱(たからばこ)にはカ
-ギが入っていて、
-$J=====4644=====
-緑色の宝箱(たからばこ)にはそ
-れ以外の、[いいもの]が入って
-いるらしいよ」
-$J=====4645=====
+$E=====4640=====
+//<LABEL=PEOPLE1>マルチェロ</LABEL>
+//「知ってるかい?
+<LABEL=PEOPLE1>Marcello</LABEL>:
+"Did you know?
+$E=====4641=====
+//宝箱(たからばこ)っていうのは
+//通常(つうじょう)オレンジ色な
+//んだけど、
+Treasure chests are usually
+orange in color,
+$E=====4642=====
+//中には青色や緑色の宝箱(たか
+//らばこ)もあるんだ
+but there are also blue and
+green varieties.
+$E=====4643=====
+//青色の宝箱(たからばこ)にはカ
+//ギが入っていて、
+It seems that blue treasure
+chests contain keys,
+$E=====4644=====
+//緑色の宝箱(たからばこ)にはそ
+//れ以外の、[いいもの]が入って
+//いるらしいよ」
+and green one contains
+special items."
+$E=====4645=====
 <PROC=0>
 <END>
 $E=====4646=====
@@ -15726,8 +15932,8 @@ $E=====4652=====
 //しの冒険(ぼうけん)には、全面
 //的に協力するからの!!」
 we'll do whatever we can to
-help out on your adventure
-to repay the favor!"
+repay the favor, by helping
+you out on your adventure!"
 $E=====4653=====
 <PROC=0>
 <END>
@@ -15909,12 +16115,11 @@ $E=====4687=====
 //今は機械いじりばかりしておる
 and now he's working on
 nothing but machines.
-$E=====4688=====
+$U=====4688=====
 //おまけにあんな黒眼鏡(くろめ
 //がね)なんぞかけよって!
-What's worse, he's hanging
-out with that shady
-sunglasses guy!
+What's worse, he's wearing
+those dark sunglasses!
 $E=====4689=====
 //このままではわしの棺桶(かん
 //おけ)が・・・
