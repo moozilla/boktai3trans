@@ -228,6 +228,9 @@
 0B Tempest
 0C Beatmania
 
+0203cb7c Soll (Station)
+0203cbb0 Soll (Bank)
+
 0203cc28 Lenses
 00 Sol
 01 Luna
