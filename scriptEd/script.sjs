@@ -8384,7 +8384,7 @@ $E=====2698=====
  
 $E=====2699=====
 //残滅任務
-Extermination Mission
+Eradication Mission
 $E=====2700=====
 //探索任務
 Search Mission
@@ -8393,7 +8393,7 @@ $E=====2701=====
 Escape Mission
 $E=====2702=====
 //残滅任務
-Extermination Mission
+Eradication Mission
 $E=====2703=====
 //探索任務
 Search Mission
@@ -8402,7 +8402,7 @@ $E=====2704=====
 Escape Mission
 $E=====2705=====
 //残滅任務
-Extermination Mission
+Eradication Mission
 $E=====2706=====
 //探索任務
 Search Mission
@@ -8411,7 +8411,7 @@ $E=====2707=====
 Escape Mission
 $E=====2708=====
 //残滅任務
-Extermination Mission
+Eradication Mission
 $E=====2709=====
 //探索任務
 Search Mission
@@ -8420,7 +8420,7 @@ $E=====2710=====
 Escape Mission
 $E=====2711=====
 //残滅任務
-Extermination Mission
+Eradication Mission
 $E=====2712=====
 //探索任務
 Search Mission
@@ -8434,7 +8434,7 @@ $E=====2715=====
 ???
 $E=====2716=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Extermination Mission: Defeat all enemy monsters!
+Eradication Mission: Defeat all enemy monsters!
 $E=====2717=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
 Search Mission: Get the 3 Goddess Statues!
@@ -8443,7 +8443,7 @@ $E=====2718=====
 Escape Mission: Escape without being seen!
 $E=====2719=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Extermination Mission: Defeat all enemy monsters!
+Eradication Mission: Defeat all enemy monsters!
 $E=====2720=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
 Search Mission: Get the 3 Goddess Statues!
@@ -8452,7 +8452,7 @@ $E=====2721=====
 Escape Mission: Escape without being seen!
 $E=====2722=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Extermination Mission: Defeat all enemy monsters!
+Eradication Mission: Defeat all enemy monsters!
 $E=====2723=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
 Search Mission: Get the 3 Goddess Statues!
@@ -8461,7 +8461,7 @@ $E=====2724=====
 Escape Mission: Escape without being seen!
 $E=====2725=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Extermination Mission: Defeat all enemy monsters!
+Eradication Mission: Defeat all enemy monsters!
 $E=====2726=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
 Search Mission: Get the 3 Goddess Statues!
@@ -8470,7 +8470,7 @@ $E=====2727=====
 Escape Mission: Escape without being seen!
 $E=====2728=====
 //残滅任務(ざんめつにんむ)：敵(てき)モンスターをすべて倒(たお)せ!!
-Extermination Mission: Defeat all enemy monsters!
+Eradication Mission: Defeat all enemy monsters!
 $E=====2729=====
 //探索任務(たんさくにんむ)：3つの女神像(めがみぞう)を手に入れろ!!
 Search Mission: Get the 3 Goddess Statues!
@@ -9498,45 +9498,69 @@ Master <NAME>{note}"
 $E=====2977=====
 <PROC=0>
 <END>
-$J=====2978=====
-<LABEL=RITA>リタ</LABEL>
-「たとえ闇の一族(イモータル)
-にあやつられようとも、
-$J=====2979=====
-サバタさまは<NAME>さまのお兄さま
-$J=====2980=====
-<PROC=5><NAME>さまをうらぎられるなんてことは・・・
-$J=====2981=====
-<PROC=6>絶対(ぜったい)にありません!!
-$J=====2982=====
-<NAME>さまも・・・
-そう信じておいででしょう?」
-$J=====2983=====
+$E=====2978=====
+//<LABEL=RITA>リタ</LABEL>
+//「たとえ闇の一族(イモータル)
+//にあやつられようとも、
+<LABEL=RITA>Lita</LABEL>:
+"Even though he's being
+controlled by the Immortals,
+$E=====2979=====
+//サバタさまは<NAME>さまのお兄さま
+Master Sabata is your elder
+brother!
+$E=====2980=====
+//<PROC=5><NAME>さまをうらぎられるなんてことは・・・
+<PROC=5>For him to betray you...
+$E=====2981=====
+//<PROC=6>絶対(ぜったい)にありません!!
+<PROC=6>There's just no way!
+$E=====2982=====
+//<NAME>さまも・・・
+//そう信じておいででしょう?」
+Don't you believe in him
+too, Master <NAME>?
+$E=====2983=====
 <PROC=9>
 <PROC=0>
 <END>
-$J=====2984=====
-<LABEL=RITA>リタ</LABEL>
-「ごぞんじですか?
-$J=====2985=====
-太陽の果実などの生ものは、太
-陽の光を浴びすぎると、くさっ
-しまいます
-$J=====2986=====
-賞味期限はアイテムによってこ
-となりますが、
-$J=====2987=====
-アイテムの名前の前に付いてい
-る丸いマーク、ダメージメータ
-ーの欠け具合が、
-$J=====2988=====
-そのアイテムの傷(いた)み具合
-を表しているんです
-$J=====2989=====
-ダメージメーターの確認(かく
-にん)をおこたらないでくださ
-いね」
-$J=====2990=====
+$E=====2984=====
+//<LABEL=RITA>リタ</LABEL>
+//「ごぞんじですか?
+<LABEL=RITA>Lita</LABEL>:
+"Have you heard?
+$E=====2985=====
+//太陽の果実などの生ものは、太
+//陽の光を浴びすぎると、くさっ
+//しまいます
+Perishable goods like Solar
+fruit will rot when exposed
+to sunlight.
+$E=====2986=====
+//賞味期限はアイテムによってこ
+//となりますが、
+The shelf life varies
+depending on the item type,
+$E=====2987=====
+//アイテムの名前の前に付いてい
+//る丸いマーク、ダメージメータ
+//ーの欠け具合が、
+but you can always check the
+number of slices on its
+damage meter.
+$E=====2988=====
+//そのアイテムの傷(いた)み具合
+//を表しているんです
+This round mark next to the
+item's name tells when the
+item is close to rotting.
+$E=====2989=====
+//ダメージメーターの確認(かく
+//にん)をおこたらないでくださ
+//いね」
+Don't forget to keep an eye
+on the damage meter, okay?"
+$E=====2990=====
 <PROC=0>
 <END>
 $J=====2991=====
@@ -9780,66 +9804,94 @@ Woah!
 You don't remember me?
 $E=====3062=====
 //そいつはバッドだぜ・・・
-That's baaad, boy...
+That's baaad, man...
 $E=====3063=====
 //まさかオマエ・・・
 //このオレのナイスなアフロまで
 //わすれちゃいないだろ?
 aw naw...
-ya even forgot my cool afro?
+you even forgot my cool
+afro?
 $E=====3064=====
 //オレはキッド!!
 //このナイスな店でナイスなアク
 //セサリーを売るナイスな男さ!
-I'm Kid! I'm a cool guy, and
-I sell cool accessories in
-this cool store!
-$E=====3065=====
+I'm Kid! I'm a nice guy, and
+I sell nice accessories in
+this nice store!
+$U=====3065=====
 //オマエとはナイスな仲なんだぜ
 //?
-You a cool guy too?
-$J=====3066=====
-なんせオマエには・・・
-9000ソルもの大金をかしてやっ
-てるんだからな!!」
-$J=====3067=====
+We got a nice friendship,
+too?
+$U=====3066=====
+//なんせオマエには・・・
+//9000ソルもの大金をかしてやっ
+//てるんだからな!!」
+In that case... I'll let
+you borrow 9000 Soll!"
+$E=====3067=====
 <PROC=0>
 <END>
-$J=====3068=====
-<LABEL=KID>キッド</LABEL>
-「・・・
-$J=====3069=====
-すまん、今のはウソだ
-$J=====3070=====
-新しくアクセサリー屋を始めた
-ばっかりなんだ。人に金をかす
-余裕(よゆう)はねぇよ
-$J=====3071=====
-アクセサリーっていうのは、
-$J=====3072=====
-さまざまな効果(こうか)で装備
-(そうび)した者を助ける、冒険
-の必需品(ひつじゅひん)だ
+$E=====3068=====
+//<LABEL=KID>キッド</LABEL>
+//「・・・
+<LABEL=KID>Kid</LABEL>:
+"...
+$E=====3069=====
+//すまん、今のはウソだ
+Sorry man, just kiddin'.
+$E=====3070=====
+//新しくアクセサリー屋を始めた
+//ばっかりなんだ。人に金をかす
+//余裕(よゆう)はねぇよ
+I'm just starting out with
+my new Accessory Shop. Don't
+have any money to spare.
+$E=====3071=====
+//アクセサリーっていうのは、
+Accessories are pieces of
+equipment with a variety of
+effects,
+$E=====3072=====
+//さまざまな効果(こうか)で装備
+//(そうび)した者を助ける、冒険
+//の必需品(ひつじゅひん)だ
+which should help you out
+on your adventure. Can't 
+live without 'em, man.
 $J=====3073=====
-アクセサリーとはいっても、鎧
-(よろい)や靴(くつ)なんかも取
-りあつかってるからな
-$J=====3074=====
-アクセサリーの装備(そうび)は
-メニュー画面のアクセサリーメ
-ニューで行うんだ
-$J=====3075=====
-頭、胴(どう)、腕(うで)、脚(
-あし)の4ヶ所に、
-$J=====3076=====
-それぞれ1つずつ装備(そうび)
-することができるぜ?
-$J=====3077=====
-そうだな・・・
-$J=====3078=====
-お見まい&開店祝いだ。
-コイツを持っていきな!!」
-$J=====3079=====
+//アクセサリーとはいっても、鎧
+//(よろい)や靴(くつ)なんかも取
+//りあつかってるからな
+Accessories include both
+armor and footwear.
+$E=====3074=====
+//アクセサリーの装備(そうび)は
+//メニュー画面のアクセサリーメ
+//ニューで行うんだ
+To equip accessories, select
+the Accessories page on the
+menu screen.
+$E=====3075=====
+//頭、胴(どう)、腕(うで)、脚(
+//あし)の4ヶ所に、
+You can equip up to four
+accessories at once:
+$E=====3076=====
+//それぞれ1つずつ装備(そうび)
+//することができるぜ?
+one each on the head, body,
+legs, and arms.
+$E=====3077=====
+//そうだな・・・
+Yeah, man...
+$U=====3078=====
+//お見まい&開店祝いだ。
+//コイツを持っていきな!!」
+I'm celebratin' the grand
+opening, so take this!"
+$E=====3079=====
 <PROC=0>
 <END>
 $E=====3080=====
@@ -9850,27 +9902,39 @@ obtained!
 $E=====3081=====
 <PROC=0>
 <END>
-$J=====3082=====
-<LABEL=KID>キッド</LABEL>
-「よう、ソーラーボーイ!!
-$J=====3083=====
-ついにやったな!
-すべてのブロマイドを集めちま
-うなんて・・・
-$J=====3084=====
-オレも相当のコレクターだが、
-オマエにはかなわねぇな
-$J=====3085=====
-この称号(しょうごう)はオマエ
-にゆずるぜ!」
-$J=====3086=====
+$E=====3082=====
+//<LABEL=KID>キッド</LABEL>
+//「よう、ソーラーボーイ!!
+<LABEL=KID>Kid</LABEL>:
+"Yo, Soolaar Boyyy!
+$E=====3083=====
+//ついにやったな!
+//すべてのブロマイドを集めちま
+//うなんて・・・
+You finally did it, dude!
+You collected every photo...
+$E=====3084=====
+//オレも相当のコレクターだが、
+//オマエにはかなわねぇな
+even my considerable
+collection is no match for
+yours.
+$E=====3085=====
+//この称号(しょうごう)はオマエ
+//にゆずるぜ!」
+Time to give you this title,
+man!"
+$E=====3086=====
 <PROC=0>
 <END>
-$J=====3087=====
-称号
-「コレクター」
-を手に入れた!!<LOCK=176>
-$J=====3088=====
+$E=====3087=====
+//称号
+//「コレクター」
+//を手に入れた!!<LOCK=176>
+Title
+"Collector"
+obtained!<LOCK=176>
+$E=====3088=====
 <PROC=0>
 <END>
 $J=====3089=====
@@ -9930,7 +9994,7 @@ $E=====3101=====
 //「サバタにやられたんだって?
 <LABEL=KID>Kid</LABEL>:
 "Tricked by Sabata, huh?
-$E=====3102=====
+$U=====3102=====
 兄弟ゲンカもほどほどにな
 $J=====3103=====
 たしかにアイツは、口も悪けり
@@ -9943,17 +10007,25 @@ $J=====3105=====
 $J=====3106=====
 <PROC=0>
 <END>
-$J=====3107=====
-<LABEL=KID>キッド</LABEL>
-「ショップ画面では、
-$J=====3108=====
-<WEIGHT>Ｌ・Ｒボタン</WEIGHT>で商品リストを切
-りかえることができる
-$J=====3109=====
-全部の商品をしっかり見た上で
-何を買うのかをじっくり選んで
-くれ」
-$J=====3110=====
+$E=====3107=====
+//<LABEL=KID>キッド</LABEL>
+//「ショップ画面では、
+<LABEL=KID>Kid:</LABEL>
+"On the Shop screen,
+$E=====3108=====
+//<WEIGHT>Ｌ・Ｒボタン</WEIGHT>で商品リストを切
+//りかえることができる
+you can switch between the
+item lists using the
+<WEIGHT>L/R Buttons</WEIGHT>.
+$E=====3109=====
+//全部の商品をしっかり見た上で
+//何を買うのかをじっくり選んで
+//くれ」
+Take a good look at the
+entire inventory list before
+making your selections."
+$E=====3110=====
 <PROC=0>
 <END>
 $J=====3111=====
@@ -18029,19 +18101,21 @@ $E=====5177=====
 //<EXTEND=0>
 //討伐完了(とうばつかんりょう)
 <EXTEND=0>
-  extermination complete.
+  eradication complete.
 $E=====5178=====
 <PROC=0>
 <END>
-$E=====5179=====
+$J=====5179=====
 
 　　　　　[手配書]　　　　　
 $J=====5180=====
 地下をさまよう、赤きムクロを
 討(う)て!
-$J=====5181=====
-　　　　　　賞品　　　　　　
-　　　　レアアイテム　　　　
+$E=====5181=====
+//　　　　　　賞品　　　　　　
+//　　　　レアアイテム　　　　
+           PRIZE
+         Rare Item
 $J=====5182=====
 <PROC=0>
 <END>
@@ -20592,67 +20666,100 @@ $J=====5800=====
 $J=====5801=====
 <PROC=0>
 <END>
-$J=====5802=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「いってぇーっ!!
-$J=====5803=====
-クソッ、ケツが2つにわれちま
-うぜっ!」
-$J=====5804=====
+$E=====5802=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「いってぇーっ!!
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"OUCH!
+$E=====5803=====
+//クソッ、ケツが2つにわれちま
+//うぜっ!」
+Shit, that nearly split my
+ass in half!"
+$E=====5804=====
 <PROC=0>
 <END>
-$J=====5805=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「おいおい、
-$J=====5806=====
+$E=====5805=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「おいおい、
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"Hey,
+$U=====5806=====
 こういう時にはツッコミを入れ
 るのがマナーだろ?」
-$J=====5807=====
+$E=====5807=====
 <PROC=0>
 <END>
-$J=====5808=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「ところでオメェ、この街の人
-間じゃあねえな?
-$J=====5809=====
-この街はおしまいさ。闇の一族
-(イモータル)に目をつけられち
-ゃあな
-$J=====5810=====
-悪いことは言わねえ、早いトコ
-にげたほうがいいぜ?
-$J=====5811=====
-オ、オイラか?
-$J=====5812=====
-オイラはちょっと食い物を
-・・・
-いや、そうじゃない!!
-$J=====5813=====
-オイラはその、あれだ・・・
-トレジャーハンターなんだ!
-$J=====5814=====
-お宝(たから)のためなら、多少
-の危険(きけん)は覚悟(かくご)
-の上さ!」
-$J=====5815=====
+$E=====5808=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「ところでオメェ、この街の人
+//間じゃあねえな?
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"Anyway, you ain't from this
+town, are ya?
+$E=====5809=====
+//この街はおしまいさ。闇の一族
+//(イモータル)に目をつけられち
+//ゃあな
+This town's done for. Those
+Immortals got their eyes on
+it.
+$E=====5810=====
+//悪いことは言わねえ、早いトコ
+//にげたほうがいいぜ?
+Don't say nothin' bad, and
+run back home if ya know
+what's good for ya.
+$E=====5811=====
+//オ、オイラか?
+M-me?
+$E=====5812=====
+//オイラはちょっと食い物を
+//・・・
+//いや、そうじゃない!!
+I was just... food...
+...
+er, no, that's not it!
+$E=====5813=====
+//オイラはその、あれだ・・・
+//トレジャーハンターなんだ!
+I was... er... uh...
+treasure hunting!
+$E=====5814=====
+//お宝(たから)のためなら、多少
+//の危険(きけん)は覚悟(かくご)
+//の上さ!」
+For the sake of treasure,
+I'm ready for a little
+danger!"
+$E=====5815=====
 <PROC=0>
 <END>
-$J=====5816=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「と、とにかくアンデッドには
-気をつけろよ!
-$J=====5817=====
-<PROC=1><LOCK=10>じゃあな!!」
-$J=====5818=====
+$E=====5816=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「と、とにかくアンデッドには
+//気をつけろよ!
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"A-anyway, watch out for
+undead!
+$E=====5817=====
+//<PROC=1><LOCK=10>じゃあな!!」
+<PROC=1><LOCK=10>Later!"
+$E=====5818=====
 <PROC=0>
 <END>
-$J=====5819=====
-「おいしい肉」
-を手に入れた!
-$J=====5820=====
+$E=====5819=====
+//「おいしい肉」
+//を手に入れた!
+"Tasty Meat"
+obtained!
+$E=====5820=====
+//<PROC=0>
+//<END>
+//デモマネージャ
 <PROC=0>
 <END>
-デモマネージャ
+DEMO MANAGER
 $J=====5821=====
 <LABEL=TRINITY>青ポンチョの少年</LABEL>
 「すみません、ついっ!!」
