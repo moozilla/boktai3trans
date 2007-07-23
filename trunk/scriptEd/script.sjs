@@ -12081,9 +12081,9 @@ $E=====3633=====
 //ランクSでクリアしたときのご
 //ほうびは、ほかでは手に入らな
 //いモノばかりよ」
-The reward for getting an S
-rank on all missions can't
-be obtained anywhere else."
+The reward for getting S
+ranks on missions can't be
+obtained anywhere else."
 $E=====3634=====
 <PROC=0>
 <END>
@@ -12319,7 +12319,7 @@ $E=====3684=====
 //呪い(カーモス)状態(じょうた
 //い)では、太陽チャージができ
 //ないばかりか、
-while under the curse, you
+While under the curse, you
 won't be able to charge your
 energy,
 $E=====3685=====
@@ -12480,15 +12480,16 @@ $U=====3729=====
 //うちからの借金、チャラにしよ
 //う思て、フリしとるだけちゃう
 //やろな?
-Didya think I'd fergive yer
+Didya think I'd forgive yer
 debt? That I'd just let yer
-have it fer free?
+have it for free?
 $E=====3730=====
 //あんたがこわしたソル・デ・バ
 //イスの弁償代(べんしょうだい)
 //1000万ソル!!
-If yer break it, yer gonna
-owe me 'bout a million Sol!
+You still owe me 'bout a
+million Soll for breakin'
+the Sol de Vice!
 $E=====3731=====
 //わすれたとは言わせへんで!」
 So don' go tellin' me yer
@@ -12520,7 +12521,7 @@ $E=====3736=====
 //とりあえずあんたにはコレや。
 //コレあったらいつでもエナジー
 //借りれんねん
-Fer now, take this. With it,
+For now, take this. With it,
 yer can borrow energy
 whenever yer want.
 $E=====3737=====
@@ -12556,7 +12557,7 @@ $E=====3743=====
 //う)の2つ名で、[ひまわり娘]て
 //よびよるけどな
 'round here I got a second
-master's name. They call me
+title. They call me
 Sunflower Girl.
 $E=====3744=====
 //うちはいつでもここにおるから
@@ -12931,7 +12932,7 @@ well as to enemies.
 $E=====3842=====
 //たとえばソルは、太陽の力を表
 //す属性(ぞくせい)で、
-Fer example, the Sol
+For example, the Sol
 attribute represents the
 power of the Sun.
 $E=====3843=====
@@ -19184,105 +19185,149 @@ $J=====5414=====
 $J=====5415=====
 <PROC=0>
 <END>
-$J=====5416=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「いいか、<NAME>
-$J=====5417=====
-パイルドライバーを召喚(しょ
-うかん)し、ラタトスクを浄化
-じょうか)するんだ!
-$J=====5418=====
-パイルドライバーの起動には太
-陽の光が必要だ
-$J=====5419=====
+$E=====5416=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「いいか、<NAME>
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Okay, <NAME>.
+$E=====5417=====
+//パイルドライバーを召喚(しょ
+//うかん)し、ラタトスクを浄化
+//じょうか)するんだ!
+Once we summon the
+Piledriver, we'll seal
+Ratatosk!
+$E=====5418=====
+//パイルドライバーの起動には太
+//陽の光が必要だ
+Sunlight is necessary to
+start the Piledriver.
+$E=====5419=====
 <PROC=1><PROC=0>
 <END>
-$J=====5420=====
-<LABEL=OTENKO></LABEL>太陽は出ているな?」
- <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
-$J=====5421=====
+$E=====5420=====
+//<LABEL=OTENKO></LABEL>太陽は出ているな?」
+// <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
+<LABEL=OTENKO></LABEL>Is the Sun out?"
+ <ALTER>It's out</ALTER>  <ALTER>It's not out</ALTER>
+$E=====5421=====
 <PROC=0>
 <END>
-$J=====5422=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「では、パイルドライバーを召
-喚(しょうかん)する!!」
-$J=====5423=====
+$E=====5422=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「では、パイルドライバーを召
+//喚(しょうかん)する!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Very well, I summon the
+Piledriver!"
+$E=====5423=====
 <PROC=1><PROC=0>
 <END>
-$J=====5424=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「それではパイルドライバーを
-起動することができない!!
-$J=====5425=====
-太陽が出るのを待つしかないか
-・・・」
-$J=====5426=====
+$E=====5424=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「それではパイルドライバーを
+//起動することができない!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Well then we can't start
+the Piledriver!
+$E=====5425=====
+//太陽が出るのを待つしかないか
+//・・・」
+We'll have to wait for the
+Sun to come out..."
+$E=====5426=====
 <PROC=0>
 <END>{00}
-$J=====5427=====
+$X=====5427=====
 {CD}z{00}{00}{CE}z{00}{00}{CF}z{00}{00}{D0}z{00}{00}{D1}z{00}{00}{D3}z{00}{00}{D4}z{00}{00}{D5}z{00}{00}{D6}z{00}{00}{ED}z{00}{00}{D2}z{00}{00}Y{1B}{00}
-$J=====5428=====
-<LABEL>バイクコース
-「太陽街周回道」
-が開放された!!</LABEL><PROC=1>
-$J=====5429=====
+$E=====5428=====
+//<LABEL>バイクコース
+//「太陽街周回道」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Solar City Loop"
+unlocked!</LABEL><PROC=1>
+$E=====5429=====
 <PROC=0>
 <END>
-$J=====5430=====
-<LABEL>バイクコース
-「熱砂の海」
-が開放された!!</LABEL><PROC=1>
-$J=====5431=====
+$E=====5430=====
+//<LABEL>バイクコース
+//「熱砂の海」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Sea of Sand"
+unlocked!</LABEL><PROC=1>
+$E=====5431=====
 <PROC=0>
 <END>
-$J=====5432=====
-<LABEL>バイクコース
-「滅びの森」
-が開放された!!</LABEL><PROC=1>
-$J=====5433=====
+$E=====5432=====
+//<LABEL>バイクコース
+//「滅びの森」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Forest of Ruin"
+unlocked!</LABEL><PROC=1>
+$E=====5433=====
 <PROC=0>
 <END>
-$J=====5434=====
-<LABEL>バイクコース
-「冷酷なる凍土」
-が開放された!!</LABEL><PROC=1>
-$J=====5435=====
+$E=====5434=====
+//<LABEL>バイクコース
+//「冷酷なる凍土」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Cruel Tundra"
+unlocked!</LABEL><PROC=1>
+$E=====5435=====
 <PROC=0>
 <END>
-$J=====5436=====
-<LABEL>バイクコース
-「呪われた海岸」
-が開放された!!</LABEL><PROC=1>
-$J=====5437=====
+$E=====5436=====
+//<LABEL>バイクコース
+//「呪われた海岸」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Cursed Beach"
+unlocked!</LABEL><PROC=1>
+$E=====5437=====
 <PROC=0>
 <END>
-$J=====5438=====
-<LABEL>バイクコース
-「遥かなる荒野」
-が開放された!!</LABEL><PROC=1>
-$J=====5439=====
+$E=====5438=====
+//<LABEL>バイクコース
+//「遥かなる荒野」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Remote Wilderness"
+unlocked!</LABEL><PROC=1>
+$E=====5439=====
 <PROC=0>
 <END>
-$J=====5440=====
-<LABEL>バイクコース
-「バックストリート」
-が開放された!!</LABEL><PROC=1>
-$J=====5441=====
+$E=====5440=====
+//<LABEL>バイクコース
+//「バックストリート」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Back Street"
+unlocked!</LABEL><PROC=1>
+$E=====5441=====
 <PROC=0>
 <END>
-$J=====5442=====
-<LABEL>バイクコース
-「ジャンプロード」
-が開放された!!</LABEL><PROC=1>
-$J=====5443=====
+$E=====5442=====
+//<LABEL>バイクコース
+//「ジャンプロード」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Jump Road"
+unlocked!</LABEL><PROC=1>
+$E=====5443=====
 <PROC=0>
 <END>
-$J=====5444=====
-<LABEL>バイクコース
-「パークアベニュー」
-が開放された!!</LABEL><PROC=1>
-$J=====5445=====
+$E=====5444=====
+//<LABEL>バイクコース
+//「パークアベニュー」
+//が開放された!!</LABEL><PROC=1>
+<LABEL>Bike Course
+"Park Avenue"
+unlocked!</LABEL><PROC=1>
+$E=====5445=====
 <PROC=0>
 <END>
 $E=====5446=====
@@ -19305,19 +19350,19 @@ unlocked!</LABEL><PROC=1>
 $E=====5449=====
 <PROC=0>
 <END>
-$J=====5450=====
+$X=====5450=====
 {00}{06}{00}{07}{00}{08}{00}
-$J=====5451=====
+$X=====5451=====
 {02}{04}{02}{05}{02}
-$J=====5452=====
+$X=====5452=====
 {02}{14}{02} {02}
-$J=====5453=====
+$X=====5453=====
 {02}{06}{02}{15}{02}{16}{02}!{02}
-$J=====5454=====
+$X=====5454=====
 {02}{07}{02}{15}{02}{17}{02}"{02}
-$J=====5455=====
+$X=====5455=====
 {00}{01}{00}{0D}{00}{13}{00}{16}{00}{14}{00}
-$J=====5456=====
+$X=====5456=====
 {00}{00}{00}{0C}{00}{0F}{00}
 $E=====5457=====
 //コンティニューしますか?
@@ -19325,7 +19370,7 @@ Continue?
 $E=====5458=====
 //コンティニューしますか?{00}
 Continue?{00}
-$J=====5459=====
+$X=====5459=====
 {00}{00}{00}{00}{01}{00}{00}{00}{06}{00}{00}{00}{0D}{00}{00}{00}{18}{00}{00}{00}&{00}{00}{00}7{00}{00}{00}L{00}{00}{00}e{00}{00}{00}{PG01}{00}{00}{A2}{00}{00}{00}{C6}{00}{00}{00}{EF}{00}{00}{00}{1C}{01}{00}{00}M{01}{00}{00}配{00}{00}{BD}{01}{00}{00}{FD}{01}{00}{00}A{02}{00}{00}{8A}{02}{00}{00}{D8}{02}{00}{00}+{03}{00}{00}索{00}{00}{E3}{03}{00}{00}F{04}{00}{00}{B0}{04}{00}{00}{1F}{05}{00}{00}{95}{05}{00}{00}{10}{06}{00}{00}{92}{06}{00}{00}{1A}{07}{00}{00}{A8}{07}{00}{00}={08}{00}{00}{D9}{08}{00}{00}|{09}{00}{00}%
 {00}{00}{D5}
 {00}{00}{8D}{0B}{00}{00}L{0C}{00}{00}{12}{0D}{00}{00}{E0}{0D}{00}{00}{B5}{0E}{00}{00}{93}{0F}{00}{00}x{10}{00}{00}e{11}{00}{00}Z{12}{00}{00}W{13}{00}{00}]{14}{00}{00}l{15}{00}{00}相{00}{00}{A2}{17}{00}{00}{CA}{18}{00}{00}{FC}{19}{00}{00}6{1B}{00}{00}z{1C}{00}{00}{C7}{1D}{00}{00}{1D}{1F}{00}{00}{7D} {00}{00}{E7}!{00}{00}[#{00}{00}{D8}÷{00}{00}_&{00}{00}{F1}'{00}{00}{8D}){00}{00}3+{00}{00}{E4},{00}{00}{9F}.{00}{00}f0{00}{00}72{00}{00}{13}4{00}{00}{FA}5{00}{00}{EC}7{00}{00}{EA}9{00}{00}{F4};{00}{00}{08}>{00}{00})@{00}{00}UB{00}{00}{8E}D{00}{00}{D2}F{00}{00}#I{00}{00}ば{00}{00}{E9}M{00}{00}_P{00}{00}{E2}R{00}{00}rU{00}{00}{0E}X{00}{00}{B7}Z{00}{00}n]{00}{00}B`{00}{00}{03}c{00}{00}{E2}e{00}{00}{CE}h{00}{00}{C9}k{00}{00}{D1}n{00}{00}{E7}q{00}{00}{0B}u{00}{00}=x{00}{00}￣{7B}{00}{00}{CE}￣{00}
@@ -19918,15 +19963,24 @@ $E=====5588=====
 <LABEL=SABATA>Sabata</LABEL>:
 "Your spirit...<LOCK=30>
 $U=====5589=====
-暗黒をも受け入れ・・・
-未来をあきらめないその心が、<LOCK=60>
+//暗黒をも受け入れ・・・
+//未来をあきらめないその心が、<LOCK=60>
+You too received the
+darkness... that indomitable
+spirit of yours,<LOCK=60>
 $U=====5590=====
-破壊(はかい)の獣(けもの)その
-ものと成ったはずのこのおれを
-ふたたびこの地によびもどした<LOCK=105>
-$U=====5591=====
-おれにもまだ、やるべきことが
-あったようだ<LOCK=60>」
+//破壊(はかい)の獣(けもの)その
+//ものと成ったはずのこのおれを
+//ふたたびこの地によびもどした<LOCK=105>
+it called me back here. Me,
+destined to become the next
+Beast of Destruction.<LOCK=105>
+$E=====5591=====
+//おれにもまだ、やるべきことが
+//あったようだ<LOCK=60>」
+Looks like there was still
+something left for me to
+take care of!<LOCK=60>"
 $E=====5592=====
 <PROC=0>
 <END>
@@ -21954,8 +22008,8 @@ the Count.
 $E=====6029=====
 //この棺桶(かんおけ)を闇の領域
 //(ダンジョン)から運び出し、
-Carry that coffin out of the
-dungeon,
+Now carry that coffin out
+of the dungeon,
 $E=====6030=====
 //太陽の光で浄化(じょうか)する
 //んだ!」
@@ -22415,266 +22469,389 @@ $J=====6164=====
 $J=====6165=====
 <PROC=0>
 <END>
-$J=====6166=====
-<LABEL=FRES></LABEL><PROC=1><LOCK=20>キュキュキュキュキュッ!!」
-$J=====6167=====
+$E=====6166=====
+//<LABEL=FRES></LABEL><PROC=1><LOCK=20>キュキュキュキュキュッ!!」
+<LABEL=FRES></LABEL><PROC=1><LOCK=20>Kekekekeke!"
+$E=====6167=====
 <PROC=0>
 <END>
-$J=====6168=====
-<LABEL=TRINITY>トリニティ</LABEL>
-(うぅ・・・
-$J=====6169=====
-何でオイラがこんな目に・・・
-$J=====6170=====
-それにヴァンパイアの血?
-$J=====6171=====
-やっぱりアイツは・・・
-伝説の戦士じゃあなかったのか
-$J=====6172=====
-クソッ、他人を当てにするなん
-てオイラがバカだったぜ!!)
-$J=====6173=====
+$E=====6168=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//(うぅ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+(Ooohh...
+$E=====6169=====
+//何でオイラがこんな目に・・・
+Why do I gotta go through
+this...
+$E=====6170=====
+//それにヴァンパイアの血?
+Not to menion, vampire
+blood?
+$E=====6171=====
+//やっぱりアイツは・・・
+//伝説の戦士じゃあなかったのか
+Guess that guy wasn't the
+Legendary Warrior after
+all...
+$E=====6172=====
+//クソッ、他人を当てにするなん
+//てオイラがバカだったぜ!!)
+shit, trustin' a stranger
+like that... that was so
+stupid of me!)
+$E=====6173=====
 <PROC=0>
 <END>
-$J=====6174=====
-<LABEL=NONE>???</LABEL>
-「こんにちは、
-<NAME>くん」
-$J=====6175=====
+$E=====6174=====
+//<LABEL=NONE>???</LABEL>
+//「こんにちは、
+//<NAME>くん」
+<LABEL=NONE>???</LABEL>:
+"Greetings, <NAME>."
+$E=====6175=====
 <PROC=0>
 <END>
-$J=====6176=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「<NAME>!?」
-$J=====6177=====
+$E=====6176=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「<NAME>!?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"<NAME>!?"
+$E=====6177=====
 <PROC=0>
 <END>
-$J=====6178=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ!!
-どうしてここに・・・!?」
-$J=====6179=====
-<LABEL=FRES>フレスベルグ</LABEL>
-「ふぅん、やっぱりお友達だっ
-たみたいだね?」
-$J=====6180=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティをどうするつもり
-だ!」
-$J=====6181=====
-<LABEL=FRES>フレスベルグ</LABEL>
-「何もしないさ
-$J=====6182=====
-でもこのまま放っておいたら、
-風に運ばれて痛い思いをするか
-もしれないね」
-$J=====6183=====
+$E=====6178=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ!!
+//どうしてここに・・・!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity! What are you doing
+here...!?"
+$E=====6179=====
+//<LABEL=FRES>フレスベルグ</LABEL>
+//「ふぅん、やっぱりお友達だっ
+//たみたいだね?」
+<LABEL=FRES>Hresvelgr</LABEL>:
+"Heh, looks like you were
+friends after all."
+$E=====6180=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティをどうするつもり
+//だ!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Just what do you plan to
+do with Trinity!?"
+$E=====6181=====
+//<LABEL=FRES>フレスベルグ</LABEL>
+//「何もしないさ
+<LABEL=FRES>Hresvelgr</LABEL>:
+"I won't do a thing...
+$E=====6182=====
+//でもこのまま放っておいたら、
+//風に運ばれて痛い思いをするか
+//もしれないね」
+But at this rate the wind
+might just be his biggest
+problem, don't you think?"
+$E=====6183=====
 <PROC=0>
 <END>
-$J=====6184=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「チクショーッ、
-放しやがれーっ!!」
-$J=====6185=====
+$E=====6184=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「チクショーッ、
+//放しやがれーっ!!」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Dammit, lemme go!"
+$E=====6185=====
 <PROC=0>
 <END>
-$J=====6186=====
-<LABEL=FRES>フレスベルグ</LABEL>
-「キェキェキェキェキェッ!!
-$J=====6187=====
+$E=====6186=====
+//<LABEL=FRES>フレスベルグ</LABEL>
+//「キェキェキェキェキェッ!!
+<LABEL=FRES>Hresvelgr</LABEL>:
+"Kekekekeke!
+$E=====6187=====
 <PROC=0>
 <END>
-$J=====6188=====
-<LABEL=FRES></LABEL>ボクはイモータル四人衆(よに
-んしゅう)の1人・・・
-死の翼(つばさ)フレスベルグ!
-$J=====6189=====
-伯爵(はくしゃく)と追いかけっ
-このところを悪いんだけど、
-$J=====6190=====
-少しだけボクの食事につき合っ
-てくれないかな?
-$J=====6191=====
-あぁ、料理の心配ならいらない
-よ
-$J=====6192=====
-ボク・・・
-好ききらいはしないから!!」
-$J=====6193=====
+$E=====6188=====
+//<LABEL=FRES></LABEL>ボクはイモータル四人衆(よに
+//んしゅう)の1人・・・
+//死の翼(つばさ)フレスベルグ!
+<LABEL=FRES></LABEL>I'm one of the Four
+Immortals... Wings of Death
+Hresvelgr!
+$U=====6189=====
+//伯爵(はくしゃく)と追いかけっ
+//このところを悪いんだけど、
+This may be a bad place to
+chase after the Count,
+$E=====6190=====
+//少しだけボクの食事につき合っ
+//てくれないかな?
+but I suppose I can play
+with my food for a little
+while.
+$E=====6191=====
+//あぁ、料理の心配ならいらない
+//よ
+Oh, I won't bother cooking
+it...
+$U=====6192=====
+//ボク・・・
+//好ききらいはしないから!!」
+I can eat anything!"
+$E=====6193=====
 <PROC=0>
 <END>
-$J=====6194=====
-<LABEL=FRES>フレスベルグ</LABEL>
-<PROC=1><LOCK=20>「キシャロロロッ!!
-$J=====6195=====
-・・・どこからがいい?
-$J=====6196=====
-好きなところから喰(く)らって
-やるぞ?
-太陽少年<NAME>!!」
-$J=====6197=====
+$E=====6194=====
+//<LABEL=FRES>フレスベルグ</LABEL>
+//<PROC=1><LOCK=20>「キシャロロロッ!!
+<LABEL=FRES>Hresvelgr</LABEL>:
+<PROC=1><LOCK=20>"Kyaaahahaha!
+$E=====6195=====
+//・・・どこからがいい?
+Hmm, what to do...?
+$E=====6196=====
+//好きなところから喰(く)らって
+//やるぞ?
+//太陽少年<NAME>!!」
+What should I consume first?
+Solar Boy <NAME>!"
+$E=====6197=====
 <PROC=0>
 <END>
-$J=====6198=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>、
-だいじょうぶか!?」
-$J=====6199=====
+$E=====6198=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>、
+//だいじょうぶか!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>,
+are you alright!?"
+$E=====6199=====
 <PROC=0>
 <END>
-$J=====6200=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「<NAME>・・・
-オメェなに考えてんだ?
-$J=====6201=====
-礼くらいは言ってやる。
-けど・・・
-$J=====6202=====
-金なら1ソルだってはらわねぇ
-からな!
-$J=====6203=====
-金はいらない?
-$J=====6204=====
-それじゃあ、そんなになってま
-で何で・・・
-$J=====6205=====
+$E=====6200=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「<NAME>・・・
+//オメェなに考えてんだ?
+<LABEL=TRINITY>Trinity</LABEL>:
+"<NAME>...
+Just what were ya thinkin'?
+$E=====6201=====
+//礼くらいは言ってやる。
+//けど・・・
+I'll say thanks, but...
+$E=====6202=====
+//金なら1ソルだってはらわねぇ
+//からな!
+You ain't gettin' a single
+Soll from me!
+$E=====6203=====
+//金はいらない?
+...You don't want any money?
+$E=====6204=====
+//それじゃあ、そんなになってま
+//で何で・・・
+Well then, why go so far...
+$E=====6205=====
 <PROC=0>
 <END>
-$J=====6206=====
-<LABEL=TRINITY></LABEL>何でオイラを助けたりしたんだ
-よ?」
- <ALTER>仲間だから</ALTER>  <ALTER>分からない</ALTER>
-$J=====6207=====
+$E=====6206=====
+//<LABEL=TRINITY></LABEL>何でオイラを助けたりしたんだ
+//よ?」
+// <ALTER>仲間だから</ALTER>  <ALTER>分からない</ALTER>
+<LABEL=TRINITY></LABEL>Why'd ya save me?"
+ <ALTER>We're friends</ALTER>  <ALTER>I dunno</ALTER>
+$E=====6207=====
 <PROC=0>
 <END>
-$J=====6208=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「オイラが・・・仲間?
-$J=====6209=====
-師匠(ししょう)だの弟子だの、
-あんなのジョークに決まってん
-だろ?
-$J=====6210=====
+$E=====6208=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「オイラが・・・仲間?
+<LABEL=TRINITY>Trinity</LABEL>:
+"I'm your... friend?
+$U=====6209=====
+//師匠(ししょう)だの弟子だの、
+//あんなのジョークに決まってん
+//だろ?
+We're master and pupil. Sure
+you're not just in shock?
+$E=====6210=====
 <PROC=0>
 <END>
-$J=====6211=====
-<LABEL=TRINITY></LABEL>オイラが仲間だなんて・・・
-$J=====6212=====
-そんなあまい考えじゃあ、これ
-から先・・・
-$J=====6213=====
+$E=====6211=====
+//<LABEL=TRINITY></LABEL>オイラが仲間だなんて・・・
+<LABEL=TRINITY></LABEL>Saying I'm his friend...
+$U=====6212=====
+//そんなあまい考えじゃあ、これ
+//から先・・・
+Such a naive thought, from
+now on...
+$E=====6213=====
 <PROC=0>
 <END>
-$J=====6214=====
-<LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
-ねぇぜ?
-$J=====6215=====
-最後に信じられるのは自分だけ
-さ
-$J=====6216=====
-他人を信じたところで、いつか
-はうらぎられる
-$J=====6217=====
+$U=====6214=====
+//<LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
+//ねぇぜ?
+<LABEL=TRINITY></LABEL>You're not gonna live all
+the way to the Future Era,
+are ya...
+$E=====6215=====
+//最後に信じられるのは自分だけ
+//さ
+In the end, I'm the only one
+who can be trusted.
+$E=====6216=====
+//他人を信じたところで、いつか
+//はうらぎられる
+If I trust in another
+person, I'll eventually be
+betrayed.
+$E=====6217=====
 <PROC=0>
 <END>
-$J=====6218=====
-<LABEL=TRINITY></LABEL>うらぎられるんだ・・・
-$J=====6219=====
-母ちゃんみたいに・・・!!
-$J=====6220=====
+$E=====6218=====
+//<LABEL=TRINITY></LABEL>うらぎられるんだ・・・
+<LABEL=TRINITY></LABEL>Betrayed...
+$E=====6219=====
+//母ちゃんみたいに・・・!!
+just like mom was...!
+$E=====6220=====
 <PROC=0>
 <END>
 $J=====6221=====
 <LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
 たぜ!」
-$J=====6222=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ・・・」
-$J=====6223=====
+$E=====6222=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ・・・」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity..."
+$E=====6223=====
 <PROC=0>
 <END>
-$J=====6224=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「・・・
-$J=====6225=====
-さあ、<NAME>
-$J=====6226=====
-この棺桶(かんおけ)を闇の領域
-(ダンジョン)から運び出し、
-$J=====6227=====
-太陽の光で浄化(じょうか)する
-んだ
-$J=====6228=====
-われわれにはわれわれの、進む
-べき道ある
-$J=====6229=====
-戦いはまだ、終わっていない
-・・・」
-$J=====6230=====
+$E=====6224=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"...
+$E=====6225=====
+//さあ、<NAME>
+Okay, <NAME>.
+$E=====6226=====
+//この棺桶(かんおけ)を闇の領域
+//(ダンジョン)から運び出し、
+Carry that coffin out of
+the dungeon,
+$E=====6227=====
+//太陽の光で浄化(じょうか)する
+//んだ
+and purify it in the light
+of the Sun!"
+$E=====6228=====
+//われわれにはわれわれの、進む
+//べき道ある
+Each of us has our own path
+to follow.
+$E=====6229=====
+//戦いはまだ、終わっていない
+//・・・」
+We're not done fighting
+yet..."
+$E=====6230=====
 <PROC=0>
 <END>
-$J=====6231=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「理由もなく助けたのか?
-$J=====6232=====
+$E=====6231=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「理由もなく助けたのか?
+<LABEL=TRINITY>Trinity</LABEL>:
+"You saved me without a
+reason?
+$E=====6232=====
 <PROC=0>
 <END>
-$J=====6233=====
-<LABEL=TRINITY></LABEL>まったく・・・
-分からないのはコッチだぜ
-$J=====6234=====
-そんなあまい考えじゃあ、これ
-から先・・・
-$J=====6235=====
+$E=====6233=====
+//<LABEL=TRINITY></LABEL>まったく・・・
+//分からないのはコッチだぜ
+<LABEL=TRINITY></LABEL>Sheesh... you're the one I
+don't get...
+$U=====6234=====
+//そんなあまい考えじゃあ、これ
+//から先・・・
+Such a naive idea, from now on...
+$E=====6235=====
 <PROC=0>
 <END>
 $J=====6236=====
 <LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
 ねぇぜ?
-$J=====6237=====
-大切なのは金だろ?
-$J=====6238=====
-金さえありゃあ、食い物にこま
-ることもねぇからな
-$J=====6239=====
+$R=====6237=====
+//大切なのは金だろ?
+Isn't money the important
+thing?
+$E=====6238=====
+//金さえありゃあ、食い物にこま
+//ることもねぇからな
+If you have money, you don't
+have to worry about food,
+either.
+$E=====6239=====
 <PROC=0>
 <END>
-$J=====6240=====
-<LABEL=TRINITY></LABEL>そうさ、金さえありゃあの時だ
-って・・・
-$J=====6241=====
-母ちゃんだって助かったんだ
-・・・!!
-$J=====6242=====
+$E=====6240=====
+//<LABEL=TRINITY></LABEL>そうさ、金さえありゃあの時だ
+//って・・・
+<LABEL=TRINITY></LABEL>Yeah, if I had money back
+then...
+$E=====6241=====
+//母ちゃんだって助かったんだ
+//・・・!!
+I coulda saved mom...!
+$E=====6242=====
 <PROC=0>
 <END>
-$J=====6243=====
-<LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
-たぜ!」
-$J=====6244=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ・・・」
-$J=====6245=====
+$E=====6243=====
+//<LABEL=TRINITY></LABEL>へっ、ヤなこと思い出しちまっ
+//たぜ!」
+<LABEL=TRINITY></LABEL>Heh, I got a little carried
+away just now!"
+$E=====6244=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ・・・」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity..."
+$E=====6245=====
 <PROC=0>
 <END>
-$J=====6246=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「・・・
-$J=====6247=====
-さあ、<NAME>
-$J=====6248=====
-この棺桶(かんおけ)を闇の領域
-(ダンジョン)から運び出し、
-$J=====6249=====
-太陽の光で浄化(じょうか)する
-んだ
-$J=====6250=====
-われわれにはわれわれの、進む
-べき道ある
-$J=====6251=====
-戦いはまだ、終わっていない
-・・・」
-$J=====6252=====
+$E=====6246=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"...
+$E=====6247=====
+//さあ、<NAME>
+Okay, <NAME>.
+$E=====6248=====
+//この棺桶(かんおけ)を闇の領域
+//(ダンジョン)から運び出し、
+Carry that coffin out of
+the dungeon,
+$E=====6249=====
+//太陽の光で浄化(じょうか)する
+//んだ
+and purify it in the light
+of the Sun!"
+$E=====6250=====
+//われわれにはわれわれの、進む
+//べき道ある
+Each of us has our own path
+to follow.
+$E=====6251=====
+//戦いはまだ、終わっていない
+//・・・」
+We're not done fighting
+yet..."
+$E=====6252=====
 <PROC=0>
 <END>
 $J=====6253=====
@@ -24200,45 +24377,63 @@ $J=====6757=====
 $J=====6758=====
 <PROC=0>
 <END>
-$J=====6759=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「人形使い、ラタトスク・・・
-とうとう現れちまったか」
-$J=====6760=====
+$E=====6759=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「人形使い、ラタトスク・・・
+//とうとう現れちまったか」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Ratatosk the Puppeteer...
+so he finally showed up."
+$E=====6760=====
 <PROC=0>
 <END>
-$J=====6761=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「やつを知っているのか?」
-$J=====6762=====
+$E=====6761=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「やつを知っているのか?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"You know of him?"
+$E=====6762=====
 <PROC=0>
 <END>
-$J=====6763=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「ああ・・・
-$J=====6764=====
-ヤツこそは未来世紀を支配(し
-はい)する闇の一族(イモータル
-)、
-$J=====6765=====
-ヴァナルガンドをあやつり、世
-界をメチャクチャにした破壊(
-はかい)の王
-$J=====6766=====
+$E=====6763=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「ああ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"Yeah...
+$E=====6764=====
+//ヤツこそは未来世紀を支配(し
+//はい)する闇の一族(イモータル
+//)、
+He's definitely the Immortal
+who rules over the Future
+Era.
+$E=====6765=====
+//ヴァナルガンドをあやつり、世
+//界をメチャクチャにした破壊(
+//はかい)の王
+He took control of Vanargand
+and caused a ton of
+destruction...
+$E=====6766=====
 <PROC=0>
 <END>
-$J=====6767=====
-<LABEL=TRINITY></LABEL>そして・・・
-$J=====6768=====
-オイラの母ちゃんを殺した、張
-本人(ちょうほんにん)だ」
-$J=====6769=====
+$E=====6767=====
+//<LABEL=TRINITY></LABEL>そして・・・
+<LABEL=TRINITY></LABEL>And...
+$E=====6768=====
+//オイラの母ちゃんを殺した、張
+//本人(ちょうほんにん)だ」
+He's the one who killed my
+mom."
+$E=====6769=====
 <PROC=0>
 <END>
-$J=====6770=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「・・・もう終わりさ
-$J=====6771=====
+$U=====6770=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「・・・もう終わりさ
+<LABEL=TRINITY>Trinity</LABEL>:
+"...it's over now.
+$U=====6771=====
 今さら何をしようと・・・
 未来はもう、変わらない」
 $J=====6772=====
@@ -32590,191 +32785,271 @@ $E=====9352=====
 $E=====9353=====
 //　　　伯爵　　　
    The Count
-$J=====9354=====
-　　古の大樹　　
+$E=====9354=====
+//　　古の大樹　　
+  Ancient Tree
 $E=====9355=====
 //　フレスベルグ　
-    Hresvelgr
-$J=====9356=====
-　　 白き森　　 
-$J=====9357=====
-　　 サバタ　　 
-$J=====9358=====
-　　海賊の島　　
-$J=====9359=====
-　ニーズホッグ　
-$J=====9360=====
-　　 機械王　　 
-$J=====9361=====
-　暗黒城・上層　
-$J=====9362=====
-　暗黒城・下層　
-$J=====9363=====
-　 ラタトスク　 
-$J=====9364=====
-　　　楽園　　　
-$J=====9365=====
-　失われた楽園　
-$J=====9366=====
-　　封印の間　　
-$J=====9367=====
- ヴァナルガンド 
-$J=====9368=====
-　太陽を求めて　
-$J=====9369=====
-太陽を守りぬけ!!
-$J=====9370=====
-　　お知らせ　　
-$J=====9371=====
-　逆襲のサバタ　
-$J=====9372=====
-　　　解説　　　
-$J=====9373=====
- ネームエントリ 
-$J=====9374=====
-　 戦士の伝説　 
-$J=====9375=====
-　おてんこさま　
-$J=====9376=====
-　 太陽の使者　 
-$J=====9377=====
-　ヴァンパイア　
-$J=====9378=====
-イモータル四人衆
-$J=====9379=====
-　　人形使い　　
-$J=====9380=====
-　　破壊の獣　　
-$J=====9381=====
-　 トリニティ　 
-$J=====9382=====
-　　未来世紀　　
-$J=====9383=====
-　　未来少年　　
-$J=====9384=====
-　　母ちゃん　　
-$J=====9385=====
-　　　狂気　　　
-$J=====9386=====
-　　　慈愛　　　
-$J=====9387=====
-　　暗黒少年　　
-$J=====9388=====
-　　カーミラ　　
-$J=====9389=====
-　 嘆きの魔女　 
-$J=====9390=====
-　　 兄と弟　　 
-$J=====9391=====
-　 ガリガリ君　 
-$J=====9392=====
-　???(ハテナ)　 
-$J=====9393=====
-　 大地の精霊　 
-$J=====9394=====
-　　　雨雲　　　
-$J=====9395=====
-　ユグドラシル　
-$J=====9396=====
+   Hresvelgr
+$E=====9356=====
+//　　 白き森　　 
+  White Forest
+$E=====9357=====
+//　　 サバタ　　 
+     Sabata
+$E=====9358=====
+//　　海賊の島　　
+ Pirate Island
+$E=====9359=====
+//　ニーズホッグ　
+    Nidhoggr
+$E=====9360=====
+//　　 機械王　　 
+  Machine King
+$E=====9361=====
+//　暗黒城・上層　
+ Dark Castle UF
+$E=====9362=====
+//　暗黒城・下層　
+ Dark Castle BF
+$E=====9363=====
+//　 ラタトスク　 
+    Ratatosk
+$E=====9364=====
+//　　　楽園　　　
+    Paradise
+$E=====9365=====
+//　失われた楽園　
+ Lost Paradise
+$E=====9366=====
+//　　封印の間　　
+  Sealed Area
+$E=====9367=====
+// ヴァナルガンド 
+   Vanargand
+$E=====9368=====
+//　太陽を求めて　
+  Seek the Sun
+$E=====9369=====
+//太陽を守りぬけ!!
+Protect the Sun!
+$E=====9370=====
+//　　お知らせ　　
+     Notice
+$E=====9371=====
+//　逆襲のサバタ　
+Sabata's Counter
+$E=====9372=====
+//　　　解説　　　
+   Commentary
+$E=====9373=====
+// ネームエントリ 
+   Name Entry
+$E=====9374=====
+//　 戦士の伝説　 
+LegendaryWarrior
+$E=====9375=====
+//　おてんこさま　
+ Master Otenko
+$E=====9376=====
+//　 太陽の使者　 
+Solar Messenger
+$E=====9377=====
+//　ヴァンパイア　
+    Vampire
+$E=====9378=====
+//イモータル四人衆
+ Four Immortals
+$E=====9379=====
+//　　人形使い　　
+ The Puppeteer
+$E=====9380=====
+//　　破壊の獣　　
+DestructionBeast
+$E=====9381=====
+//　 トリニティ　 
+    Trinity
+$E=====9382=====
+//　　未来世紀　　
+   Future Era
+$E=====9383=====
+//　　未来少年　　
+   Future Boy
+$E=====9384=====
+//　　母ちゃん　　
+      Mom
+$E=====9385=====
+//　　　狂気　　　
+    Madness
+$E=====9386=====
+//　　　慈愛　　　
+   Affection
+$E=====9387=====
+//　　暗黒少年　　
+    Dark Boy
+$E=====9388=====
+//　　カーミラ　　
+    Carmilla
+$E=====9389=====
+//　 嘆きの魔女　 
+The Crying Witch
+$E=====9390=====
+//　　 兄と弟　　 
+    Brothers
+$E=====9391=====
+//　 ガリガリ君　 
+  GariGari-kun
+$E=====9392=====
+//　???(ハテナ)　 
+ ???  (Unknown)
+$E=====9393=====
+//　 大地の精霊　 
+  Earth Spirit
+$U=====9394=====
+//　　　雨雲　　　
+   Raincloud
+$E=====9395=====
+//　ユグドラシル　
+   Yggdrasill
+$U=====9396=====
 　　転移魔砲　　
-$J=====9397=====
- あきらめない心 
-$J=====9398=====
- あきらめと絶望 
-$J=====9399=====
-新・ボクらの太陽
-$J=====9400=====
-　 暗黒の未来　 
-$J=====9401=====
- 明日に向かって 
-$J=====9402=====
-　　トランス　　
-$J=====9403=====
- 黒ジャンゴ変身 
-$J=====9404=====
-　手に入れた!!　
-$J=====9405=====
-　　太陽魔法　　
-$J=====9406=====
-　 読めたで!!　 
-$J=====9407=====
-　　　敗北　　　
-$J=====9408=====
-　 世紀末世界　 
-$J=====9409=====
-　サン・ミゲル　
-$J=====9410=====
-　　 商店街　　 
-$J=====9411=====
-　　太陽鍛冶　　
-$J=====9412=====
-　　 完成!!　　 
-$J=====9413=====
-　 太陽バンク　 
-$J=====9414=====
-　 暗黒ローン　 
-$J=====9415=====
-　　おしおき　　
-$J=====9416=====
-　チェストッ!!　
-$J=====9417=====
- ゲームオーバー 
-$J=====9418=====
-　 日の出デモ　 
-$J=====9419=====
-　 日の入デモ　 
-$J=====9420=====
- クロスオーバー 
-$J=====9421=====
-　通信対戦勝ち　
-$J=====9422=====
-　通信対戦負け　
-$J=====9423=====
-　　ガレージ　　
-$J=====9424=====
+$E=====9397=====
+// あきらめない心 
+  Perseverence
+$E=====9398=====
+// あきらめと絶望 
+Loss and Despair
+$E=====9399=====
+//新・ボクらの太陽
+    Boktai 3
+$E=====9400=====
+//　 暗黒の未来　 
+  Dark Future
+$E=====9401=====
+// 明日に向かって 
+Facing Tomorrow
+$E=====9402=====
+//　　トランス　　
+     Trance
+$E=====9403=====
+// 黒ジャンゴ変身 
+Dark Django Form
+$E=====9404=====
+//　手に入れた!!　
+ Item Obtained
+$E=====9405=====
+//　　太陽魔法　　
+  Solar Magic
+$E=====9406=====
+//　 読めたで!!　 
+  Star Reading
+$E=====9407=====
+//　　　敗北　　　
+    Defeated
+$E=====9408=====
+//　 世紀末世界　 
+End of the World
+$E=====9409=====
+//　サン・ミゲル　
+   San Miguel
+$E=====9410=====
+//　　 商店街　　 
+    The Mall
+$E=====9411=====
+//　　太陽鍛冶　　
+   SOLARSMITH
+$E=====9412=====
+//　　 完成!!　　 
+   Complete!
+$E=====9413=====
+//　 太陽バンク　 
+   Solar Bank
+$E=====9414=====
+//　 暗黒ローン　 
+   Dark Loans
+$E=====9415=====
+//　　おしおき　　
+   Punishment
+$E=====9416=====
+//　チェストッ!!　
+ Chest Attack!
+$E=====9417=====
+// ゲームオーバー 
+   Game  Over
+$U=====9418=====
+//　 日の出デモ　 
+  Sunrise Demo
+$U=====9419=====
+//　 日の入デモ　 
+  Sunset  Demo
+$E=====9420=====
+// クロスオーバー 
+   Crossover
+$E=====9421=====
+//　通信対戦勝ち　
+   Battle Won
+$E=====9422=====
+//　通信対戦負け　
+  Battle  Lost
+$E=====9423=====
+//　　ガレージ　　
+     Garage
+$U=====9424=====
 　　　疾風　　　
-$J=====9425=====
+$U=====9425=====
 　　　雄風　　　
-$J=====9426=====
+$U=====9426=====
 　　　烈風　　　
-$J=====9427=====
-　バイクバトル　
-$J=====9428=====
-　　リザルト　　
-$J=====9429=====
-パイルドライバー
+$E=====9427=====
+//　バイクバトル　
+  Bike  Battle
+$E=====9428=====
+//　　リザルト　　
+     Result
+$E=====9429=====
+//パイルドライバー
+  Pile  Driver
 $J=====9430=====
 　　　起動　　　
 $J=====9431=====
 　 準備完了!!　 
 $J=====9432=====
 　　　暗転　　　
-$J=====9433=====
- バトルドライブ 
+$E=====9433=====
+// バトルドライブ 
+  Battle Drive
 $J=====9434=====
 　　　死戦　　　
 $J=====9435=====
 　　　地鳴　　　
-$J=====9436=====
-　　　勝利!　　 
-$J=====9437=====
- 逃げられたぞ!! 
-$J=====9438=====
-　　トラップ!　 
+$E=====9436=====
+//　　　勝利!　　 
+    Victory!
+$E=====9437=====
+// 逃げられたぞ!! 
+    Escaped!
+$E=====9438=====
+//　　トラップ!　 
+     Trap!
 $J=====9439=====
 　　　襲撃　　　
 $J=====9440=====
 　　　強襲　　　
-$J=====9441=====
-　　 黒騎士　　 
-$J=====9442=====
-　 ミッション!　
-$J=====9443=====
-　　　難関　　　
-$J=====9444=====
-　　　成功!　　 
-$J=====9445=====
-　　　失敗!　　 
+$E=====9441=====
+//　　 黒騎士　　 
+  Black Knight
+$E=====9442=====
+//　 ミッション!　
+    Mission!
+$E=====9443=====
+//　　　難関　　　
+    Barrier
+$E=====9444=====
+//　　　成功!　　 
+    Success!
+$E=====9445=====
+//　　　失敗!　　 
+    Failure!
 $J=====9446=====
 0　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 $J=====9447=====
@@ -33616,14 +33891,19 @@ $E=====9802=====
 //「<EXTEND=2>」
 <LABEL=NONE>RockMan</LABEL>:
 "<EXTEND=2>"
-$J=====9803=====
-接続がキャンセルされました。
-$J=====9804=====
-相手の接続をまっています。
-$J=====9805=====
-<WEIGHT>「<EXTEND=2>」</WEIGHT>
-バトルの申し込みがありました
-<WEIGHT>Ａボタン</WEIGHT>でバトルを開始します
+$E=====9803=====
+//接続がキャンセルされました。
+Connection cancelled.
+$E=====9804=====
+//相手の接続をまっています。
+Waiting for opponent to connect.
+$E=====9805=====
+//<WEIGHT>「<EXTEND=2>」</WEIGHT>
+//バトルの申し込みがありました
+//<WEIGHT>Ａボタン</WEIGHT>でバトルを開始します
+<WEIGHT>"<EXTEND=2>"</WEIGHT>
+Battle request received.
+Press the <WEIGHT>A Button</WEIGHT> to start.
 $E=====9806=====
 //通信中です。
 Transmitting.
@@ -33632,7 +33912,7 @@ $E=====9807=====
 Waiting for opponent to choose.
 $E=====9808=====
 //今回のクロスオーバーポイント
-Today's Crossover Points
+Crossover Points Earned
 $E=====9809=====
 //クロスオーバーポイントの合計
 Crossover Point Total
@@ -33653,7 +33933,7 @@ $E=====9814=====
 Preparations complete
 $E=====9815=====
 //ボクとバトルだ
-Fight with me
+Battle with me
 $E=====9816=====
 //しょうぶだ　ねっとくん
 It's game time, Netto
@@ -33808,10 +34088,13 @@ $E=====9867=====
 ARMOR
 $E=====9868=====
 //スタチューオブガルム
+GARM STATUE
 $E=====9869=====
 //ムスペルヘッド
+MUSPELL HEAD
 $E=====9870=====
 //ポイズンハンド
+POISON HAND
 $E=====9871=====
 //スクリーマー
 SCREAMER
