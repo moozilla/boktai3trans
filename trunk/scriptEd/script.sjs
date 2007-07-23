@@ -2455,7 +2455,7 @@ $E=====947=====
 BUBBLES
 $E=====948=====
 //フーパー
-HOOPER
+HOOP
 $E=====949=====
 //ジャグラー
 JUGGLER
@@ -3161,7 +3161,7 @@ $E=====1184=====
 The crest of clubs. Increases damage dealt by vertical cuts.
 $E=====1185=====
 //ダイヤの紋章(もんしょう)。突(つ)きであたえるダメージがふえる。
-The crest of clubs. Increases damage dealt by stabs.
+The crest of diamonds. Increases damage dealt by stabs.
 $E=====1186=====
 //小型の盾(たて)。ソードの受けるダメージが半分になる。
 A tiny shield. Halves damage taken when using a sword.
@@ -7670,7 +7670,7 @@ $E=====2457=====
 Transfer data using the link cable.
 $E=====2458=====
 //ワイヤレスアダプタを使ってロックマンエグゼ6と通信対戦ができます。
-Crossover Battle with Rockman.EXE 6 using the wireless adapter.
+Crossover Battle with RockMan.EXE 6 using the wireless adapter.
 $E=====2459=====
 //データがありません。Ａボタン、またはＢボタンでもどります。
 No data. Press the A or B Button to return.
@@ -7961,7 +7961,7 @@ $E=====2535=====
 Calls its comrades with a scattering cry. Steals items with its tongue.
 $E=====2536=====
 //血染(ちぞ)めのヴォーン。
-A blood-soaked Vorn.
+A blood-stained Vorn.
 $E=====2537=====
 //火の玉をはく。
 Spits fireballs.
@@ -9995,16 +9995,24 @@ $E=====3101=====
 <LABEL=KID>Kid</LABEL>:
 "Tricked by Sabata, huh?
 $U=====3102=====
-兄弟ゲンカもほどほどにな
-$J=====3103=====
-たしかにアイツは、口も悪けり
-ゃ性格(せいかく)も悪いが、
-$J=====3104=====
-根はいいヤツなんだからよ!
-$J=====3105=====
-あれでもオレの、命の恩人(お
-んじん)だからな・・・」
-$J=====3106=====
+//兄弟ゲンカもほどほどにな
+Don't be too hard on him,
+dude.
+$E=====3103=====
+//たしかにアイツは、口も悪けり
+//ゃ性格(せいかく)も悪いが、
+Yeah, he talks bad and he
+acts bad,
+$E=====3104=====
+//根はいいヤツなんだからよ!
+but he's a good guy on the
+inside!
+$E=====3105=====
+//あれでもオレの、命の恩人(お
+//んじん)だからな・・・」
+I mean, I owe him my
+life..."
+$E=====3106=====
 <PROC=0>
 <END>
 $E=====3107=====
@@ -11443,7 +11451,7 @@ $E=====3498=====
 //んて・・・大変だったわね
 I heard all about it.
 You lost your memory...
-how terrible.
+that's just terrible.
 $E=====3499=====
 //・・・
 ...
@@ -11466,7 +11474,7 @@ $E=====3504=====
 //もらうわけにはいかないし
 you won't be able to help me
 out with my Guild work. This
-is terrible...
+is terrible indeed...
 $E=====3505=====
 //大変なのよ・・・
 //東の町々をヴァンパイアがおそ
@@ -11833,138 +11841,223 @@ $E=====3589=====
 //するわね?
 In that case, shall I
 explain jobs to you?
-$J=====3590=====
-わたしの所属(しょぞく)する組
-織(ギルド)というのは、この世
-紀末世界にくらす人々を、
-$J=====3591=====
-闇(やみ)の勢力(せいりょく)か
-ら守るために作られた地下組織
-(ちかそしき)なの
-$J=====3592=====
-中央ギルドから派遣(はけん)さ
-れたマスターが、各地でそれぞ
-れの組織(ギルド)を作り、
-$J=====3593=====
-その地域(ちいき)を守る・・・
-$J=====3594=====
-わたしもそんなギルドマスター
-の1人よ
-$J=====3595=====
-今回、あなたにお願いしたい仕
-事は2つ
-$J=====3596=====
-1つは、闇の一族(イモータル)
-のいなくなった闇の領域(ダン
-ジョン)で行われる、
-$J=====3597=====
-特殊任務(ミッション)
-$J=====3598=====
-これは闇の領域(ダンジョン)に
-残された魔物(モンスター)の被
-害(ひがい)を、
-$J=====3599=====
-最小限(さいしょうげん)におさ
-えるための大切な任務(にんむ)
-であり、
-$J=====3600=====
-組織(ギルド)のエージェントに
-とっての訓練でもあるの
-$J=====3601=====
-もう1つの仕事は、各地から多
-数の被害報告(ひがいほうこく)
-がよせられている、
-$J=====3602=====
-ワンテッドモンスターの退治(
-たいじ)よ
-$J=====3603=====
-左右にある6つの本棚(ほんだな
-)に手配書を張(は)っていくか
-ら、見ておいてね?
-$J=====3604=====
-もちろん、どちらの仕事にもご
-ほうびは用意されているわよ{note}
-」
-$J=====3605=====
+$E=====3590=====
+//わたしの所属(しょぞく)する組
+//織(ギルド)というのは、この世
+//紀末世界にくらす人々を、
+I belong to an underground
+organization, called the
+Guild,
+$E=====3591=====
+//闇(やみ)の勢力(せいりょく)か
+//ら守るために作られた地下組織
+//(ちかそしき)なの
+which was created to protect
+this world's inhabitants
+from the forces of darkness.
+$E=====3592=====
+//中央ギルドから派遣(はけん)さ
+//れたマスターが、各地でそれぞ
+//れの組織(ギルド)を作り、
+The main guild dispatches
+masters across the land to
+found their own branches,
+$E=====3593=====
+//その地域(ちいき)を守る・・・
+and defend their individual
+areas...
+$E=====3594=====
+//わたしもそんなギルドマスター
+//の1人よ
+I am one of those masters. 
+$E=====3595=====
+//今回、あなたにお願いしたい仕
+//事は2つ
+This time, there are two
+jobs I'd like to ask you to
+do...
+$E=====3596=====
+//1つは、闇の一族(イモータル)
+//のいなくなった闇の領域(ダン
+//ジョン)で行われる、
+The first is to return to
+dungeons after the Immortal
+is gone,
+$E=====3597=====
+//特殊任務(ミッション)
+and carry out special
+missions.
+$E=====3598=====
+//これは闇の領域(ダンジョン)に
+//残された魔物(モンスター)の被
+//害(ひがい)を、
+These are important
+missions,
+$E=====3599=====
+//最小限(さいしょうげん)におさ
+//えるための大切な任務(にんむ)
+//であり、
+intended to minimize the
+damage caused by the
+remaining monsters,
+$E=====3600=====
+//組織(ギルド)のエージェントに
+//とっての訓練でもあるの
+and will be good practice
+for a guild agent.
+$E=====3601=====
+//もう1つの仕事は、各地から多
+//数の被害報告(ひがいほうこく)
+//がよせられている、
+The other job is to travel
+to areas with a large number
+of damage reports,
+$E=====3602=====
+//ワンテッドモンスターの退治(
+//たいじ)よ
+and eradicate the Wanted
+monsters there.
+$E=====3603=====
+//左右にある6つの本棚(ほんだな
+//)に手配書を張(は)っていくか
+//ら、見ておいてね?
+Please take a look at the 6
+request sheets attached to
+the nearby bookshelves.
+$E=====3604=====
+//もちろん、どちらの仕事にもご
+//ほうびは用意されているわよ{note}
+//」
+Of course, there is a reward
+for successfully completing
+each job.{note}"
+$E=====3605=====
 <PROC=0>
 <END>
-$J=====3606=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターは、
-$J=====3607=====
-潜伏(せんぷく)しているダンジ
-ョンが特定できても、
-$J=====3608=====
-そのダンジョンのどこに出現す
-るのかは分からないし、
-$J=====3609=====
-特定の条件(じょうけん)を満た
-さないと、出現しないらしいの
-$J=====3610=====
-あせらずに、気長にさがした方
-がいいわね」
-$J=====3611=====
+$E=====3606=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターは、
+<LABEL=LADY>Lady</LABEL>:
+"For Wanted monsters,
+$E=====3607=====
+//潜伏(せんぷく)しているダンジ
+//ョンが特定できても、
+each is hidden in a specific
+dungeon,
+$E=====3608=====
+//そのダンジョンのどこに出現す
+//るのかは分からないし、
+but you won't know exactly
+where in the dungeon to find
+them.
+$E=====3609=====
+//特定の条件(じょうけん)を満た
+//さないと、出現しないらしいの
+They won't come out until
+you satisfy a specific
+condition.
+$E=====3610=====
+//あせらずに、気長にさがした方
+//がいいわね」
+Look around carefully, and
+don't be hasty."
+$E=====3611=====
 <PROC=0>
 <END>
-$J=====3612=====
-<LABEL=LADY>レディ</LABEL>
-「残滅任務(ざんめつにんむ)は
-$J=====3613=====
-闇の領域(ダンジョン)に残され
-た敵(てき)モンスターを、
-$J=====3614=====
-制限時間内(せいげんじかんな
-い)にすべてたおすという任務
-(ミッション)よ
-$J=====3615=====
-敵(てき)モンスターを1体でも
-残すと、クリアにはならないか
-ら、注意してね?」
-$J=====3616=====
+$E=====3612=====
+//<LABEL=LADY>レディ</LABEL>
+//「残滅任務(ざんめつにんむ)は
+<LABEL=LADY>Lady</LABEL>:
+"For eradication missions,
+$E=====3613=====
+//闇の領域(ダンジョン)に残され
+//た敵(てき)モンスターを、
+you must seek out the
+remaining monsters in a
+dungeon,
+$E=====3614=====
+//制限時間内(せいげんじかんな
+//い)にすべてたおすという任務
+//(ミッション)よ
+and defeat all of them
+within the time limit.
+$E=====3615=====
+//敵(てき)モンスターを1体でも
+//残すと、クリアにはならないか
+//ら、注意してね?」
+If even one monster is left,
+you won't clear the mission,
+so be thorough."
+$E=====3616=====
 <PROC=0>
 <END>
-$J=====3617=====
-<LABEL=LADY>レディ</LABEL>
-「探索任務(たんさくにんむ)は
-$J=====3618=====
-闇の領域(ダンジョン)にかくさ
-れた3つの女神像(めがみぞう)
-を、
-$J=====3619=====
-制限時間内(せいげんじかんな
-い)にさがし出すという任務(ミ
-ッション)よ
-$J=====3620=====
-闇の領域(ダンジョン)に置かれ
-た宝箱(たからばこ)の中には、
-$J=====3621=====
-ニセモノも交じっているから、
-気をつけるのよ?」
-$J=====3622=====
+$E=====3617=====
+//<LABEL=LADY>レディ</LABEL>
+//「探索任務(たんさくにんむ)は
+<LABEL=LADY>Lady</LABEL>:
+"For search missions,
+$E=====3618=====
+//闇の領域(ダンジョン)にかくさ
+//れた3つの女神像(めがみぞう)
+//を、
+you must seek out the 3
+Goddess Statues hidden
+within the dungeon,
+$E=====3619=====
+//制限時間内(せいげんじかんな
+//い)にさがし出すという任務(ミ
+//ッション)よ
+and obtain them all within
+the time limit.
+$E=====3620=====
+//闇の領域(ダンジョン)に置かれ
+//た宝箱(たからばこ)の中には、
+They've been placed inside
+the dungeon's treasure
+chests,
+$E=====3621=====
+//ニセモノも交じっているから、
+//気をつけるのよ?」
+but they're mixed with
+fakes, so be careful."
+$E=====3622=====
 <PROC=0>
 <END>
-$J=====3623=====
-<LABEL=LADY>レディ</LABEL>
-「脱出任務(だっしゅつにんむ)
-は、
-$J=====3624=====
-闇の領域(ダンジョン)の奥深(
-おくふか)くから、
-$J=====3625=====
-敵(てき)モンスターに見つから
-ないように、なおかつ制限時間
-内(せいげんじかん)に、
-$J=====3626=====
-脱出(だっしゅつ)するという任
-務(ミッション)よ
-$J=====3627=====
-一度でも見つかれば、その時点
-で任務(ミッション)は失敗だか
-ら、
-$J=====3628=====
-くれぐれも慎重(しんちょう)に
-行動してね?」
-$J=====3629=====
+$E=====3623=====
+//<LABEL=LADY>レディ</LABEL>
+//「脱出任務(だっしゅつにんむ)
+//は、
+<LABEL=LADY>Lady</LABEL>:
+"For escape missions,
+$E=====3624=====
+//闇の領域(ダンジョン)の奥深(
+//おくふか)くから、
+you start out deep inside
+the dungeon,
+$E=====3625=====
+//敵(てき)モンスターに見つから
+//ないように、なおかつ制限時間
+//内(せいげんじかん)に、
+and you must escape from it
+within the time limit,
+$E=====3626=====
+//脱出(だっしゅつ)するという任
+//務(ミッション)よ
+all while avoiding detection
+by enemy monsters.
+$E=====3627=====
+//一度でも見つかれば、その時点
+//で任務(ミッション)は失敗だか
+//ら、
+If you're noticed even once,
+you immediately fail the
+mission.
+$E=====3628=====
+//くれぐれも慎重(しんちょう)に
+//行動してね?」
+Be as discreet as possible,
+okay?"
+$E=====3629=====
 <PROC=0>
 <END>
 $E=====3630=====
@@ -12031,24 +12124,34 @@ Ahh, what a relief{note}"
 $E=====3641=====
 <PROC=0>
 <END>
-$J=====3642=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターは、
-$J=====3643=====
-潜伏(せんぷく)しているダンジ
-ョンが特定できても、
-$J=====3644=====
-そのダンジョンのどこに出現す
-るのかは分からないし、
-$J=====3645=====
-特定の条件(じょうけん)を満た
-さないと、出現しないらしいの
+$E=====3642=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターは、
+<LABEL=LADY>Lady</LABEL>:
+"For Wanted monsters,
+$E=====3643=====
+//潜伏(せんぷく)しているダンジ
+//ョンが特定できても、
+each is hidden in a specific
+dungeon,
+$E=====3644=====
+//そのダンジョンのどこに出現す
+//るのかは分からないし、
+but you won't know exactly
+where in the dungeon to find
+them.
+$E=====3645=====
+//特定の条件(じょうけん)を満た
+//さないと、出現しないらしいの
+They won't come out until
+you satisfy a specific
+condition.
 $E=====3646=====
 //あせらずに、気長にさがした方
 //がいいわね」
-Remain patient and search
-carefully for them."
-$J=====3647=====
+Look around carefully, and
+don't be hasty."
+$E=====3647=====
 <PROC=0>
 <END>
 $E=====3648=====
@@ -12125,69 +12228,111 @@ $J=====3667=====
 $J=====3668=====
 <PROC=0>
 <END>
-$J=====3669=====
-<LABEL=LADY>レディ</LABEL>
-「知ってる?
-$J=====3670=====
-敵(てき)モンスターの攻撃(こ
-うげき)などにより起こる身体
-の異変(いへん)、
-$J=====3671=====
-それをステータス異常(いじょ
-う)っていうの
-$J=====3672=====
-毒化では、画面にかかったモザ
-イクに視界(しかい)をさえぎら
-れ、
-$J=====3673=====
-混乱(こんらん)では、<WEIGHT>{＋}ボタン</WEIGHT>
-の入力方向が狂(くる)ってしま
-うわ
-$J=====3674=====
-以上2つのステータス異常(いじ
-ょう)は、時間がたてば自然に
-治るけど、
-$J=====3675=====
-アイテムを使って、治療(ちり
-ょう)することもできるのよ
-$J=====3676=====
-そなえあればうれいなしってこ
-とね」
-$J=====3677=====
+$E=====3669=====
+//<LABEL=LADY>レディ</LABEL>
+//「知ってる?
+<LABEL=LADY>Lady</LABEL>:
+"Did you know?
+$E=====3670=====
+//敵(てき)モンスターの攻撃(こ
+//うげき)などにより起こる身体
+//の異変(いへん)、
+When things like enemy
+attacks have detrimental
+effects on the body,
+$E=====3671=====
+//それをステータス異常(いじょ
+//う)っていうの
+those are called status
+abnormalities.
+$E=====3672=====
+//毒化では、画面にかかったモザ
+//イクに視界(しかい)をさえぎら
+//れ、
+Poison blurs your vision
+with a mosaic effect over
+the screen,
+$E=====3673=====
+//混乱(こんらん)では、<WEIGHT>{＋}ボタン</WEIGHT>
+//の入力方向が狂(くる)ってしま
+//うわ
+and Confusion mixes up the
+<WEIGHT>{＋}Control Pad</WEIGHT>'s input
+directions.
+$E=====3674=====
+//以上2つのステータス異常(いじ
+//ょう)は、時間がたてば自然に
+//治るけど、
+These two status
+abnormalities will wear off
+automatically over time,
+$E=====3675=====
+//アイテムを使って、治療(ちり
+//ょう)することもできるのよ
+but they can be cured with
+an item as well.
+$E=====3676=====
+//そなえあればうれいなしってこ
+//とね」
+Come prepared and you won't
+have anything to worry
+about."
+$E=====3677=====
 <PROC=0>
 <END>
-$J=====3678=====
-<LABEL=LADY>レディ</LABEL>
-「知ってる?
-$J=====3679=====
-闇の領域(ダンジョン)にふる雨
-は、
-$J=====3680=====
-闇の一族(イモータル)の放つ暗
-黒物質(ダークマター)に汚染(
-おせん)されているの
-$J=====3681=====
-浴びすぎると、ステータス異常
-(いじょう)、呪い(カーモス)に
-なってしまうから注意して
-$J=====3682=====
-呪い(カーモス)をとく方法は2
-つ・・・
-$J=====3683=====
-1つは太陽の光を十分に浴びる
-こと。もう1つはアイテム、太
-陽のしずくを使うことよ
-$J=====3684=====
-呪い(カーモス)状態(じょうた
-い)では、太陽チャージができ
-ないばかりか、
-$J=====3685=====
-太陽スタンドにもエナジーがた
-まらないわ
-$J=====3686=====
-すみやかに治療(ちりょう)すべ
-きね」
-$J=====3687=====
+$E=====3678=====
+//<LABEL=LADY>レディ</LABEL>
+//「知ってる?
+<LABEL=LADY>Lady</LABEL>:
+"Did you know?
+$E=====3679=====
+//闇の領域(ダンジョン)にふる雨
+//は、
+The rain that falls inside a
+dungeon...
+$E=====3680=====
+//闇の一族(イモータル)の放つ暗
+//黒物質(ダークマター)に汚染(
+//おせん)されているの
+is polluted by Dark Matter
+released by an Immortal.
+$E=====3681=====
+//浴びすぎると、ステータス異常
+//(いじょう)、呪い(カーモス)に
+//なってしまうから注意して
+if you stand in it for too
+long, you can be affected by
+the Kaamos curse.
+$E=====3682=====
+//呪い(カーモス)をとく方法は2
+//つ・・・
+There are 2 ways to cure
+Kaamos...
+$E=====3683=====
+//1つは太陽の光を十分に浴びる
+//こと。もう1つはアイテム、太
+//陽のしずくを使うことよ
+you can either stand in the
+sunlight for a while, or use
+the Drop of Sun item.
+$E=====3684=====
+//呪い(カーモス)状態(じょうた
+//い)では、太陽チャージができ
+//ないばかりか、
+while under the curse, you
+won't be able to charge your
+energy,
+$E=====3685=====
+//太陽スタンドにもエナジーがた
+//まらないわ
+and the Solar Station won't
+collect any energy either.
+$E=====3686=====
+//すみやかに治療(ちりょう)すべ
+//きね」
+You should get it treated
+quickly, okay?"
+$E=====3687=====
 <PROC=0>
 <END>
 $J=====3688=====
@@ -12326,13 +12471,18 @@ $E=====3727=====
 //記憶喪失(きおくそうしつ)やっ
 //て?
 Yer lost yer memory?
-$J=====3728=====
+$U=====3728=====
 せやけど<NAME>・・・
 それホンマなん?
-$J=====3729=====
-うちからの借金、チャラにしよ
-う思て、フリしとるだけちゃう
-やろな?
+Izzat so, <NAME>...
+That's the truth?
+$U=====3729=====
+//うちからの借金、チャラにしよ
+//う思て、フリしとるだけちゃう
+//やろな?
+Didya think I'd fergive yer
+debt? That I'd just let yer
+have it fer free?
 $E=====3730=====
 //あんたがこわしたソル・デ・バ
 //イスの弁償代(べんしょうだい)
@@ -12341,31 +12491,46 @@ If yer break it, yer gonna
 owe me 'bout a million Sol!
 $E=====3731=====
 //わすれたとは言わせへんで!」
-And don' go tellin' me yer
+So don' go tellin' me yer
 forgot!"
 $E=====3732=====
 <PROC=0>
 <END>
-$J=====3733=====
-<PROC=1><LABEL=ZAJI>ニーソックスの少女</LABEL>
-「何や、たよりないなぁ・・・
-$J=====3734=====
-まあ、うちも鬼(おに)やない。
-金のないあんたに、今すぐ返せ
-とは言わへん
-$J=====3735=====
-<PROC=2>出世払(しゅっせばら)いにしと
-いたるから、目ぇいっぱい精進
-(しょうじん)しぃや?
-$J=====3736=====
-とりあえずあんたにはコレや。
-コレあったらいつでもエナジー
-借りれんねん
-$J=====3737=====
-ただし借りたもんは返さんなら
-んから注意しぃや?
-ご利用は計画的に、や」
-$J=====3738=====
+$E=====3733=====
+//<PROC=1><LABEL=ZAJI>ニーソックスの少女</LABEL>
+//「何や、たよりないなぁ・・・
+<PROC=1><LABEL=ZAJI>Girl in Knee Socks</LABEL>:
+"Aw, don't look so
+forlorn...
+$E=====3734=====
+//まあ、うちも鬼(おに)やない。
+//金のないあんたに、今すぐ返せ
+//とは言わへん
+I ain't a demon, see? Yer
+ain't got money, so I won't
+ask yer to return it yet.
+$E=====3735=====
+//<PROC=2>出世払(しゅっせばら)いにしと
+//いたるから、目ぇいっぱい精進
+//(しょうじん)しぃや?
+I'll come collect it when
+yer rich an' famous, so keep
+workin' hard, yeah?
+$E=====3736=====
+//とりあえずあんたにはコレや。
+//コレあったらいつでもエナジー
+//借りれんねん
+Fer now, take this. With it,
+yer can borrow energy
+whenever yer want.
+$E=====3737=====
+//ただし借りたもんは返さんなら
+//んから注意しぃや?
+//ご利用は計画的に、や」
+But yer gotta pay back what
+yer borrow, y'know? So use
+it wisely."
+$E=====3738=====
 <PROC=0>
 <END>
 $E=====3739=====
@@ -12376,29 +12541,43 @@ obtained!<LOCK=50>
 $E=====3740=====
 <PROC=0>
 <END>
-$J=====3741=====
-<LABEL=ZAJI>ニーソックスの少女</LABEL>
-「どや、なつかしいやろ?
-少しは思い出したんちゃう?
-$J=====3742=====
-うちは星読みのザジ
-$J=====3743=====
-この街のやつらは師匠(ししょ
-う)の2つ名で、[ひまわり娘]て
-よびよるけどな
-$J=====3744=====
-うちはいつでもここにおるから
-何や用があったらいつでも来ぃ
-や?
-$J=====3745=====
-あんた・・・
-サバタ追っかけるんやろ?
-$J=====3746=====
-うちもあいつには借りがあんね
-ん・・・
-$J=====3747=====
-バッチリ協力したるからな!」
-$J=====3748=====
+$E=====3741=====
+//<LABEL=ZAJI>ニーソックスの少女</LABEL>
+//「どや、なつかしいやろ?
+//少しは思い出したんちゃう?
+<LABEL=ZAJI>Girl in Knee Socks</LABEL>:
+"Nostalgic, ain't it? Doncha
+remember even a little bit?
+$E=====3742=====
+//うちは星読みのザジ
+I'm Star Reader Zazie.
+$E=====3743=====
+//この街のやつらは師匠(ししょ
+//う)の2つ名で、[ひまわり娘]て
+//よびよるけどな
+'round here I got a second
+master's name. They call me
+Sunflower Girl.
+$E=====3744=====
+//うちはいつでもここにおるから
+//何や用があったらいつでも来ぃ
+//や?
+I'm always here, so stop by
+if yer need anythin', got
+it?
+$E=====3745=====
+//あんた・・・
+//サバタ追っかけるんやろ?
+Oi...
+you chasin' after Sabata?
+$E=====3746=====
+//うちもあいつには借りがあんね
+//ん・・・
+He still owes me somethin'...
+$E=====3747=====
+//バッチリ協力したるからな!」
+so I'll help yer out!"
+$E=====3748=====
 <PROC=4>
 <PROC=0>
 <END>
@@ -12454,7 +12633,7 @@ $E=====3761=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //「読めたでっ!!」
 <LABEL=ZAJI>Zazie</LABEL>:
-"Read 'em!"
+"Done!"
 $E=====3762=====
 <PROC=0>
 <END>
@@ -12679,62 +12858,95 @@ $J=====3825=====
 $J=====3826=====
 <PROC=0>
 <END>
-$J=====3827=====
-<LABEL=ZAJI>ザジ</LABEL>
-「星読みっちゅうのは、
-$J=====3828=====
-星々の動きから森羅万象(しん
-らばんしょう)、過去現在未来
-を読みとく技(わざ)や
-$J=====3829=====
-何やうさんくさい思っとるやろ
-?
-$J=====3830=====
-せやけどあんたのことかて、
-色々分かんねんで?
-$J=====3831=====
-あんたがふたたび、ヴァンパイ
-アの血に目覚めつつあること、
-$J=====3832=====
-あんたの父親、リンゴさまの仇
-(かたき)である伯爵(はくしゃ
-く)が、
-$J=====3833=====
-ふたたびよみがえったっちゅう
-こと、
-$J=====3834=====
-そして何より・・・
-$J=====3835=====
-今回の事件に、あのサバタが大
-きく関わってるっちゅうことや
-$J=====3836=====
-<PROC=1>何でなんや・・・
-$J=====3837=====
-サバタ!!」
-$J=====3838=====
+$E=====3827=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「星読みっちゅうのは、
+<LABEL=ZAJI>Zazie</LABEL>:
+"Star readin' is the art of
+lookin' at star movements,
+$E=====3828=====
+//星々の動きから森羅万象(しん
+//らばんしょう)、過去現在未来
+//を読みとく技(わざ)や
+and readin' into the past,
+present, and future of the
+world.
+$E=====3829=====
+//何やうさんくさい思っとるやろ
+//?
+Yer think that's suspicious?
+$E=====3830=====
+//せやけどあんたのことかて、
+//色々分かんねんで?
+Maybe so, but then I know
+a lot about yer...
+$E=====3831=====
+//あんたがふたたび、ヴァンパイ
+//アの血に目覚めつつあること、
+Yer vampire blood is about
+to awaken a second time.
+$E=====3832=====
+//あんたの父親、リンゴさまの仇
+//(かたき)である伯爵(はくしゃ
+//く)が、
+Yer father's enemy, the
+Count,
+$E=====3833=====
+//ふたたびよみがえったっちゅう
+//こと、
+has been revived again.
+$E=====3834=====
+//そして何より・・・
+An' worst of all...
+$E=====3835=====
+//今回の事件に、あのサバタが大
+//きく関わってるっちゅうことや
+This time, Sabata was
+heavily involved.
+$E=====3836=====
+//<PROC=1>何でなんや・・・
+<PROC=1>Why'd ya go an' do such..."
+$E=====3837=====
+//サバタ!!」
+Sabata!"
+$E=====3838=====
 <PROC=4><PROC=0>
 <END>
-$J=====3839=====
-<LABEL=ZAJI>ザジ</LABEL>
-「属性(ぞくせい)についてのお
-さらいや
-$J=====3840=====
-属性(ぞくせい)っちゅうのは、
-$J=====3841=====
-あんたや敵(てき)モンスターの
-力の特徴(とくちょう)を表すも
-のなんや
-$J=====3842=====
-たとえばソルは、太陽の力を表
-す属性(ぞくせい)で、
-$J=====3843=====
-ソル属性(ぞくせい)の攻撃(こ
-うげき)を行えば、
-$J=====3844=====
-太陽に光を苦手とする敵(てき)
-モンスターに、よりたくさんダ
-メージをあたえられるんや」
-$J=====3845=====
+$E=====3839=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「属性(ぞくせい)についてのお
+//さらいや
+<LABEL=ZAJI>Zazie</LABEL>:
+"Let's review attributes.
+$E=====3840=====
+//属性(ぞくせい)っちゅうのは、
+Attributes represent
+characteristics,
+$E=====3841=====
+//あんたや敵(てき)モンスターの
+//力の特徴(とくちょう)を表すも
+//のなんや
+that apply to you as
+well as to enemies.
+$E=====3842=====
+//たとえばソルは、太陽の力を表
+//す属性(ぞくせい)で、
+Fer example, the Sol
+attribute represents the
+power of the Sun.
+$E=====3843=====
+//ソル属性(ぞくせい)の攻撃(こ
+//うげき)を行えば、
+If yer attack has the Sol
+attribute,
+$E=====3844=====
+//太陽に光を苦手とする敵(てき)
+//モンスターに、よりたくさんダ
+//メージをあたえられるんや」
+it'll do much more damage to
+enemies that are weak to
+sunlight."
+$E=====3845=====
 <PROC=0>
 <END>
 $J=====3846=====
@@ -17411,8 +17623,8 @@ and exchange them for items
 and bike parts.
 $E=====5034=====
 //交換(こうかん)のコースは3つ
-There are three exchange
-courses:
+There are three courses of
+exchange:
 $E=====5035=====
 //300ポイント、600ポイント、
 //1200ポイントだ
@@ -18105,78 +18317,112 @@ $E=====5177=====
 $E=====5178=====
 <PROC=0>
 <END>
-$J=====5179=====
-
-　　　　　[手配書]　　　　　
-$J=====5180=====
-地下をさまよう、赤きムクロを
-討(う)て!
+$E=====5179=====
+//
+//　　　　　[手配書]
+　　　　
+      [Request Sheet]
+$E=====5180=====
+//地下をさまよう、赤きムクロを
+//討(う)て!
+Defeat the crimson corpse
+prowling underground!
 $E=====5181=====
 //　　　　　　賞品　　　　　　
 //　　　　レアアイテム　　　　
-           PRIZE
+           REWARD
          Rare Item
-$J=====5182=====
+$E=====5182=====
 <PROC=0>
 <END>
-$J=====5183=====
+$E=====5183=====
+//
+//　　　　　[手配書]
 
-　　　　　[手配書]
-$J=====5184=====
-街をさまよう、赤きムクロを討
-(う)て!
-$J=====5185=====
-　　　　　　賞品　　　　　　
-　　300ソルのアクセサリー　 
+      [Request Sheet]
+$E=====5184=====
+//街をさまよう、赤きムクロを討
+//(う)て!
+Defeat the crimson corpse
+prowling around the town!
+$E=====5185=====
+//　　　　　　賞品　　　　　　
+//　　300ソルのアクセサリー　 
+           REWARD
+     300 Soll Accessory
 $J=====5186=====
 <PROC=0>
 <END>
-$J=====5187=====
+$E=====5187=====
+//
+//　　　　　[手配書]
 
-　　　　　[手配書]
-$J=====5188=====
-樹上(じゅじょう)をさまよう、
-赤き人形を討(う)て!
-$J=====5189=====
-　　　　　　賞品
-　　400ソルのアクセサリー　 
-$J=====5190=====
+      [Request Sheet]
+$E=====5188=====
+//樹上(じゅじょう)をさまよう、
+//赤き人形を討(う)て!
+Defeat the crimson automaton
+prowling up a tree!
+$E=====5189=====
+//　　　　　　賞品
+//　　400ソルのアクセサリー　 
+           REWARD
+     400 Soll Accessory
+$E=====5190=====
 <PROC=0>
 <END>
-$J=====5191=====
+$E=====5191=====
+//
+//　　　　　[手配書]
 
-　　　　　[手配書]
-$J=====5192=====
-雪の中をさまよう、赤き猟犬(
-りょうけん)を討(う)て!
-$J=====5193=====
-　　　　　　賞品
-500ソルの非売品アクセサリー
-$J=====5194=====
+      [Request Sheet]
+$E=====5192=====
+//雪の中をさまよう、赤き猟犬(
+//りょうけん)を討(う)て!
+Defeat the crimson hound
+prowling around the snow!
+$E=====5193=====
+//　　　　　　賞品
+//500ソルの非売品アクセサリー
+           REWARD
+500 Soll Unbuyable Accessory
+$E=====5194=====
 <PROC=0>
 <END>
-$J=====5195=====
+$E=====5195=====
+//
+//　　　　　[手配書]
 
-　　　　　[手配書]
-$J=====5196=====
-城の中をさまよう、赤き小悪魔
-を討(う)て!
-$J=====5197=====
-　　　　　　賞品
-600ソルの非売品アクセサリーB
-$J=====5198=====
+      [Request Sheet]
+$E=====5196=====
+//城の中をさまよう、赤き小悪魔
+//を討(う)て!
+Defeat the crimson gremlin
+prowling around the castle!
+$E=====5197=====
+//　　　　　　賞品
+//600ソルの非売品アクセサリーB
+           REWARD
+600 Soll Unbuyable Accessory
+$E=====5198=====
 <PROC=0>
 <END>
-$J=====5199=====
+$E=====5199=====
+//
+//　　　　　[手配書]
 
-　　　　　[手配書]
-$J=====5200=====
-船の中をさまよう、赤きドクロ
-を討(う)て!
-$J=====5201=====
-　　　　　　賞品
-600ソルの非売品アクセサリーA
-$J=====5202=====
+      [Request Sheet]
+$E=====5200=====
+//船の中をさまよう、赤きドクロ
+//を討(う)て!
+Defeat the crimson skeleton
+prowling around the boat!
+$E=====5201=====
+//　　　　　　賞品
+//600ソルの非売品アクセサリーA
+           REWARD
+600 Soll Unbuyable Accessory
+$E=====5202=====
 <PROC=0>
 <END>
 $E=====5203=====
@@ -33753,7 +33999,7 @@ $E=====9933=====
 Earth Attribute
 $E=====9934=====
 //全属性
-All Attribute
+All Attributes
 $E=====9935=====
 //フレイム/フロスト属性
 Flame/Frost Attribute
