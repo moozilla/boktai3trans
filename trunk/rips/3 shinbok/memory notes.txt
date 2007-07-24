@@ -31,6 +31,8 @@
 1D (no friend connected)
 1E GariGari-kun
 
+0200aec8 Bike cur HP
+
 0203c4a0 Inventory
 00 Kaifuku Kusuri
 01 Taiyou no Mi
