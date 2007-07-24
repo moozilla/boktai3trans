@@ -4740,7 +4740,7 @@ $J=====1580=====
 $E=====1581=====
 <PROC=0>
 <END>
-$U=====1582=====
+$E=====1582=====
 //財宝を発見した!!
 Treasure discovered!
 $E=====1583=====
@@ -6534,7 +6534,7 @@ $E=====2043=====
 //でもワタシは・・・
 //もっと普通(ふつう)の恋(こい)
 //がしたいんです!
-But I...
+but I...
 I want a more normal love!
 $E=====2044=====
 //だから・・・
@@ -6542,7 +6542,7 @@ So...
 $E=====2045=====
 //さようなら、<NAME>さん!!」
 //<PROC=1>
-goodbye now, <NAME>!"
+this is goodbye, <NAME>!"
 <PROC=1>
 $E=====2046=====
 //<LABEL=PLAYER><NAME></LABEL>
@@ -6554,25 +6554,35 @@ $E=====2047=====
 //「<NAME>さん・・・
 <LABEL>???</LABEL>:
 "<NAME>...
-$J=====2048=====
-アナタ、
-$J=====2049=====
-よくも妹をもてあそんでくれた
-わね!!
-$J=====2050=====
-あの子はアナタとちがって純粋
-(じゅんすい)なの!
-$J=====2051=====
-それなのにアナタは・・・
-あの子を自分のいけない趣味(
-しゅみ)につき合わせて!
-$J=====2052=====
-アナタには、相応(そうおう)の
-むくいを受けてもらいます
+$E=====2048=====
+//アナタ、
+you...
+$E=====2049=====
+//よくも妹をもてあそんでくれた
+//わね!!
+how dare you play around
+with my sister!
+$E=====2050=====
+//あの子はアナタとちがって純粋
+//(じゅんすい)なの!
+Unlike you, that girl is
+pure!
+$E=====2051=====
+//それなのにアナタは・・・
+//あの子を自分のいけない趣味(
+//しゅみ)につき合わせて!
+And you...
+you're introducing her to
+your disgusting hobbies!
+$E=====2052=====
+//アナタには、相応(そうおう)の
+//むくいを受けてもらいます
+I'll give you a fitting
+reward.
 $E=====2053=====
 //覚悟(かくご)なさい!!」
 Prepare yourself!"
-$J=====2054=====
+$E=====2054=====
 <PROC=0>
 <END>
 $E=====2055=====
@@ -6588,16 +6598,17 @@ you never learn, do you?
 $U=====2057=====
 //まだあの子を傷(きず)つけたい
 //の!?
-Do you still want to hurt that boy?
+Do you still want to hurt
+her!?
 $E=====2058=====
 //アナタが何度来ようとも・・・
 How many times must you
-come...
+come here...
 $U=====2059=====
 //もう二度と、あの子には近づけ
 //させないわ!!
-I won't let you approach
-that boy again!
+I won't let you get near her
+again!
 $E=====2060=====
 //えっ・・・
 //そうじゃない?
@@ -6637,10 +6648,13 @@ $E=====2070=====
 //なの?
 How long do you plan to keep
 this up?
-$J=====2071=====
-まるで暗子ちゃんをだましてる
-みたいで・・・
-ワタシ、たえられないわ!!
+$U=====2071=====
+//まるで暗子ちゃんをだましてる
+//みたいで・・・
+//ワタシ、たえられないわ!!
+It seems to me that you're
+trying to seduce her...
+I won't put up with that!
 $E=====2072=====
 //もう、終わりにしましょう」
 Let's end this now."
@@ -6685,7 +6699,7 @@ $E=====2081=====
 ...
 $E=====2082=====
 //・・・わかったわ
-understood.
+I understand.
 $J=====2083=====
 アナタを助けるつもりでいたの
 に、余計(よけい)に苦しめてし
@@ -6701,59 +6715,87 @@ $J=====2086=====
 $J=====2087=====
 ワタシの大好きな・・・
 最高のお姉ちゃんだよ!!」
-$J=====2088=====
-<LABEL>暗黒ローンの陽子ちゃん</LABEL>
-「ありがとう、暗子ちゃん
-$J=====2089=====
-<PROC=3><NAME>さん・・・
-$J=====2090=====
-今さらワタシから言えたことじ
-ゃないけど・・・
-$J=====2091=====
-妹のこと・・・
-よろしくお願いします」
+$E=====2088=====
+//<LABEL>暗黒ローンの陽子ちゃん</LABEL>
+//「ありがとう、暗子ちゃん
+<LABEL>Luxana of Dark Loans</LABEL>:
+"Thank you, Doomy.
+$E=====2089=====
+//<PROC=3><NAME>さん・・・
+<PROC=3><NAME>...
+$E=====2090=====
+//今さらワタシから言えたことじ
+//ゃないけど・・・
+I haven't said it until now,
+but...
+$E=====2091=====
+//妹のこと・・・
+//よろしくお願いします」
+//<PROC=4><LOCK=48>
+please...
+take care of my sister."
 <PROC=4><LOCK=48>
-$J=====2092=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「陽子ちゃん!?
-$J=====2093=====
-本当に・・・
-それでいいの?」
-$J=====2094=====
-<LABEL>暗黒ローンの陽子ちゃん</LABEL>
-<PROC=5>「ええ・・・
-$J=====2095=====
-ワタシは陽子・・・
-$J=====2096=====
-太陽バンクの、陽子なのよ?
+$E=====2092=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「陽子ちゃん!?
+<LABEL>Doomy of Dark Loans</LABEL>:
+"Luxana!?
+$E=====2093=====
+//本当に・・・
+//それでいいの?」
+Is it...
+is it really okay?"
+$E=====2094=====
+//<LABEL>暗黒ローンの陽子ちゃん</LABEL>
+//<PROC=5>「ええ・・・
+<LABEL>Luxana of Dark Loans</LABEL>:
+<PROC=5>"Yes...
+$E=====2095=====
+//ワタシは陽子・・・
+I am Luxana...
+$E=====2096=====
+//太陽バンクの、陽子なのよ?
+of the Solar Bank, right?
 $J=====2097=====
 おしおきなんて、ガラじゃない
 のよ・・・
-$J=====2098=====
-さあ、暗子ちゃん」
-$J=====2099=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「うん!!
-$J=====2100=====
-<PROC=6>・・・
+1234567890123456789012345678
+$E=====2098=====
+//さあ、暗子ちゃん」
+Go ahead, Doomy."
+$E=====2099=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「うん!!
+<LABEL>Doomy of Dark Loans</LABEL>:
+"Okay!
+$E=====2100=====
+//<PROC=6>・・・
+<PROC=6>...
 $J=====2101=====
-あの、<NAME>さん・・・
-$J=====2102=====
-もう一度ワタシに・・・
-$J=====2103=====
-おしおきさせてくれますか?」
-$J=====2104=====
+//あの、<NAME>さん・・・
+umm... <NAME>...
+$E=====2102=====
+//もう一度ワタシに・・・
+will you...
+$E=====2103=====
+//おしおきさせてくれますか?」
+will you make me punish you
+just one more time?"
+$E=====2104=====
 <PROC=0>
 <END>
-$J=====2105=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「さあ、<NAME>さん・・・
-$J=====2106=====
-おしおきですよ{heart}」
-$J=====2107=====
+$E=====2105=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「さあ、<NAME>さん・・・
+<LABEL>Doomy of Dark Loans</LABEL>:
+"Okay, <NAME>...
+$E=====2106=====
+//おしおきですよ{heart}」
+Time for your punishment.{heart}"
+$E=====2107=====
 <PROC=0>
 <END>
-$J=====2108=====
+$E=====2108=====
 <LABEL>暗黒ローンの暗子ちゃん</LABEL>
 「さあ、着きました
 $J=====2109=====
@@ -6766,14 +6808,18 @@ $J=====2110=====
 $J=====2111=====
 <PROC=0>
 <END>
-$J=====2112=====
-<WEIGHT>{＋}ボタン</WEIGHT>左
-$J=====2113=====
-<WEIGHT>{＋}ボタン</WEIGHT>上
-$J=====2114=====
-<WEIGHT>{＋}ボタン</WEIGHT>右
-$J=====2115=====
-<WEIGHT>{＋}ボタン</WEIGHT>下
+$E=====2112=====
+//<WEIGHT>{＋}ボタン</WEIGHT>左
+<WEIGHT>{＋}Control Pad</WEIGHT> Left
+$E=====2113=====
+//<WEIGHT>{＋}ボタン</WEIGHT>上
+<WEIGHT>{＋}Control Pad</WEIGHT> Up
+$E=====2114=====
+//<WEIGHT>{＋}ボタン</WEIGHT>右
+<WEIGHT>{＋}Control Pad</WEIGHT> Right
+$E=====2115=====
+//<WEIGHT>{＋}ボタン</WEIGHT>下
+<WEIGHT>{＋}Control Pad</WEIGHT> Down
 $J=====2116=====
 <LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 「あなたには今からここで発
@@ -7520,7 +7566,7 @@ $E=====2361=====
 CURSED BEACH
 $E=====2362=====
 //遥かなる荒野
-REMOTE WILDERNESS
+REMOTE WASTELAND
 $E=====2363=====
 //バックストリート
 BACK STREET
@@ -8912,17 +8958,23 @@ $J=====2778=====
 $J=====2779=====
 <PROC=0>
 <END>
-$J=====2780=====
-バイクフロント
-「クラッシャー」
-を手に入れた!!<LOCK=176>
-$J=====2781=====
+$E=====2780=====
+//バイクフロント
+//「クラッシャー」
+//を手に入れた!!<LOCK=176>
+Bike Front
+"Crusher"
+obtained!<LOCK=176>
+$E=====2781=====
 <PROC=0>
 <END>
 $J=====2782=====
 <LABEL=SHAIAN>シャイアン</LABEL>
 「クラッシャーの武器(ぶき)で
 あるドリルは、
+1234567890123456789012345678
+"Crusher has a drill for its
+weapon,
 $J=====2783=====
 他のバイクフロントのウエポン
 のように、
@@ -9713,7 +9765,7 @@ $E=====2976=====
 //<NAME>さまもやっぱり、男の子なんですね{note}」
 You're still just a boy
 after all,
-Master <NAME>{note}"
+Master <NAME>.{note}"
 $E=====2977=====
 <PROC=0>
 <END>
@@ -11295,30 +11347,44 @@ $J=====3388=====
 $J=====3389=====
 <PROC=0>
 <END>
-$J=====3390=====
-<LABEL=COACH>コーチ</LABEL>
-「よくやったな、
-<NAME>・・・
-$J=====3391=====
-すべてのコースでランクSを取
-るとは・・・
-$J=====3392=====
-もはや、わたしから教えること
-は何もない
-$J=====3393=====
-今はただ、おまえの勝利を祝う
-のみだ・・・
-$J=====3394=====
-受け取ってくれ!
-この称号(しょうごう)はおまえ
-にこそふさわしい!!」
-$J=====3395=====
+$E=====3390=====
+//<LABEL=COACH>コーチ</LABEL>
+//「よくやったな、
+//<NAME>・・・
+<LABEL=COACH>Coach</LABEL>:
+"Well done,
+<NAME>...
+$E=====3391=====
+//すべてのコースでランクSを取
+//るとは・・・
+You earned an S rank on
+every course...
+$E=====3392=====
+//もはや、わたしから教えること
+//は何もない
+I have nothing left to teach
+you now.
+$E=====3393=====
+//今はただ、おまえの勝利を祝う
+//のみだ・・・
+I can only celebrate your
+success...
+$E=====3394=====
+//受け取ってくれ!
+//この称号(しょうごう)はおまえ
+//にこそふさわしい!!」
+Take it!
+This title belongs to you
+alone!"
+$E=====3395=====
 <PROC=0>
 <END>
-$J=====3396=====
-<LABEL=NONE>エレファン</LABEL>
-「パオーッ!!」
-$J=====3397=====
+$E=====3396=====
+//<LABEL=NONE>エレファン</LABEL>
+//「パオーッ!!」
+<LABEL=NONE>Elefan</LABEL>:
+"Paooh!"
+$E=====3397=====
 <PROC=0>
 <END>
 $E=====3398=====
@@ -11331,42 +11397,55 @@ obtained!<LOCK=176>
 $E=====3399=====
 <PROC=0>
 <END>
-$J=====3400=====
-<LABEL=COACH>コーチ</LABEL>
-「・・・」
-$J=====3401=====
+$E=====3400=====
+//<LABEL=COACH>コーチ</LABEL>
+//「・・・」
+<LABEL=COACH>Coach</LABEL>:
+"..."
+$E=====3401=====
 <PROC=0>
 <END>
-$J=====3402=====
-<LABEL=COACH>コーチ</LABEL>
-「時間をムダにするな!
-$J=====3403=====
+$E=====3402=====
+//<LABEL=COACH>コーチ</LABEL>
+//「時間をムダにするな!
+<LABEL=COACH>Coach</LABEL>:
+"Don't waste time!
+$E=====3403=====
 <PROC=0>
 <END>
 $E=====3404=====
 //<LABEL=COACH></LABEL>さっさと始めるぞ!!」
 // <ALTER>カスタム</ALTER>　　<ALTER>リネーム</ALTER>
 // <ALTER>サーキット</ALTER>　<ALTER>話</ALTER>
-<LABEL=COACH></LABEL>"Let's get started!
+<LABEL=COACH></LABEL>Let's get started!"
  <ALTER>Custom</ALTER>   <ALTER>Rename</ALTER>
  <ALTER>Circuit</ALTER>  <ALTER>Talk</ALTER>
 $E=====3405=====
 <PROC=0>
 <END>
-$J=====3406=====
-<LABEL=COACH>コーチ</LABEL>
-「いいか、<NAME>
-$J=====3407=====
-エナジーを回復するには太陽の
-光が必要だが、
-$J=====3408=====
-強すぎる光を浴び続けたり、長
-時間、太陽の光を浴び続けてい
-ると、
-$J=====3409=====
-棺桶(かんおけ)バイクはともか
-く、おまえ自身がオーバーヒー
-トをしてしまう
+$E=====3406=====
+//<LABEL=COACH>コーチ</LABEL>
+//「いいか、<NAME>
+<LABEL=COACH>Coach</LABEL>:
+"Listen up, <NAME>.
+$E=====3407=====
+//エナジーを回復するには太陽の
+//光が必要だが、
+You need sunligh in order
+to recharge your energy,
+$E=====3408=====
+//強すぎる光を浴び続けたり、長
+//時間、太陽の光を浴び続けてい
+//ると、
+but if the sunlight is too
+strong or you remain exposed
+for too long,
+$E=====3409=====
+//棺桶(かんおけ)バイクはともか
+//く、おまえ自身がオーバーヒー
+//トをしてしまう
+you or your solar bike can
+become overheated.
 $J=====3410=====
 日差しや暑さへの対策(たいさ
 く)をほどこした上で、
@@ -11845,7 +11924,7 @@ bookshelves,
 $E=====3535=====
 //好きなだけ読んでいってね{note}」
 so feel free to read them
-as much as you like{note}"
+as much as you like.{note}"
 $E=====3536=====
 <PROC=0>
 <END>
@@ -12339,7 +12418,7 @@ be a little worried about
 those.
 $E=====3640=====
 //ああ、一安心だわ{note}」
-Ahh, what a relief{note}"
+Ahh, what a relief.{note}"
 $E=====3641=====
 <PROC=0>
 <END>
@@ -12388,8 +12467,8 @@ $E=====3650=====
 //この調子で次の手配書もよろし
 //くね{note}」
 I'm counting on you to keep
-it up with the next Search
-Request.{note}"
+it up on the next Request
+Sheet.{note}"
 $E=====3651=====
 <PROC=0>
 <END>
@@ -14283,7 +14362,7 @@ $E=====4114=====
 //棺桶(かんおけ)・・・
 If you ask me, that place is
 like one big coffin...
-$U=====4115=====
+$E=====4115=====
 //君はつくづく棺桶(かんおけ)に
 //愛されているようだね?
 Coffins must really love
@@ -14779,7 +14858,7 @@ $E=====4222=====
 $E=====4223=====
 //スミレの人形だ
 A figure of Violet.
-$U=====4224=====
+$E=====4224=====
 //足のうらにはアンジェレッタと
 //書かれている
 "Angeletta" is written on
@@ -14816,10 +14895,13 @@ $E=====4231=====
 //らずねてばっかりなの
 <LABEL=SUMIRE>Violet</LABEL>:
 "All Kuro ever does is
-sleep.
+sleep,
 $U=====4232=====
-おきたとおもったら、すぐにど
-っかいっちゃうし
+//おきたとおもったら、すぐにど
+//っかいっちゃうし
+and whenever he feels like
+getting up, he runs off
+somewhere else.
 $U=====4233=====
 //こういうのを[ふうらいぼう]っ
 //ていうのよ」
@@ -19513,7 +19595,7 @@ $E=====5438=====
 //「遥かなる荒野」
 //が開放された!!</LABEL><PROC=1>
 <LABEL>Bike Course
-"Remote Wilderness"
+"Remote Wasteland"
 unlocked!</LABEL><PROC=1>
 $E=====5439=====
 <PROC=0>
@@ -33212,10 +33294,10 @@ $E=====9420=====
    Crossover
 $E=====9421=====
 //　通信対戦勝ち　
-   Battle Won
+    Victory!
 $E=====9422=====
 //　通信対戦負け　
-  Battle  Lost
+    Defeat!
 $E=====9423=====
 //　　ガレージ　　
      Garage
@@ -34313,7 +34395,7 @@ $E=====9867=====
 ARMOR
 $E=====9868=====
 //スタチューオブガルム
-GARM STATUE
+GARMR STATUE
 $E=====9869=====
 //ムスペルヘッド
 MUSPELL HEAD
@@ -34517,7 +34599,7 @@ Beast
 $E=====9937=====
 //アンデッド
 Undead
-$U=====9938=====
+$E=====9938=====
 //シング
 Material
 $E=====9939=====
@@ -34578,8 +34660,9 @@ A short-distance course.
 $E=====9959=====
 //ジャンプ台の多いコース。
 A course with plenty of jumps.
-$U=====9960=====
+$E=====9960=====
 //中距離(ちゅうきょり)コース。
+A medium-distance course.
 $E=====9961=====
 //回復(かいふく)ポットの多いコース。
 A course with plenty of potions.
