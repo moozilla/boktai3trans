@@ -10622,7 +10622,7 @@ $E=====3198=====
 //ったが、
 I once taught your father
 Ringo how to use a gun,
-$R=====3199=====
+$E=====3199=====
 //今は戦いをしりぞき、鍛冶屋(
 //かじや)をやっておる
 but now I'm retired from
@@ -10867,7 +10867,7 @@ $U=====3257=====
 //すがた)へともどれたというの
 //に・・・
 They say he finally returned
-to his original form...
+to his original state...
 $U=====3258=====
 //やはり闇(やみ)の戦士、暗黒少
 //年であることからは、のがれら
@@ -12775,8 +12775,8 @@ $E=====3727=====
 //て?
 Yer lost yer memory?
 $U=====3728=====
-せやけど<NAME>・・・
-それホンマなん?
+//せやけど<NAME>・・・
+//それホンマなん?
 Izzat so, <NAME>...
 That's the truth?
 $U=====3729=====
@@ -12876,7 +12876,8 @@ you chasin' after Sabata?
 $E=====3746=====
 //うちもあいつには借りがあんね
 //ん・・・
-He still owes me somethin'...
+He still owes me
+somethin'...
 $E=====3747=====
 //バッチリ協力したるからな!」
 so I'll help yer out!"
@@ -12884,17 +12885,24 @@ $E=====3748=====
 <PROC=4>
 <PROC=0>
 <END>
-$J=====3749=====
+$E=====3749=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「おおっ、<NAME>!!
+//ついにやりよったな!
 <LABEL=ZAJI>ザジ</LABEL>
-「おおっ、<NAME>!!
-ついにやりよったな!
-$J=====3750=====
-敵(てき)モンスターを、ぜんぶ
-たおすやなんて・・・
-$J=====3751=====
-これはうちからの祝いや。
-受け取っときぃ!」
-$J=====3752=====
+"Yo, <NAME>!
+Yer finally did it!
+$E=====3750=====
+//敵(てき)モンスターを、ぜんぶ
+//たおすやなんて・・・
+Yer defeated every type of
+monster.
+$E=====3751=====
+//これはうちからの祝いや。
+//受け取っときぃ!」
+This calls for a gift.
+Take it!" 
+$E=====3752=====
 <PROC=0>
 <END>
 $E=====3753=====
@@ -17973,7 +17981,7 @@ $E=====5039=====
 //バイクのパーツには、エレファ
 //ンからでしか手に入らないもの
 //も多いからな」
-Since there are a lot of
+since there are a lot of
 items that can't be obtained
 except from Elefan."
 $E=====5040=====
@@ -21414,7 +21422,7 @@ $E=====5797=====
 //伯爵(はくしゃく)をたおし、サ
 //バタの居所(いどころ)を聞き出
 //すぞ!!
-Defeat the count, and we can
+Defeat the Count, and we can
 get Sabata's location out of
 him!
 $E=====5798=====
@@ -23249,14 +23257,15 @@ don't get...
 $U=====6234=====
 //そんなあまい考えじゃあ、これ
 //から先・・・
-Such a naive idea, from now on...
+Such a naive idea,
+from now on...
 $E=====6235=====
 <PROC=0>
 <END>
 $J=====6236=====
 <LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
 ねぇぜ?
-$R=====6237=====
+$E=====6237=====
 //大切なのは金だろ?
 Isn't money the important
 thing?
