@@ -1,0 +1,979 @@
+<html>
+<head>
+<style type="text/css">
+.code td {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.rnge {
+  text-align: center;
+}
+</style>
+</head>
+<body>
+<a name="top">
+<br />
+<table class="code" border="1">
+  <tr>
+    <th class="addr">Address</th>
+    <th class="name">Contents</th>
+    <th class="rnge">Range</th>
+  </tr>
+  <tr>
+    <td class="addr">020031c1</td>
+    <td class="name">Dialogue portrait</td>
+    <td class="rnge"><a href="#portraits">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0200aec8</td>
+    <td class="name">Coffin Bike HP</td>
+    <td class="rnge">integer</td>
+  </tr>
+  <tr>
+    <td class="addr">0203c4a0</td>
+    <td class="name">Items</td>
+    <td class="rnge"><a href="#items">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203c560</td>
+    <td class="name">Accessories</td>
+    <td class="rnge"><a href="#accessories">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203c5c0</td>
+    <td class="name">Swords</td>
+    <td class="rnge"><a href="#swords">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203c8c0</td>
+    <td class="name">Solar Gun Frames</td>
+    <td class="rnge"><a href="#frames">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cb7c</td>
+    <td class="name">Solar Station balance</td>
+    <td class="rnge">integer</td>
+  </tr>
+  <tr>
+    <td class="addr">0203cb80</td>
+    <td class="name">Player name</td>
+    <td class="rnge">ASCII</td>
+  </tr>
+  <tr>
+    <td class="addr">0203cb90</td>
+    <td class="name">Coffin Bike name</td>
+    <td class="rnge">ASCII</td>
+  </tr>
+  <tr>
+    <td class="addr">0203cbb0</td>
+    <td class="name">Solar Bank balance</td>
+    <td class="rnge">integer</td>
+  </tr>
+  <tr>
+    <td class="addr">0203cc28</td>
+    <td class="name">Solar Gun Lenses</td>
+    <td class="rnge"><a href="#lenses">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cc38</td>
+    <td class="name">Valuables</td>
+    <td class="rnge"><a href="#valuables">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cc76</td>
+    <td class="name">Solar Gauge value</td>
+    <td class="rnge">0-10</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="items" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Item Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">00</td>
+    <td class="name">Healer</td>
+  </tr>
+  <tr>
+    <td class="digs">01</td>
+    <td class="name">Earth Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">02</td>
+    <td class="name">Rotten Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">03</td>
+    <td class="name">Jerky</td>
+  </tr>
+  <tr>
+    <td class="digs">04</td>
+    <td class="name">Tasty Meat</td>
+  </tr>
+  <tr>
+    <td class="digs">05</td>
+    <td class="name">Rotten Meat</td>
+  </tr>
+  <tr>
+    <td class="digs">06</td>
+    <td class="name">Chocolate</td>
+  </tr>
+  <tr>
+    <td class="digs">07</td>
+    <td class="name">Deluxe Chocolate</td>
+  </tr>
+  <tr>
+    <td class="digs">08</td>
+    <td class="name">Melted Chocolate</td>
+  </tr>
+  <tr>
+    <td class="digs">09</td>
+    <td class="name">Chocolate-Covered</td>
+  </tr>
+  <tr>
+    <td class="digs">0A</td>
+    <td class="name">GariGari Soda</td>
+  </tr>
+  <tr>
+    <td class="digs">0B</td>
+    <td class="name">GariGari Cola</td>
+  </tr>
+  <tr>
+    <td class="digs">0C</td>
+    <td class="name">Magical Potion</td>
+  </tr>
+  <tr>
+    <td class="digs">0D</td>
+    <td class="name">Solar Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">0E</td>
+    <td class="name">Bad Mushroom</td>
+  </tr>
+  <tr>
+    <td class="digs">0F</td>
+    <td class="name">Antidote</td>
+  </tr>
+  <tr>
+    <td class="digs">10</td>
+    <td class="name">Elixir</td>
+  </tr>
+  <tr>
+    <td class="digs">11</td>
+    <td class="name">Drop of Sun</td>
+  </tr>
+  <tr>
+    <td class="digs">12</td>
+    <td class="name">Bearnut</td>
+  </tr>
+  <tr>
+    <td class="digs">13</td>
+    <td class="name">Speed Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">14</td>
+    <td class="name">Power Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">15</td>
+    <td class="name">Chocolate Banana</td>
+  </tr>
+  <tr>
+    <td class="digs">16</td>
+    <td class="name">Tiptoe Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">17</td>
+    <td class="name">Redshroom</td>
+  </tr>
+  <tr>
+    <td class="digs">18</td>
+    <td class="name">Blueshroom</td>
+  </tr>
+  <tr>
+    <td class="digs">19</td>
+    <td class="name">See-All Nut</td>
+  </tr>
+  <tr>
+    <td class="digs">1A</td>
+    <td class="name">Warp Leaf</td>
+  </tr>
+  <tr>
+    <td class="digs">1B</td>
+    <td class="name">Mr. Rainnot</td>
+  </tr>
+  <tr>
+    <td class="digs">1C</td>
+    <td class="name">tonniaR .rM</td>
+  </tr>
+  <tr>
+    <td class="digs">1D</td>
+    <td class="name">Sunny Clog</td>
+  </tr>
+  <tr>
+    <td class="digs">1E</td>
+    <td class="name">Loser Stick</td>
+  </tr>
+  <tr>
+    <td class="digs">1F</td>
+    <td class="name">Winner Stick</td>
+  </tr>
+  <tr>
+    <td class="digs">20</td>
+    <td class="name">The High Priestess</td>
+  </tr>
+  <tr>
+    <td class="digs">21</td>
+    <td class="name">The Empress</td>
+  </tr>
+  <tr>
+    <td class="digs">22</td>
+    <td class="name">Strength</td>
+  </tr>
+  <tr>
+    <td class="digs">23</td>
+    <td class="name">Wheel of Fortune</td>
+  </tr>
+  <tr>
+    <td class="digs">24</td>
+    <td class="name">The Moon</td>
+  </tr>
+  <tr>
+    <td class="digs">25</td>
+    <td class="name">The Sun</td>
+  </tr>
+  <tr>
+    <td class="digs">26</td>
+    <td class="name">Judgement</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="valuables" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Valuable Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">27</td>
+    <td class="name">Dark Card</td>
+  </tr>
+  <tr>
+    <td class="digs">28</td>
+    <td class="name">Master Otenko (dummy)</td>
+  </tr>
+  <tr>
+    <td class="digs">29</td>
+    <td class="name">Sword License</td>
+  </tr>
+  <tr>
+    <td class="digs">2A</td>
+    <td class="name">PET</td>
+  </tr>
+  <tr>
+    <td class="digs">2B</td>
+    <td class="name">Vector Coffin</td>
+  </tr>
+  <tr>
+    <td class="digs">2C</td>
+    <td class="name">Red Key</td>
+  </tr>
+  <tr>
+    <td class="digs">2D</td>
+    <td class="name">Yellow Key</td>
+  </tr>
+  <tr>
+    <td class="digs">2E</td>
+    <td class="name">Green Key</td>
+  </tr>
+  <tr>
+    <td class="digs">2F</td>
+    <td class="name">Blue Key (dummy)</td>
+  </tr>
+  <tr>
+    <td class="digs">30</td>
+    <td class="name">Pile Parts</td>
+  </tr>
+  <tr>
+    <td class="digs">31</td>
+    <td class="name">Dungeon Item 2 (dummy)</td>
+  </tr>
+  <tr>
+    <td class="digs">32</td>
+    <td class="name">Fate Goddess Statue</td>
+  </tr>
+  <tr>
+    <td class="digs">33</td>
+    <td class="name">Existence Goddess Statue</td>
+  </tr>
+  <tr>
+    <td class="digs">34</td>
+    <td class="name">Necessity Goddess Statue</td>
+  </tr>
+  <tr>
+    <td class="digs">35</td>
+    <td class="name">Mission Item 4 (dummy)</td>
+  </tr>
+  <tr>
+    <td class="digs">36</td>
+    <td class="name">Mission Item 5 (dummy)</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="swords" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Sword Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">00</td>
+    <td class="name">Gladius</td>
+  </tr>
+  <tr>
+    <td class="digs">01</td>
+    <td class="name">Estoc</td>
+  </tr>
+  <tr>
+    <td class="digs">02</td>
+    <td class="name">Kopis</td>
+  </tr>
+  <tr>
+    <td class="digs">03</td>
+    <td class="name">Short Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">04</td>
+    <td class="name">Zweihander</td>
+  </tr>
+  <tr>
+    <td class="digs">05</td>
+    <td class="name">Rapier</td>
+  </tr>
+  <tr>
+    <td class="digs">06</td>
+    <td class="name">Bronze Edge</td>
+  </tr>
+  <tr>
+    <td class="digs">07</td>
+    <td class="name">Kagerou</td>
+  </tr>
+  <tr>
+    <td class="digs">08</td>
+    <td class="name">Broadsword</td>
+  </tr>
+  <tr>
+    <td class="digs">09</td>
+    <td class="name">Iron Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">0A</td>
+    <td class="name">Epee</td>
+  </tr>
+  <tr>
+    <td class="digs">0B</td>
+    <td class="name">Katzbalger</td>
+  </tr>
+  <tr>
+    <td class="digs">0C</td>
+    <td class="name">Wild Rose</td>
+  </tr>
+  <tr>
+    <td class="digs">0D</td>
+    <td class="name">Falcata</td>
+  </tr>
+  <tr>
+    <td class="digs">0E</td>
+    <td class="name">Shiranui</td>
+  </tr>
+  <tr>
+    <td class="digs">0F</td>
+    <td class="name">Iron Blade</td>
+  </tr>
+  <tr>
+    <td class="digs">10</td>
+    <td class="name">Flamberge</td>
+  </tr>
+  <tr>
+    <td class="digs">11</td>
+    <td class="name">Falchion</td>
+  </tr>
+  <tr>
+    <td class="digs">12</td>
+    <td class="name">Claymore</td>
+  </tr>
+  <tr>
+    <td class="digs">13</td>
+    <td class="name">Saber</td>
+  </tr>
+  <tr>
+    <td class="digs">14</td>
+    <td class="name">Silver Edge</td>
+  </tr>
+  <tr>
+    <td class="digs">15</td>
+    <td class="name">Shinzan</td>
+  </tr>
+  <tr>
+    <td class="digs">16</td>
+    <td class="name">Schiavona</td>
+  </tr>
+  <tr>
+    <td class="digs">17</td>
+    <td class="name">Steel Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">18</td>
+    <td class="name">Pallasch</td>
+  </tr>
+  <tr>
+    <td class="digs">19</td>
+    <td class="name">Bastard Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">1A</td>
+    <td class="name">Bloody Rose</td>
+  </tr>
+  <tr>
+    <td class="digs">1B</td>
+    <td class="name">Kora</td>
+  </tr>
+  <tr>
+    <td class="digs">1C</td>
+    <td class="name">Sakurabana</td>
+  </tr>
+  <tr>
+    <td class="digs">1D</td>
+    <td class="name">Nameless Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">1E</td>
+    <td class="name">Great Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">1F</td>
+    <td class="name">Ice Edge</td>
+  </tr>
+  <tr>
+    <td class="digs">20</td>
+    <td class="name">Air Blade</td>
+  </tr>
+  <tr>
+    <td class="digs">21</td>
+    <td class="name">King of Swords</td>
+  </tr>
+  <tr>
+    <td class="digs">22</td>
+    <td class="name">Prime Rose</td>
+  </tr>
+  <tr>
+    <td class="digs">23</td>
+    <td class="name">Damascus Edge</td>
+  </tr>
+  <tr>
+    <td class="digs">24</td>
+    <td class="name">Shuusui</td>
+  </tr>
+  <tr>
+    <td class="digs">25</td>
+    <td class="name">Gram</td>
+  </tr>
+  <tr>
+    <td class="digs">26</td>
+    <td class="name">Platina Blade</td>
+  </tr>
+  <tr>
+    <td class="digs">27</td>
+    <td class="name">Adamant Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">28</td>
+    <td class="name">Blue Rose</td>
+  </tr>
+  <tr>
+    <td class="digs">29</td>
+    <td class="name">Thunder Edge</td>
+  </tr>
+  <tr>
+    <td class="digs">2A</td>
+    <td class="name">Murasame</td>
+  </tr>
+  <tr>
+    <td class="digs">2B</td>
+    <td class="name">Fire Blade</td>
+  </tr>
+  <tr>
+    <td class="digs">2C</td>
+    <td class="name">Sword of Earth</td>
+  </tr>
+  <tr>
+    <td class="digs">2D</td>
+    <td class="name">Sol Blade</td>
+  </tr>
+  <tr>
+    <td class="digs">2E</td>
+    <td class="name">Immortal Sword</td>
+  </tr>
+  <tr>
+    <td class="digs">2F</td>
+    <td class="name">La Vie en Rose</td>
+  </tr>
+  <tr>
+    <td class="digs">30</td>
+    <td class="name">RockBuster</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="accessories" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Accessory Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">00</td>
+    <td class="name">Circlet</td>
+  </tr>
+  <tr>
+    <td class="digs">01</td>
+    <td class="name">Cool Bandanna</td>
+  </tr>
+  <tr>
+    <td class="digs">02</td>
+    <td class="name">Burning Headband</td>
+  </tr>
+  <tr>
+    <td class="digs">03</td>
+    <td class="name">Earth Amulet</td>
+  </tr>
+  <tr>
+    <td class="digs">04</td>
+    <td class="name">Proof of Shinobi</td>
+  </tr>
+  <tr>
+    <td class="digs">05</td>
+    <td class="name">Alfar Tiara</td>
+  </tr>
+  <tr>
+    <td class="digs">06</td>
+    <td class="name">X-Ray Glasses</td>
+  </tr>
+  <tr>
+    <td class="digs">07</td>
+    <td class="name">Golden Mask</td>
+  </tr>
+  <tr>
+    <td class="digs">08</td>
+    <td class="name">Faded Hat</td>
+  </tr>
+  <tr>
+    <td class="digs">09</td>
+    <td class="name">Wolf Fang</td>
+  </tr>
+  <tr>
+    <td class="digs">0A</td>
+    <td class="name">Colonel Helm</td>
+  </tr>
+  <tr>
+    <td class="digs">0B</td>
+    <td class="name">Leather Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">0C</td>
+    <td class="name">Chain Mail</td>
+  </tr>
+  <tr>
+    <td class="digs">0D</td>
+    <td class="name">Plate Mail</td>
+  </tr>
+  <tr>
+    <td class="digs">0E</td>
+    <td class="name">Fire Dragon Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">0F</td>
+    <td class="name">Ice Dragon Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">10</td>
+    <td class="name">Wind Dragon Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">11</td>
+    <td class="name">Earth Dragon Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">12</td>
+    <td class="name">Raincoat</td>
+  </tr>
+  <tr>
+    <td class="digs">13</td>
+    <td class="name">Rune Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">14</td>
+    <td class="name">Spike Mail</td>
+  </tr>
+  <tr>
+    <td class="digs">15</td>
+    <td class="name">Novice Mail</td>
+  </tr>
+  <tr>
+    <td class="digs">16</td>
+    <td class="name">White Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">17</td>
+    <td class="name">Black Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">18</td>
+    <td class="name">Worn-Out Coat</td>
+  </tr>
+  <tr>
+    <td class="digs">19</td>
+    <td class="name">Bat Wing</td>
+  </tr>
+  <tr>
+    <td class="digs">1A</td>
+    <td class="name">Forte Mantle</td>
+  </tr>
+  <tr>
+    <td class="digs">1B</td>
+    <td class="name">Power Wrist</td>
+  </tr>
+  <tr>
+    <td class="digs">1C</td>
+    <td class="name">Bracelet</td>
+  </tr>
+  <tr>
+    <td class="digs">1D</td>
+    <td class="name">Crest of Clubs</td>
+  </tr>
+  <tr>
+    <td class="digs">1E</td>
+    <td class="name">Crest of Diamonds</td>
+  </tr>
+  <tr>
+    <td class="digs">1F</td>
+    <td class="name">Buckler</td>
+  </tr>
+  <tr>
+    <td class="digs">20</td>
+    <td class="name">Rune Gauntlet</td>
+  </tr>
+  <tr>
+    <td class="digs">21</td>
+    <td class="name">White Gauntlet</td>
+  </tr>
+  <tr>
+    <td class="digs">22</td>
+    <td class="name">Black Gauntlet</td>
+  </tr>
+  <tr>
+    <td class="digs">23</td>
+    <td class="name">Sweaty Gloves</td>
+  </tr>
+  <tr>
+    <td class="digs">24</td>
+    <td class="name">Undead Fingernail</td>
+  </tr>
+  <tr>
+    <td class="digs">25</td>
+    <td class="name">Tomahawk Armor</td>
+  </tr>
+  <tr>
+    <td class="digs">26</td>
+    <td class="name">Iron Clogs</td>
+  </tr>
+  <tr>
+    <td class="digs">27</td>
+    <td class="name">Funny Shoes</td>
+  </tr>
+  <tr>
+    <td class="digs">28</td>
+    <td class="name">Power Ankle</td>
+  </tr>
+  <tr>
+    <td class="digs">29</td>
+    <td class="name">Traveler's Shoes</td>
+  </tr>
+  <tr>
+    <td class="digs">2A</td>
+    <td class="name">Sabaton</td>
+  </tr>
+  <tr>
+    <td class="digs">2B</td>
+    <td class="name">Winged Boots</td>
+  </tr>
+  <tr>
+    <td class="digs">2C</td>
+    <td class="name">Adventurer's Boots</td>
+  </tr>
+  <tr>
+    <td class="digs">2D</td>
+    <td class="name">Worn-Out Boots</td>
+  </tr>
+  <tr>
+    <td class="digs">2E</td>
+    <td class="name">Rat Tail</td>
+  </tr>
+  <tr>
+    <td class="digs">2F</td>
+    <td class="name">Blues Leg</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="frames" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Frame Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">00</td>
+    <td class="name">(empty)</td>
+  </tr>
+  <tr>
+    <td class="digs">01</td>
+    <td class="name">Fighter</td>
+  </tr>
+  <tr>
+    <td class="digs">02</td>
+    <td class="name">Calamity</td>
+  </tr>
+  <tr>
+    <td class="digs">03</td>
+    <td class="name">Wizard</td>
+  </tr>
+  <tr>
+    <td class="digs">04</td>
+    <td class="name">Bubbles</td>
+  </tr>
+  <tr>
+    <td class="digs">05</td>
+    <td class="name">Hoop</td>
+  </tr>
+  <tr>
+    <td class="digs">06</td>
+    <td class="name">Juggler</td>
+  </tr>
+  <tr>
+    <td class="digs">07</td>
+    <td class="name">Stalker</td>
+  </tr>
+  <tr>
+    <td class="digs">08</td>
+    <td class="name">Dragoon</td>
+  </tr>
+  <tr>
+    <td class="digs">09</td>
+    <td class="name">Samurai</td>
+  </tr>
+  <tr>
+    <td class="digs">0A</td>
+    <td class="name">Bomber</td>
+  </tr>
+  <tr>
+    <td class="digs">0B</td>
+    <td class="name">Tempest</td>
+  </tr>
+  <tr>
+    <td class="digs">0C</td>
+    <td class="name">Beatmania</td>
+  </tr>
+  <tr>
+    <td class="digs">0D</td>
+    <td class="name">Phantom (broken)</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="lenses" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Lens Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">00</td>
+    <td class="name">Sol</td>
+  </tr>
+  <tr>
+    <td class="digs">01</td>
+    <td class="name">Luna</td>
+  </tr>
+  <tr>
+    <td class="digs">02</td>
+    <td class="name">Flame</td>
+  </tr>
+  <tr>
+    <td class="digs">03</td>
+    <td class="name">Frost</td>
+  </tr>
+  <tr>
+    <td class="digs">04</td>
+    <td class="name">Cloud</td>
+  </tr>
+  <tr>
+    <td class="digs">05</td>
+    <td class="name">Earth</td>
+  </tr>
+  <tr>
+    <td class="digs">06</td>
+    <td class="name">Star</td>
+  </tr>
+  <tr>
+    <td class="digs">07</td>
+    <td class="name">Astro</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="portraits" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Portrait Digits</th>
+  </tr>
+  <tr>
+    <td class="digs">00</td>
+    <td class="name">Django</td>
+  </tr>
+  <tr>
+    <td class="digs">01</td>
+    <td class="name">Dark Django</td>
+  </tr>
+  <tr>
+    <td class="digs">02</td>
+    <td class="name">(friend connected)</td>
+  </tr>
+  <tr>
+    <td class="digs">03</td>
+    <td class="name">Otenko</td>
+  </tr>
+  <tr>
+    <td class="digs">04</td>
+    <td class="name">Sabata</td>
+  </tr>
+  <tr>
+    <td class="digs">05</td>
+    <td class="name">Sabata w/o helmet</td>
+  </tr>
+  <tr>
+    <td class="digs">06</td>
+    <td class="name">Smith</td>
+  </tr>
+  <tr>
+    <td class="digs">07</td>
+    <td class="name">Lita</td>
+  </tr>
+  <tr>
+    <td class="digs">08</td>
+    <td class="name">Zazie</td>
+  </tr>
+  <tr>
+    <td class="digs">09</td>
+    <td class="name">Sumire (Violet)</td>
+  </tr>
+  <tr>
+    <td class="digs">0A</td>
+    <td class="name">Kuro</td>
+  </tr>
+  <tr>
+    <td class="digs">0B</td>
+    <td class="name">Kid</td>
+  </tr>
+  <tr>
+    <td class="digs">0C</td>
+    <td class="name">Cheyenne</td>
+  </tr>
+  <tr>
+    <td class="digs">0D</td>
+    <td class="name">Lady</td>
+  </tr>
+  <tr>
+    <td class="digs">0E</td>
+    <td class="name">Coffin Shopkeeper</td>
+  </tr>
+  <tr>
+    <td class="digs">0F</td>
+    <td class="name">Ennio</td>
+  </tr>
+  <tr>
+    <td class="digs">10</td>
+    <td class="name">Marcello</td>
+  </tr>
+  <tr>
+    <td class="digs">11</td>
+    <td class="name">??? (Snake)</td>
+  </tr>
+  <tr>
+    <td class="digs">12</td>
+    <td class="name">Luis</td>
+  </tr>
+  <tr>
+    <td class="digs">13</td>
+    <td class="name">Count</td>
+  </tr>
+  <tr>
+    <td class="digs">14</td>
+    <td class="name">Hresvelgr</td>
+  </tr>
+  <tr>
+    <td class="digs">15</td>
+    <td class="name">Nidhoggr</td>
+  </tr>
+  <tr>
+    <td class="digs">16</td>
+    <td class="name">Ratatosk</td>
+  </tr>
+  <tr>
+    <td class="digs">17</td>
+    <td class="name">Carmilla</td>
+  </tr>
+  <tr>
+    <td class="digs">18</td>
+    <td class="name">Coach</td>
+  </tr>
+  <tr>
+    <td class="digs">19</td>
+    <td class="name">RockMan</td>
+  </tr>
+  <tr>
+    <td class="digs">1A</td>
+    <td class="name">Trinity</td>
+  </tr>
+  <tr>
+    <td class="digs">1B</td>
+    <td class="name">(question mark)</td>
+  </tr>
+  <tr>
+    <td class="digs">1C</td>
+    <td class="name">Django w/ goggles</td>
+  </tr>
+  <tr>
+    <td class="digs">1D</td>
+    <td class="name">(no friend connected)</td>
+  </tr>
+  <tr>
+    <td class="digs">1E</td>
+    <td class="name">GariGari-kun</td>
+  </tr>
+</table>
+</body>
+</html>
