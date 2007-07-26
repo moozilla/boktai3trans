@@ -6409,8 +6409,9 @@ $J=====2005=====
 しなかったからな
 $J=====2006=====
 <PROC=2>そんなことをしたバカは・・・
-$J=====2007=====
-オイラの母ちゃんぐらいだぜ」
+$E=====2007=====
+//オイラの母ちゃんぐらいだぜ」
+just like mom."
 $J=====2008=====
 <PROC=0>
 <END>
@@ -6420,96 +6421,149 @@ Doomy
 $E=====2010=====
 //陽子
 Luxana
-$J=====2011=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「いつもご利用ありがとうござ
-います。暗黒ローンです
-$J=====2012=====
-明日はローンの返済日(へんさ
-いび)です
-$J=====2013=====
-ご返済(へんさい)は、太陽バン
-クもしくは太陽スタンドからの
-自動引き落しとなります
-$J=====2014=====
-返済(へんさい)のご用意を、
-<PROC=1>よろしくお願いします」<LOCK=48>
-$J=====2015=====
+$E=====2011=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「いつもご利用ありがとうござ
+//います。暗黒ローンです
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Thank you for using Dark
+Loans.
+$E=====2012=====
+//明日はローンの返済日(へんさ
+//いび)です
+Your loan repayment is due
+tomorrow.
+$E=====2013=====
+//ご返済(へんさい)は、太陽バン
+//クもしくは太陽スタンドからの
+//自動引き落しとなります
+We will automatically deduct
+your payment from the Solar
+Bank or Solar Station.
+$E=====2014=====
+//返済(へんさい)のご用意を、
+//<PROC=1>よろしくお願いします」<LOCK=48>
+Please have it
+<PROC=1>ready by then."<LOCK=48>
+$E=====2015=====
 <PROC=0>
 <END>
-$J=====2016=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「いつもご利用ありがとうござ
-います。暗黒ローンです
-$J=====2017=====
-本日、ソル(SOL)の自動引き落
-しを確認(かくにん)いたしまし
-た
-$J=====2018=====
-これにて、お客さまのローンの
-返済(へんさい)は無事完了とな
-ります
-$J=====2019=====
-ご返済(へんさい)、
-<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
-$J=====2020=====
+$E=====2016=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「いつもご利用ありがとうござ
+//います。暗黒ローンです
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Thank you for using Dark
+Loans.
+$E=====2017=====
+//本日、ソル(SOL)の自動引き落
+//しを確認(かくにん)いたしまし
+//た
+Today, your loan was
+successfully repaid.
+$E=====2018=====
+//これにて、お客さまのローンの
+//返済(へんさい)は無事完了とな
+//ります
+The required Soll has been
+automatically deducted from
+your account.
+$E=====2019=====
+//ご返済(へんさい)、
+//<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
+Thank you very much
+<PROC=1><PROC=2>for your payment!"<LOCK=48>
+$E=====2020=====
 <PROC=0>
 <END>
-$J=====2021=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「いつもご利用ありがとうござ
-います。暗黒ローンです
-$J=====2022=====
-本日はローンの返済日(へんさ
-いび)です
-$J=====2023=====
-太陽バンクおよび太陽スタンド
-から、ソル(SOL)を引き落とさ
-せていただきましたが、
-$J=====2024=====
-残高が不足しています
-$J=====2025=====
-ローンのご返済(へんさい)を、
-<PROC=1>よろしくお願いします」<LOCK=48>
-$J=====2026=====
+$E=====2021=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「いつもご利用ありがとうござ
+//います。暗黒ローンです
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Thank you for using Dark
+Loans.
+$E=====2022=====
+//本日はローンの返済日(へんさ
+//いび)です
+Your loan repayment is due
+today.
+$E=====2023=====
+//太陽バンクおよび太陽スタンド
+//から、ソル(SOL)を引き落とさ
+//せていただきましたが、
+Soll has been automatically
+deducted from your account,
+$E=====2024=====
+//残高が不足しています
+but your balance is
+insufficient to cover the
+amount due.
+$E=====2025=====
+//ローンのご返済(へんさい)を、
+//<PROC=1>よろしくお願いします」<LOCK=48>
+<PROC=1>Please repay your loan."<LOCK=48>
+$E=====2026=====
 <PROC=0>
 <END>
-$J=====2027=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「・・・
-$J=====2028=====
-覚悟(かくご)はよろしいですね
-?
-$J=====2029=====
-ワタシたちはエナジーを貸(か)
-し、アナタはそれを借りた
-$J=====2030=====
-アナタの事情も分かります
-$J=====2031=====
-ですが、借りたものは返さなけ
-ればなりません。
-それが世の中のルールです
-$J=====2032=====
-問題はどうやって返すのか、で
-すが・・・
-$J=====2033=====
-アナタには、ちょっとしたお仕
-事をしていただきます」
-$J=====2034=====
+$E=====2027=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「・・・
+<LABEL>Doomy of Dark Loans</LABEL>:
+"...
+$E=====2028=====
+//覚悟(かくご)はよろしいですね
+//?
+"Are you prepared?
+$E=====2029=====
+//ワタシたちはエナジーを貸(か)
+//し、アナタはそれを借りた
+We lent you energy, and now
+you owe us a debt.
+$E=====2030=====
+//アナタの事情も分かります
+We understand your
+situation.
+$E=====2031=====
+//ですが、借りたものは返さなけ
+//ればなりません。
+//それが世の中のルールです
+However, you have to pay
+back what you borrow.
+That's the way of the world.
+$E=====2032=====
+//問題はどうやって返すのか、で
+//すが・・・
+The question is how you will
+repay us, though...
+$E=====2033=====
+//アナタには、ちょっとしたお仕
+//事をしていただきます」
+we're going to put you to
+work for us."
+$E=====2034=====
 <PROC=0>
 <END>
-$J=====2035=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「・・・またアナタですか?
-<NAME>さん・・・
-$J=====2036=====
-こりない人ですね・・・
-$J=====2037=====
-・・・仕方ありません。
-おしおきをさせていただきます
-$J=====2038=====
-さあ、行きますよ?」
-$J=====2039=====
+$E=====2035=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「・・・またアナタですか?
+//<NAME>さん・・・
+<LABEL>Doomy of Dark Loans</LABEL>:
+"...you again?
+<NAME>...
+$E=====2036=====
+//こりない人ですね・・・
+You don't learn, do you...
+$E=====2037=====
+//・・・仕方ありません。
+//おしおきをさせていただきます
+...oh well, can't be helped.
+Time to receive your
+punishment.
+$E=====2038=====
+//さあ、行きますよ?」
+Shall I begin?"
+$E=====2039=====
 <PROC=0>
 <END>
 $E=====2040=====
@@ -6528,14 +6582,15 @@ $E=====2042=====
 //わかっています!!
 //アナタがそういう趣味(しゅみ)
 //の人だということは・・・
-I get it!
-That's what you're into...
+I get it now!
+You're into that kind
+of thing...
 $E=====2043=====
 //でもワタシは・・・
 //もっと普通(ふつう)の恋(こい)
 //がしたいんです!
-but I...
-I want a more normal love!
+but I... I want a more
+conventional love!
 $E=====2044=====
 //だから・・・
 So...
@@ -6560,7 +6615,7 @@ you...
 $E=====2049=====
 //よくも妹をもてあそんでくれた
 //わね!!
-how dare you play around
+how dare you toy around
 with my sister!
 $E=====2050=====
 //あの子はアナタとちがって純粋
@@ -6572,13 +6627,13 @@ $E=====2051=====
 //あの子を自分のいけない趣味(
 //しゅみ)につき合わせて!
 And you...
-you're introducing her to
-your disgusting hobbies!
+you're getting her involved
+in your disgusting hobbies!
 $E=====2052=====
 //アナタには、相応(そうおう)の
 //むくいを受けてもらいます
 I'll give you a fitting
-reward.
+punishment.
 $E=====2053=====
 //覚悟(かくご)なさい!!」
 Prepare yourself!"
@@ -6612,8 +6667,8 @@ again!
 $E=====2060=====
 //えっ・・・
 //そうじゃない?
-Eh...?
-That's not it?
+Eh...
+that's not it?
 $E=====2061=====
 //今日はワタシに会いに来た?
 Today you came to see me?
@@ -6700,21 +6755,32 @@ $E=====2081=====
 $E=====2082=====
 //・・・わかったわ
 I understand.
-$J=====2083=====
-アナタを助けるつもりでいたの
-に、余計(よけい)に苦しめてし
-まうなんて・・・
-$J=====2084=====
-ワタシも人のこと言えないわ。
-お姉ちゃん失格(しっかく)ね」
-$J=====2085=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「そんなことない!!
-$J=====2086=====
-陽子ちゃんは、
-$J=====2087=====
-ワタシの大好きな・・・
-最高のお姉ちゃんだよ!!」
+$E=====2083=====
+//アナタを助けるつもりでいたの
+//に、余計(よけい)に苦しめてし
+//まうなんて・・・
+I came to rescue you, but it
+ended up causing you
+unnecessary grief.
+$E=====2084=====
+//ワタシも人のこと言えないわ。
+//お姉ちゃん失格(しっかく)ね」
+I'm not fit to call myself
+human. I'm not fit to be
+your sister."
+$E=====2085=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「そんなことない!!
+<LABEL>Doomy of Dark Loans</LABEL>:
+"That's not true!
+$E=====2086=====
+//陽子ちゃんは、
+Luxana,
+$E=====2087=====
+//ワタシの大好きな・・・
+//最高のお姉ちゃんだよ!!」
+you're my dear sister...
+the best sister ever!"
 $E=====2088=====
 //<LABEL>暗黒ローンの陽子ちゃん</LABEL>
 //「ありがとう、暗子ちゃん
@@ -6778,7 +6844,7 @@ $E=====2102=====
 will you...
 $E=====2103=====
 //おしおきさせてくれますか?」
-will you make me punish you
+will you let me punish you
 just one more time?"
 $E=====2104=====
 <PROC=0>
@@ -6787,24 +6853,32 @@ $E=====2105=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「さあ、<NAME>さん・・・
 <LABEL>Doomy of Dark Loans</LABEL>:
-"Okay, <NAME>...
+"<NAME>...
 $E=====2106=====
 //おしおきですよ{heart}」
-Time for your punishment.{heart}"
+time for your punishment.{heart}"
 $E=====2107=====
 <PROC=0>
 <END>
 $E=====2108=====
-<LABEL>暗黒ローンの暗子ちゃん</LABEL>
-「さあ、着きました
-$J=====2109=====
-ここは暗黒ローンの地下100階
-通称(つうしょう)おしおき部屋
-です
-$J=====2110=====
-そしてアレは暗黒発電機・・・<PROC=1>
-もうおわかりですね?」
-$J=====2111=====
+//<LABEL>暗黒ローンの暗子ちゃん</LABEL>
+//「さあ、着きました
+<LABEL>Doomy of Dark Loans</LABEL>:
+"Okay, we're there.
+$E=====2109=====
+//ここは暗黒ローンの地下100階
+//通称(つうしょう)おしおき部屋
+//です
+This is Dark Loans B100F,
+also known as the
+Punishment Room.
+$E=====2110=====
+//そしてアレは暗黒発電機・・・<PROC=1>
+//もうおわかりですね?」
+And that is the Dark
+Generator...<PROC=1>
+Do you understand now?"
+$E=====2111=====
 <PROC=0>
 <END>
 $E=====2112=====
@@ -6823,16 +6897,19 @@ $J=====2116=====
 <LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
 「あなたには今からここで発
 電をしてもらいます
+「あなたには今からここで発電をしてもらいます
 $J=====2117=====
 方法は簡単。
 <EXTEND=1>と<WEIGHT>Ａボタン</WEIGHT>を交互(
 こうご)に押(お)して走るだけ
+
 $J=====2118=====
 エナジーが発電されれば、それ
 が返済にあてられるというわけ
 です
-$J=====2119=====
-簡単ですね{note}
+$E=====2119=====
+//簡単ですね{note}
+Pretty simple, huh?{note}
 $J=====2120=====
 それでは<NAME>さん、
 よろしくお願いします」
@@ -6840,83 +6917,129 @@ $J=====2120=====
 $J=====2121=====
 <PROC=0>
 <END>
-$J=====2122=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「はい、けっこうです!
-$J=====2123=====
-ご返済(へんさい)ありがとうご
-ざいます。
-これであなたも自由の身です
-$J=====2124=====
-もう、こんなところに来てはい
-けませんよ、<NAME>さん
-$J=====2125=====
-それでは、今後とも暗黒ローン
-をよろしくお願いします
-$J=====2126=====
-<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
+$E=====2122=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「はい、けっこうです!
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Okay, that's enough!
+$E=====2123=====
+//ご返済(へんさい)ありがとうご
+//ざいます。
+//これであなたも自由の身です
+Thank you for repaying your
+debt.
+You are free to go now.
+$E=====2124=====
+//もう、こんなところに来てはい
+//けませんよ、<NAME>さん
+You mustn't end up in this
+kind of situation again,
+<NAME>.
+$U=====2125=====
+//それでは、今後とも暗黒ローン
+//をよろしくお願いします
+Well then, we hope you'll
+keep using Dark Loans.
+$E=====2126=====
+//<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
+<PROC=1><PROC=2>Thank you very much!"<LOCK=48>
 $J=====2127=====
 <PROC=0>
 <END>
-$J=====2128=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「はい、もうけっこうです
-$J=====2129=====
-今のあなたに、これ以上は無理
-のようですね・・・
-$J=====2130=====
-今日のところは、これでかんべ
-んしてあげます。
-$J=====2131=====
-これからは、身のほどをわきま
-えてくださいよ?
-いいですね、<NAME>さん?
-$J=====2132=====
-それでは、今後とも暗黒ローン
-をよろしくお願いします」
-$J=====2133=====
+$E=====2128=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「はい、もうけっこうです
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Okay, that's quite enough!
+$E=====2129=====
+//今のあなたに、これ以上は無理
+//のようですね・・・
+Looks like that's all you
+can handle for now...
+$E=====2130=====
+//今日のところは、これでかんべ
+//んしてあげます。
+I'll forgive your debt for
+today.
+$E=====2131=====
+//これからは、身のほどをわきま
+//えてくださいよ?
+//いいですね、<NAME>さん?
+Know your body's limit from
+now on.
+Okay, <NAME>?
+$U=====2132=====
+//それでは、今後とも暗黒ローン
+//をよろしくお願いします」
+Well then, we hope you'll
+keep using Dark Loans."
+$E=====2133=====
 <PROC=0>
 <END>
-$J=====2134=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「はい、おつかれさまでした!
-$J=====2135=====
-ご返済(へんさい)ありがとうご
-ざいます
-$J=====2136=====
-なかなかの走りでしたが、
-$J=====2137=====
-もうこんなところに来てはいけ
-ませんよ、<NAME>さん」
-$J=====2138=====
+$E=====2134=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「はい、おつかれさまでした!
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Okay, well done!
+$E=====2135=====
+//ご返済(へんさい)ありがとうご
+//ざいます
+Thank you for repaying your
+debt.
+$E=====2136=====
+//なかなかの走りでしたが、
+You ran pretty well,
+$E=====2137=====
+//もうこんなところに来てはいけ
+//ませんよ、<NAME>さん」
+but you mustn't end up in
+this kind of situation
+again, <NAME>."
+$E=====2138=====
 <PROC=0>
 <END>
-$J=====2139=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「はい、おつかれさまでした!
-$J=====2140=====
-ご返済(へんさい)ありがとうご
-ざいます
-$J=====2141=====
-なかなかの走りでしたが、
-$J=====2142=====
-もう無理をしてはいけませんよ
-<NAME>さん」
-$J=====2143=====
+$E=====2139=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「はい、おつかれさまでした!
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Okay, well done!
+$E=====2140=====
+//ご返済(へんさい)ありがとうご
+//ざいます
+Thank you for repaying your
+debt.
+$E=====2141=====
+//なかなかの走りでしたが、
+You ran pretty well,
+$E=====2142=====
+//もう無理をしてはいけませんよ
+//<NAME>さん」
+but you mustn't push
+yourself too hard,
+<NAME>."
+$E=====2143=====
 <PROC=0>
 <END>
-$J=====2144=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「はい、おつかれさまでした!
-$J=====2145=====
-ご返済(へんさい)ありがとうご
-ざいます
-$J=====2146=====
-すばらしい走りです!!
-$J=====2147=====
-でも、返済期限(へんさいきげ
-ん)は守ってくださいね、<NAME>さん」
-$J=====2148=====
+$E=====2144=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「はい、おつかれさまでした!
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Okay, well done!
+$E=====2145=====
+//ご返済(へんさい)ありがとうご
+//ざいます
+Thank you for repaying your
+debt.
+$E=====2146=====
+//すばらしい走りです!!
+That was an excellent run!
+$E=====2147=====
+//でも、返済期限(へんさいきげ
+//ん)は守ってくださいね、<NAME>さん」
+However, please abide by the
+terms of the loan next time,
+<NAME>."
+$E=====2148=====
 <PROC=0>
 <END>
 $E=====2149=====
@@ -6943,11 +7066,14 @@ obtained!
 $E=====2154=====
 <PROC=0>
 <END>
-$J=====2155=====
-古の大樹が呼んでいる・・・・
-・・・・・・・・・・・・・・
-・・・・・・・・・・気がする
-$J=====2156=====
+$E=====2155=====
+//古の大樹が呼んでいる・・・・
+//・・・・・・・・・・・・・・
+//・・・・・・・・・・気がする
+The Ancient Tree is calling.
+............................
+....................I think.
+$E=====2156=====
 <PROC=0>
 <END>
 $E=====2157=====
@@ -7024,61 +7150,89 @@ $E=====2170=====
 $E=====2171=====
 // 　　　新・ボクらの太陽　　　 
 // 　　　　逆襲のサバタ　　　　 
-           BOKTAI 3
-    SABATA'S COUNTERATTACK
+          BOKTAI 3
+   SABATA'S COUNTERATTACK
 $E=====2172=====
 <PROC=0>
 <END>
 $E=====2173=====
 //  明日もまた日は昇(のぼ)る! 
 The Sun will rise tomorrow!
-$J=====2174=====
- 　　　　でも・・・　　　　 
-$J=====2175=====
-　　望んでいるだけじゃあ、　
-　　　明日は変わらない　　　
-$J=====2176=====
-　　未来を変えるのは明日　　
-$J=====2177=====
-　　明日を変えるのは今日　　
-$J=====2178=====
-　　　今日できること、　　　
- 1人でできることは小さくても
-$J=====2179=====
-　その積み重ねが明日を変え、
-　いつか未来をも変えるんだ　
-$J=====2180=====
-　　太陽と暗黒、2つの未来　 
-$J=====2181=====
-　　　　明日もまた、　　　　
- 　日は昇(のぼ)るのだから　 
-$J=====2182=====
-　　　ボクは戦う・・・　　　
-$J=====2183=====
-　　ボクらの太陽と共に!!　　
-$J=====2184=====
+$E=====2174=====
+// 　　　　でも・・・　　　　 
+           but...
+$E=====2175=====
+//　　望んでいるだけじゃあ、　
+//　　　明日は変わらない　　　
+     wishes alone won't
+     change the future.
+$E=====2176=====
+//　　未来を変えるのは明日　　
+     Tomorrow's changes
+     affect the future.
+$E=====2177=====
+//　　明日を変えるのは今日　　
+      Today's changes
+      affect tomorrow.
+$E=====2178=====
+//　　　今日できること、　　　
+// 1人でできることは小さくても
+  The changes one person
+  can make today are small,
+$E=====2179=====
+//　その積み重ねが明日を変え、
+//　いつか未来をも変えるんだ　
+  but they add up, and in
+  time the future changes.
+$E=====2180=====
+//　　太陽と暗黒、2つの未来　 
+     Sun and Darkness,
+     their future...
+$E=====2181=====
+//　　　　明日もまた、　　　　
+// 　日は昇(のぼ)るのだから　 
+       The Sun will
+       rise tomorrow.
+$E=====2182=====
+//　　　ボクは戦う・・・　　　
+       I will fight...
+$E=====2183=====
+//　　ボクらの太陽と共に!!　　
+     alongside our Sun!
+$E=====2184=====
 <PROC=0>
 <END>
-$J=====2185=====
-　　　新・ボクらの太陽
-　　　　逆襲のサバタ
-　　　　　　 終
-$J=====2186=====
+$E=====2185=====
+//　　　新・ボクらの太陽
+//　　　　逆襲のサバタ
+//　　　　　　 終
+          BOKTAI 3
+   SABATA'S COUNTERATTACK
+          THE  END
+$E=====2186=====
 <PROC=0>
 <END>
-$J=====2187=====
+$E=====2187=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「まだか?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Still not done?"
+$E=====2188=====
+<PROC=0>
+<END>
+$E=====2189=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「なに、ヒントがほしい?
+//しょうがねぇなぁ・・・
 <LABEL=TRINITY>トリニティ</LABEL>
-「まだか?」
-$J=====2188=====
-<PROC=0>
-<END>
-$J=====2189=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「なに、ヒントがほしい?
-しょうがねぇなぁ・・・
-$J=====2190=====
-イチゴを数字に直してみな!」
-$J=====2191=====
+"What, you want a hint?
+Guess it can't be helped...
+$U=====2190=====
+//イチゴを数字に直してみな!」
+correct the figure of the
+strawberry!"
+//Oh god I hope this isn't a play on words number puzzle with 1 and 5...
+$E=====2191=====
 <PROC=0>
 <END>
 $X=====2192=====
@@ -7192,50 +7346,76 @@ $E=====2230=====
 <EXTEND=1>
 $E=====2231=====
 <EXTEND=2>
-$J=====2232=====
-<EXTEND=1>コースに
-決定しました。
-$J=====2233=====
-通信ケーブルを正しく接続して下さい。
-$J=====2234=====
-他のプレイヤーと通信中です。しばらくお待ちください。
-$J=====2235=====
-他のプレイヤーが準備中です。しばらくお待ちください。
-$J=====2236=====
-<WEIGHT>STARTボタン</WEIGHT>で対戦が始まります。
-$J=====2237=====
-対戦データを交換中です。
-$J=====2238=====
-<WEIGHT>STARTボタン</WEIGHT>で対戦が始まります。<WEIGHT>Bボタン</WEIGHT>で前の画面に戻ります。
-$J=====2239=====
-コースを設定中です。しばらくお待ちください。
-$J=====2240=====
+$E=====2232=====
+//<EXTEND=1>コースに
+//決定しました。
+<EXTEND=1>
+course selected.
+$E=====2233=====
+//通信ケーブルを正しく接続して下さい。
+Please connect the link cable securely.
+$E=====2234=====
+//他のプレイヤーと通信中です。しばらくお待ちください。
+The other player is transmitting. Please wait.
+$E=====2235=====
+//他のプレイヤーが準備中です。しばらくお待ちください。
+The other player is still preparing. Please wait.
+$E=====2236=====
+//<WEIGHT>STARTボタン</WEIGHT>で対戦が始まります。
+Press <WEIGHT>START</WEIGHT> to begin the battle.
+$E=====2237=====
+//対戦データを交換中です。
+Exchanging battle data.
+$E=====2238=====
+//<WEIGHT>STARTボタン</WEIGHT>で対戦が始まります。<WEIGHT>Bボタン</WEIGHT>で前の画面に戻ります。
+Press <WEIGHT>START</WEIGHT> to begin the battle. Press the <WEIGHT>B Button</WEIGHT> to return to the previous screen.
+$E=====2239=====
+//コースを設定中です。しばらくお待ちください。
+Creating course. Please wait.
+$U=====2240=====
 強い日差しや気温の変化に注意
 して、もう一度対戦しますか?
-$J=====2241=====
-他のプレイヤーが選択中です。
-しばらくお待ちください。
-$J=====2242=====
-対戦の準備中です。
-$J=====2243=====
-対戦を終了します。
-$J=====2244=====
-通信中です。
-相手からの接続を待っています
-Ｂボタンでキャンセルします。
-$J=====2245=====
-通信エラーです。
-接続を確認して
-電源を入れ直して下さい。
-$J=====2246=====
-キャンセルされました。
-$J=====2247=====
-セーブに失敗しました。　　　
-電源を入れ直して下さい。
-$J=====2248=====
-　　…セーブしています…　　
-　カートリッジを抜いたり、　
-  電源を切らないでください。
+//Being careful of Strong sunlight and temperature change, have one more battle?
+$E=====2241=====
+//他のプレイヤーが選択中です。
+//しばらくお待ちください。
+The other player is making a
+selecting. Please wait.
+$E=====2242=====
+//対戦の準備中です。
+Preparing for battle.
+$E=====2243=====
+//対戦を終了します。
+End battle.
+$E=====2244=====
+//通信中です。
+//相手からの接続を待っています
+//Ｂボタンでキャンセルします。
+Transmitting. Waiting for
+opponent to connect. Press
+<WEIGHT>B Button</WEIGHT> to cancel.
+$E=====2245=====
+//通信エラーです。
+//接続を確認して
+//電源を入れ直して下さい。
+Transmission error.
+Check connection and
+insert power cord.
+$E=====2246=====
+//キャンセルされました。
+Cancelled.
+$E=====2247=====
+//セーブに失敗しました。　　　
+//電源を入れ直して下さい。
+Save failed.
+Insert power cord.
+$E=====2248=====
+//　　…セーブしています…　　
+//　カートリッジを抜いたり、　
+//  電源を切らないでください。
+         …Saving…
+   Do not remove Game Pak
+   or turn OFF the power.
 $E=====2249=====
 //セーブしました。
 Saved.
@@ -7715,9 +7895,12 @@ $E=====2407=====
 $E=====2408=====
 ???
 $J=====2409=====
-ボディのつけかえによるスロッ
-ト減少(げんしょう)分、オプシ
-ョンが外されました
+//ボディのつけかえによるスロッ
+//ト減少(げんしょう)分、オプシ
+//ョンが外されました
+Options have been removed
+due to reduced number of
+slots on replacement body.
 $E=====2410=====
 // 太陽センサーとは
    THE SOLAR SENSOR
@@ -7745,7 +7928,7 @@ $E=====2417=====
 $E=====2418=====
 // 太陽センサーと?
  SOLAR SENSOR & ? ? ?
-$E=====2419=====
+$J=====2419=====
 「新・ボクらの太陽」では、カ
 ートリッジ上部の太陽センサー
 に太陽の光を当てることにより
@@ -7928,11 +8111,13 @@ Data Transfer
 $E=====2454=====
 //クロスオーバーバトル2
 Crossover Battle 2
-$J=====2455=====
-ロードに失敗しました。
-セーブデータが存在しないか、
-壊れています。
-$J=====2456=====
+$E=====2455=====
+//ロードに失敗しました。
+//セーブデータが存在しないか、
+//壊れています。
+Load failed.
+Save data corrupted.
+$E=====2456=====
 //通信ケーブルを使って友達とバイクバトルができます。
 Battle a friend using the link cable.
 $E=====2457=====
@@ -7955,14 +8140,18 @@ $E=====2462=====
 $E=====2463=====
 //        バイクバトル
         BIKE BATTLE
-$J=====2464=====
-最初のステージを体験プレイ!!
-$J=====2465=====
-バトルドライブと新・ジャンゴを体験プレイ!!
-$J=====2466=====
-バイクのカスタマイズとアクションを体験プレイ!!
-$J=====2467=====
-バイクによる二人用通信対戦を体験プレイ!!
+$U=====2464=====
+//最初のステージを体験プレイ!!
+Try beginner stage!
+$U=====2465=====
+//バトルドライブと新・ジャンゴを体験プレイ!!
+Try Battle Drive with New Django!
+$U=====2466=====
+//バイクのカスタマイズとアクションを体験プレイ!!
+Try Bike Custom and Bike Action!
+$U=====2467=====
+//バイクによる二人用通信対戦を体験プレイ!!
+Try 2-Player Link Battle!
 $X=====2468=====
 {C9}{DF}{FD}{D5}{CB}{C9}{E9}{DF}{C6}
 $E=====2469=====
@@ -8150,13 +8339,13 @@ $E=====2508=====
 <END>
 $E=====2509=====
 //毒花粉をまき散らす。たおすことはできない。
-Scatters poisonous pollen. Cannot be killed.
+Emits poisonous pollen. Cannot be killed.
 $E=====2510=====
 //混乱花粉(こんらんかふん)をまき散らす。たおすことはできない。
-Scatters disorienting pollen. Cannot be killed.
+Emits disorienting pollen. Cannot be killed.
 $E=====2511=====
 //はじけてタネをまき散らす。
-Scatters explosive seeds.
+Emits explosive seeds.
 $U=====2512=====
 //前方にトゲを飛ばし続ける。たおすことはできない。
 Continuosly emits spines. Cannot be killed.
@@ -8228,7 +8417,7 @@ $E=====2534=====
 A blood-stained Mummy.
 $E=====2535=====
 //わめき散らして仲間をよび、舌(した)をのばしてアイテムをぬすむ。
-Calls its comrades with a scattering cry. Steals items with its tongue.
+Emits a cry that summons its comrades. Steals items with its tongue.
 $E=====2536=====
 //血染(ちぞ)めのヴォーン。
 A blood-stained Vorn.
@@ -8238,14 +8427,15 @@ Spits fireballs.
 $E=====2538=====
 //斧(おの)をふり下ろし衝撃波(しょうげきは)を飛ばす。
 Creates a shockwave by swinging its axe.
-$J=====2539=====
-冷気をまき散らす。
+$E=====2539=====
+//冷気をまき散らす。
+Emits a freezing wave.
 $E=====2540=====
 //溶岩弾(ようがんだん)をまき散らす。
-Scatters lava shots.
+Emits lava shots.
 $E=====2541=====
 //毒霧(どくぎり)をまき散らす。
-Scatters a poisonous mist.
+Emits a poisonous mist.
 $E=====2542=====
 //飛び出る。
 Jumps out at you.
@@ -8294,13 +8484,15 @@ Takes the form of a treasure box. Pounces when opened.
 $E=====2557=====
 //自らで攻撃(こうげき)する。スレイブソードを召喚(しょうかん)する。
 Attacks of its own accord. Summons slave swords.
-$J=====2558=====
-吸血変異(アンデッド化)を極めたソード。
+$E=====2558=====
+//吸血変異(アンデッド化)を極めたソード。
+A Sword that has turned undead.
 $E=====2559=====
 //自らで攻撃(こうげき)する。影分身(かげぶんしん)を使う。
 Attacks of its own accord. Uses shadow clones.
-$J=====2560=====
-吸血変異(アンデッド化)を極めたアックス。
+$E=====2560=====
+//吸血変異(アンデッド化)を極めたアックス。
+An Axe that has turned undead.
 $E=====2561=====
 //青銅製(せいどうせい)のアーマー。
 Armor made of bronze.
@@ -8310,28 +8502,33 @@ Armor made of iron.
 $E=====2563=====
 //フレイム属性(ぞくせい)のアーマー。
 Flame-element armor.
-$J=====2564=====
-吸血変異(アンデッド化)を極めたフレイムアーマー。
+$E=====2564=====
+//吸血変異(アンデッド化)を極めたフレイムアーマー。
+A Flame Armor that has turned undead.
 $E=====2565=====
 //フロスト属性(ぞくせい)のアーマー。
 Frost-element armor.
-$J=====2566=====
-吸血変異(アンデッド化)を極めたフロストアーマー。
+$E=====2566=====
+//吸血変異(アンデッド化)を極めたフロストアーマー。
+A Frost Armor that has turned undead.
 $E=====2567=====
 //クラウド属性(ぞくせい)のアーマー。
 Cloud-element armor.
-$J=====2568=====
-吸血変異(アンデッド化)を極めたクラウドアーマー。
+$E=====2568=====
+//吸血変異(アンデッド化)を極めたクラウドアーマー。
+A Cloud Armor that has turned undead.
 $E=====2569=====
 //アース属性(ぞくせい)のアーマー。
 Earth-element armor.
-$J=====2570=====
-吸血変異(アンデッド化)を極めたアースアーマー。
+$E=====2570=====
+//吸血変異(アンデッド化)を極めたアースアーマー。
+An Earth Armor that has turned undead.
 $E=====2571=====
 //属性(ぞくせい)を変化させるアーマー。
 An armor that changes its element.
-$J=====2572=====
-吸血変異(アンデッド化)を極めたデュアルアーマー。
+$E=====2572=====
+//吸血変異(アンデッド化)を極めたデュアルアーマー。
+A Dual Armor that has turned undead.
 $E=====2573=====
 //謎(なぞ)多き最強の騎士(きし)。
 The highly mysterious strongest knight.
@@ -8409,7 +8606,6 @@ $E=====2597=====
 A self-styled Treasure Hunter who claims to be descended from the Legendary Warrior, he seeks out the Warrior to prevent his death. He wears the Iron Pot and Blue Poncho as a memento of his mother.
 $J=====2598=====
 石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
-Even after death, she watches over Sabata as a ghost.
 $J=====2599=====
 道具屋の少女。太陽樹(たいようじゅ)を守る大地の巫女(みこ)であり、太陽の果実を育てることができる。<NAME>をしたう一途(いちず)な少女だが、徒手空挙(としゅくうけん)において彼女の右に出る者はいない。
 $J=====2600=====
@@ -8422,6 +8618,7 @@ $J=====2603=====
 黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
 $J=====2604=====
 アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
+//Acessory-ya no shounen.
 //Tenshu deatta "Item Master" no fuzai ni katte ni mise o hirake, 
 //shoubai ga emadeshite shimau o choushitemo.
 //sono mi, giri gatai "Afromaster" ningyouha.
@@ -8901,23 +9098,33 @@ again soon."
 $E=====2760=====
 <PROC=0>
 <END>
-$J=====2761=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「おお、<NAME>!!
-ついにやったようだな?
-$J=====2762=====
-あの闘技場(とうぎじょう)のプ
-ラチナクラスをクリアするとは
-$J=====2763=====
-さすがは太陽少年といったとこ
-ろか・・・
-$J=====2764=====
-いや、おまえにはそれ以上の何
-かがある
-$J=====2765=====
-ともあれ、これを受け取ってく
-れ!」
-$J=====2766=====
+$E=====2761=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「おお、<NAME>!!
+//ついにやったようだな?
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Yo, <NAME>!
+So you finally did it, huh?
+$E=====2762=====
+//あの闘技場(とうぎじょう)のプ
+//ラチナクラスをクリアするとは
+You cleared Platinum class
+in the Arena.
+$E=====2763=====
+//さすがは太陽少年といったとこ
+//ろか・・・
+You have my congratulations,
+Solar Boy...
+$E=====2764=====
+//いや、おまえにはそれ以上の何
+//かがある
+actually, there's something
+else I can give you.
+$E=====2765=====
+//ともあれ、これを受け取ってく
+//れ!」
+Anyhow, take it!"
+$E=====2766=====
 <PROC=0>
 <END>
 $E=====2767=====
@@ -8927,43 +9134,63 @@ $E=====2767=====
 Title
 "Gladiator"
 obtained!<LOCK=176>
-$J=====2768=====
+$E=====2768=====
 <PROC=0>
 <END>
-$J=====2769=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「うむ・・・
-$J=====2770=====
-今のわたしには、シルバーの壁
-(かべ)さえもこえることができ
-ないが、
-$J=====2771=====
-いつかまた、おまえとも剣(つ
-るぎ)を交えてみたいものだ
-$J=====2772=====
-これも、哀(かな)しき戦士の性
-(さが)だな・・・」
-$J=====2773=====
+$E=====2769=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「うむ・・・
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Hmm...
+$E=====2770=====
+//今のわたしには、シルバーの壁
+//(かべ)さえもこえることができ
+//ないが、
+I can't even pass the Silver
+wall in my current state,
+$E=====2771=====
+//いつかまた、おまえとも剣(つ
+//るぎ)を交えてみたいものだ
+but I'd still like to cross
+sword with you sometime.
+$U=====2772=====
+//これも、哀(かな)しき戦士の性
+//(さが)だな・・・」
+This, too, is the sad nature
+of a warrior..."
+$E=====2773=====
 <PROC=0>
 <END>
-$J=====2774=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「いいところに来たな、
-<NAME>・・・
-$J=====2775=====
-おまえが太陽鍛冶(たいようか
-じ)で作り出すソードで、
-$J=====2776=====
-スミスとわたしに量産できるも
-のは、すべて出そろったような
-のでな・・・
-$J=====2777=====
-2人で、いつもとはちがうモノ
-を作ってみたんだ
-$J=====2778=====
-おまえの冒険(ぼうけん)に役立
-つといいのだが・・・」
-$J=====2779=====
+$E=====2774=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「いいところに来たな、
+//<NAME>・・・
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"You came at a good time,
+<NAME>...
+$E=====2775=====
+//おまえが太陽鍛冶(たいようか
+//じ)で作り出すソードで、
+Looks like you've made every
+sword through SOLARSMITH...
+$E=====2776=====
+//スミスとわたしに量産できるも
+//のは、すべて出そろったような
+//のでな・・・
+that Smith and I are capable
+of reproducing.
+$E=====2777=====
+//2人で、いつもとはちがうモノ
+//を作ってみたんだ
+We decided to try and make
+something different than we
+usually do.
+$U=====2778=====
+//おまえの冒険(ぼうけん)に役立
+//つといいのだが・・・」
+It might be useful on your
+quest..."
+$E=====2779=====
 <PROC=0>
 <END>
 $E=====2780=====
@@ -8976,29 +9203,42 @@ obtained!<LOCK=176>
 $E=====2781=====
 <PROC=0>
 <END>
-$J=====2782=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「クラッシャーの武器(ぶき)で
-あるドリルは、
-$J=====2783=====
-他のバイクフロントのウエポン
-のように、
-$J=====2784=====
-はなれた場所から障害物(しょ
-うがいぶつ)や敵(てき)モンス
-ターを、
-$J=====2785=====
-攻撃(こうげき)することはでき
-ない
+$E=====2782=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「クラッシャーの武器(ぶき)で
+//あるドリルは、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Crusher's weapon of choice
+is the drill.
+$E=====2783=====
+//他のバイクフロントのウエポン
+//のように、
+Unlike the weapons on other
+bike fronts,
+$E=====2784=====
+//はなれた場所から障害物(しょ
+//うがいぶつ)や敵(てき)モンス
+//ターを、
+when obstacles or enemy
+monsters are at a distance,
+$E=====2785=====
+//攻撃(こうげき)することはでき
+//ない
+it won't be able to attack
+them.
 $J=====2786=====
-だが、その破壊力(はかいりょ
-く)だけは保証(ほしょう)する
-ぞ
-$J=====2787=====
-何といっても・・・
-$J=====2788=====
-ドリルが2本だからな!!」
-$J=====2789=====
+//だが、その破壊力(はかいりょ
+//く)だけは保証(ほしょう)する
+//ぞ
+However, we guarantee its
+destructive ability.
+$E=====2787=====
+//何といっても・・・
+After all...
+$E=====2788=====
+//ドリルが2本だからな!!」
+it has 2 drills!"
+$E=====2789=====
 <PROC=0>
 <END>
 $E=====2790=====
@@ -9175,135 +9415,209 @@ $E=====2822=====
 //のは山々だが・・・
 They took a great deal of
 their enemies with them...
-$J=====2823=====
-わたしには、かれらから受けつ
-いだ使命がある
-$J=====2824=====
-この太陽の街を守るという
-が・・・
-$J=====2825=====
-<NAME>、
-やつの始末はまかせたぞ!!」
-$J=====2826=====
+$E=====2823=====
+//わたしには、かれらから受けつ
+//いだ使命がある
+They gave me a mission.
+$E=====2824=====
+//この太陽の街を守るという
+//が・・・
+To protect this City of the
+Sun...
+$E=====2825=====
+//<NAME>、
+//やつの始末はまかせたぞ!!」
+I'm counting on you to take
+care of the rest,
+<NAME>!"
+$E=====2826=====
 <PROC=0>
 <END>
-$J=====2827=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「ソードには、
-$J=====2828=====
-特徴(とくちょう)の異(こと)な
-る5つの種類(タイプ)がある
-$J=====2829=====
-突(つ)きを得意とする直剣、
-$J=====2830=====
-縦斬(たてぎ)りを得意とする大
-剣、
-$J=====2831=====
-突(つ)きと横斬(よこぎ)りをあ
-わせ持つ曲刀、
-$J=====2832=====
-縦斬(たてぎ)りと横斬(よこぎ)
-りをあわせ持つ長剣、
-$J=====2833=====
-そして万能タイプの刀だ
-$J=====2834=====
-それぞれの特徴(とくちょう)を
-よく理解して、自分の好みに合
-ったソードを使うといい」
-$J=====2835=====
+$E=====2827=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「ソードには、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Among swords,
+$E=====2828=====
+//特徴(とくちょう)の異(こと)な
+//る5つの種類(タイプ)がある
+there are 5 general types:
+$E=====2829=====
+//突(つ)きを得意とする直剣、
+straight swords, good for
+thrusts,
+$E=====2830=====
+//縦斬(たてぎ)りを得意とする大
+//剣、
+greatswords, good for
+vertical cuts,
+$E=====2831=====
+//突(つ)きと横斬(よこぎ)りをあ
+//わせ持つ曲刀、
+curved swords, good for both
+thrusts and horizontal cuts,
+$E=====2832=====
+//縦斬(たてぎ)りと横斬(よこぎ)
+//りをあわせ持つ長剣、
+longswords, good for both
+vertical and horizontal
+cuts,
+$E=====2833=====
+//そして万能タイプの刀だ
+and all-purpose katanas.
+$E=====2834=====
+//それぞれの特徴(とくちょう)を
+//よく理解して、自分の好みに合
+//ったソードを使うといい」
+Know their respective
+strengths well, and use the
+type that best fits you."
+$E=====2835=====
 <PROC=0>
 <END>
-$J=====2836=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「ついに伯爵(はくしゃく)をた
-おしたようだな
-$J=====2837=====
-だがやつはヴァンパイア・ロー
-ド・・・
-$J=====2838=====
-いずれまた、その姿(すがた)を
-現す日が来るのかもしれん
-$J=====2839=====
-この世紀末世界に生きるわれわ
-れに、心安らぐ日は来るのだろ
-うか・・・」
-$J=====2840=====
+$E=====2836=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「ついに伯爵(はくしゃく)をた
+//おしたようだな
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"So like you finally
+defeated the Count, huh?
+$E=====2837=====
+//だがやつはヴァンパイア・ロー
+//ド・・・
+But he's the Vampire Lord...
+$E=====2838=====
+//いずれまた、その姿(すがた)を
+//現す日が来るのかもしれん
+the day may come when he
+shows his face again.
+$E=====2839=====
+//この世紀末世界に生きるわれわ
+//れに、心安らぐ日は来るのだろ
+//うか・・・」
+Will the day come when all
+the beings in this world can
+live in peace, I wonder..."
+$E=====2840=====
 <PROC=0>
 <END>
-$J=====2841=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「ソードでの攻撃(こうげき)に
-は、
-$J=====2842=====
-<WEIGHT>Ｂボタン</WEIGHT>を連打することで発動
-する連続攻撃(れんぞくこうげ
-き)がある
-$J=====2843=====
-連続攻撃(れんぞくこうげき)の
-性能(ランク)、
-$J=====2844=====
-すなわち攻撃(こうげき)の組み
-合わせと回数は、ソードごとに
-決まっているが、
-$J=====2845=====
-太陽鍛冶(たいようかじ)で強化
-することで、
-$J=====2846=====
-その性能(ランク)を、2段階(だ
-んかい)までアップさせること
-ができる
-$J=====2847=====
-性能(ランク)がアップしたソー
-ドは、名前の後ろに{II}、{III}と数
-字が付くぞ」
-$J=====2848=====
+$E=====2841=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「ソードでの攻撃(こうげき)に
+//は、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"When attacking with a
+sword,
+$E=====2842=====
+//<WEIGHT>Ｂボタン</WEIGHT>を連打することで発動
+//する連続攻撃(れんぞくこうげ
+//き)がある
+press the <WEIGHT>B Button</WEIGHT> rapidly
+to perform a combo attack.
+$E=====2843=====
+//連続攻撃(れんぞくこうげき)の
+//性能(ランク)、
+The combo attack's rank,
+that is, the number of
+consecutive attacks,
+$E=====2844=====
+//すなわち攻撃(こうげき)の組み
+//合わせと回数は、ソードごとに
+//決まっているが、
+depends on the sword.
+$E=====2845=====
+//太陽鍛冶(たいようかじ)で強化
+//することで、
+If you strengthen a sword
+using SOLARSMITH,
+$E=====2846=====
+//その性能(ランク)を、2段階(だ
+//んかい)までアップさせること
+//ができる
+you can increase its rank by
+up to 2 levels.
+$E=====2847=====
+//性能(ランク)がアップしたソー
+//ドは、名前の後ろに{II}、{III}と数
+//字が付くぞ」
+When a sword gains a rank,
+it will be appended to the
+end of the sword's name."
+$E=====2848=====
 <PROC=0>
 <END>
-$J=====2849=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「おてんこさまとのトランス(
-合身)、ソル<NAME>か
-$J=====2850=====
-われら太陽の4士族の祖先(そせ
-ん)たちが残した伝承(でんしょ
-う)にも、
-$J=====2851=====
-そのような存在(そんざい)は記
-録されていない
-$J=====2852=====
-たしかに、強大な力を持つ闇の
-一族(イモータル)と戦い続ける
-には、必要な力なのかも知れん
-$J=====2853=====
-だがその力は・・・
-本当に人間ごときが手にして良
-いものなのか?
-$J=====2854=====
-いや、かつてはその身に受けた
-ヴァンパイアの血でさえも克服
-(こくふく)したおまえだ
-$J=====2855=====
-力の使い方をまちがえることな
-ど、ないだろう
-$J=====2856=====
-信じているぞ、
-太陽少年<NAME>!!」
-$J=====2857=====
+$E=====2849=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「おてんこさまとのトランス(
+//合身)、ソル<NAME>か
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Sol <NAME>, a Trance
+with Master Otenko, huh?
+$E=====2850=====
+//われら太陽の4士族の祖先(そせ
+//ん)たちが残した伝承(でんしょ
+//う)にも、
+Even in legends passed down
+by the ancestors of the 4
+Sun Warrior families,
+$E=====2851=====
+//そのような存在(そんざい)は記
+//録されていない
+such an entity was never
+mentioned.
+$E=====2852=====
+//たしかに、強大な力を持つ闇の
+//一族(イモータル)と戦い続ける
+//には、必要な力なのかも知れん
+Certainly, that power may be
+necessary to keep fighting
+the mighty Immortals.
+$E=====2853=====
+//だがその力は・・・
+//本当に人間ごときが手にして良
+//いものなのか?
+But such power...
+is it really a good thing
+for humans to possess?
+$E=====2854=====
+//いや、かつてはその身に受けた
+//ヴァンパイアの血でさえも克服
+//(こくふく)したおまえだ
+No, you even conquered the
+vampire blood that once
+flowed through your body.
+$E=====2855=====
+//力の使い方をまちがえることな
+//ど、ないだろう
+You definitely know how to
+use power responsibly.
+$E=====2856=====
+//信じているぞ、
+//太陽少年<NAME>!!」
+I believe in you,
+Solar Boy <NAME>!"
+$E=====2857=====
 <PROC=0>
 <END>
-$J=====2858=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「ソードのSP(特殊効果)は、
-$J=====2859=====
+$E=====2858=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「ソードのSP(特殊効果)は、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"Have you heard about SP
+effects?
+$U=====2859=====
 マヒ、ふき飛ばしなど、さまざ
 まだが、
 $J=====2860=====
 いずれも、太陽鍛冶(たいよう
 かじ)で強化することで初めて
 付け加えることができる
-$J=====2861=====
-SP(特殊効果)が付いたソードに
-は、名前の後ろにSPが付くぞ
+$E=====2861=====
+//SP(特殊効果)が付いたソードに
+//は、名前の後ろにSPが付くぞ
+Swords with SP effects will
+have SP appended to their
+names.
 $J=====2862=====
 また、SP(特殊効果)を付けるこ
 とができるかどうかは、おまえ
@@ -9317,105 +9631,169 @@ $J=====2864=====
 $J=====2865=====
 <PROC=0>
 <END>
-$J=====2866=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「われら太陽の4士族に伝わる
-伝承(でんしょう)によると、
-$J=====2867=====
-一言に闇の一族(イモータル)と
-いっても、
-$J=====2868=====
-その中にはさまざまな勢力(せ
-いりょく)があるようだ
-$J=====2869=====
-伯爵(はくしゃく)を始めとする
-夜の一族(ヴァンパイア)
-$J=====2870=====
-かつての闇の王(キング・オブ
-・イモータル)や、
-$J=====2871=====
-その後をついだ闇の女王(クイ
-ーン)が属(ぞく)した死の一族
-$J=====2872=====
-このサン・ミゲルにおいて、終
-末の獣(けもの)と共に封印(ふ
-ういん)されていた、
+$E=====2866=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「われら太陽の4士族に伝わる
+//伝承(でんしょう)によると、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+According to legends passed
+down by our ancestors,
+$E=====2867=====
+//一言に闇の一族(イモータル)と
+//いっても、
+altough we refer to them
+simply as Immortals,
+$E=====2868=====
+//その中にはさまざまな勢力(せ
+//いりょく)があるようだ
+there are actually various
+powers among them.
+$E=====2869=====
+//伯爵(はくしゃく)を始めとする
+//夜の一族(ヴァンパイア)
+Vampires, the family of the
+night started by the Count,
+$E=====2870=====
+//かつての闇の王(キング・オブ
+//・イモータル)や、
+the Death Clan,
+$E=====2871=====
+//その後をついだ闇の女王(クイ
+//ーン)が属(ぞく)した死の一族
+associated with the King of
+Immortals and later the
+Queen,
+$E=====2872=====
+//このサン・ミゲルにおいて、終
+//末の獣(けもの)と共に封印(ふ
+//ういん)されていた、
+the Shadow Clan, Black Dainn
+and those sisters,
 $J=====2873=====
-黒きダーインとその妹たち、影
-(かげ)の一族・・・
-$J=====2874=====
-やつらの中にも、同族(どうぞ
-く)への友愛はあったのだろう
-か?」
-$J=====2875=====
+//黒きダーインとその妹たち、影
+//(かげ)の一族・・・
+sealed along with the
+Doomsday Beast here in
+San Miguel...
+$U=====2874=====
+//やつらの中にも、同族(どうぞ
+//く)への友愛はあったのだろう
+//か?」
+There must have been harmony
+between those in the same
+clan, right?"
+$E=====2875=====
 <PROC=0>
 <END>
-$J=====2876=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「ソードのSP(特殊効果)には、
-$J=====2877=====
-太陽銃(ガン・デル・ソル)のレ
-ンズのように、
-$J=====2878=====
-攻撃(こうげき)に属性(ぞくせ
-い)を付加するものもあるが、
-$J=====2879=====
-他のSP(特殊効果)とちがいエナ
-ジーを消費し、
-$J=====2880=====
-エナジーがなければ、効果(こ
-うか)を発動しない
-$J=====2881=====
-注意してくれ」
-$J=====2882=====
+$E=====2876=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「ソードのSP(特殊効果)には、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"With sword SP effects,
+$E=====2877=====
+//太陽銃(ガン・デル・ソル)のレ
+//ンズのように、
+just like with solar gun
+lenses,
+$E=====2878=====
+//攻撃(こうげき)に属性(ぞくせ
+//い)を付加するものもあるが、
+there are ones that add an
+element to your attacks.
+$E=====2879=====
+//他のSP(特殊効果)とちがいエナ
+//ジーを消費し、
+Unlike other SP effects,
+they consume energy,
+$E=====2880=====
+//エナジーがなければ、効果(こ
+//うか)を発動しない
+and if you're out of energy,
+they will have no effect.
+$E=====2881=====
+//注意してくれ」
+Keep that in mind."
+$E=====2882=====
 <PROC=0>
 <END>
-$J=====2883=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「生と死の輪廻(りんね)をめぐ
-る太陽と暗黒の戦い
-$J=====2884=====
-その戦いにまきこまれ、ほろぼ
-された月の一族
-$J=====2885=====
-果たしてかれらは、本当に死に
-たえてしまったのだろうか?
-$J=====2886=====
-あるいは今でも・・・
-$J=====2887=====
-どこかにその身をかくして、静
-かにくらしているのかもしれん
-な」
-$J=====2888=====
+$E=====2883=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「生と死の輪廻(りんね)をめぐ
+//る太陽と暗黒の戦い
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+The battle between Sun and
+Darkness...
+$E=====2884=====
+//その戦いにまきこまれ、ほろぼ
+//された月の一族
+revolves around a cycle of
+life and death.
+$E=====2885=====
+//果たしてかれらは、本当に死に
+//たえてしまったのだろうか?
+Caught up in that battle,
+the Lunar Family was
+destroyed.
+$E=====2886=====
+//あるいは今でも・・・
+But were they really wiped
+out?
+Or, even now...
+$E=====2887=====
+//どこかにその身をかくして、静
+//かにくらしているのかもしれん
+//な」
+could they be living
+peacefully, hidden away
+somewhere?"
+$E=====2888=====
 <PROC=0>
 <END>
-$J=====2889=====
-<LABEL=SHAIAN>シャイアン</LABEL>
-「名剣(めいけん)にまつわる伝
-説はさまざまだが、
-$J=====2890=====
-中でも有名なのは、折(お)れた
-剣(つるぎ)から生まれた英雄(
-えいゆう)の剣(つるぎ)だ
-$J=====2891=====
-剣(つるぎ)の死と再生(さいせ
-い)・・・
-$J=====2892=====
-それは不滅(ふめつ)の命を願う
-人のあこがれを象徴(しょうち
-ょう)しているのかもしれない
-$J=====2893=====
-だが・・・
-$J=====2894=====
-剣(つるぎ)を再生(さいせい)さ
-せることはできても、
-$J=====2895=====
-死んだ者をよみがえらせること
-など、できはしない
-$J=====2896=====
-それを望んでは・・・いけない
-」
-$J=====2897=====
+$E=====2889=====
+//<LABEL=SHAIAN>シャイアン</LABEL>
+//「名剣(めいけん)にまつわる伝
+//説はさまざまだが、
+<LABEL=SHAIAN>Cheyenne</LABEL>:
+"There are various legends
+about famous swords,
+$E=====2890=====
+//中でも有名なのは、折(お)れた
+//剣(つるぎ)から生まれた英雄(
+//えいゆう)の剣(つるぎ)だ
+but the most famous concerns
+a hero's sword born from a
+broken sword.
+$E=====2891=====
+//剣(つるぎ)の死と再生(さいせ
+//い)・・・
+The death and rebirth of a
+sword...
+$E=====2892=====
+//それは不滅(ふめつ)の命を願う
+//人のあこがれを象徴(しょうち
+//ょう)しているのかもしれない
+Perhaps it symbolizes the
+longing of those who wish
+for immortality.
+$E=====2893=====
+//だが・・・
+However...
+$E=====2894=====
+//剣(つるぎ)を再生(さいせい)さ
+//せることはできても、
+although a sword can be
+renewed,
+$E=====2895=====
+//死んだ者をよみがえらせること
+//など、できはしない
+the dead cannot be
+brought back to life.
+$E=====2896=====
+//それを望んでは・・・いけない
+//」
+That kind of desire...
+is not healthy."
+$E=====2897=====
 <PROC=0>
 <END>
 $E=====2898=====
