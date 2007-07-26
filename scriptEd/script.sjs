@@ -3161,7 +3161,7 @@ $E=====1184=====
 The crest of clubs. Increases damage dealt by vertical cuts.
 $E=====1185=====
 //ダイヤの紋章(もんしょう)。突(つ)きであたえるダメージがふえる。
-The crest of diamonds. Increases damage dealt by stabs.
+The crest of diamonds. Increases damage dealt by thrust attacks.
 $E=====1186=====
 //小型の盾(たて)。ソードの受けるダメージが半分になる。
 A tiny shield. Halves damage taken when using a sword.
@@ -4191,7 +4191,7 @@ $E=====1462=====
 //「ザジの魔法石」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"Zazie's Stone"
+"Zazie's Orb"
 obtained!</LABEL><PROC=1>
 $E=====1463=====
 <PROC=0>
@@ -7492,7 +7492,7 @@ $E=====2273=====
 LITA'S RIBBON
 $E=====2274=====
 //ザジの魔法石
-ZAZIE'S STONE
+ZAZIE'S ORB
 $E=====2275=====
 //エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
 An energy-reinforced magic handle. Slightly raises Attack.
@@ -10889,18 +10889,27 @@ $J=====3168=====
 $J=====3169=====
 <PROC=0>
 <END>
-$J=====3170=====
-<LABEL=KID>キッド</LABEL>
-「ところでボーイ、
-$J=====3171=====
-ブロマイドは集まってるか?
-$J=====3172=====
-何だ、けっこう集まってるじゃ
-ないか
-$J=====3173=====
-やっぱ集め始めると、止められ
-ないもんだよな!」
-$J=====3174=====
+$E=====3170=====
+//<LABEL=KID>キッド</LABEL>
+//「ところでボーイ、
+<LABEL=KID>Kid</LABEL>:
+"By the way, boy,
+$E=====3171=====
+//ブロマイドは集まってるか?
+Have you been collecting
+photos?
+$E=====3172=====
+//何だ、けっこう集まってるじゃ
+//ないか
+Dude, that's a pretty nice
+collection you've got so
+far.
+$E=====3173=====
+//やっぱ集め始めると、止められ
+//ないもんだよな!」
+Once you start collecting,
+you just can't stop!"
+$E=====3174=====
 <PROC=0>
 <END>
 $J=====3175=====
