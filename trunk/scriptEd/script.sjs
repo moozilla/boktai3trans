@@ -2186,7 +2186,7 @@ $E=====858=====
 //サンダーエッジ<EXTEND=0>
 THUNDER EDGE<EXTEND=0>
 $E=====859=====
-//雨<EXTEND=0>
+//村雨<EXTEND=0>
 MURASAME<EXTEND=0>
 $E=====860=====
 //ファイアブレード<EXTEND=0>
@@ -4191,7 +4191,7 @@ $E=====1462=====
 //「ザジの魔法石」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"Zazie's Magical Stone"
+"Zazie's Stone"
 obtained!</LABEL><PROC=1>
 $E=====1463=====
 <PROC=0>
@@ -7492,7 +7492,7 @@ $E=====2273=====
 LITA'S RIBBON
 $E=====2274=====
 //ザジの魔法石
-ZAZIE'S MAGICAL STONE
+ZAZIE'S STONE
 $E=====2275=====
 //エナジーを強化する魔法のハンドル。攻撃力アップ(小)。
 An energy-reinforced magic handle. Slightly raises Attack.
@@ -7716,7 +7716,7 @@ $E=====2349=====
 A body with very high top speed but very low Max HP.
 $E=====2350=====
 //加速力・最高スピードが高い反面、オプションスロットが少ないボディ。
-A body with high acceleration and top speed, but few option shots.
+A body with high acceleration and top speed, but few option slots.
 $E=====2351=====
            ??????
 $E=====2352=====
@@ -7845,7 +7845,7 @@ $E=====2390=====
 //棺桶(かんおけ)の灰。無と不安の色。
 Coffin ash. The color of anxiety and nothingness.
 $E=====2391=====
-太陽の黄。命と希望の色。
+//太陽の黄。命と希望の色。
 Solar yellow. The color of life and hope.
 $E=====2392=====
 //月の白。慈愛(じあい)と狂気(きょうき)の色。
@@ -13232,12 +13232,12 @@ remember even a little bit?
 $E=====3742=====
 //うちは星読みのザジ
 I'm Star Reader Zazie.
-$E=====3743=====
+$U=====3743=====
 //この街のやつらは師匠(ししょ
 //う)の2つ名で、[ひまわり娘]て
 //よびよるけどな
-'round here I got a second
-title. They call me
+'round here they also call
+me by my master's name,
 Sunflower Girl.
 $E=====3744=====
 //うちはいつでもここにおるから
@@ -18410,9 +18410,9 @@ $E=====5050=====
 $E=====5051=====
 //ポイント交換(こうかん)をする
 //には、あと<VAR=3>ポイント必要です
-At least <VAR=3> points
-are required for point
-exchange.
+<VAR=3> more points
+required for that
+point exchange.
 $E=====5052=====
 <PROC=0>
 <END>
