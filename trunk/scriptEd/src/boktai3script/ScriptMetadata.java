@@ -110,6 +110,10 @@ public class ScriptMetadata {
       float pctComplete = ((transCnt*100f)/totalCnt);
       int wholePct = (int) pctComplete;
       int decimalPct = (int) ((pctComplete-wholePct)*100);
-      System.out.println("Translation "+wholePct+"."+decimalPct+"% complete.");
+      String decimalStr = Integer.toString(decimalPct);
+      while (decimalStr.length() < 2) {
+         decimalStr = "0" + decimalStr;
+      }
+      System.out.println("Translation "+wholePct+"."+decimalStr+"% complete.");
    }
 }
