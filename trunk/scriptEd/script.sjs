@@ -5467,7 +5467,7 @@ $E=====1714=====
 //　　　　 [噴出火炎]
 //
 
-      [Flamethrowers]
+        [Flame Jets]
 
 $J=====1715=====
 ダンジョン内で噴出(ふんしゅ
@@ -5873,77 +5873,113 @@ $J=====1831=====
 $J=====1832=====
 <PROC=0>
 <END>
-$J=====1833=====
-トリニティを見殺しにはできな
-い!!
-$J=====1834=====
-トリニティを運び、エリア周囲
-のイバラでダメージを受けない
-ようにしろ!
-$J=====1835=====
-あらかじめ太陽の根の手前に運
-んでおけば、風に運ばれるのを
-ふせぐことができるぞ!!
-$J=====1836=====
+$E=====1833=====
+//トリニティを見殺しにはできな
+//い!!
+Don't let Trinity die!
+$E=====1834=====
+//トリニティを運び、エリア周囲
+//のイバラでダメージを受けない
+//ようにしろ!
+Keep him from getting
+hurt by moving him away from
+the thorns on the wall!
+$E=====1835=====
+//あらかじめ太陽の根の手前に運
+//んでおけば、風に運ばれるのを
+//ふせぐことができるぞ!!
+You can stop the wind from
+pushing him around by moving
+him in front of a root!
+$E=====1836=====
 <PROC=0>
 <END>
-$J=====1837=====
-サバタに正面からの攻撃(こう
-げき)は通用しない
-$J=====1838=====
-背後(はいご)に回りこみ、視界
-(しかい)の外から攻撃(こうげ
-き)せよ!!
-$J=====1839=====
+$E=====1837=====
+//サバタに正面からの攻撃(こう
+//げき)は通用しない
+Don't attack Sabata from
+the front.
+$E=====1838=====
+//背後(はいご)に回りこみ、視界
+//(しかい)の外から攻撃(こうげ
+//き)せよ!!
+Get behind him and attack
+from his blind spot!
+$E=====1839=====
 <PROC=0>
 <END>
-$J=====1840=====
-暗黒スプレッドによる回転攻撃
-(かいてんこうげき)、暗黒ゴマ
-は強力だ
-$J=====1841=====
-サバタが急接近(きゅうせっき
-ん)してきたら、ただちに距離
-(きょり)を取れ!!
-$J=====1842=====
-タイミング良くソードで攻撃(
-こうげき)すれば、暗黒ゴマを
-打ち返すことができるぞ!!
-$J=====1843=====
+$E=====1840=====
+//暗黒スプレッドによる回転攻撃
+//(かいてんこうげき)、暗黒ゴマ
+//は強力だ
+Dark Seeds is a powerful
+spinning attack that spreads
+Dark Shots.
+$E=====1841=====
+//サバタが急接近(きゅうせっき
+//ん)してきたら、ただちに距離
+//(きょり)を取れ!!
+When Sabata approaches you
+suddenly, get back!
+$E=====1842=====
+//タイミング良くソードで攻撃(
+//こうげき)すれば、暗黒ゴマを
+//打ち返すことができるぞ!!
+If your timing is good, you
+can knock the seeds back at
+him by swinging your sword!
+$E=====1843=====
 <PROC=0>
 <END>
-$J=====1844=====
-雪隠(ゆきがく)れで姿(すがた)
-をかくしたサバタや、サバタが
-しかけたアイスランスは、
-$J=====1845=====
-太陽の光によって、その姿(す
-がた)を現す
-$J=====1846=====
+$E=====1844=====
+//雪隠(ゆきがく)れで姿(すがた)
+//をかくしたサバタや、サバタが
+//しかけたアイスランスは、
+When Sabata disappears into
+the snow,
+$E=====1845=====
+//太陽の光によって、その姿(す
+//がた)を現す
+use sunlight to reveal the
+position of the Ice Lance
+or Sabata himself.
+$E=====1846=====
 <PROC=0>
 <END>
-$J=====1847=====
-暗黒少年であるサバタの得意属
-性(とくいぞくせい)はダークだ
-$J=====1848=====
-苦手であるソル属性(ぞくせい)
-の攻撃(こうげき)で、戦いにい
-どめ!!
-$J=====1849=====
+$E=====1847=====
+//暗黒少年であるサバタの得意属
+//性(とくいぞくせい)はダークだ
+Because Sabata is the Dark
+Boy, his strong element is
+Dark.
+$E=====1848=====
+//苦手であるソル属性(ぞくせい)
+//の攻撃(こうげき)で、戦いにい
+//どめ!!
+Use his weakness, the Sol
+element, to fight him!
+$E=====1849=====
 <PROC=0>
 <END>
-$J=====1850=====
-船にそなえ付けられた大砲(た
-いほう)は、
-$J=====1851=====
-大砲(たいほう)自体を攻撃(こ
-うげき)すれば、撃(う)つこと
-ができる
-$J=====1852=====
-大砲(たいほう)を使って、海上
-のニーズホッグを攻撃(こうげ
-き)せよ!!
-$J=====1853=====
+$E=====1850=====
+/船にそなえ付けられた大砲(た
+//いほう)は、
+The cannons on Nidhoggr's
+back...
+$E=====1851=====
+//大砲(たいほう)自体を攻撃(こ
+//うげき)すれば、撃(う)つこと
+//ができる
+can be destroyed if you
+attack them.
+$E=====1852=====
+//大砲(たいほう)を使って、海上
+//のニーズホッグを攻撃(こうげ
+//き)せよ!!
+Use the cannons to attack
+Nidhoggr when it's above
+water!
+$E=====1853=====
 <PROC=0>
 <END>
 $J=====1854=====
@@ -6121,59 +6157,75 @@ $J=====1903=====
 $J=====1904=====
 <PROC=0>
 <END>
-$J=====1905=====
+$E=====1905=====
+//
+//<LABEL>　　　　 敵を倒せ!!</LABEL>
 
-<LABEL>　　　　 敵を倒せ!!</LABEL>
-$J=====1906=====
+<LABEL>     Defeat the enemy!</LABEL>
+$E=====1906=====
 <PROC=0>
 <END>
-$J=====1907=====
+$E=====1907=====
+//
+//<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
 
-<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
-$J=====1908=====
+<LABEL> Defeat all enemy monsters!</LABEL>
+$E=====1908=====
 <PROC=0>
 <END>
-$J=====1909=====
+$E=====1909=====
+//
+//<LABEL>時間内に敵モンスターを倒せ!!</LABEL>
+<LABEL> Defeat all enemy monsters
+ within the time limit!</LABEL>
+$E=====1910=====
+<PROC=0>
+<END>
+$E=====1911=====
+//<LABEL>　　　 見つからずに、
+//　　敵モンスターを倒せ!!</LABEL>
+<LABEL> Defeat all enemy monsters
+ without being spotted!</LABEL>
+$E=====1912=====
+<PROC=0>
+<END>
+$E=====1913=====
+//<LABEL>　　ダメージを受けずに、
+//　　敵モンスターを倒せ!!</LABEL>
+<LABEL> Defeat all enemy monsters
+ without getting hit!</LABEL>
+$E=====1914=====
+<PROC=0>
+<END>
+$E=====1915=====
+//
+//<LABEL>　　　 ソードを倒せ!!</LABEL>
 
-<LABEL>時間内に敵モンスターを倒せ!!</LABEL>
-$J=====1910=====
+<LABEL>     Defeat the Sword!</LABEL>
+$E=====1916=====
 <PROC=0>
 <END>
-$J=====1911=====
-<LABEL>　　　 見つからずに、
-　　敵モンスターを倒せ!!</LABEL>
-$J=====1912=====
-<PROC=0>
-<END>
-$J=====1913=====
-<LABEL>　　ダメージを受けずに、
-　　敵モンスターを倒せ!!</LABEL>
-$J=====1914=====
-<PROC=0>
-<END>
-$J=====1915=====
+$E=====1917=====
+//
+//<LABEL>　　　ソード+を倒せ!!</LABEL>
 
-<LABEL>　　　 ソードを倒せ!!</LABEL>
-$J=====1916=====
+<LABEL>     Defeat the Sword+!</LABEL>
+$E=====1918=====
 <PROC=0>
 <END>
-$J=====1917=====
+$E=====1919=====
+//
+//<LABEL>　　　アックスを倒せ!!</LABEL>
 
-<LABEL>　　　ソード+を倒せ!!</LABEL>
-$J=====1918=====
-<PROC=0>
-<END>
-$J=====1919=====
-
-<LABEL>　　　アックスを倒せ!!</LABEL>
-$J=====1920=====
+<LABEL>      Defeat the Axe!</LABEL>
+$E=====1920=====
 <PROC=0>
 <END>
 $E=====1921=====
 //
 //<LABEL>　　 アックス+を倒せ!!</LABEL>
 
-<LABEL>     Defeat the Axe+!     </LABEL>
+<LABEL>     Defeat the Axe+!</LABEL>
 $E=====1922=====
 <PROC=0>
 <END>
@@ -6185,76 +6237,100 @@ $E=====1923=====
 $E=====1924=====
 <PROC=0>
 <END>
-$J=====1925=====
+$E=====1925=====
+//
+//<LABEL>　アイアンアーマーを倒せ!!</LABEL>
 
-<LABEL>　アイアンアーマーを倒せ!!</LABEL>
-$J=====1926=====
+<LABEL>   Defeat the Iron Armor!</LABEL>
+$E=====1926=====
 <PROC=0>
 <END>
-$J=====1927=====
+$E=====1927=====
+//
+//<LABEL>　フレイムアーマーを倒せ!!</LABEL>
 
-<LABEL>　フレイムアーマーを倒せ!!</LABEL>
-$J=====1928=====
+<LABEL>  Defeat the Flame Armor!</LABEL>
+$E=====1928=====
 <PROC=0>
 <END>
-$J=====1929=====
+$E=====1929=====
+//
+//<LABEL>　フレイムアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL>　フレイムアーマー{＋}を倒せ!!</LABEL>
-$J=====1930=====
+<LABEL> Defeat the Flame Armor{＋}!</LABEL>
+$E=====1930=====
 <PROC=0>
 <END>
-$J=====1931=====
+$E=====1931=====
+//
+//<LABEL>　フロストアーマーを倒せ!!</LABEL>
 
-<LABEL>　フロストアーマーを倒せ!!</LABEL>
-$J=====1932=====
+<LABEL>  Defeat the Frost Armor!</LABEL>
+$E=====1932=====
 <PROC=0>
 <END>
-$J=====1933=====
+$E=====1933=====
+//
+//<LABEL>　フロストアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL>　フロストアーマー{＋}を倒せ!!</LABEL>
-$J=====1934=====
+<LABEL> Defeat the Frost Armor{＋}!</LABEL>
+$E=====1934=====
 <PROC=0>
 <END>
-$J=====1935=====
+$E=====1935=====
+//
+//<LABEL>　クラウドアーマーを倒せ!!</LABEL>
 
-<LABEL>　クラウドアーマーを倒せ!!</LABEL>
-$J=====1936=====
+<LABEL>  Defeat the Cloud Armor!</LABEL>
+$E=====1936=====
 <PROC=0>
 <END>
-$J=====1937=====
+$E=====1937=====
+//
+//<LABEL>　クラウドアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL>　クラウドアーマー{＋}を倒せ!!</LABEL>
-$J=====1938=====
+<LABEL> Defeat the Cloud Armor{＋}!</LABEL>
+$E=====1938=====
 <PROC=0>
 <END>
-$J=====1939=====
+$E=====1939=====
+//
+//<LABEL>　アースアーマーを倒せ!!</LABEL>
 
-<LABEL>　アースアーマーを倒せ!!</LABEL>
-$J=====1940=====
+<LABEL>  Defeat the Earth Armor!</LABEL>
+$E=====1940=====
 <PROC=0>
 <END>
-$J=====1941=====
+$E=====1941=====
+//
+//<LABEL>　アースアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL>　アースアーマー{＋}を倒せ!!</LABEL>
-$J=====1942=====
+<LABEL> Defeat the Earth Armor{＋}!</LABEL>
+$E=====1942=====
 <PROC=0>
 <END>
-$J=====1943=====
+$E=====1943=====
+//
+//<LABEL>　デュアルアーマーを倒せ!!</LABEL>
 
-<LABEL>　デュアルアーマーを倒せ!!</LABEL>
-$J=====1944=====
+<LABEL>   Defeat the Dual Armor!</LABEL>
+$E=====1944=====
 <PROC=0>
 <END>
-$J=====1945=====
+$E=====1945=====
+//
+//<LABEL>　デュアルアーマー{＋}を倒せ!!</LABEL>
 
-<LABEL>　デュアルアーマー{＋}を倒せ!!</LABEL>
-$J=====1946=====
+<LABEL>  Defeat the Dual Armor{＋}!</LABEL>
+$E=====1946=====
 <PROC=0>
 <END>
-$J=====1947=====
+$E=====1947=====
+//
+//<LABEL>　ダークアーマーを倒せ!!</LABEL>
 
-<LABEL>　ダークアーマーを倒せ!!</LABEL>
-$J=====1948=====
+<LABEL>   Defeat the Dark Armor!</LABEL>
+$E=====1948=====
 <PROC=0>
 <END>
 $E=====1949=====
@@ -8662,7 +8738,7 @@ $E=====2587=====
 Attacks include Feather Darts, Tornado, Squall, Bomb Raid, and Shrike Drop.
 $U=====2588=====
 //暗黒ショット、暗黒ゴマ、アイスランス、ファイヤーボールなどで攻撃(こうげき)する。雪がくれを使う。
-Attacks include Dark Shot, Dark Gum, Ice Lens, and Fire Ball. Uses snow.
+Attacks include Dark Shot, Dark Seeds, Ice Lens, and Fire Ball. Uses snow.
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
 Attacks include Thorn Bot, Bomb, and Iron Ball. Creates a barrier.
@@ -9599,18 +9675,18 @@ $E=====2842=====
 //する連続攻撃(れんぞくこうげ
 //き)がある
 press the <WEIGHT>B Button</WEIGHT> rapidly
-to perform a combo attack.
+to perform combo attacks.
 $E=====2843=====
 //連続攻撃(れんぞくこうげき)の
 //性能(ランク)、
-The combo attack's rank,
-that is, the number of
-consecutive attacks,
+The number of successive
+attacks you can perform with
+a sword
 $E=====2844=====
 //すなわち攻撃(こうげき)の組み
 //合わせと回数は、ソードごとに
 //決まっているが、
-depends on the sword.
+depends on the sword's rank.
 $E=====2845=====
 //太陽鍛冶(たいようかじ)で強化
 //することで、
@@ -9620,15 +9696,15 @@ $E=====2846=====
 //その性能(ランク)を、2段階(だ
 //んかい)までアップさせること
 //ができる
-you can increase its rank by
-up to 2 levels.
+you can increase its rank up
+up to 2 times.
 $E=====2847=====
 //性能(ランク)がアップしたソー
 //ドは、名前の後ろに{II}、{III}と数
 //字が付くぞ」
 When a sword gains a rank,
-it will be appended to the
-end of the sword's name."
+a {II} or {III} mark will be
+appended to its name."
 $E=====2848=====
 <PROC=0>
 <END>
@@ -9727,8 +9803,9 @@ down by our ancestors,
 $E=====2867=====
 //一言に闇の一族(イモータル)と
 //いっても、
-altough we refer to the dark
-family simply as Immortals,
+although we refer to the
+dark family simply as
+Immortals,
 $E=====2868=====
 //その中にはさまざまな勢力(せ
 //いりょく)があるようだ
@@ -17373,32 +17450,49 @@ re-forge it.
 $E=====4723=====
 <PROC=0>
 <END>
-$J=====4724=====
-ソードの持つ連続攻撃(れんぞ
-くこうげき)の性能(ランク)は
-$J=====4725=====
-それぞれのソードごとに決まっ
-ているが、
-$J=====4726=====
-太陽鍛冶(たいようかじ)をくり
-返すことで、
-$J=====4727=====
-その性能(ランク)を、2段階(だ
-んかい)までアップさせること
-ができる
-$J=====4728=====
-性能(ランク)がアップしたソー
-ドは、名前の後ろに{II}、{III}と数
-字が付く
-$J=====4729=====
-またソードの中には、鍛冶(か
-じ)によって特殊効果(とくしゅ
-こうか)の付くものもあり、
-$J=====4730=====
-特殊効果(とくしゅこうか)の付
-いたソードには、名前の後にSP
-が付く
-$J=====4731=====
+$E=====4724=====
+//ソードの持つ連続攻撃(れんぞ
+//くこうげき)の性能(ランク)は
+The number of successive
+attacks you can perform with
+a sword
+$E=====4725=====
+//それぞれのソードごとに決まっ
+//ているが、
+depends on the sword's rank.
+$E=====4726=====
+//太陽鍛冶(たいようかじ)をくり
+//返すことで、
+If you strengthen a sword
+using SOLARSMITH,
+$E=====4727=====
+//その性能(ランク)を、2段階(だ
+//んかい)までアップさせること
+//ができる
+you can increase its rank up
+to 2 times.
+$E=====4728=====
+//性能(ランク)がアップしたソー
+//ドは、名前の後ろに{II}、{III}と数
+//字が付く
+When a sword gains a rank,
+a {II} or {III} mark will be
+appended to its name.
+$E=====4729=====
+//またソードの中には、鍛冶(か
+//じ)によって特殊効果(とくしゅ
+//こうか)の付くものもあり、
+It is also possible to give
+swords special effects via
+SOLARSMITH.
+$E=====4730=====
+//特殊効果(とくしゅこうか)の付
+//いたソードには、名前の後にSP
+//が付く
+Swords with SP effects will
+have the letters SP appended
+to their names.
+$E=====4731=====
 <PROC=0>
 <END>
 $J=====4732=====
@@ -17463,13 +17557,18 @@ $J=====4750=====
 $J=====4751=====
 <PROC=0>
 <END>
-$J=====4752=====
-<LABEL=ROCKMAN>ロックマン</LABEL>
-「やあ、<NAME>くん!!
-よくここがわかったね!
-$J=====4753=====
-ボクは熱斗くんのネットナビ
-ロックマン
+$E=====4752=====
+//<LABEL=ROCKMAN>ロックマン</LABEL>
+//「やあ、<NAME>くん!!
+//よくここがわかったね!
+<LABEL=ROCKMAN>RockMan</LABEL>:
+"Hey, <NAME>!
+I know this place well!
+$E=====4753=====
+//ボクは熱斗くんのネットナビ
+//ロックマン
+I'm Netto's NetNavi,
+RockMan.
 $J=====4754=====
 今日はここ、サン・ミゲルの電
 脳(でんのう)に遊びに来てるん
@@ -17945,9 +18044,14 @@ $J=====4897=====
 $J=====4898=====
 <PROC=0>
 <END>
-$J=====4899=====
-<LABEL=ROCKMAN>ロックマン</LABEL>
-「ボクのいる[DS]の世界で、
+$E=====4899=====
+//<LABEL=ROCKMAN>ロックマン</LABEL>
+//「ボクのいる[DS]の世界で、
+//<LABEL=ROCKMAN>ロックマン</LABEL>
+//「ボクのいる[DS]の世界で、
+<LABEL=ROCKMAN>RockMan</LABEL>:
+"In the DS world where I can
+be found,
 $J=====4900=====
 [100人斬(ぎ)り]の試練(しれん
 )を受けるとき、
@@ -18189,7 +18293,7 @@ $E=====4955=====
 //おけんこさまのぬいぐるみだ
 A stuffed doll of Master
 Okenko.
-$J=====4956=====
+$U=====4956=====
 ハッスルしている。
 見ていると病気もふっ飛びそう
 だ!
@@ -33190,134 +33294,205 @@ $E=====8936=====
 $E=====8937=====
 <PROC=0>
 <END>
-$J=====8938=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ところで<NAME>、
-$J=====8939=====
-このワープ魔方陣(まほうじん)
-を覚えているか?
-$J=====8940=====
-これを使えばダンジョン入口と
-の行き来が自由にできる
-$J=====8941=====
-転移(ワープ)を行なうには、魔
-方陣の上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せばいい
-$J=====8942=====
-もし今の装備(そうび)に不安が
-あるのなら、
-$J=====8943=====
-一度サン・ミゲルにもどって、
-装備(そうび)をととのえてはど
-うだ?」
-$J=====8944=====
+$E=====8938=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ところで<NAME>、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"By the way, <NAME>,
+$E=====8939=====
+//このワープ魔方陣(まほうじん)
+//を覚えているか?
+Do you remember this Warp
+Magic Square?
+$E=====8940=====
+//これを使えばダンジョン入口と
+//の行き来が自由にできる
+You can use this to come and
+go from the dungeon entrance
+as you please.
+$E=====8941=====
+//転移(ワープ)を行なうには、魔
+//方陣の上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せばいい
+To warp, stand on top of the
+Warp Magic Square and press
+the <WEIGHT>A Button</WEIGHT>.
+$E=====8942=====
+//もし今の装備(そうび)に不安が
+//あるのなら、
+If you're not satisfied with
+your current equipment,
+$E=====8943=====
+//一度サン・ミゲルにもどって、
+//装備(そうび)をととのえてはど
+//うだ?」
+How about returning to San
+Miguel to stock up?"
+$E=====8944=====
 <PROC=0>
 <END>
-$J=====8945=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「気をつけろ、<NAME>!!
-$J=====8946=====
+$E=====8945=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「気をつけろ、<NAME>!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Look out, <NAME>!
+$E=====8946=====
 <PROC=0>
 <END>
-$J=====8947=====
-<LABEL=OTENKO></LABEL>あれはアンデッド(死者)タイプ
-のモンスター、マミーだ
-$J=====8948=====
-マミーはグールとちがい視覚
-(しかく)は持たないが、
-$J=====8949=====
-音を聞く力、聴覚(ちょうかく)
-にすぐれている
-$J=====8950=====
-姿(すがた)を見られても見つか
-ることはないが、
-$J=====8951=====
-小さな足音にも敏感(びんかん)
-に反応(はんのう)する
-$J=====8952=====
+$E=====8947=====
+//<LABEL=OTENKO></LABEL>あれはアンデッド(死者)タイプ
+//のモンスター、マミーだ
+<LABEL=OTENKO></LABEL>That's a Mummy, an
+Undead-type monster.
+$E=====8948=====
+//マミーはグールとちがい視覚
+//(しかく)は持たないが、
+Unlike Ghouls, Mummies have
+no eyesight,
+$E=====8949=====
+//音を聞く力、聴覚(ちょうかく)
+//にすぐれている
+but they have an exceptional
+sense of hearing.
+$E=====8950=====
+//姿(すがた)を見られても見つか
+//ることはないが、
+They won't notice you even
+if you're standing in front
+of them,
+$E=====8951=====
+//小さな足音にも敏感(びんかん)
+//に反応(はんのう)する
+but they'll react to even a
+light sound of footsteps.
+$E=====8952=====
 <PROC=0>
 <END>
-$J=====8953=====
-<LABEL=OTENKO></LABEL>注意するんだ」
-$J=====8954=====
+$E=====8953=====
+//<LABEL=OTENKO></LABEL>注意するんだ」
+<LABEL=OTENKO></LABEL>Be careful."
+$E=====8954=====
 <PROC=0>
 <END>
-$J=====8955=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「重量スイッチか・・・
-$J=====8956=====
-重量スイッチは上におもりとな
-るモノを乗せれば、起動(きど
-う)するが、
-$J=====8957=====
-あの十字マークの重量スイッチ
-は・・・」
-$J=====8958=====
+$E=====8955=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「重量スイッチか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"A weight switch...
+$E=====8956=====
+//重量スイッチは上におもりとな
+//るモノを乗せれば、起動(きど
+//う)するが、
+you can activate one by
+placing a heavy object on
+top of it,
+$E=====8957=====
+//あの十字マークの重量スイッチ
+//は・・・」
+but for weight switches
+with a cross mark..."
+$E=====8958=====
 <PROC=0>
 <END>
-$J=====8959=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「地下牢獄(ちかろうごく)以来
-だな・・・
-$J=====8960=====
+$E=====8959=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「地下牢獄(ちかろうごく)以来
+//だな・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Haven't seen those since
+the Underground Prison...
+$E=====8960=====
 <PROC=0>
 <END>
-$J=====8961=====
-<LABEL=OTENKO></LABEL>あれはアンデッド(死者)タイプ
-のモンスター、ヴォーンだ
-$J=====8962=====
-ヴォーンは仲間との連携(れん
-けい)を得意とする
-$J=====8963=====
-冒険者(ぼうけんしゃ)を見つけ
-ると、大さわぎで仲間を呼んで
-けしかけ、
-$J=====8964=====
-自らはその長い舌(した)で、ア
-イテムをぬすもうとする
-$J=====8965=====
-ぬすまれたアイテムを取りもど
-すには、ぬすんだヴォーンをた
-おすしかないぞ
-$J=====8966=====
+$E=====8961=====
+//<LABEL=OTENKO></LABEL>あれはアンデッド(死者)タイプ
+//のモンスター、ヴォーンだ
+<LABEL=OTENKO></LABEL>That's a Vorn, an
+Undead-type monster.
+$E=====8962=====
+//ヴォーンは仲間との連携(れん
+//けい)を得意とする
+They're known for their
+ability to team up.
+$E=====8963=====
+//冒険者(ぼうけんしゃ)を見つけ
+//ると、大さわぎで仲間を呼んで
+//けしかけ、
+When they see an adventurer,
+they summon their comrades
+with a loud cry,
+$E=====8964=====
+//自らはその長い舌(した)で、ア
+//イテムをぬすもうとする
+and they also steal your
+items with their long
+tongues.
+$E=====8965=====
+//ぬすまれたアイテムを取りもど
+//すには、ぬすんだヴォーンをた
+//おすしかないぞ
+To get a stolen item back,
+you have to defeat the Vorn
+that took it.
+$E=====8966=====
 <PROC=0>
 <END>
-$J=====8967=====
-<LABEL=OTENKO></LABEL>まずは見つからないように、そ
-してぬすまれないように注意す
-るんだ」
-$J=====8968=====
+$E=====8967=====
+//<LABEL=OTENKO></LABEL>まずは見つからないように、そ
+//してぬすまれないように注意す
+//るんだ」
+<LABEL=OTENKO></LABEL>Keep out of their sight, and
+be careful not to get your
+items stolen."
+$E=====8968=====
 <PROC=0>
 <END>
-$J=====8969=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ん?
-この気配は・・・
-$J=====8970=====
+$E=====8969=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ん?
+//この気配は・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hm?
+That apparition...
+$E=====8970=====
 <PROC=0>
 <END>
-$J=====8971=====
-<LABEL=OTENKO></LABEL>ファントム(幻影)タイプのモン
-スター、ゴーストか
-$J=====8972=====
-ゴーストは視覚(しかく)でも聴
-覚(ちょうかく)でもなく、
-$J=====8973=====
-気の動き、すなわちおまえの動
-きに反応(はんのう)する
-$J=====8974=====
-また太陽の光にも敏感(びんか
-ん)に反応(はんのう)し、
-$J=====8975=====
-太陽ゲージの値が1以上になる
-と姿(すがた)を消してしまう
-$J=====8976=====
+$E=====8971=====
+//<LABEL=OTENKO></LABEL>ファントム(幻影)タイプのモン
+//スター、ゴーストか
+<LABEL=OTENKO></LABEL>that's a Ghost,
+a Phantom-type monster.
+$E=====8972=====
+//ゴーストは視覚(しかく)でも聴
+//覚(ちょうかく)でもなく、
+Ghosts have no vision or
+hearing,
+$E=====8973=====
+//気の動き、すなわちおまえの動
+//きに反応(はんのう)する
+but they react to your
+movements.
+$E=====8974=====
+/また太陽の光にも敏感(びんか
+//ん)に反応(はんのう)し、
+They're also sensitive to
+sunlight,
+$E=====8975=====
+//太陽ゲージの値が1以上になる
+//と姿(すがた)を消してしまう
+so if the Solar Gauge is
+above 1, they'll hide their
+bodies.
+$E=====8976=====
 <PROC=0>
 <END>
-$J=====8977=====
-<LABEL=OTENKO></LABEL>姿(すがた)が見えないからとい
-って、油断(ゆだん)はするなよ
-?」
-$J=====8978=====
+$E=====8977=====
+//<LABEL=OTENKO></LABEL>姿(すがた)が見えないからとい
+//って、油断(ゆだん)はするなよ
+//?」
+<LABEL=OTENKO></LABEL>Don't let your guard down
+when they're invisible,
+okay?"
+$E=====8978=====
 <PROC=0>
 <END>
 $E=====8979=====
@@ -35112,16 +35287,21 @@ $J=====9599=====
 ～
 $J=====9600=====
 　
-$J=====9601=====
-ア
-$J=====9602=====
-イ
-$J=====9603=====
-ウ
-$J=====9604=====
-エ
-$J=====9605=====
-オ
+$E=====9601=====
+//ア
+A
+$E=====9602=====
+//イ
+B
+$E=====9603=====
+//ウ
+C
+$E=====9604=====
+//エ
+D
+$E=====9605=====
+//オ
+E
 $J=====9606=====
 カ
 $J=====9607=====
