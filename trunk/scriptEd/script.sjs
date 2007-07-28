@@ -1,28 +1,30 @@
 $E=====0=====
 //「<EXTEND=0>のカギ」
 //を使った!!
-Used the <EXTEND=0> Key!
+Used the <EXTEND=0> key!
 $E=====1=====
 <PROC=0>
 <END>
-$J=====2=====
-<EXTEND=0>色の扉(とびら)だ。
-<MOJISE=MOJISE_SYSTEM>カギがかかっている。
+$E=====2=====
+//<EXTEND=0>色の扉(とびら)だ。
+//<MOJISE=MOJISE_SYSTEM>カギがかかっている。
+A <EXTEND=0> door.
+<MOJISE=MOJISE_SYSTEM>You need the <EXTEND=0> key.
 $E=====3=====
 <PROC=0>
 <END>
 $E=====4=====
 //緑
-Green
+green
 $E=====5=====
 //黄
-Yellow
+yellow
 $E=====6=====
 //赤
-Red
+red
 $E=====7=====
 //×
-Blue
+blue
 $E=====8=====
 //
 //<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
@@ -4986,7 +4988,7 @@ $E=====1612=====
 //　　　　　[昇降床]
 //
 
-[Elevator Platforms]
+    [Elevator Platforms]
 
 $E=====1613=====
 //昇降床(しょうこうゆか)は上に
@@ -4999,7 +5001,7 @@ $E=====1614=====
 //冒険者(ぼうけんしゃ)たる者、
 //おそれずに一歩をふみだせ
 A true adventurer fearlessly
-takes it one step at a
+takes things one step at a
 time.
 $E=====1615=====
 <PROC=0>
@@ -6345,7 +6347,7 @@ $E=====1951=====
 //
 //<LABEL>　　 スケルトンを倒せ!!</LABEL>
 
-<LABEL>    Defeat the Skeleton!</LABEL>
+<LABEL>    Defeat the Skeletons!</LABEL>
 $E=====1952=====
 <PROC=0>
 <END>
@@ -22133,40 +22135,60 @@ same thing I am?"
 $E=====5825=====
 <PROC=0>
 <END>
-$J=====5826=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「悪いことは言わねぇ。
-早いトコにげたほうがいいぜ?
-$J=====5827=====
-今この街をおそっているのは、
-伯爵(はくしゃく)とかいうヴァ
-ンパイアらしいからな
-$J=====5828=====
-なに!?
-その伯爵(はくしゃく)を追って
-来た?
-$J=====5829=====
-おいおい、なにマヌケなこと言
-ってんだ。死にたいのか?
-$J=====5830=====
-いくらお宝(たから)のためとは
-いえ、深追いはよくないぜ
-$J=====5831=====
+$E=====5826=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「悪いことは言わねぇ。
+//早いトコにげたほうがいいぜ?
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"I won't tell nobody.
+Why don't you hurry home?
+$E=====5827=====
+//今この街をおそっているのは、
+//伯爵(はくしゃく)とかいうヴァ
+//ンパイアらしいからな
+They say the guy attacking
+this town, the Count, is a
+Vampire.
+$E=====5828=====
+//なに!?
+//その伯爵(はくしゃく)を追って
+//来た?
+What!?
+Yer after the Count?
+$E=====5829=====
+//おいおい、なにマヌケなこと言
+//ってんだ。死にたいのか?
+Hey, don't be retarded. You
+wanna die?
+$E=====5830=====
+//いくらお宝(たから)のためとは
+//いえ、深追いはよくないぜ
+It don't matter how much
+treasure's at stake, that's
+going too far.
+$U=====5831=====
 何事も引きぎわをわきまえない
 とな
-$J=====5832=====
-これは数々(かずかず)の危険(
-きけん)を乗りこえてきた、
-$J=====5833=====
-センパイからの忠告(ちゅうこ
-く)だ!」
-$J=====5834=====
+$E=====5832=====
+//これは数々(かずかず)の危険(
+//きけん)を乗りこえてきた、
+That's the advice my mentor
+gave me,
+$E=====5833=====
+//センパイからの忠告(ちゅうこ
+//く)だ!」
+and he's made it through all
+kinds of danger!"
+$E=====5834=====
 <PROC=0>
 <END>
-$J=====5835=====
-<LABEL=TRINITY>青ポンチョの少年</LABEL>
-「早くにげろよ、いいな?」
-$J=====5836=====
+$E=====5835=====
+//<LABEL=TRINITY>青ポンチョの少年</LABEL>
+//「早くにげろよ、いいな?」
+<LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
+"Hurry up and get outta
+here, okay?"
+$E=====5836=====
 <PROC=0>
 <END>
 $E=====5837=====
@@ -22852,7 +22874,7 @@ what a boring job.
 $E=====5981=====
 //わたしにいどんでくる者もいな
 //くはなかったが・・・
-It's not as if nothing has
+It's not as if nobody has
 come to challenge me...
 $E=====5982=====
 //勝負の見えている戦いなど、お
@@ -33208,7 +33230,7 @@ $E=====8919=====
 $E=====8920=====
 //この扉(とびら)にはカギがかか
 //っているようだな
-Looks like you need a key to
+looks like you need a key to
 open this door.
 $E=====8921=====
 <PROC=0>
