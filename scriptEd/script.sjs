@@ -1,30 +1,30 @@
 $E=====0=====
 //「<EXTEND=0>のカギ」
 //を使った!!
-Used the <EXTEND=0> key!
+Used the <EXTEND=0> Key!
 $E=====1=====
 <PROC=0>
 <END>
 $E=====2=====
 //<EXTEND=0>色の扉(とびら)だ。
 //<MOJISE=MOJISE_SYSTEM>カギがかかっている。
-A <EXTEND=0> door.
-<MOJISE=MOJISE_SYSTEM>You need the <EXTEND=0> key.
+A <EXTEND=0> Door.
+<MOJISE=MOJISE_SYSTEM>You need the <EXTEND=0> Key.
 $E=====3=====
 <PROC=0>
 <END>
 $E=====4=====
 //緑
-green
+Green
 $E=====5=====
 //黄
-yellow
+Yellow
 $E=====6=====
 //赤
-red
+Red
 $E=====7=====
 //×
-blue
+Blue
 $E=====8=====
 //
 //<LABEL> 敵モンスターをすべて倒せ!!</LABEL>
@@ -415,11 +415,13 @@ $E=====100=====
 //しょう?
 After all, it's swarming
 with monsters out there.
-$J=====101=====
-ああ、お嬢(じょう)さまだけで
-も、何とかお助けできないかし
-ら・・・」
-$J=====102=====
+$E=====101=====
+//ああ、お嬢(じょう)さまだけで
+//も、何とかお助けできないかし
+//ら・・・」
+Oh, if only someone could
+save my daughter..."
+$E=====102=====
 <PROC=0>
 <END>
 $E=====103=====
@@ -446,11 +448,13 @@ $E=====106=====
 //わけでもないし・・・
 but you can't stay like that
 forever...
-$J=====107=====
-ああ、お嬢(じょう)さまだけで
-も、何とかお助けできないかし
-ら・・・」
-$J=====108=====
+$E=====107=====
+//ああ、お嬢(じょう)さまだけで
+//も、何とかお助けできないかし
+//ら・・・」
+Oh, if only someone could
+save my daughter..."
+$E=====108=====
 <PROC=0>
 <END>
 $E=====109=====
@@ -462,7 +466,7 @@ $E=====110=====
 //もう、闇の一族(イモータル)は
 //いない?
 The Immortals are gone now?
-$J=====111=====
+$U=====111=====
 まあ、何ということでしょう!!
 $E=====112=====
 //それじゃあワタシたち、助かる
@@ -471,7 +475,7 @@ That means we're all saved?
 $E=====113=====
 //ああ、良かった・・・
 Ahhh, thank goodness...
-$J=====114=====
+$U=====114=====
 お坊(ぼっ)ちゃまに続いて、お
 嬢(じょう)さまにまで何かあっ
 たら、
@@ -2147,7 +2151,7 @@ Django
 $E=====816=====
 //マイバイク
 MY BIKE
-$U=====817=====
+$E=====817=====
 //グラディウス<EXTEND=0>
 GLADIUS<EXTEND=0>
 $E=====818=====
@@ -2210,7 +2214,7 @@ SABER<EXTEND=0>
 $E=====837=====
 //シルバーエッジ<EXTEND=0>
 SILVER EDGE<EXTEND=0>
-$U=====838=====
+$E=====838=====
 //深山<EXTEND=0>
 SHINZAN<EXTEND=0>
 $E=====839=====
@@ -2825,7 +2829,7 @@ $E=====1044=====
 Solar Fruit. Restores some Life.
 $E=====1045=====
 //いたんだ果実。ライフは回復(かいふく)するが・・・
-Spoiled fruit. Restores Life but...
+Spoiled fruit. Restores Life, but...
 $E=====1046=====
 //じっくり干(ほ)したモンスターの肉。ライフを中回復(かいふく)する。
 Well-dried monster meat. Restores some Life.
@@ -2834,7 +2838,7 @@ $E=====1047=====
 Monster meat grilled to perfection. Restores lots of Life.
 $E=====1048=====
 //いたんだ肉。ライフは回復(かいふく)するが・・・
-Spoiled meat. Restores Life but...
+Spoiled meat. Restores Life, but...
 $E=====1049=====
 //あまいおかし。ライフを小回復(かいふく)する。
 Sweet candy. Restores a little Life.
@@ -2861,7 +2865,7 @@ $E=====1056=====
 Solar Fruit. Restores some Energy.
 $E=====1057=====
 //毒キノコ。エナジーは回復(かいふく)するが・・・
-Poisonous mushroom. Restores Energy but...
+Poisonous mushroom. Restores Energy, but...
 $E=====1058=====
 //青い飲み薬。毒化を治す。
 Blue medicine. Cures poisoning.
@@ -3139,7 +3143,7 @@ POWER ANKLE
 $E=====1148=====
 //旅人のクツ
 TRAVELER'S SHOES
-$U=====1149=====
+$E=====1149=====
 //サバトン
 SABATON
 $E=====1150=====
@@ -5061,8 +5065,8 @@ $E=====1625=====
 //
 //　　　[イチゴをえがけ]
 //
-
-    [Draw a Strawberry]
+     [WHAT ARE SEALS
+      WITHOUT THE SEA?]
 
 $E=====1626=====
 <PROC=0>
@@ -6817,11 +6821,11 @@ you never learn, do you?
 $U=====2057=====
 //まだあの子を傷(きず)つけたい
 //の!?
-Do you still want to hurt
+Do you want to keep hurting
 her!?
 $E=====2058=====
 //アナタが何度来ようとも・・・
-How many times must you
+No matter how many times you
 come here...
 $U=====2059=====
 //もう二度と、あの子には近づけ
@@ -6987,16 +6991,18 @@ $E=====2096=====
 //太陽バンクの、陽子なのよ?
 of the Solar Bank, right?
 $U=====2097=====
-おしおきなんて、ガラじゃない
-のよ・・・
+//おしおきなんて、ガラじゃない
+//のよ・・・
+Something like punishment
+just isn't for me...
 $E=====2098=====
 //さあ、暗子ちゃん」
-Go ahead, Doomy."
+go ahead, Doomy."
 $E=====2099=====
 //<LABEL>暗黒ローンの暗子ちゃん</LABEL>
 //「うん!!
 <LABEL>Doomy of Dark Loans</LABEL>:
-"Okay!
+"Yes!
 $E=====2100=====
 //<PROC=6>・・・
 <PROC=6>...
@@ -7388,14 +7394,13 @@ $E=====2189=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「なに、ヒントがほしい?
 //しょうがねぇなぁ・・・
-<LABEL=TRINITY>トリニティ</LABEL>
+<LABEL=TRINITY>Trinity</LABEL>:
 "What, you want a hint?
 Guess it can't be helped...
-$U=====2190=====
+$E=====2190=====
 //イチゴを数字に直してみな!」
-correct the figure of the
-strawberry!"
-//Oh god I hope this isn't a play on words number puzzle with 1 and 5...
+what shape is left in SEALS
+when you take away SEA?"
 $E=====2191=====
 <PROC=0>
 <END>
@@ -12550,8 +12555,8 @@ $E=====3550=====
 //「ちょうどいいところに来たわ
 //ね、<NAME>くん
 <LABEL=LADY>Lady</LABEL>:
-"You've come to the right
-place, <NAME>.
+"You came at just the right
+time, <NAME>.
 $E=====3551=====
 //追憶(ついおく)の書の封印(ふ
 //ういん)をといたの
@@ -16114,57 +16119,85 @@ $E=====4397=====
 <PROC=0>
 <END>
 $J=====4398=====
-<LABEL=PEOPLE2>見覚えのある男</LABEL>
-「だれだ!!
-$J=====4399=====
-ん・・・
-少年?
-$J=====4400=====
-君はたしか・・・」
+//<LABEL=PEOPLE2>見覚えのある男</LABEL>
+//「だれだ!!
+<LABEL=PEOPLE2>Man who Recognizes You</LABEL>:
+"Who's there!?
+$E=====4399=====
+//ん・・・
+//少年?
+Hm...
+a boy?
+$E=====4400=====
+//君はたしか・・・」
+Are you possibly..."
 $E=====4401=====
 <PROC=0>
 <END>
-$J=====4402=====
+$E=====4402=====
 //<LABEL=PEOPLE2>見覚えのある男</LABEL>
 //「おお、そうだったな!
-$J=====4403=====
-闇の一族(イモータル)と戦う光
-の戦士、太陽少年<NAME>
-$J=====4404=====
-やつらのあらわれるところ、少
-年もまたあらわれるということ
-か
-$J=====4405=====
-おれは???(ハテナ)
-$J=====4406=====
-相変わらず記憶(きおく)はもど
-らないが・・・
-$J=====4407=====
-こうして各地を回り、アイテム
-の買い付けをやっている
-$J=====4408=====
-命がけの仕事だが、おれにはち
-ょうどいい・・・
-腕(うで)には自信があるからな
-$J=====4409=====
-そうだな・・・
-$J=====4410=====
-何なら、おれがこの地方で買い
-付けたアイテムをゆずってやろ
-う
-$J=====4411=====
+<LABEL=PEOPLE2>Man who Recognizes You</LABEL>:
+"Yeah, that's it!
+$E=====4403=====
+//闇の一族(イモータル)と戦う光
+//の戦士、太陽少年<NAME>
+The Warrior of Light who
+fights the Immortals,
+Solar Boy <NAME>.
+$E=====4404=====
+//やつらのあらわれるところ、少
+//年もまたあらわれるということ
+//か
+They said that when the
+Immortals appear, so will
+the boy.
+$E=====4405=====
+//おれは???(ハテナ)
+I'm ??? (Unknown).
+$E=====4406=====
+//相変わらず記憶(きおく)はもど
+//らないが・・・
+My memories still haven't
+returned...
+$E=====4407=====
+//こうして各地を回り、アイテム
+//の買い付けをやっている
+I'm wandering around to
+different places, selling
+items.
+$E=====4408=====
+//命がけの仕事だが、おれにはち
+//ょうどいい・・・
+//腕(うで)には自信があるからな
+For dangerous missions, I'm
+the man for the job.
+You can trust my abilities.
+$E=====4409=====
+//そうだな・・・
+Right...
+$E=====4410=====
+//何なら、おれがこの地方で買い
+//付けたアイテムをゆずってやろ
+//う
+If you want to buy items
+around here, I'm selling.
+$U=====4411=====
 サン・ミゲルにある道具屋のお
 嬢(じょう)ちゃんにわたしてく
 れれば、
-$J=====4412=====
+$U=====4412=====
 お嬢(じょう)ちゃんの方でも、
 自由に仕入れができるようにな
 る
-$J=====4413=====
-役に立つかどうかは分からんが
-ちょっとめずらしいアクセサリ
-ーもあるぞ」
-$J=====4414=====
+$E=====4413=====
+//役に立つかどうかは分からんが
+//ちょっとめずらしいアクセサリ
+//ーもあるぞ」
+Don't know if they'll be
+useful, but I also have
+some unusual accessories."
+$E=====4414=====
 <PROC=0>
 <END>
 $J=====4415=====
@@ -16194,17 +16227,23 @@ $E=====4420=====
 $E=====4421=====
 <PROC=0>
 <END>
-$J=====4422=====
-<LABEL=PEOPLE2>???(ハテナ)</LABEL>
-「おれがあつかうアイテムには
-値(ね)のはるものも多いが、
-$J=====4423=====
-使いどころさえまちがえなけれ
-ば、その効果(こうか)は大きい
-$J=====4424=====
+$E=====4422=====
+//<LABEL=PEOPLE2>???(ハテナ)</LABEL>
+//「おれがあつかうアイテムには
+//値(ね)のはるものも多いが、
+<LABEL=PEOPLE2>??? (Unknown)</LABEL>:
+"The items I deal in are
+expensive,
+$E=====4423=====
+//使いどころさえまちがえなけれ
+//ば、その効果(こうか)は大きい
+but if you use them at the
+right moment, they'll be
+extremely effective.
+$U=====4424=====
 値段(ねだん)分の働きをさせて
 やれよ?」
-$J=====4425=====
+$E=====4425=====
 <PROC=0>
 <END>
 $J=====4426=====
@@ -16217,57 +16256,87 @@ $J=====4427=====
 $J=====4428=====
 <PROC=0>
 <END>
-$J=====4429=====
-<LABEL=PEOPLE2>???(ハテナ)</LABEL>
-「おれは仕事の都合上、昼間は
-ここにいないんだが・・・
-$J=====4430=====
-一仕事終えてもどってくると、
-ここに大量のスティックが落ち
-ていることがあるんだ
-$J=====4431=====
-いったいあれは何なんだ?
-$J=====4432=====
-おれに対する何らかのメッセー
-ジなのか・・・
-$J=====4433=====
-まさか闇の一族(イモータル)か
-らの警告(けいこく)か!?
-$J=====4434=====
-ふうむ・・・
-$J=====4435=====
-・・・いや、すまない。
-少年には関係のない話だったな
-」
-$J=====4436=====
+$E=====4429=====
+//<LABEL=PEOPLE2>???(ハテナ)</LABEL>
+//「おれは仕事の都合上、昼間は
+//ここにいないんだが・・・
+<LABEL=PEOPLE2>??? (Unknown)</LABEL>:
+"During the day, I leave to
+take care of jobs.
+$E=====4430=====
+//一仕事終えてもどってくると、
+//ここに大量のスティックが落ち
+//ていることがあるんだ
+When I get back, there are
+always a bunch of sticks
+lying around...
+$E=====4431=====
+//いったいあれは何なんだ?
+what's up with that?
+$E=====4432=====
+//おれに対する何らかのメッセー
+//ジなのか・・・
+Wonder if it's some sort of
+message for me...
+$E=====4433=====
+//まさか闇の一族(イモータル)か
+//らの警告(けいこく)か!?
+could it be a warning from
+the immortals!?
+$E=====4434=====
+//ふうむ・・・
+Hmmm...
+$E=====4435=====
+//・・・いや、すまない。
+//少年には関係のない話だったな
+//」
+...ah, sorry.
+This has nothing to do with
+you.
+$E=====4436=====
 <PROC=0>
 <END>
-$J=====4437=====
-<LABEL=PEOPLE2>???(ハテナ)</LABEL>
-「いいか、少年
-$J=====4438=====
-グールやマミーのようなアンデ
-ッドタイプの魔物(モンスター)
-や、
-$J=====4439=====
-クロロホルルンやゴーストのよ
-うなファントムタイプの魔物(
-モンスター)の一部は、
-$J=====4440=====
-太陽の光に弱い
-$J=====4441=====
-ゆえに、天窓からの光でダメー
-ジをあたえることができるんだ
-$J=====4442=====
-だが、太陽のない夜間には注意
-しろよ?
-$J=====4443=====
-天窓にたよることはできないか
-らな」
-$J=====4444=====
+$E=====4437=====
+//<LABEL=PEOPLE2>???(ハテナ)</LABEL>
+//「いいか、少年
+<LABEL=PEOPLE2>??? (Unknown)</LABEL>:
+"Listen up, <NAME>.
+$E=====4438=====
+//グールやマミーのようなアンデ
+//ッドタイプの魔物(モンスター)
+//や、
+Undead-type monsters like
+Ghouls and Mummies,
+$E=====4439=====
+//クロロホルルンやゴーストのよ
+//うなファントムタイプの魔物(
+//モンスター)の一部は、
+and some Phantom-type
+monsters like Kloroforun and
+Ghosts,
+$E=====4440=====
+//太陽の光に弱い
+are weak to sunlight.
+$E=====4441=====
+//ゆえに、天窓からの光でダメー
+//ジをあたえることができるんだ
+That means you can damage
+them with the rays from a
+skylight.
+$E=====4442=====
+//だが、太陽のない夜間には注意
+//しろよ?
+But be careful at night,
+when the Sun isn't out.
+$E=====4443=====
+//天窓にたよることはできないか
+//らな」
+Try not to rely on
+skylights."
+$E=====4444=====
 <PROC=0>
 <END>
-$J=====4445=====
+$E=====4445=====
 <LABEL=PEOPLE2>???(ハテナ)</LABEL>
 「古(いにしえ)の大樹(たいじ
 ゅ)か・・・
@@ -16444,13 +16513,14 @@ I'm GariGari-kun!
 $E=====4499=====
 //おめぇ、よくここが分かったな
 //?
-Dude, you must know this place
-pretty well.
+Dude, you must know this
+place pretty well.
 $E=====4500=====
 //それに、こんな魔物(モンスタ
 //ー)だらけの場所で何してんだ?
-...what're ya doin' in such a
-monster-filled place anyway?
+...what're ya doin' in such
+a monster-filled place
+anyway?
 $E=====4501=====
 //おいらか?
 ...me?
@@ -16478,8 +16548,8 @@ I got this GariGari Soda!
 $E=====4508=====
 //どんな魔物(モンスター)が来よ
 //うと・・・
-No matter what kind of monster
-shows up...
+No matter what kind of
+monster shows up...
 $U=====4509=====
 //ガリッとヘッチャラだぜ!!」
 I'll stay cool!"
@@ -19759,15 +19829,15 @@ $E=====5313=====
 //「また会ったな・・・
 Johnny:
 "We meet again...
-$U=====5314=====
+$E=====5314=====
 //こんなところにまでたどり着く
 //たぁ、
 After all that effort,
-$E=====5315=====
+$U=====5315=====
 //オレさまの迷宮(めいきゅう)を
 //クリアしただけのことはある
-you just managed to get
-through my labyrinth.
+you've finally managed to
+get through my labyrinth.
 $E=====5316=====
 //だがしかしっ!!
 However!
@@ -19786,7 +19856,7 @@ $E=====5319=====
 //移動(いどう)ブロックを落とし
 //終わったら、オレさまに言いな
 Talk to me when you're done
-pusing the blocks, okay?
+pusing blocks, okay?
 $E=====5320=====
 //正解(せいかい)か不正解(ふせ
 //いかい)か、判定(はんてい)を
@@ -20560,9 +20630,9 @@ $E=====5489=====
 //生も死もあたえられず、ただそ
 //こに存在(そんざい)するもの、
 //絶対存在(エターナル)
-A being given neither life
-nor death, merely existing,
-absolute, Eternal.
+A being that knows neither
+life nor death, simply
+existing... an Eternal.
 $E=====5490=====
 //たとえ夢(ゆめ)の中であろうと
 //も・・・
@@ -20914,23 +20984,23 @@ $E=====5564=====
 //<LABEL=SABATA></LABEL>だがおれは・・・
 //その結果になど興味(きょうみ)
 //はない
-<LABEL=SABATA></LABEL>But for me... I have no
-interest in the consequences
-$U=====5565=====
+<LABEL=SABATA></LABEL>But I... I don't care what
+happens,
+$E=====5565=====
 //・・・すべてはどう生きるかだ
-...or in how everything can
-exist.
+or how everything else will
+survive.
 $E=====5566=====
 //あらがい、戦い続けること。
 //それがおれの・・・
-Resisting, continuing to
-fight.
+All that matters to me is
+keeping up the fight.
 $E=====5567=====
 <PROC=0>
 <END>
 $E=====5568=====
 //<LABEL=SABATA></LABEL>生きるということだ!!」
-<LABEL=SABATA></LABEL>That's what I call living!"
+<LABEL=SABATA></LABEL>That's my way of living!"
 $E=====5569=====
 <PROC=0>
 <END>
@@ -22219,8 +22289,7 @@ $E=====5842=====
 //「おいおい、かんちがいすんな
 //よ?
 <LABEL=TRINITY>Trinity</LABEL>:
-"Hey, hey, don't
-misunderstand.
+"Hey, don't misunderstand.
 $E=====5843=====
 //トレジャーハンターってのは、
 //れっきとした職業(しょくぎょ
@@ -22239,18 +22308,22 @@ $E=====5845=====
 An eternal challenger who
 faces deadly peril without a
 second thought!
-$U=====5846=====
+$E=====5846=====
 //これぞ男のロマンだぜ!!
-A true Roman man!
-$J=====5847=====
-そこいらのコソドロといっしょ
-にしてもらっちゃあこまる
-$J=====5848=====
-ま、オメェだってにたようなも
-んだろ?
+A true romantic!
+$U=====5847=====
+//そこいらのコソドロといっしょ
+//にしてもらっちゃあこまる
+Don't group me together with
+common thieves.
+$E=====5848=====
+//ま、オメェだってにたようなも
+//んだろ?
+Yer a bit questionable
+yourself, buddy.
 $E=====5849=====
 //ところでオメェ、名前は?
-By the way, what's yer name?
+What's yer name, anyway?
 $E=====5850=====
 //太陽少年<NAME>?
 //どっかで聞いたような名前だな
@@ -22323,23 +22396,28 @@ everything in order?"
 $E=====5863=====
 <PROC=0>
 <END>
-$J=====5864=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「ふぅ・・・
-$J=====5865=====
-けっこうな収穫(しゅうかく)だ
-ったな」
-$J=====5866=====
+$E=====5864=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「ふぅ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"Heh...
+$E=====5865=====
+//けっこうな収穫(しゅうかく)だ
+//ったな」
+I got some great loot."
+$E=====5866=====
 <PROC=0>
 <END>
-$J=====5867=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「ん、あれは・・・?」
+$E=====5867=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「ん、あれは・・・?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Hm, what's that...?
 $E=====5868=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「アイツは・・・<NAME>!?
 <LABEL=TRINITY>Trinity</LABEL>:
-"Hey, that's... <NAME>!?
+"Hey, it's... <NAME>!?
 $E=====5869=====
 //あの伯爵(はくしゃく)からにげ
 //のびたのか・・・
@@ -22418,9 +22496,8 @@ $E=====5886=====
 //<LABEL=NONE>???</LABEL>
 //「よく聞け、<NAME>
 <LABEL=NONE>???</LABEL>:
-"Listen well, <NAME>.
-As your emotional levels
-rise during battle,
+"As your fighting spirit
+builds during battle,
 $E=====5887=====
 //戦いの中、おまえの心が高ぶる
 //と、画面左上にあるTRC(トラン
@@ -22439,12 +22516,12 @@ $E=====5889=====
 //おまえは自身の限界(げんかい)
 //をこえた存在(そんざい)へと、
 it will be possible to
-surpass your body's limits,
+surpass your body's limits.
 $E=====5890=====
 //トランス(変身)することが可能
 //(かのう)となる
-and enter Trance mode to
-transform.
+This transformation is
+called a Trance.
 $E=====5891=====
 //トランスを行うにはクイックチ
 //ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
@@ -22465,7 +22542,7 @@ $E=====5893=====
 As a vampire... that is, as
 Dark <NAME>,
 $E=====5894=====
-/<WEIGHT>Ａボタン</WEIGHT>でダーククロウ(切り
+//<WEIGHT>Ａボタン</WEIGHT>でダーククロウ(切り
 //さき攻撃)、
 press the <WEIGHT>A Button</WEIGHT> for
 Dark Claw (a cutting
@@ -22553,8 +22630,10 @@ $E=====5911=====
 <PROC=0>
 <END>
 $E=====5912=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「いいところに来たな
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「いいところに来たな
+<LABEL=TRINITY>Trinity</LABEL>:
+"You came at a good time.
 $E=====5913=====
 //オメェの腕前(うでまえ)を見せ
 //てもらおうか
@@ -22600,7 +22679,7 @@ $E=====5922=====
 <END>
 $E=====5923=====
 //[黄のカギ]を使った!!
-"Yellow Key" obtained!
+Used the Yellow Key!
 $E=====5924=====
 <PROC=0>
 <END>
@@ -22662,12 +22741,13 @@ don't scare me like that.
 $E=====5938=====
 //オメェもこの部屋が気になるの
 //か?
-You feelin' uneasy about this room too?
+You feelin' uneasy about
+this room too?
 $U=====5939=====
 //さすがはオイラの弟子、
 //と言いたいところだが・・・
 That's just like my
-apprentice, is what I'd
+apprentice... is what I'd
 like to say,
 $E=====5940=====
 //ここだけはあきらめるしかない
@@ -22682,11 +22762,13 @@ $E=====5942=====
 //例の伯爵(はくしゃく)とかいう
 //ヴァンパイアにちがいない
 It's the smell of a vampire
-like the Count, no mistaking
+like the Count, no mistakin'
 it.
 $U=====5943=====
 //引きぎわだな。とっととずらか
 //ったほうがいいぜ?
+Maybe we'd better pull back
+for now.
 $E=====5944=====
 //なに!?
 //伯爵(はくしゃく)をたおす?　
@@ -22694,7 +22776,7 @@ What!?
 Defeat the Count?
 $E=====5945=====
 //おいおい、
-Hey, hey,
+Hey now,
 $E=====5946=====
 <PROC=0>
 <END>
@@ -22702,9 +22784,8 @@ $E=====5947=====
 //<LABEL=TRINITY></LABEL>人間が闇の一族(イモータル)に
 //勝てるわけないだろ?」
 // <ALTER>勝てる</ALTER>  <ALTER>分からない</ALTER>
-<LABEL=TRINITY></LABEL>
-A human can't win against an
-Immortal, right?
+<LABEL=TRINITY></LABEL>a human can't possibly win
+against an Immortal, right?
  <ALTER>I'll win</ALTER>  <ALTER>I don't know</ALTER>
 $E=====5948=====
 <PROC=0>
@@ -22713,7 +22794,7 @@ $E=====5949=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「おいおい、
 <LABEL=TRINITY>Trinity</LABEL>:
-"Hey, hey,
+"Come on,
 $E=====5950=====
 //そんなことができんのは伝説(
 //でんせつ)の戦士ぐらいだ
@@ -22735,10 +22816,10 @@ $E=====5953=====
 <LABEL=TRINITY>Trinity</LABEL>:
 "The world where I was born,
 the Future Era...
-$J=====5954=====
-太陽をうばわれた暗黒の世界。
-そこにあるのは絶望(ぜつぼう)
-だけだ・・・
+$E=====5954=====
+//太陽をうばわれた暗黒の世界。
+//そこにあるのは絶望(ぜつぼう)
+//だけだ・・・
 it's a world of darkness
 where the Sun was taken
 away. Only despair remains.
@@ -22839,13 +22920,15 @@ $E=====5973=====
 Yeah...
 Yeah, I'm sure of it!
 $U=====5974=====
-でなきゃあ、闇の一族(イモー
-タル)と戦おうだなんて思わね
-ぇもんな!
+//でなきゃあ、闇の一族(イモー
+//タル)と戦おうだなんて思わね
+//ぇもんな!
+If not, I wouldn't even
+think about fightin' them!
 $E=====5975=====
 //よーしっ、どれほどのお宝(た
 //から)かは知らねぇが・・・
-Alright, dunno how much
+Okay, dunno how much
 treasure there is...
 $E=====5976=====
 //アイツのひとりじめにはさせね
@@ -22855,7 +22938,7 @@ it all for himself!"
 $E=====5977=====
 <PROC=0>
 <END>
-$J=====5978=====
+$E=====5978=====
 //<LABEL=HAKUSYAKU>伯爵</LABEL>
 //「アンデッドを使って町々をお
 //そい、
@@ -22885,28 +22968,40 @@ the outcome.
 $E=====5983=====
 //おまえもそうは思わないか、
 //太陽少年<NAME>?」
-Don't you feel the same way,
+Don't you agree,
 Solar Boy <NAME>?"
 $E=====5984=====
 <PROC=0>
 <END>
-$J=====5985=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「否定(ひてい)するとでもいう
-のか、わたしの戦いを?
-$J=====5986=====
-ヴァンパイア・ロードであるこ
-のわたしの存在(そんざい)を?
-$J=====5987=====
-わたしにたおされ、ヴァンパイ
-アと化したおまえの父親、リン
-ゴ・・・
-$J=====5988=====
-そのリンゴから受けたヴァンパ
-イアの血が、
-$J=====5989=====
-兄、サバタにたおされたおまえ
-を復活(ふっかつ)させた
+$U=====5985=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「否定(ひてい)するとでもいう
+//のか、わたしの戦いを?
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Do you deny my battle?
+$E=====5986=====
+//ヴァンパイア・ロードであるこ
+//のわたしの存在(そんざい)を?
+My existence as the Vampire
+Lord?
+$E=====5987=====
+//わたしにたおされ、ヴァンパイ
+//アと化したおまえの父親、リン
+//ゴ・・・
+I defeated your father Ringo
+and turned him into a
+vampire...
+$E=====5988=====
+//そのリンゴから受けたヴァンパ
+//イアの血が、
+the vampire blood you
+received from him,
+$E=====5989=====
+//兄、サバタにたおされたおまえ
+//を復活(ふっかつ)させた
+it revived you when you were
+defeated by your brother
+Sabata.
 $E=====5990=====
 //おまえは暗黒の力によって生き
 //長らえたのだ・・・
@@ -22923,8 +23018,8 @@ $E=====5992=====
 <END>
 $E=====5993=====
 //<LABEL=HAKUSYAKU></LABEL>クッカッカッカッカッ
-!!」
-<LABEL=HAKUSYAKU></LABEL>Bwa ha ha ha ha!"
+//!!」
+<LABEL=HAKUSYAKU></LABEL>Kha ha ha ha ha!"
 $E=====5994=====
 <PROC=0>
 <END>
@@ -22933,13 +23028,13 @@ $E=====5995=====
 //「伯爵(はくしゃく)、
 //サバタはどこにいる!?」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Where is Sabata, Count!?"
+"Where's Sabata, Count!?"
 $E=====5996=====
 //<LABEL=HAKUSYAKU>伯爵</LABEL>
 //「知ってどうする?
 <LABEL=HAKUSYAKU>Count</LABEL>:
-"What would you do if you
-knew?
+"And just what would you do
+if you knew?
 $E=====5997=====
 //覚悟(かくご)はできたのか、
 //<NAME>?
@@ -22971,7 +23066,7 @@ $E=====6004=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「おまえは・・・」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"It's you..."
+"You..."
 $E=====6005=====
 //<LABEL=HAKUSYAKU>伯爵</LABEL>
 //「何だおまえは?」
@@ -23025,12 +23120,12 @@ $E=====6016=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「バカな・・・!?
 <LABEL=TRINITY>Trinity</LABEL>:
-"No way...!?
+"No way...
 $E=====6017=====
 //この時代の闇の一族(イモータ
 //ル)は弱いんじゃあ・なかった
 //・・のか・・・」
-The Immortals in this era
+the Immortals in this era
 aren't weaker... after...
 all..."
 $E=====6018=====
@@ -23045,14 +23140,15 @@ $E=====6020=====
 //<LABEL=HAKUSYAKU>伯爵</LABEL>
 //「つまらんジャマが入ったな
 <LABEL=HAKUSYAKU>Count</LABEL>:
-"What a boring interruption.
+"What a dull interruption.
 $E=====6021=====
 <PROC=0>
 <END>
 $E=====6022=====
 //<LABEL=HAKUSYAKU></LABEL>わたしがほっするもの・・・
 //それは恐怖(きょうふ)だ
-<LABEL=HAKUSYAKU></LABEL>What I truly desire...
+<LABEL=HAKUSYAKU></LABEL>You know, what I truly
+desire...
 is fear.
 $E=====6023=====
 //死をともなわない戦いに何の意
@@ -23102,7 +23198,7 @@ $E=====6032=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「あいつが心配か?
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Worried about that guy?
+"Concerned about that guy?
 $E=====6033=====
 //ねているだけだ。
 //心配はいらん」
@@ -23120,44 +23216,59 @@ $E=====6036=====
 //棺桶(かんおけ)の近くで<WEIGHT>Ａボタ
 //ン</WEIGHT>を押(お)して棺桶(かんおけ)
 //をつかみ、
-Press the <WEIGHT>A Button</WEIGHT> near the
-coffin to grab onto it,
+Get close to the coffin and
+press the <WEIGHT>A Button</WEIGHT> to grab
+it.
 $E=====6037=====
 //そのまま<WEIGHT>{＋}ボタン</WEIGHT>で移動(いど
 //う)すれば、棺桶(かんおけ)を
 //運ぶことができる
-then use the <WEIGHT>{＋}Control Pad</WEIGHT>
-to drag it around.
-$J=====6038=====
-封印(ふういん)したとはいって
-も相手は闇の一族(イモータル)
-だ
-$J=====6039=====
-棺桶(かんおけ)を運ぶのがおそ
-すぎたり、棺桶(かんおけ)をほ
-ったらかしにしていると、
-$J=====6040=====
-闇の中心(ボス部屋)へとにげら
-れてしまうぞ
-$J=====6041=====
-棺桶(かんおけ)は迅速(じんそ
-く)かつ慎重(しんちょう)に運
-ぶんだ
-$J=====6042=====
-たのんだぞ、
-太陽少年<NAME>!!
+Hold down the <WEIGHT>A Button</WEIGHT> and
+use the <WEIGHT>{＋}Control Pad</WEIGHT> to
+drag the coffin along.
+$E=====6038=====
+//封印(ふういん)したとはいって
+//も相手は闇の一族(イモータル)
+//だ
+Remember that there's an
+Immortal sealed inside the
+coffin.
+$E=====6039=====
+//棺桶(かんおけ)を運ぶのがおそ
+//すぎたり、棺桶(かんおけ)をほ
+//ったらかしにしていると、
+If you move too slowly or
+leave the coffin unattended,
+$E=====6040=====
+//闇の中心(ボス部屋)へとにげら
+//れてしまうぞ
+it will try to escape back
+to the boss room.
+$E=====6041=====
+//棺桶(かんおけ)は迅速(じんそ
+//く)かつ慎重(しんちょう)に運
+//ぶんだ
+Move quickly but carefully.
+$E=====6042=====
+//たのんだぞ、
+//太陽少年<NAME>!!
+I'm counting on you,
+Solar Boy <NAME>!
 $E=====6043=====
 //<PROC=1><LOCK=70>太陽と共にあらんことを!」
 <PROC=1><LOCK=70>May the Sun be with you!"
-$J=====6044=====
+$E=====6044=====
 <PROC=0>
 <END>
 $E=====6045=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「うん・・・
-$J=====6046=====
-はっ、生きてる!?」
-$J=====6047=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「うん・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"Unhh...
+$E=====6046=====
+//はっ、生きてる!?」
+I-I'm alive!?"
+$E=====6047=====
 <PROC=0>
 <END>
 $E=====6048=====
@@ -23198,56 +23309,86 @@ treasure!"
 $J=====6055=====
 <PROC=0>
 <END>
-$J=====6056=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「闇の一族(イモータル)の源(
-みなもと)、
-$J=====6057=====
-暗黒物質(ダークマター)の焼却
-(しょうきゃく)が完了(かんり
-ょう)した
-$J=====6058=====
-これで・・・
-今度こそ、やつも復活(ふっか
-つ)できまい!
-$J=====6059=====
-見事だ、
-太陽少年<NAME>!!」
-$J=====6060=====
-<LABEL=NONE>???</LABEL>
-<PROC=1><LOCK=20>「クックックッ・・・
-$J=====6061=====
-これで勝ったつもりかね、
-太陽少年<NAME>?」
-$J=====6062=====
+$E=====6056=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「闇の一族(イモータル)の源(
+//みなもと)、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+Incineration of the Dark
+Matter,
+$E=====6057=====
+//暗黒物質(ダークマター)の焼却
+//(しょうきゃく)が完了(かんり
+//ょう)した
+the energy source of the
+Immortals, is complete.
+$E=====6058=====
+//これで・・・
+//今度こそ、やつも復活(ふっか
+//つ)できまい!
+This eliminates all
+possibility of revival.
+$E=====6059=====
+//見事だ、
+//太陽少年<NAME>!!」
+Good work,
+Solar Boy <NAME>!
+$E=====6060=====
+//<LABEL=NONE>???</LABEL>
+//<PROC=1><LOCK=20>「クックックッ・・・
+<LABEL=NONE>???</LABEL>:
+<PROC=1><LOCK=20>"Heh heh heh...
+$E=====6061=====
+//これで勝ったつもりかね、
+//太陽少年<NAME>?」
+Did you think that was
+enough to win,
+Solar Boy <NAME>?"
+$E=====6062=====
 <PROC=0>
 <END>
-$J=====6063=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「伯爵(はくしゃく)!?
-$J=====6064=====
-バカな、たった今浄化(じょう
-か)したはずだぞ!?」
-$J=====6065=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「言っただろう、
-私は何度でもよみがえる
-$J=====6066=====
-この身体(からだ)が一部でも残
-っていればな」
-$J=====6067=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「まさか・・・!?」
-$J=====6068=====
-<LABEL=HAKUSYAKU>伯爵</LABEL>
-「追って来い、<NAME>!!
-$J=====6069=====
-ヴァナルガンドの復活(ふっか
-つ)を、
-$J=====6070=====
-世界の崩壊(ほうかい)を止めた
-ければな!」
-$J=====6071=====
+$E=====6063=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「伯爵(はくしゃく)!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"The Count!?
+$E=====6064=====
+//バカな、たった今浄化(じょう
+//か)したはずだぞ!?」
+Impossible...
+didn't we just purify you!?"
+$E=====6065=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「言っただろう、
+//私は何度でもよみがえる
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"I told you, I'll always be
+resurrected,
+$E=====6066=====
+//この身体(からだ)が一部でも残
+//っていればな」
+if even a piece of my body
+is left."
+$E=====6067=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「まさか・・・!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Don't tell me...!?"
+$E=====6068=====
+//<LABEL=HAKUSYAKU>伯爵</LABEL>
+//「追って来い、<NAME>!!
+<LABEL=HAKUSYAKU>Count</LABEL>:
+"Come after me, <NAME>!
+$E=====6069=====
+//ヴァナルガンドの復活(ふっか
+//つ)を、
+Prevent Vanargand's revival,
+$E=====6070=====
+//世界の崩壊(ほうかい)を止めた
+//ければな!」
+if you want to stop the end
+of the world!"
+$E=====6071=====
 <PROC=0>
 <END>
 $J=====6072=====
@@ -24254,8 +24395,8 @@ You too, Otenko.
 $E=====6321=====
 //戦いの中、あなたたちの心が高
 //ぶると、
-As your fighting spirit builds
-during battle,
+As your fighting spirit
+builds during battle,
 $E=====6322=====
 //画面左上にあるTRC(トランスゲ
 //ージ)が増加(ぞうか)します
@@ -24274,12 +24415,12 @@ $E=====6324=====
 //かい)をこえた存在(そんざい)
 //へと、
 it will be possible to
-surpass your bodies' limits,
+surpass your bodies' limits.
 $E=====6325=====
 //トランス(合身)することが可能
 //(かのう)となります
-and enter Trance mode to
-combine.
+This transformation is
+called Trance mode.
 $E=====6326=====
 //トランスを行うにはクイックチ
 //ェンジで(<WEIGHT>SELECTボタン</WEIGHT>を押し
@@ -33284,14 +33425,13 @@ $E=====8931=====
 //地下牢獄(ちかろうごく)におけ
 //る奇跡(きせき)的な復活(ふっ
 //かつ)
-
 With your miraculous
 recovery in the Underground
 Prison,
-$J=====8932=====
-そしてヴァンパイア・ロードで
-ある伯爵(はくしゃく)との接近
-(せっきん)
+$E=====8932=====
+//そしてヴァンパイア・ロードで
+//ある伯爵(はくしゃく)との接近
+//(せっきん)
 and your proximity to the
 Vampire Lord, the Count,
 $E=====8933=====
@@ -33441,13 +33581,12 @@ $E=====8963=====
 //けしかけ、
 When they see an adventurer,
 they summon their comrades
-with a loud cry,
+with a loud cry.
 $E=====8964=====
 //自らはその長い舌(した)で、ア
 //イテムをぬすもうとする
-and they also steal your
-items with their long
-tongues.
+They also steal your items
+with their long tongues.
 $E=====8965=====
 //ぬすまれたアイテムを取りもど
 //すには、ぬすんだヴォーンをた
@@ -33494,7 +33633,7 @@ $E=====8973=====
 but they react to your
 movements.
 $E=====8974=====
-/また太陽の光にも敏感(びんか
+//また太陽の光にも敏感(びんか
 //ん)に反応(はんのう)し、
 They're also sensitive to
 sunlight,
@@ -33502,8 +33641,8 @@ $E=====8975=====
 //太陽ゲージの値が1以上になる
 //と姿(すがた)を消してしまう
 so if the Solar Gauge is
-above 1, they'll hide their
-bodies.
+above 1, they'll stay out of
+sight.
 $E=====8976=====
 <PROC=0>
 <END>
@@ -33564,83 +33703,116 @@ $E=====8987=====
 $E=====8988=====
 //敵(てき)モンスターはいないよ
 //うだな
-There don't seem to be any
-monsters here...
-$U=====8989=====
+there don't seem to be any
+monsters here.
+$E=====8989=====
 //太陽結界を召喚(しょうかん)す
 //るぞ!」
 Let's summon a Solar
 Barrier!"
-$J=====8990=====
+$E=====8990=====
 <PROC=0>
 <END>
-$J=====8991=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「この太陽結界には闇(やみ)を
-しばりつける力がある
-$J=====8992=====
-結界の上に置いておけば、棺桶
-(かんおけ)ににげられることは
-ない
-$J=====8993=====
-この太陽結界をチェックポイン
-トに、
-$J=====8994=====
-棺桶(かんおけ)を次の太陽結界
-へ、そして闇の領域(ダンジョ
-ン)の外へと運び出すんだ」
-$J=====8995=====
+$E=====8991=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「この太陽結界には闇(やみ)を
+//しばりつける力がある
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This Solar Barrier binds
+the powers of darkness.
+$E=====8992=====
+//結界の上に置いておけば、棺桶
+//(かんおけ)ににげられることは
+//ない
+If you drag the coffin on
+top of it, the coffin won't
+be able to escape.
+$E=====8993=====
+//この太陽結界をチェックポイン
+//トに、
+Using Solar Barriers as
+checkpoints,
+$E=====8994=====
+//棺桶(かんおけ)を次の太陽結界
+//へ、そして闇の領域(ダンジョ
+//ン)の外へと運び出すんだ」
+drag the coffin outside of
+the dungeon."
+$E=====8995=====
 <PROC=0>
 <END>
-$J=====8996=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「待て、<NAME>!!
-$J=====8997=====
+$E=====8996=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「待て、<NAME>!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Wait, <NAME>!
+$E=====8997=====
 <PROC=0>
 <END>
-$J=====8998=====
-<LABEL=OTENKO></LABEL>あれはシング(物)タイプのモン
-スター、クレイゴーレムだ
-$J=====8999=====
-ゴーレムは冒険者(ぼうけんし
-ゃ)を見つけると、
-$J=====9000=====
-身体を丸め、転がり攻撃(こう
-げき)をしかけてくる
-$J=====9001=====
+$E=====8998=====
+//<LABEL=OTENKO></LABEL>あれはシング(物)タイプのモン
+//スター、クレイゴーレムだ
+<LABEL=OTENKO></LABEL>That's a Clay Golem, a
+Material-type monster.
+$E=====8999=====
+//ゴーレムは冒険者(ぼうけんし
+//ゃ)を見つけると、
+When a Golem spots an
+adventurer,
+$E=====9000=====
+//身体を丸め、転がり攻撃(こう
+//げき)をしかけてくる
+it rolls into a ball and
+attacks by slamming into its
+target.
+$E=====9001=====
 <PROC=0>
 <END>
-$J=====9002=====
-<LABEL=OTENKO></LABEL>強力な攻撃(こうげき)だ。
-十分に注意してくれ」
-$J=====9003=====
+$E=====9002=====
+//<LABEL=OTENKO></LABEL>強力な攻撃(こうげき)だ。
+//十分に注意してくれ」
+<LABEL=OTENKO></LABEL>It's a powerful attack.
+Be very careful.
+$E=====9003=====
 <PROC=0>
 <END>
-$J=====9004=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「お次はアイビーか・・・
-$J=====9005=====
-アイビーはビースト(獣)タイプ
-のモンスターだ
-$J=====9006=====
-いくらたおしても、
-$J=====9007=====
-苦手であるクラウド属性(ぞく
-せい)以外の攻撃(こうげき)で
-トドメをさすことはできない
-$J=====9008=====
+$E=====9004=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「お次はアイビーか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Looks like Ivy is next...
+$E=====9005=====
+//アイビーはビースト(獣)タイプ
+//のモンスターだ
+Ivy is a Beast-type monster.
+$E=====9006=====
+//いくらたおしても、
+No matter how many times you
+kill it,
+$E=====9007=====
+//苦手であるクラウド属性(ぞく
+//せい)以外の攻撃(こうげき)で
+//トドメをさすことはできない
+you won't get rid of it
+unless you attack with its
+weakness, the Cloud element.
+$E=====9008=====
 <PROC=0>
 <END>
-$J=====9009=====
-<LABEL=OTENKO></LABEL>無理に相手をする必要はないぞ
-?」
-$J=====9010=====
+$U=====9009=====
+//<LABEL=OTENKO></LABEL>無理に相手をする必要はないぞ
+//?」
+<LABEL=OTENKO></LABEL>Don't make unnecessary
+enemies, okay?
+$E=====9010=====
 <PROC=0>
 <END>
-$J=====9011=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「パープルスライムか・・・
-$J=====9012=====
+$E=====9011=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「パープルスライムか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Purple Slime...
+$E=====9012=====
 <PROC=0>
 <END>
 $J=====9013=====
@@ -34381,177 +34553,265 @@ $J=====9248=====
 $J=====9249=====
 <PROC=0>
 <END>
-$J=====9250=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おてんこデモ09」
-$J=====9251=====
+$E=====9250=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おてんこデモ09」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Otenko Demo 09"
+$E=====9251=====
 <PROC=0>
 <END>
-$J=====9252=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おてんこデモ10」
-$J=====9253=====
+$E=====9252=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おてんこデモ10」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Otenko Demo 10"
+$E=====9253=====
 <PROC=0>
 <END>
-$J=====9254=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おてんこデモ11」
-$J=====9255=====
+$E=====9254=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おてんこデモ11」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Otenko Demo 11"
+$E=====9255=====
 <PROC=0>
 <END>
-$J=====9256=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「おてんこデモ12」
-$J=====9257=====
+$E=====9256=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「おてんこデモ12」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Otenko Demo 12"
+$E=====9257=====
 <PROC=0>
 <END>
-$J=====9258=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし、闇の領域(ダンジョン)
-をぬけたな!
-$J=====9259=====
-パイルドライバーを召喚(しょ
-うかん)するぞ!!」
-$J=====9260=====
+$E=====9258=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし、闇の領域(ダンジョン)
+//をぬけたな!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"All right. This is it.
+$E=====9259=====
+//パイルドライバーを召喚(しょ
+//うかん)するぞ!!」
+This is where we summon the
+Pile Driver!"
+$E=====9260=====
 <PROC=0>
 <END>
-$J=====9261=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「さあ、
-$J=====9262=====
-その棺桶(かんおけ)をパイルド
-ライバーの真ん中にセットする
-んだ!!」
-$J=====9263=====
+$E=====9261=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「さあ、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Okay, 
+$E=====9262=====
+//その棺桶(かんおけ)をパイルド
+//ライバーの真ん中にセットする
+//んだ!!」
+position the coffin in the
+center of the Pile Driver!"
+$E=====9263=====
 <PROC=0>
 <END>
-その棺桶(かんおけ)をパイルド
-ライバーの真ん中にセットする
-んだ!!」
-$J=====9264=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし!!
-$J=====9265=====
-4つのジェネレーターを太陽銃
-(ガン・デル・ソル)で撃(う)っ
-てセッティングするんだ
-$J=====9266=====
-このジェネレーターは、父なる
-太陽と母なる大地の恩恵(おん
-けい)を受け、
-$J=====9267=====
-太陽エネルギーを増幅(ぞうふ
-く)してくれる
-$J=====9268=====
-闇の一族(イモータル)の浄化(
-じょうか)は、
-$J=====9269=====
-このパイルドライバーをもって
-のみ可能なのだ!!」
-$J=====9270=====
+//その棺桶(かんおけ)をパイルド
+//ライバーの真ん中にセットする
+//んだ!!」
+position the coffin in the
+center of the Pile Driver!"
+$E=====9264=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Now then!
+$E=====9265=====
+//4つのジェネレーターを太陽銃
+//(ガン・デル・ソル)で撃(う)っ
+//てセッティングするんだ
+You must adjust the 4
+Generators with an
+Enchantment attack.
+$E=====9266=====
+//このジェネレーターは、父なる
+//太陽と母なる大地の恩恵(おん
+//けい)を受け、
+The Generators are blessed
+by Father Sun and Mother
+Earth,
+$E=====9267=====
+//太陽エネルギーを増幅(ぞうふ
+//く)してくれる
+so they can amplify solar
+energy.
+$E=====9268=====
+//闇の一族(イモータル)の浄化(
+//じょうか)は、
+Set each of the 4 Generators
+by shooting them with the
+Gun Del Sol.
+$E=====9269=====
+//このパイルドライバーをもって
+//のみ可能なのだ!!」
+This Pile Driver is the one
+and only way to purify
+Immortals!"
+$E=====9270=====
 <PROC=0>
 <END>
-$J=====9271=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「準備完了(かんりょう)!!」
-$J=====9272=====
+$E=====9271=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「準備完了(かんりょう)!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Everything's set!"
+$E=====9272=====
 <PROC=0>
 <END>
-$J=====9273=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「いいか、<NAME>
-$J=====9274=====
-パイルドライバーの起動には太
-陽の光が必要だ
-$J=====9275=====
+$E=====9273=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「いいか、<NAME>
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Ready, <NAME>?
+$E=====9274=====
+//パイルドライバーの起動には太
+//陽の光が必要だ
+You need sunlight to start
+the Pile Driver.
+$E=====9275=====
 <PROC=0>
 <END>
-$J=====9276=====
-<LABEL=OTENKO></LABEL>太陽は出ているな?」
- <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
-$J=====9277=====
+$E=====9276=====
+//<LABEL=OTENKO></LABEL>太陽は出ているな?」
+// <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
+<LABEL=OTENKO></LABEL>The sun's out, right?"
+ <ALTER>It's out</ALTER>  <ALTER>It's not out</ALTER>
+$E=====9277=====
 <PROC=0>
 <END>
-$J=====9278=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし!!
-太陽センサーに太陽の光を当て
-$J=====9279=====
-白く光った紋章(もんしょう)の
-上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せば、パ
-イルドライバーの起動だ!」
-$J=====9280=====
+$E=====9278=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし!!
+//太陽センサーに太陽の光を当て
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Great! Make sure sunlight's
+hitting the solar sensor,
+$E=====9279=====
+//白く光った紋章(もんしょう)の
+//上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せば、パ
+//イルドライバーの起動だ!」
+then press the <WEIGHT>A Button</WEIGHT> over
+the flashing white emblem to
+start the Pile Driver!"
+$E=====9280=====
 <PROC=0>
 <END>
-$J=====9281=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ううむ・・・
-$J=====9282=====
-それでは闇の一族(イモータル)
-を浄化(じょうか)することはで
-きん
-$J=====9283=====
-パイルドライバーの起動には、
-太陽の光が必要だ。太陽の光が
-得られる時間に出直すんだ
-$J=====9284=====
-他のダンジョンでの特殊任務(
-ミッション)や、
-$J=====9285=====
-サーキットでのバイクアクショ
-ンに挑戦(ちょうせん)してみて
-はどうだ?
-$J=====9286=====
-さもなくば、いったん冒険(ぼ
-うけん)を中断(ちゅうだん)し
-太陽が出るのを待つしかない」
-$J=====9287=====
+$E=====9281=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ううむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Ah...
+$E=====9282=====
+//それでは闇の一族(イモータル)
+//を浄化(じょうか)することはで
+//きん
+Guess you won't be able to
+purify the Immortal.
+$E=====9283=====
+//パイルドライバーの起動には、
+//太陽の光が必要だ。太陽の光が
+//得られる時間に出直すんだ
+The Pile Driver requires
+sunlight. You'll have to
+try again later.
+$E=====9284=====
+//他のダンジョンでの特殊任務(
+//ミッション)や、
+You could attempt missions
+in other dungeons,
+$E=====9285=====
+//サーキットでのバイクアクショ
+//ンに挑戦(ちょうせん)してみて
+//はどうだ?
+or you could try one of the
+Bike Action circuits.
+$E=====9286=====
+//さもなくば、いったん冒険(ぼ
+//うけん)を中断(ちゅうだん)し
+//太陽が出るのを待つしかない」
+Or you could stop your
+adventure for the time being
+and wait for the sun..."
+$E=====9287=====
 <PROC=0>
 <END>
-$J=====9288=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ん?
-$J=====9289=====
-太陽だ!!
-パイルドライバーを起動するに
-は太陽の光が必要だ!
-$J=====9290=====
-太陽センサーに太陽の光を当て
-るんだ!!」
-$J=====9291=====
+$E=====9288=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ん?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Eh?
+$E=====9289=====
+//太陽だ!!
+//パイルドライバーを起動するに
+//は太陽の光が必要だ!
+The sun!
+You must have sunlight to
+start the Pile Driver!
+$E=====9290=====
+//太陽センサーに太陽の光を当て
+//るんだ!!」
+Make sure sunlight's hitting
+the solar sensor!"
+$E=====9291=====
 <PROC=0>
 <END>
-$J=====9292=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「バトルドライブ開始!!
-$J=====9293=====
-ジェネレーターから放射(ほう
-しゃ)される太陽パイルで、
-$J=====9294=====
-闇の一族(イモータル)を浄化(
-じょうか)するんだ!
-$J=====9295=====
-太陽センサーがキャッチした太
-陽の光が強ければ強いほど、パ
-イルのパワーも上がるぞ
-$J=====9296=====
-だが、闇の一族(イモータル)も
-エクトプラズムを使って抵抗(
-ていこう)する
-$J=====9297=====
-太陽銃(ガン・デル・ソル)でエ
-クトプラズムを撃(う)ち、
-$J=====9298=====
-棺桶(かんおけ)に押(お)しもど
-すんだ
-$J=====9299=====
-画面右上のENE(暗黒ゲージ)が
-ゼロになれば、浄化完了(じょ
-うかかんりょう)だ!
-$J=====9300=====
-たのんだぞ、
-太陽少年<NAME>!!」
-$J=====9301=====
+$E=====9292=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「バトルドライブ開始!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Begin Battle Drive!
+$E=====9293=====
+//ジェネレーターから放射(ほう
+//しゃ)される太陽パイルで、
+Now to purify the Immortal,
+$E=====9294=====
+//闇の一族(イモータル)を浄化(
+//じょうか)するんだ!
+with a Solar Pile from the
+Generators!
+$E=====9295=====
+//太陽センサーがキャッチした太
+//陽の光が強ければ強いほど、パ
+//イルのパワーも上がるぞ
+The Pile will be more
+powerful if more sunlight is
+hitting the solar sensor.
+$E=====9296=====
+//だが、闇の一族(イモータル)も
+//エクトプラズムを使って抵抗(
+//ていこう)する
+But the Immortal will use
+Ectoplasm to resist it.
+$E=====9297=====
+//太陽銃(ガン・デル・ソル)でエ
+//クトプラズムを撃(う)ち、
+You'll have to push it back
+into the coffin with
+Enchantment attacks.
+$E=====9298=====
+//棺桶(かんおけ)に押(お)しもど
+//すんだ
+Get the Immortal's Dark
+Gauge down to zero,
+$E=====9299=====
+//画面右上のENE(暗黒ゲージ)が
+//ゼロになれば、浄化完了(じょ
+//うかかんりょう)だ!
+and you'll emerge
+victorious! 
+$E=====9300=====
+//たのんだぞ、
+//太陽少年<NAME>!!」
+It's all up to you now,
+Solar Boy <NAME>!"
+$E=====9301=====
 <PROC=0>
 <END>
 $J=====9302=====
@@ -34572,16 +34832,20 @@ $J=====9306=====
 $J=====9307=====
 <PROC=0>
 <END>
-$J=====9308=====
-<LABEL=OTENKO><LOCK=60>おてんこさま</LABEL>
-「太陽ぉーーーーーー!!」
-$J=====9309=====
+$E=====9308=====
+//<LABEL=OTENKO><LOCK=60>おてんこさま</LABEL>
+//「太陽ぉーーーーーー!!」
+<LABEL=OTENKO><LOCK=60>Master Otenko</LABEL>:
+"Taiyooooooooooh!"
+$E=====9309=====
 <PROC=0>
 <END>
-$J=====9310=====
-<LABEL=OTENKO><LOCK=60>おてんこさま</LABEL>
-「太陽ぉーーーーーー!!」
-$J=====9311=====
+$E=====9310=====
+//<LABEL=OTENKO><LOCK=60>おてんこさま</LABEL>
+//「太陽ぉーーーーーー!!」
+<LABEL=OTENKO><LOCK=60>Master Otenko</LABEL>:
+"Taiyooooooooooh!"
+$E=====9311=====
 <PROC=0>
 <END>
 $J=====9312=====
@@ -34628,58 +34892,84 @@ $J=====9323=====
 $J=====9324=====
 <PROC=0>
 <END>
-$J=====9325=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「いいか、<NAME>
-$J=====9326=====
-パイルドライバーの起動には太
-陽の光が必要だ
-$J=====9327=====
+$E=====9325=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「いいか、<NAME>
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Ready, <NAME>?
+$E=====9326=====
+//パイルドライバーの起動には太
+//陽の光が必要だ
+You need sunlight to start
+the Pile Driver.
+$E=====9327=====
 <PROC=0>
 <END>
-$J=====9328=====
-<LABEL=OTENKO></LABEL>太陽は出ているな?」
- <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
-$J=====9329=====
+$E=====9328=====
+//<LABEL=OTENKO></LABEL>太陽は出ているな?」
+// <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
+<LABEL=OTENKO></LABEL>The sun's out, right?"
+ <ALTER>It's out</ALTER>  <ALTER>It's not out</ALTER>
+$E=====9329=====
 <PROC=0>
 <END>
-$J=====9330=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし!!
-太陽センサーに太陽の光を当て
-$J=====9331=====
-白く光った紋章(もんしょう)の
-上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せば、パ
-イルドライバーの起動だ!」
-$J=====9332=====
+$E=====9330=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし!!
+//太陽センサーに太陽の光を当て
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Great! Make sure sunlight's
+hitting the solar sensor,
+$E=====9331=====
+//白く光った紋章(もんしょう)の
+//上で<WEIGHT>Ａボタン</WEIGHT>を押(お)せば、パ
+//イルドライバーの起動だ!」
+then press the <WEIGHT>A Button</WEIGHT> over
+the flashing white emblem to
+start the Pile Driver!"
+$E=====9332=====
 <PROC=0>
 <END>
-$J=====9333=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ううむ・・・
-$J=====9334=====
-それでは闇の一族(イモータル)
-を浄化(じょうか)することはで
-きん
-$J=====9335=====
-パイルドライバーの起動には、
-太陽の光が必要だ。太陽の光が
-得られる時間に出直すんだ
-$J=====9336=====
-他のダンジョンでの特殊任務(
-ミッション)や、
-$J=====9337=====
-サーキットでのバイクアクショ
-ンに挑戦(ちょうせん)してみて
-はどうだ?
-$J=====9338=====
-さもなくば、いったん冒険(ぼ
-うけん)を中断(ちゅうだん)し
-太陽が出るのを待つしかない」
-$J=====9339=====
+$E=====9333=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ううむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Ah...
+$E=====9334=====
+//それでは闇の一族(イモータル)
+//を浄化(じょうか)することはで
+//きん
+Guess you won't be able to
+purify the Immortal.
+$E=====9335=====
+//パイルドライバーの起動には、
+//太陽の光が必要だ。太陽の光が
+//得られる時間に出直すんだ
+The Pile Driver requires
+sunlight. You'll have to
+try again later.
+$E=====9336=====
+//他のダンジョンでの特殊任務(
+//ミッション)や、
+You could attempt missions
+in other dungeons,
+$E=====9337=====
+//サーキットでのバイクアクショ
+//ンに挑戦(ちょうせん)してみて
+//はどうだ?
+or you could try one of the
+Bike Action circuits.
+$E=====9338=====
+//さもなくば、いったん冒険(ぼ
+//うけん)を中断(ちゅうだん)し
+//太陽が出るのを待つしかない」
+Or you could stop your
+adventure for the time being
+and wait for the sun..."
+$E=====9339=====
 <PROC=0>
 <END>
-$J=====9340=====
+$X=====9340=====
 {C1}{C2}{C1}{C1}{C1}{C2}{C6}{C2}{09}=J{8C}{00}{09}R8÷{00}{C3}{09}{AE}{87}{8B}{00}{09}
 W÷{00}{C4}{09}=
 {8B}{00}{09}{E1}:÷{00}{C5}{09}{D7}c{8B}{00}{09}{8F}欅{00}{C6}{09}{EC}{11}{8C}{00}{09}){x}#{00}{C3}{C4}{C7}{09}{A4}p{8B}{00}{09}{D7}c#{00}{C8}{09}{D7}c{8B}{00}{09}{1F}E#{00}{C9}{09}){1C}{8E}{00}{09}{CD}{0C}{1B}{00}{C4}{C6}{CA}{09}{1F}{05}{8B}{00}{09}{CD}{8C}%{00}{CB}{09}H!{89}{00}{09}{F6}h÷{00}{CC}{09}{D7}c{88}{00}{09}
