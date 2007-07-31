@@ -60,7 +60,7 @@ Open the treasure chest!
 $E=====16=====
 <PROC=0>
 <END>
-$J=====17=====
+$U=====17=====
 なんかしろ
 $E=====18=====
 <PROC=0>
@@ -129,14 +129,14 @@ $E=====33=====
 $E=====34=====
 <PROC=0>
 <END>
-$J=====35=====
+$U=====35=====
 ナントカカントカ!
-$J=====36=====
+$E=====36=====
 <PROC=0>
 <END>
-$J=====37=====
+$U=====37=====
 ナントカカントカパトローナム!
-$J=====38=====
+$E=====38=====
 <PROC=0>
 <END>
 $E=====39=====
@@ -292,7 +292,7 @@ $E=====68=====
 $E=====69=====
 //お姉さん
 //「あら、アナタは・・・
-Young Woman:
+Older Girl:
 "Hey, you...
 $E=====70=====
 //見かけない顔ね。
@@ -303,10 +303,11 @@ town?
 $E=====71=====
 //でも、こんなことになってしま
 //うなんて・・・
-But after all that...
+But for things to end up
+like this...
 $E=====72=====
 //こわかったでしょう?
-wasn't it scary?
+you must have been scared.
 $E=====73=====
 //でも、もうだいじょうぶよ。
 //お姉さんがいっしょにいてあげ
@@ -319,7 +320,7 @@ $E=====74=====
 $E=====75=====
 //お姉さん
 //「え?
-Young Woman:
+Older Girl:
 "Ehhh?
 $E=====76=====
 //行くって、どこに!?
@@ -350,49 +351,71 @@ $E=====81=====
 $E=====82=====
 //お姉さん
 //「アナタ、無事だったのね!
-Young Woman:
+Older Girl:
 "You! You're okay!
 $E=====83=====
 //良かった・・・本当に!!
 Thank goodness... really!
-$J=====84=====
-アナタのその、決意を秘(ひ)め
-た瞳(ひとみ)を見ていると、お
-兄さまを思い出すの
-$J=====85=====
-この街を守るために、エージェ
-ントになると言って出て行った
-お兄さま・・・
-$J=====86=====
-もしかしたら、この街をおそっ
-ていた闇の一族(イモータル)を
-追いはらったのは、
-$J=====87=====
-お兄さまなのかも知れないわ!
-$J=====88=====
-ねぇ、アナタはどう思う?」
-$J=====89=====
+$E=====84=====
+//アナタのその、決意を秘(ひ)め
+//た瞳(ひとみ)を見ていると、お
+//兄さまを思い出すの
+That determination in your
+eyes reminds me of my older
+brother.
+$E=====85=====
+//この街を守るために、エージェ
+//ントになると言って出て行った
+//お兄さま・・・
+He went off, saying he would
+become an Agent to protect
+the town...
+$E=====86=====
+//もしかしたら、この街をおそっ
+//ていた闇の一族(イモータル)を
+//追いはらったのは、
+Hmm, the one who drove the
+Immortals away from here...
+$E=====87=====
+//お兄さまなのかも知れないわ!
+maybe it was my big brother!
+$E=====88=====
+//ねぇ、アナタはどう思う?」
+Hey, What do you think?"
+$E=====89=====
 <PROC=0>
 <END>
-$J=====90=====
-お姉さん
-「え?
-もう行っちゃうの?
-$J=====91=====
-そう、残念ね・・・
-$J=====92=====
-でも、またいつでも遊びに来て
-ね?
-$J=====93=====
-そのときまでにはきっと、お兄
-さまも帰って来て・・・
-$J=====94=====
-この街の魔物(モンスター)もい
-なくなっているにちがいないわ
-$J=====95=====
-ああ、早く帰ってこないかしら
-お兄さま!!」
-$J=====96=====
+$E=====90=====
+//お姉さん
+//「え?
+//もう行っちゃうの?
+Older Girl:
+"Eh?
+You're leaving?
+$E=====91=====
+//そう、残念ね・・・
+Oh, that's a shame...
+$E=====92=====
+//でも、またいつでも遊びに来て
+//ね?
+but you can come to play
+whenever you want, 'kay?
+$E=====93=====
+//そのときまでにはきっと、お兄
+//さまも帰って来て・・・
+I'm sure my brother will be
+back by then...
+$E=====94=====
+//この街の魔物(モンスター)もい
+//なくなっているにちがいないわ
+and the town will surely be
+free of monsters.
+$E=====95=====
+//ああ、早く帰ってこないかしら
+//お兄さま!!」
+Oh big brother, won't you
+hurry home?"
+$E=====96=====
 <PROC=0>
 <END>
 $E=====97=====
@@ -409,18 +432,18 @@ $E=====99=====
 //坊(ぼう)や、よくここまで来ら
 //れたわね
 You did well in getting
-here, kid.
+here, sonny.
 $E=====100=====
 //外は魔物(モンスター)だらけで
 //しょう?
-After all, it's swarming
-with monsters out there.
+It must be swarming with
+monsters out there.
 $E=====101=====
 //ああ、お嬢(じょう)さまだけで
 //も、何とかお助けできないかし
 //ら・・・」
 Oh, if only someone could
-save my daughter..."
+help my daughter..."
 $E=====102=====
 <PROC=0>
 <END>
@@ -453,7 +476,7 @@ $E=====107=====
 //も、何とかお助けできないかし
 //ら・・・」
 Oh, if only someone could
-save my daughter..."
+help my daughter..."
 $E=====108=====
 <PROC=0>
 <END>
@@ -471,49 +494,74 @@ $U=====111=====
 $E=====112=====
 //それじゃあワタシたち、助かる
 //のね?
-That means we're all saved?
+Then we're all saved?
 $E=====113=====
 //ああ、良かった・・・
 Ahhh, thank goodness...
-$U=====114=====
-お坊(ぼっ)ちゃまに続いて、お
-嬢(じょう)さまにまで何かあっ
-たら、
-$J=====115=====
-亡くなられた奥(おく)さまに、
-申しわけがたたないわ・・・
-$J=====116=====
-知らせてくれてありがとうね。
-坊(ぼう)やも気をつけて行くの
-よ?」
-$J=====117=====
+$E=====114=====
+//お坊(ぼっ)ちゃまに続いて、お
+//嬢(じょう)さまにまで何かあっ
+//たら、
+After my son... if something
+happened to my daughter,
+$E=====115=====
+//亡くなられた奥(おく)さまに、
+//申しわけがたたないわ・・・
+I couldn't bear it...
+$E=====116=====
+//知らせてくれてありがとうね。
+//坊(ぼう)やも気をつけて行くの
+//よ?」
+Thanks for the good news.
+You take care out there,
+sonny."
+$E=====117=====
 <PROC=0>
 <END>
-$J=====118=====
-おばさん
-「実はね・・・
-$J=====119=====
-お嬢(じょう)さまにはまだ、お
-坊(ぼっ)ちゃまのことをお教え
-してはいないの
-$J=====120=====
-あんなに仲の良かった兄妹だも
-の。どんなに悲しまれることか
-・・・
-$J=====121=====
-でも、やっぱりいつかはお教え
-しなくてはいけないのよね
-$J=====122=====
-どんなに悲しくても、その死を
-受け入れなくては・・・
-$J=====123=====
-その死を乗りこえた上で、生き
-て行かなければ・・・
-$J=====124=====
-それが大切な人だったとしたら
-・・・
-なおのことよね」
-$J=====125=====
+$E=====118=====
+//おばさん
+//「実はね・・・
+Old Woman:
+"The truth is...
+$E=====119=====
+//お嬢(じょう)さまにはまだ、お
+//坊(ぼっ)ちゃまのことをお教え
+//してはいないの
+I still haven't told my
+daughter what happened to
+her brother.
+$E=====120=====
+//あんなに仲の良かった兄妹だも
+//の。どんなに悲しまれることか
+//・・・
+They got along so well for
+siblings. It just breaks my
+heart...
+$E=====121=====
+//でも、やっぱりいつかはお教え
+//しなくてはいけないのよね
+but I suppose I'll have to
+tell her eventually.
+$E=====122=====
+//どんなに悲しくても、その死を
+//受け入れなくては・・・
+No matter how sad it is, if
+she doesn't accept the fact
+that he died...
+$E=====123=====
+//その死を乗りこえた上で、生き
+//て行かなければ・・・
+she'll never get over it,
+and she won't move on with
+her own life...
+$U=====124=====
+//それが大切な人だったとしたら
+//・・・
+//なおのことよね」
+When it's someone dear to
+you... it's all the more
+important."
+$E=====125=====
 <PROC=0>
 <END>
 $E=====126=====
@@ -837,35 +885,48 @@ Don't eat me..."
 $E=====199=====
 <PROC=0>
 <END>
-$J=====200=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「なんかねぇのか?」
-$J=====201=====
+$U=====200=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「なんかねぇのか?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"...not gonna?"
+$E=====201=====
 <PROC=0>
 <END>
-$J=====202=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「まちがいねぇ・・・
-お宝(たから)はこの先だ
-$J=====203=====
-うたがってんのか?
-$J=====204=====
-こう見えてもオイラの嗅覚(き
-ゅうかく)は、ハウンドよりす
-るどいんだぜ?」
-$J=====205=====
+$E=====202=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「まちがいねぇ・・・
+//お宝(たから)はこの先だ
+<LABEL=TRINITY>Trinity</LABEL>:
+"If I'm right... this is the
+tip of a treasure box.
+$E=====203=====
+//うたがってんのか?
+You doubtin' me?
+$E=====204=====
+//こう見えてもオイラの嗅覚(き
+//ゅうかく)は、ハウンドよりす
+//るどいんだぜ?」
+Just watch, my nose is
+sharper than a Hound's!"
+$E=====205=====
 <PROC=0>
 <END>
-$J=====206=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「何が出ようと、うらみっこな
-しだぜ?」
-$J=====207=====
+$E=====206=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「何が出ようと、うらみっこな
+//しだぜ?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"No hard feelings when
+something comes out, right?"
+$E=====207=====
 <PROC=0>
 <END>
-$J=====208=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「早く選べよ?」
+$E=====208=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「早く選べよ?」
+<LABEL=TRINITY>Trinity</LABEL>:
+"Hurry up and pick."
 $E=====209=====
 <PROC=0>
 <END>{00}{00}{00}
@@ -962,43 +1023,56 @@ $E=====230=====
  <ALTER><EXTEND=6>COLLECTOR</ALTER>
  <ALTER><EXTEND=7>DOLL MASTER</ALTER>
  <ALTER><EXTEND=8>STORYTELLER</ALTER>          <ALTER>NEXT</ALTER>
-$J=====231=====
+$E=====231=====
+//<PROC=0>
+//<END>
+// <ALTER><EXTEND=9>グランドマスター</ALTER>
+//
+//　　　　　　　　　　　　<ALTER>BACK</ALTER>
 <PROC=0>
 <END>
- <ALTER><EXTEND=9>グランドマスター</ALTER>
-
-　　　　　　　　　　　　<ALTER>BACK</ALTER>
-$J=====232=====
+ <ALTER><EXTEND=9>GRAND MASTER</ALTER>         <ALTER>NEXT</ALTER>
+$E=====232=====
 <PROC=0>
 <END>
-$J=====233=====
+$E=====233=====
 ★
-$J=====234=====
+$E=====234=====
 <PROC=0>
 <END>
-$J=====235=====
-　
-$J=====236=====
+$E=====235=====
+//　
+ 
+$E=====236=====
 <PROC=0>
 <END>
-$J=====237=====
- <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
- <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
- <ALTER>にほんとう</ALTER>　ランク1
-$J=====238=====
+$E=====237=====
+// <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
+// <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
+// <ALTER>にほんとう</ALTER>　ランク1
+ <ALTER>Normal Swords</ALTER>  <ALTER>Longswords</ALTER>
+ <ALTER>Curved Swords</ALTER>  <ALTER>Greatswords</ALTER>
+ <ALTER>Katanas</ALTER>        Rank 1
+$E=====238=====
 <PROC=0>
 <END>
-$J=====239=====
- <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
- <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
- <ALTER>にほんとう</ALTER>　ランク2
-$J=====240=====
+$E=====239=====
+// <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
+// <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
+// <ALTER>にほんとう</ALTER>　ランク2
+ <ALTER>Normal Swords</ALTER>  <ALTER>Longswords</ALTER>
+ <ALTER>Curved Swords</ALTER>  <ALTER>Greatswords</ALTER>
+ <ALTER>Katanas</ALTER>        Rank 2
+$E=====240=====
 <PROC=0>
 <END>
-$J=====241=====
- <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
- <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
- <ALTER>にほんとう</ALTER>　ランク3
+$E=====241=====
+// <ALTER>ノーマル</ALTER>　<ALTER>ほそみ</ALTER>
+// <ALTER>きょくとう</ALTER>　<ALTER>おおけん</ALTER>
+// <ALTER>にほんとう</ALTER>　ランク3
+ <ALTER>Normal Swords</ALTER>  <ALTER>Longswords</ALTER>
+ <ALTER>Curved Swords</ALTER>  <ALTER>Greatswords</ALTER>
+ <ALTER>Katanas</ALTER>        Rank 3
 $E=====242=====
 <PROC=0>
 <END>
@@ -2144,8 +2218,9 @@ $E=====812=====
 bike_MAX
 $E=====813=====
 prologue
-$J=====814=====
-　
+$E=====814=====
+//　
+ 
 $E=====815=====
 //ジャンゴ
 Django
@@ -2523,7 +2598,7 @@ Trash this?
 $U=====939=====
 //刃(は)が折(お)れている。
 The edge is breaking.
-$J=====940=====
+$E=====940=====
 //ライフがふえるほど威力(いりょく)が上がる。
 Gains power as your Life increases.
 $E=====941=====
@@ -2588,20 +2663,27 @@ Power:B  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to fire a split bubble shot
 $E=====961=====
 //威力:B　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で、拡大(かくだい)するフープショットを放つ。
 Power:B  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to fire an enlarged hoop shot.
-$J=====962=====
-威力:B　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で反射(はんしゃ)ショットを放つ。
-$J=====963=====
-威力:A　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で誘導(ゆうどう)ショットを放つ。
-$J=====964=====
-威力:S　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、チャージショットを放つ。
-$J=====965=====
-威力:B　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で貫通(かんつう)ショットを放つ。
-$J=====966=====
-威力:S　コスト:C　<WEIGHT>Ｂボタン</WEIGHT>で、壁(かべ)をこえて爆発(ばくはつ)する太陽グレネードを放つ。
-$J=====967=====
-威力:C　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>を押(お)している間、回転スプレッドを放つ。
-$J=====968=====
-威力:D　コスト:S　<WEIGHT>Ｂボタン</WEIGHT>で、着弾(ちゃくだん)時に物音を立てるビートショットを放つ。
+$E=====962=====
+//威力:B　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>で反射(はんしゃ)ショットを放つ。
+Power:B  Cost:A  Press the <WEIGHT>B Button</WEIGHT> to fire a reflecting shot.
+$E=====963=====
+//威力:A　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で誘導(ゆうどう)ショットを放つ。
+Power:A  Cost:B  Press the <WEIGHT>B Button</WEIGHT> to fire a homing shot.
+$E=====964=====
+//威力:S　コスト:A　<WEIGHT>Ｂボタン</WEIGHT>のタメ押(お)しで、チャージショットを放つ。
+Power:S  Cost:A  Hold the <WEIGHT>B Button</WEIGHT> to charge up a more powerful shot.
+$E=====965=====
+//威力:B　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>で貫通(かんつう)ショットを放つ。
+Power:B  Cost:B  Press the <WEIGHT>B Button</WEIGHT> to fire a piercing shot.
+$E=====966=====
+//威力:S　コスト:C　<WEIGHT>Ｂボタン</WEIGHT>で、壁(かべ)をこえて爆発(ばくはつ)する太陽グレネードを放つ。
+Power:S  Cost:C  Press the <WEIGHT>B Button</WEIGHT> to fire a solar grenade that passes over walls.
+$E=====967=====
+//威力:C　コスト:B　<WEIGHT>Ｂボタン</WEIGHT>を押(お)している間、回転スプレッドを放つ。
+Power:C  Cost:B  Hold the <WEIGHT>B Button</WEIGHT> to fire a rotating spread shot.
+$E=====968=====
+//威力:D　コスト:S　<WEIGHT>Ｂボタン</WEIGHT>で、着弾(ちゃくだん)時に物音を立てるビートショットを放つ。
+Power:D  Cost:S  Press the <WEIGHT>B Button</WEIGHT> to fire a shot that emits a sound upon impact.
 $E=====969=====
 //ファントムの説明
 PHANTOM description
@@ -3673,49 +3755,57 @@ Rearrange bag?
 $E=====1322=====
 //倉庫を整とんしますか?
 Rearrange Warehouse?
-$J=====1323=====
-暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>払ってコンティニューしますか?
-$J=====1324=====
-暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りてコンティニューしますか?
+$E=====1323=====
+//暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>払ってコンティニューしますか?
+Pay Dark Loans <WEIGHT><VAR=0> Soll</WEIGHT> to continue?
+$E=====1324=====
+//暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りてコンティニューしますか?
+Borrow <WEIGHT><VAR=0> Soll</WEIGHT> from Dark Loans to continue?
 $E=====1325=====
 //いらっしゃいませ!
 Welcome!
-$J=====1326=====
-ご利用になられますか?
-$J=====1327=====
-<WEIGHT>{＋}ボタン</WEIGHT>の左右で、太陽エネル
-ギーの移し替えができます。
+$E=====1326=====
+//ご利用になられますか?
+May I help you?
+$E=====1327=====
+//<WEIGHT>{＋}ボタン</WEIGHT>の左右で、太陽エネル
+//ギーの移し替えができます。
+Move the <WEIGHT>{＋}Control Pad</WEIGHT> left
+or right to transfer solar
+energy.
 $E=====1328=====
 //ありがとうございました!
 Thank you very much!
-$J=====1329=====
-    ソル×(1+利息: )
-=    ソル借ります。
-$J=====1330=====
+$E=====1329=====
+//    ソル×(1+利息: )
+//=    ソル借ります。
+   Soll × (1+interest: )
+=   Soll owed.
+$C=====1330=====
 返済は<VAR=0>日後、太陽バンクから
 の<WEIGHT>自動引き落し</WEIGHT>となります。
-$J=====1331=====
+$C=====1331=====
 限度ソルを超えるので、
 これ以上お貸しできません。
 $E=====1332=====
 //ご利用内容を選択してください
 Please select one of the
 following services.
-$J=====1333=====
+$C=====1333=====
 暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りて
 やり直しますか?
-$J=====1334=====
+$C=====1334=====
 今度はきちんと返済してくださ
 いね、<NAME>さん。
-$J=====1335=====
+$C=====1335=====
 本当に大丈夫なんですか?
 <NAME>さん・・・
-$J=====1336=====
+$C=====1336=====
 本当に好きなんですね?
 走るの・・・
-$J=====1337=====
+$C=====1337=====
 <NAME>さん・・・
-$J=====1338=====
+$C=====1338=====
 現在、<NAME>さまは
 ご利用になれません。
 $E=====1339=====
@@ -4811,7 +4901,7 @@ $E=====1572=====
 <END>
 $E=====1573=====
 <EXTEND=0>
-$J=====1574=====
+$C=====1574=====
 <LABEL=RITA>リタ</LABEL>
 ここにデモが入りますわ。
 $E=====1575=====
@@ -4819,7 +4909,7 @@ $E=====1575=====
 <END>
 $E=====1576=====
 <EXTEND=0>
-$J=====1577=====
+$C=====1577=====
 <LABEL=ZAJI>ザジ</LABEL>
 ここはパネルが入るんやで。
 $E=====1578=====
@@ -4827,7 +4917,7 @@ $E=====1578=====
 <END>
 $E=====1579=====
 <EXTEND=0>
-$J=====1580=====
+$C=====1580=====
 <LABEL=ROCKMAN>ロックマン</LABEL>
 ここに会話が入るよ。
 $E=====1581=====
@@ -4906,7 +4996,7 @@ $E=====1596=====
 
         [Directions]
 
-$J=====1597=====
+$E=====1597=====
 //冒険者(ぼうけんしゃ)たる者、
 //道にまようことなかれ
 A true adventurer never
@@ -4914,9 +5004,9 @@ loses his way.
 $E=====1598=====
 //画面右上は北、右下は東、
 //左下は南、左上は西と知れ
-Up/right is North, down/
-right is East, down/left is
-South, and up/left is West.
+Up/right is north, down/
+right is east, down/left is
+south, and up/left is west.
 $E=====1599=====
 <PROC=0>
 <END>
@@ -5181,91 +5271,145 @@ makes.
 $E=====1646=====
 <PROC=0>
 <END>
-$J=====1647=====
+$E=====1647=====
+//
+//　　　　 [太陽風]
+//
 
-　　　　 [太陽風]
+        [Solar Wind]
 
-$J=====1648=====
-ダンジョン内にふく風、太陽風
-は、太陽の光の影響(えいきょ
-う)を受け、
-$J=====1649=====
-太陽ゲージの値が高ければ強く
-低ければ弱くふき、ゲージがゼ
-ロになれば無風となる
-$J=====1650=====
-冒険者(ぼうけんしゃ)たる者、
-自然をも味方につけよ
-$J=====1651=====
+$E=====1648=====
+//ダンジョン内にふく風、太陽風
+//は、太陽の光の影響(えいきょ
+//う)を受け、
+The wind that blows inside
+dungeons, Solar Wind, is
+affected by sunlight.
+$E=====1649=====
+//太陽ゲージの値が高ければ強く
+//低ければ弱くふき、ゲージがゼ
+//ロになれば無風となる
+If the gauge is high, the
+wind will be strong. If it's
+empty, the air will be calm.
+$E=====1650=====
+//冒険者(ぼうけんしゃ)たる者、
+//自然をも味方につけよ
+A true adventurer makes
+friends with nature.
+$E=====1651=====
 <PROC=0>
 <END>
-$J=====1652=====
+$E=====1652=====
+//
+//         [移動床]
+//
 
-         [移動床]
+       [Moving Floor]
 
-$J=====1653=====
-移動床(いどうゆか)を使えば、
-はなれたエリアへの移動(いど
-う)が可能(かのう)だが、
-$J=====1654=====
-足をふみ外せば命はない
-$J=====1655=====
-冒険者(ぼうけんしゃ)たる者、
-生と死は常(つね)に隣(となり)
-合わせだと知れ
-$J=====1656=====
+$E=====1653=====
+//移動床(いどうゆか)を使えば、
+//はなれたエリアへの移動(いど
+//う)が可能(かのう)だが、
+Moving Floors allow you to
+reach distant areas,
+$E=====1654=====
+//足をふみ外せば命はない
+but one wrong step can spell
+disaster.
+$G=====1655=====
+//冒険者(ぼうけんしゃ)たる者、
+//生と死は常(つね)に隣(となり)
+//合わせだと知れ
+A true adventurer knows that
+life and death are never far
+apart.
+$E=====1656=====
 <PROC=0>
 <END>
-$J=====1657=====
+$E=====1657=====
+//
+//　　　 [紋章ブロック]
+//
 
-　　　 [紋章ブロック]
+       [Crest Blocks]
 
-$J=====1658=====
-4大元素のマークがえがかれた
-紋章(もんしょう)ブロックは、
-$J=====1659=====
-同じマークのパネルの上に乗せ
-ることで、スイッチとしての機
-能(きのう)を果たす
-$J=====1660=====
-冒険者(ぼうけんしゃ)たる者、
-知を持って道を切り開け
-$J=====1661=====
+$E=====1658=====
+//4大元素のマークがえがかれた
+//紋章(もんしょう)ブロックは、
+Crest Blocks, inscribed with
+the mark of one of the four
+elements,
+$E=====1659=====
+//同じマークのパネルの上に乗せ
+//ることで、スイッチとしての機
+//能(きのう)を果たす
+act like switches when
+pushed onto panels with the
+same mark.
+$E=====1660=====
+//冒険者(ぼうけんしゃ)たる者、
+//知を持って道を切り開け
+A true adventurer strikes
+out a path with wisdom.
+$E=====1661=====
 <PROC=0>
 <END>
-$J=====1662=====
+$E=====1662=====
+//
+//         [太陽床]
+//
 
-         [太陽床]
+       [Solar Floors]
 
-$J=====1663=====
-太陽の光をエネルギーにうかび
-上がる魔法の床(ゆか)、それが
-太陽床(たいようゆか)だ
-$J=====1664=====
-ただし、太陽の光が強すぎると
-消えてしまうので注意せよ
-$J=====1665=====
-冒険者(ぼうけんしゃ)たる者、
-すぎたるはおよばざるがごとし
-と知れ
-$J=====1666=====
+$E=====1663=====
+//太陽の光をエネルギーにうかび
+//上がる魔法の床(ゆか)、それが
+//太陽床(たいようゆか)だ
+Solar Floors are magic
+floors that float with the
+energy of sunlight.
+$E=====1664=====
+//ただし、太陽の光が強すぎると
+//消えてしまうので注意せよ
+However, they will go out if
+the sunlight is too strong.
+$U=====1665=====
+//冒険者(ぼうけんしゃ)たる者、
+//すぎたるはおよばざるがごとし
+//と知れ
+A true adventurer knows how
+to avoid excesses.
+$E=====1666=====
 <PROC=0>
 <END>
-$J=====1667=====
+$E=====1667=====
+//
+//         [太陽床]
+//
 
-         [太陽床]
+       [Solar Floors]
 
-$J=====1668=====
-床(ゆか)が消えてしまえば、そ
-の上にいた者は落ちるのが必然
-$J=====1669=====
-太陽床(たいようゆか)の上では
-太陽ゲージの値に注意せよ
-$J=====1670=====
-冒険者(ぼうけんしゃ)たる者、
-自らの立場をわすれることなか
-れ
-$J=====1671=====
+$E=====1668=====
+//床(ゆか)が消えてしまえば、そ
+//の上にいた者は落ちるのが必然
+When a Solar Floor goes out,
+anything that was on it will
+plummet.
+$E=====1669=====
+//太陽床(たいようゆか)の上では
+//太陽ゲージの値に注意せよ
+Pay close attention to the
+Solar Gauge when walking on
+Solar Floors.
+$E=====1670=====
+//冒険者(ぼうけんしゃ)たる者、
+//自らの立場をわすれることなか
+//れ
+A true adventurer never
+loses track of his
+surroundings.
+$E=====1671=====
 <PROC=0>
 <END>
 $E=====1672=====
@@ -5285,20 +5429,30 @@ $E=====1674=====
 
           [Golem]
 
-$J=====1675=====
-転がり攻撃(こうげき)は壁(か
-べ)はりつきで回避(かいひ)せ
-よ
-$J=====1676=====
-またゴーレム同士を衝突(しょ
-うとつ)させれば、
-$J=====1677=====
-ダメージをあたえた上で、気絶
-(きぜつ)させることができる
-$J=====1678=====
-冒険者(ぼうけんしゃ)たる者、
-知を持って戦いにいどめ
-$J=====1679=====
+$E=====1675=====
+//転がり攻撃(こうげき)は壁(か
+//べ)はりつきで回避(かいひ)せ
+//よ
+Avoid its rolling attack by
+clinging to a wall.
+$E=====1676=====
+//またゴーレム同士を衝突(しょ
+//うとつ)させれば、
+If you can cause a Golem to
+collide with another enemy,
+$E=====1677=====
+//ダメージをあたえた上で、気絶
+//(きぜつ)させることができる
+it will take significant
+damage and be momentarily
+stunned.
+$E=====1678=====
+//冒険者(ぼうけんしゃ)たる者、
+//知を持って戦いにいどめ
+A true adventurer fights
+with his brain as well as
+his fists.
+$E=====1679=====
 <PROC=0>
 <END>
 $E=====1680=====
@@ -5351,7 +5505,7 @@ $E=====1688=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
 A true adventurer strikes
-out a path carefully.
+out a path with wisdom.
 $E=====1689=====
 <PROC=0>
 <END>
@@ -5375,7 +5529,7 @@ $E=====1693=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
 A true adventurer strikes
-out a path carefully.
+out a path with wisdom.
 $E=====1694=====
 <PROC=0>
 <END>
@@ -5412,7 +5566,7 @@ $E=====1700=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
 A true adventurer strikes
-out a path carefully.
+out a path with wisdom.
 $E=====1701=====
 <PROC=0>
 <END>
@@ -5438,7 +5592,7 @@ $E=====1705=====
 //冒険者(ぼうけんしゃ)たる者、
 //知を持って道を切り開け
 A true adventurer strikes
-out a path carefully.
+out a path with wisdom.
 $E=====1706=====
 <PROC=0>
 <END>
@@ -5449,24 +5603,34 @@ $E=====1707=====
 
          [Cannons]
 
-$J=====1708=====
-自動装填式大砲(じどうそうて
-んしきたいほう)を撃(う)つに
-は、
-$J=====1709=====
-大砲(たいほう)自体を攻撃(こ
-うげき)すればいい
-$J=====1710=====
-ただし次の砲弾(ほうだん)が装
-填(そうてん)されるまでに、
-$J=====1711=====
-しばらく時間がかかるので要注
-意だ
-$J=====1712=====
-冒険者(ぼうけんしゃ)たる者、
-仕掛(しか)けは有効(ゆうこう)
-に活用せよ
-$J=====1713=====
+$E=====1708=====
+//自動装填式大砲(じどうそうて
+//んしきたいほう)を撃(う)つに
+//は、
+To fight automatic reload
+artillery,
+$E=====1709=====
+//大砲(たいほう)自体を攻撃(こ
+//うげき)すればいい
+attack the cannon itself.
+$E=====1710=====
+//ただし次の砲弾(ほうだん)が装
+//填(そうてん)されるまでに、
+But pay close attention to
+the amount of time it takes
+after firing,
+$E=====1711=====
+//しばらく時間がかかるので要注
+//意だ
+before loading another
+shell.
+$E=====1712=====
+//冒険者(ぼうけんしゃ)たる者、
+//仕掛(しか)けは有効(ゆうこう)
+//に活用せよ
+A true adventurer uses
+devices effectively.
+$E=====1713=====
 <PROC=0>
 <END>
 $E=====1714=====
@@ -5476,92 +5640,129 @@ $E=====1714=====
 
         [Flame Jets]
 
-$J=====1715=====
-ダンジョン内で噴出(ふんしゅ
-つ)する火炎(かえん)は、太陽
-の光の影響(えいきょう)を受け
-$J=====1716=====
-太陽ゲージの値が高ければいき
-おい良く、低ければゆっくりと
-噴出(ふんしゅつ)する
-$J=====1717=====
-冒険者(ぼうけんしゃ)たる者、
-自然をも味方につけよ
-$J=====1718=====
+$E=====1715=====
+//ダンジョン内で噴出(ふんしゅ
+//つ)する火炎(かえん)は、太陽
+//の光の影響(えいきょう)を受け
+Flame Jets in dungeons are
+affected by the sunlight.
+$E=====1716=====
+//太陽ゲージの値が高ければいき
+/おい良く、低ければゆっくりと
+//噴出(ふんしゅつ)する
+If the gauge is high, the
+jets will be strong. If it's
+empty, they will slow down.
+$E=====1717=====
+//冒険者(ぼうけんしゃ)たる者、
+//自然をも味方につけよ
+A true adventurer makes
+friends with nature.
+$E=====1718=====
 <PROC=0>
 <END>
-$J=====1719=====
-
-　　　[警告(けいこく)]
-
-$J=====1720=====
-ねむりたるは鋼鉄(こうてつ)の
-乙女(おとめ)
-$J=====1721=====
-そのねむりをさまたげることな
-かれ
-$J=====1722=====
+$E=====1719=====
+//
+//　　　[警告(けいこく)]
+//
+         [Warning]
+$E=====1720=====
+//ねむりたるは鋼鉄(こうてつ)の
+//乙女(おとめ)
+That sleeping barrel is an
+Iron Maiden.
+$E=====1721=====
+//そのねむりをさまたげることな
+//かれ
+Do not disturb its slumber.
+$E=====1722=====
 <PROC=0>
 <END>
-$J=====1723=====
+$E=====1723=====
+//
+//　　　　　　[春]
+//
 
-　　　　　　[春]
+          [Spring]
 
-$J=====1724=====
-それは始まりの季節
-$J=====1725=====
+$E=====1724=====
+//それは始まりの季節
+The first season.
+$E=====1725=====
 <PROC=0>
 <END>
-$J=====1726=====
+$E=====1726=====
+//
+//　　　　　　[夏]
+//
 
-　　　　　　[夏]
+          [Summer]
 
-$J=====1727=====
-それは2番目の季節
-$J=====1728=====
+$E=====1727=====
+//それは2番目の季節
+The second season.
+$E=====1728=====
 <PROC=0>
 <END>
-$J=====1729=====
+$E=====1729=====
+//
+//　　　　　　[秋]
+//
 
-　　　　　　[秋]
+          [Autumn]
 
-$J=====1730=====
-それは3番目の季節
-$J=====1731=====
+$E=====1730=====
+//それは3番目の季節
+The third season.
+$E=====1731=====
 <PROC=0>
 <END>
-$J=====1732=====
+$E=====1732=====
+//
+//　　　　　　[冬]
+//
 
-　　　　　　[冬]
+          [Winter]
 
-$J=====1733=====
-それは終わりの季節
-$J=====1734=====
+$E=====1733=====
+//それは終わりの季節
+The final season.
+$E=====1734=====
 <PROC=0>
 <END>
-$J=====1735=====
-[春は命芽生える季節。
-それは死の始まり]
-$J=====1736=====
+$E=====1735=====
+//[春は命芽生える季節。
+//それは死の始まり]
+[In Spring, life springs
+forth.
+That is death's beginning.]
+$E=====1736=====
 <PROC=0>
 <END>
-$J=====1737=====
-[夏は命燃える季節。
-それは死へのいざない]
-$J=====1738=====
+$E=====1737=====
+//[夏は命燃える季節。
+//それは死へのいざない]
+[In Summer, life burns.
+That is death's outset.]
+$E=====1738=====
 <PROC=0>
 <END>
-$J=====1739=====
-[秋は命わたる季節。
-それは死への旅立ち]
-
-$J=====1740=====
+$E=====1739=====
+//[秋は命わたる季節。
+//それは死への旅立ち]
+[In Autumn, life crosses
+over. That is the departure
+toward death.]
+$E=====1740=====
 <PROC=0>
 <END>
-$J=====1741=====
-[冬は命こおる季節。
-それは死のおとずれ]
-$J=====1742=====
+$E=====1741=====
+//[冬は命こおる季節。
+//それは死のおとずれ]
+[In Autumn, life freezes
+over. That is death's
+arrival.]
+$E=====1742=====
 <PROC=0>
 <END>
 $E=====1743=====
@@ -5628,9 +5829,9 @@ $E=====1757=====
 //これじゃあウェルダン(よく焼
 //け)、いや・・・
 This is well done... ugh...
-$J=====1758=====
+$U=====1758=====
 黒・コ・・ゲ・・・!!」
-$J=====1759=====
+$E=====1759=====
 <PROC=0>
 <END>
 $E=====1760=====
@@ -5682,202 +5883,310 @@ is your greatest weapon!"
 $E=====1770=====
 <PROC=0>
 <END>
-$J=====1771=====
-サバタ
-「すまない、カーミラ・・・
-$J=====1772=====
-おまえとの約束、どうやら果た
-せそうも・な・・い・・・」
-$J=====1773=====
+$E=====1771=====
+//サバタ
+//「すまない、カーミラ・・・
+Sabata:
+"I'm sorry, Carmilla...
+$E=====1772=====
+//おまえとの約束、どうやら果た
+//せそうも・な・・い・・・」
+It looks like I won't be
+able to fulfill our...
+pro... mise..."
+$E=====1773=====
 <PROC=1><PROC=0>
 <END>
-$J=====1774=====
-ニーズホッグ
-「ゲゴッ・・・
-$J=====1775=====
-オマエらのような下等生物が、
-よくもこのオレを!
-$J=====1776=====
-よくもわが鉄(くろがね)の軍団
-(ぐんだん)を!!
-$J=====1777=====
-だがオレをたおしたところで、
-ヴァナルガンドの復活(ふっか
-つ)はもう止められない!
-$J=====1778=====
-大地が月を赤くそめる・・・
-その時は目前にまでせまってい
-る!
-$J=====1779=====
-ゲゴゴゴゴッ・・・!!」
-$J=====1780=====
+$E=====1774=====
+//ニーズホッグ
+//「ゲゴッ・・・
+Nidhoggr:
+"G-gah...
+$E=====1775=====
+//オマエらのような下等生物が、
+//よくもこのオレを!
+inferior creatures...
+how dare you!
+$E=====1776=====
+//よくもわが鉄(くろがね)の軍団
+//(ぐんだん)を!!
+How dare you do that to my
+iron army!
+$E=====1777=====
+//だがオレをたおしたところで、
+//ヴァナルガンドの復活(ふっか
+//つ)はもう止められない!
+You may have defeated me,
+but you can't stop
+Vanargand's revival!
+$E=====1778=====
+//大地が月を赤くそめる・・・
+//その時は目前にまでせまってい
+//る!
+The moon is stained red with
+earth. The time approaches,
+right before your eyes!
+$E=====1779=====
+//ゲゴゴゴゴッ・・・!!」
+Gwah hah hah hah...!"
+$E=====1780=====
 <PROC=0>
 <END>
-$J=====1781=====
-ラタトスク
-「おろかな・・・!!
-$J=====1782=====
-わたしだけが、ヴァナルガンド
-をあやつれたのだ
-$J=====1783=====
-破壊(はかい)の獣(けもの)、そ
-の恐怖(きょうふ)による世界支
-配・・・
-$J=====1784=====
-それだけが・・・
-$J=====1785=====
-傷(きず)ついたあの星を救う、
-唯一(ゆいいつ)の手段だったの
-だ!!
-$J=====1786=====
-わたしがいなければ・・・
-$J=====1787=====
-ヴァナルガンドは本能のまま、
-世界を破壊(はかい)する
-$J=====1788=====
-生者も死者もなく・・・
-すべてがほろび去る
-$J=====1789=====
-生も死も与えられずただそこに
-存在(そんざい)するもの、絶対
-存在(エターナル) ・・・
-$J=====1790=====
-それをたおせるものなど、
-$J=====1791=====
-この世界には存在(そんざい)し
-ない
-$J=====1792=====
-ウフフフフ・・・
-いいでしょう
-$J=====1793=====
-お行きなさい、
-$J=====1794=====
-はるかなる月世界・・・
-失われた楽園、まほろばへ
-$J=====1795=====
-そしてほろぼされるがいい
-$J=====1796=====
-破壊(はかい)の獣(けもの)と成
-り果てた・・・
-$J=====1797=====
-兄、サバタの手によって!
-$J=====1798=====
-ウッハッハッハッハッ!!」
-$J=====1799=====
+$E=====1781=====
+//ラタトスク
+//「おろかな・・・!!
+Ratatosk:
+"That fool...!
+$E=====1782=====
+//わたしだけが、ヴァナルガンド
+//をあやつれたのだ
+Vanargand will be mine alone
+to control.
+$E=====1783=====
+//破壊(はかい)の獣(けもの)、そ
+//の恐怖(きょうふ)による世界支
+//配・・・
+I shall rule the world with
+fear, using the Beast of
+Destruction...
+$E=====1784=====
+//それだけが・・・
+It's the only...
+$U=====1785=====
+//傷(きず)ついたあの星を救う、
+//唯一(ゆいいつ)の手段だったの
+the only way to rescue that
+wounded star!
+$E=====1786=====
+//わたしがいなければ・・・
+Without me...
+$E=====1787=====
+//ヴァナルガンドは本能のまま、
+//世界を破壊(はかい)する
+Vanargand's instincts would
+cause it to destroy the
+world.
+$E=====1788=====
+//生者も死者もなく・・・
+//すべてがほろび去る
+The living and the dead...
+it would destroy everything.
+$E=====1789=====
+//生も死も与えられずただそこに
+//存在(そんざい)するもの、絶対
+//存在(エターナル) ・・・
+A being that knows neither
+life nor death, simply
+existing. An Eternal...
+$E=====1790=====
+//それをたおせるものなど、
+there's nothing that could
+defeat such a being,
+$E=====1791=====
+//この世界には存在(そんざい)し
+//ない
+not in this world.
+$E=====1792=====
+//ウフフフフ・・・
+//いいでしょう
+Heh heh heh heh...
+very well.
+$E=====1793=====
+//お行きなさい、
+Go on,
+$E=====1794=====
+//はるかなる月世界・・・
+//失われた楽園、まほろばへ
+to the distant moon...
+to the splendid Lost
+Paradise.
+$E=====1795=====
+//そしてほろぼされるがいい
+And be destroyed,
+$E=====1796=====
+//破壊(はかい)の獣(けもの)と成
+//り果てた・・・
+by your brother Sabata's
+hands!
+$E=====1797=====
+//兄、サバタの手によって!
+He is nothing but the
+Beast of Destruction now.
+$E=====1798=====
+//ウッハッハッハッハッ!!」
+Uwah hah hah hah hah!
+$E=====1799=====
 <PROC=0>
 <END>
-$J=====1800=====
+$U=====1800=====
 エリアの北と西、4ヶ所の窓(ま
 ど)をかくしているバットをた
 おせば、
-$J=====1801=====
-エリアの中に太陽の光をみちび
-き、伯爵(はくしゃく)にダメー
-ジをあたえることができる
-$J=====1802=====
-だが、太陽ゲージがゼロでは意
-味がない。太陽センサーに太陽
-の光を当てるんだ!!
-$J=====1803=====
+$E=====1801=====
+//エリアの中に太陽の光をみちび
+//き、伯爵(はくしゃく)にダメー
+//ジをあたえることができる
+it will direct sunlight into
+the middle of the area and
+damage the Count.
+$E=====1802=====
+//だが、太陽ゲージがゼロでは意
+//味がない。太陽センサーに太陽
+//の光を当てるんだ!!
+But if the Solar Guage is at
+zero, nothing will happen.
+Shine light on the sensor!
+$E=====1803=====
 <PROC=0>
 <END>
-$J=====1804=====
-夜の一族(ヴァンパイア)である
-伯爵(はくしゃく)の得意属性(
-とくいぞくせい)はダークだ
-$J=====1805=====
-苦手であるソル属性(ぞくせい)
-の攻撃(こうげき)で、戦いにい
-どめ!!
-$J=====1806=====
+$E=====1804=====
+//夜の一族(ヴァンパイア)である
+//伯爵(はくしゃく)の得意属性(
+//とくいぞくせい)はダークだ
+Because the Count is a
+Vampire, his strong element
+is Dark.
+$E=====1805=====
+//苦手であるソル属性(ぞくせい)
+//の攻撃(こうげき)で、戦いにい
+//どめ!!
+Use his weakness, the Sol
+element, to fight him!
+$E=====1806=====
 <PROC=0>
 <END>
-$J=====1807=====
-伯爵(はくしゃく)の吸血(きゅ
-うけつ)を受けると、ダメージ
-を受けるばかりではなく、
-$J=====1808=====
-伯爵(はくしゃく)の暗黒ゲージ
-まで、回復(かいふく)させてし
-まう
-$J=====1809=====
-吸血(きゅうけつ)を受けてしま
-ったら、<WEIGHT>{＋}ボタン</WEIGHT>の連打で、た
-だちに脱出(だっしゅつ)せよ!!
-$J=====1810=====
+$E=====1807=====
+//伯爵(はくしゃく)の吸血(きゅ
+//うけつ)を受けると、ダメージ
+//を受けるばかりではなく、
+If the Count uses his
+bloodsucking attack, it
+won't just deal damage,
+$E=====1808=====
+//伯爵(はくしゃく)の暗黒ゲージ
+//まで、回復(かいふく)させてし
+//まう
+it will also recover his
+Dark Gauge.
+$E=====1809=====
+//吸血(きゅうけつ)を受けてしま
+//ったら、<WEIGHT>{＋}ボタン</WEIGHT>の連打で、た
+//だちに脱出(だっしゅつ)せよ!!
+If you're hit by it, quickly
+mash the <WEIGHT>{＋}Control Pad</WEIGHT>!
+$E=====1810=====
 <PROC=0>
 <END>
-$J=====1811=====
-全体攻撃(ぜんたいこうげき)で
-あるブラッドレインを、よける
-ことはできないが、
-$J=====1812=====
-伯爵(はくしゃく)自身は無防備
-(むぼうび)になる
-$J=====1813=====
-連続攻撃(れんぞくこうげき)を
-たたきこみ、一気に勝負をつけ
-ろ!!
-$J=====1814=====
+$E=====1811=====
+//全体攻撃(ぜんたいこうげき)で
+//あるブラッドレインを、よける
+//ことはできないが、
+Blood Rain attacks the
+entire area and cannot be
+avoided,
+$E=====1812=====
+//伯爵(はくしゃく)自身は無防備
+//(むぼうび)になる
+but it leaves the Count
+completely defenseless.
+$E=====1813=====
+//連続攻撃(れんぞくこうげき)を
+//たたきこみ、一気に勝負をつけ
+//ろ!!
+Attack the Count repeatedly
+and ensure your victory!
+$E=====1814=====
 <PROC=0>
 <END>
-$J=====1815=====
-上空を飛んでいるフレスベルグ
-に対して、
-$J=====1816=====
-地上からの攻撃(こうげき)でダ
-メージをあたえることは、むず
-かしい
-$J=====1817=====
-エリア内にある太陽の根をアー
-ス属性(ぞくせい)の攻撃(こう
-げき)で元気にし、
-$J=====1818=====
-その上から攻撃(こうげき)せよ
-!!
-$J=====1819=====
+$E=====1815=====
+//上空を飛んでいるフレスベルグ
+//に対して、
+Because Hresvelgr flies high
+in the air,
+$E=====1816=====
+//地上からの攻撃(こうげき)でダ
+//メージをあたえることは、むず
+//かしい
+it is difficult to damage
+him from the ground.
+$E=====1817=====
+//エリア内にある太陽の根をアー
+//ス属性(ぞくせい)の攻撃(こう
+//げき)で元気にし、
+Use Earth elemental attacks
+on the Solar Roots to make
+them grow,
+$E=====1818=====
+//その上から攻撃(こうげき)せよ
+//!!
+then attack Hresvelgr from
+atop them!
+$E=====1819=====
 <PROC=0>
 <END>
-$J=====1820=====
-上空を飛んでいるフレスベルグ
-に対して、
-$J=====1821=====
-地上からの攻撃(こうげき)でダ
-メージをあたえることは、むず
-かしいが、
-$J=====1822=====
-ソードの縦斬(たてぎ)りであれ
-ば、
-$J=====1823=====
-通常(つうじょう)のダメージを
-あたえることが可能(かのう)だ
-$J=====1824=====
+$E=====1820=====
+//上空を飛んでいるフレスベルグ
+//に対して、
+Because Hresvelgr flies high
+in the air,
+$E=====1821=====
+//地上からの攻撃(こうげき)でダ
+//メージをあたえることは、むず
+//かしいが、
+it is difficult to damage
+him from the ground.
+$E=====1822=====
+//ソードの縦斬(たてぎ)りであれ
+//ば、
+But if you have a long
+sword,
+$E=====1823=====
+//通常(つうじょう)のダメージを
+//あたえることが可能(かのう)だ
+it will usually be able to
+damage him.
+$E=====1824=====
 <PROC=0>
 <END>
-$J=====1825=====
-相手を地面にたたきつける攻撃
-(こうげき)、モズ落としは、
-$J=====1826=====
-つかまったら最後、脱出(だっ
-しゅつ)することはできない
-$J=====1827=====
-つかまえようとするフレスベル
-グの突進(とっしん)は、身をか
-わしてやりすごすか、
-$J=====1828=====
-連続攻撃(れんぞくこうげき)を
-たたきこみ撃退(げきたい)せよ
-!!
-$J=====1829=====
+$E=====1825=====
+//相手を地面にたたきつける攻撃
+//(こうげき)、モズ落としは、
+Shrike Drop is an attack
+that slams the opponent onto
+the ground.
+$E=====1826=====
+//つかまったら最後、脱出(だっ
+//しゅつ)することはできない
+If you end up caught, you
+won't be able to escape.
+$E=====1827=====
+//つかまえようとするフレスベル
+//グの突進(とっしん)は、身をか
+//わしてやりすごすか、
+When Hresvelger dives in to
+grab you, dodge and let him
+pass by you,
+$E=====1828=====
+//連続攻撃(れんぞくこうげき)を
+//たたきこみ撃退(げきたい)せよ
+//!!
+then drive him back with
+repeated attacks!
+$E=====1829=====
 <PROC=0>
 <END>
-$J=====1830=====
-エリアの南東には天窓(てんま
-ど)がある
-$J=====1831=====
-太陽の光さえあれば、太陽チャ
-ージが可能(かのう)だ
-$J=====1832=====
+$E=====1830=====
+//エリアの南東には天窓(てんま
+//ど)がある
+There's a skylight in the
+southeast part of the area.
+$E=====1831=====
+//太陽の光さえあれば、太陽チャ
+//ージが可能(かのう)だ
+As long as there's sunlight,
+a Solar Charge will be
+possible.
+$E=====1832=====
 <PROC=0>
 <END>
 $E=====1833=====
@@ -5989,155 +6298,229 @@ water!
 $E=====1853=====
 <PROC=0>
 <END>
-$J=====1854=====
-ニーズホッグの放つミサイルは
-その落下地点に、あらかじめ照
-準(しょうじゅん)があらわれる
-$J=====1855=====
-照準(しょうじゅん)があらわれ
-たら、ただちにその場をはなれ
-ミサイルを回避(かいひ)せよ!!
-$J=====1856=====
+$E=====1854=====
+//ニーズホッグの放つミサイルは
+//その落下地点に、あらかじめ照
+//準(しょうじゅん)があらわれる
+When Nidhoggr fires
+missiles, a target appears
+at their destination.
+$E=====1855=====
+//照準(しょうじゅん)があらわれ
+//たら、ただちにその場をはなれ
+//ミサイルを回避(かいひ)せよ!!
+When you see a target, get
+out of the way!
+$E=====1856=====
 <PROC=0>
 <END>
-$J=====1857=====
-ニーズホッグの弱点は、その巨
-大(きょだい)な2つの目玉だ
-$J=====1858=====
-ニーズホッグがその手を甲板(
-かんぱん)にふり下ろしたら、
-$J=====1859=====
-その手を伝って顔の上に乗り、
-2つの目玉を攻撃(こうげき)せ
-よ!!
-$J=====1860=====
+$E=====1857=====
+//ニーズホッグの弱点は、その巨
+//大(きょだい)な2つの目玉だ
+Nidhoggr's two gigantic eyes
+are its weak point.
+$E=====1858=====
+//ニーズホッグがその手を甲板(
+//かんぱん)にふり下ろしたら、
+When Nidhoggr swings its
+arms onto the deck,
+$E=====1859=====
+//その手を伝って顔の上に乗り、
+//2つの目玉を攻撃(こうげき)せ
+//よ!!
+climb up onto its face and
+attack its eyes!
+$E=====1860=====
 <PROC=0>
 <END>
-$J=====1861=====
-ニーズホッグは、その目玉から
-強力な殺人光線を放つ
-$J=====1862=====
-ふり下ろした手がふるえ始めた
-ら、直ちにその手を伝って船に
-もどれ!!
-$J=====1863=====
-にげおくれ、殺人光線を浴びれ
-ば、ゲームオーバーをまぬがれ
-ることはできない
-$J=====1864=====
+$E=====1861=====
+//ニーズホッグは、その目玉から
+//強力な殺人光線を放つ
+Nidhoggr can fire a powerful
+Murder Beam from its eyes.
+$E=====1862=====
+//ふり下ろした手がふるえ始めた
+//ら、直ちにその手を伝って船に
+//もどれ!!
+When its arms begin to
+shake, climb back down to
+your ship immediately!
+$E=====1863=====
+//にげおくれ、殺人光線を浴びれ
+//ば、ゲームオーバーをまぬがれ
+//ることはできない
+If you wait too long to
+escape, it's a guaranteed
+Game Over.
+$E=====1864=====
 <PROC=0>
 <END>
-$J=====1865=====
-ニーズホッグは、召喚(しょう
-かん)したトゲロボから得たエ
-ネルギーでバリアを張(は)る
-$J=====1866=====
-トゲロボを破壊(はかい)して、
-ニーズホッグのバリアを打ちや
-ぶれ!!
-$J=====1867=====
+$E=====1865=====
+//ニーズホッグは、召喚(しょう
+//かん)したトゲロボから得たエ
+//ネルギーでバリアを張(は)る
+The Spike Bots released by
+Nidhoggr gather energy and
+form a barrier.
+$E=====1866=====
+//トゲロボを破壊(はかい)して、
+//ニーズホッグのバリアを打ちや
+//ぶれ!!
+Attack the Spike Bots to
+destroy the barrier!
+$E=====1867=====
 <PROC=0>
 <END>
-$J=====1868=====
-ニーズホッグが落とす爆弾(ば
-くだん)は、<WEIGHT>{＋}ボタン</WEIGHT>で、けり
-飛ばすことができる
-$J=====1869=====
-上手くけることができれば、
-$J=====1870=====
-トゲロボやニーズホッグにダメ
-ージをあたえることも可能(か
-のう)だ
-$J=====1871=====
+$E=====1868=====
+//ニーズホッグが落とす爆弾(ば
+//くだん)は、<WEIGHT>{＋}ボタン</WEIGHT>で、けり
+//飛ばすことができる
+You can kick back the bombs
+that Nidhoggr drops, using
+the <WEIGHT>{＋}Control Pad</WEIGHT>.
+$E=====1869=====
+//上手くけることができれば、
+With enough skill,
+$E=====1870=====
+//トゲロボやニーズホッグにダメ
+//ージをあたえることも可能(か
+//のう)だ
+it's possible to damage both
+Nidhoggr and the Spike Bots.
+$E=====1871=====
 <PROC=0>
 <END>
-$J=====1872=====
-ラタトスクの攻撃(こうげき)、
-人形使いを受けると、
-$J=====1873=====
-身体の自由をうばわれ、ラタト
-スクの近くに引きよせられてし
-まう
-$J=====1874=====
-ダークウィップの一撃(いちげ
-き)を受ける前に、<WEIGHT>{＋}ボタン</WEIGHT>の
-連打で脱出(だっしゅつ)せよ!
-$J=====1875=====
+$E=====1872=====
+//ラタトスクの攻撃(こうげき)、
+//人形使いを受けると、
+Puppeteer, one of Ratatosk's
+attacks,
+$E=====1873=====
+//身体の自由をうばわれ、ラタト
+//スクの近くに引きよせられてし
+//まう
+takes control of your body
+and pulls you closer to him.
+$E=====1874=====
+//ダークウィップの一撃(いちげ
+//き)を受ける前に、<WEIGHT>{＋}ボタン</WEIGHT>の
+//連打で脱出(だっしゅつ)せよ!
+Before you get hit by Dark
+Whip, mash the <WEIGHT>{＋}Control Pad</WEIGHT>
+to escape!
+$E=====1875=====
 <PROC=0>
 <END>
-$J=====1876=====
-ラタトスクのなげるチャクラム
-は、そのブーメランのような動
-きに注意せよ!!
-$J=====1877=====
-またチャクラムには、しびれ薬
-がぬられている
-$J=====1878=====
-よけきれずマヒしてしまったと
-きは、<WEIGHT>{＋}ボタン</WEIGHT>の連打でただち
-に回復(かいふく)せよ!!
-$J=====1879=====
+$E=====1876=====
+//ラタトスクのなげるチャクラム
+//は、そのブーメランのような動
+//きに注意せよ!!
+Ratatosk's Chakram moves
+like a boomerang, so watch
+out!
+$E=====1877=====
+//またチャクラムには、しびれ薬
+//がぬられている
+It's also soaked in sleeping
+medicine.
+$E=====1878=====
+//よけきれずマヒしてしまったと
+//きは、<WEIGHT>{＋}ボタン</WEIGHT>の連打でただち
+//に回復(かいふく)せよ!!
+If you get Paralyzed from a
+cut, mash the <WEIGHT>{＋}Control Pad</WEIGHT>
+to recover!
+$E=====1879=====
 <PROC=0>
 <END>
-$J=====1880=====
-ラタトスクの攻撃(こうげき)、
-影使(かげつか)いでは、
-$J=====1881=====
-影(かげ)から生まれた分身に攻
-撃(こうげき)すると、自分がダ
-メージを受けてしまう
-$J=====1882=====
+$E=====1880=====
+//ラタトスクの攻撃(こうげき)、
+//影使(かげつか)いでは、
+Shadow Puppeteer, one of
+Ratatosk's attacks,
+$E=====1881=====
+//影(かげ)から生まれた分身に攻
+//撃(こうげき)すると、自分がダ
+//メージを受けてしまう
+creates clones from the
+shadows. If you attack them,
+you'll end up taking damage.
+$U=====1882=====
 姿(すがた)を消したラタトスク
 を見つけ出し、撃破(げきは)せ
 よ!!
-$J=====1883=====
-ラタトスクは分身から走る光の
-先にかくれているぞ!!
-$J=====1884=====
+$E=====1883=====
+//ラタトスクは分身から走る光の
+//先にかくれているぞ!!
+Ratatosk will be hiding in
+the light trail left by one
+of the clones!
+$E=====1884=====
 <PROC=0>
 <END>
-$J=====1885=====
-燃(も)える色の髪(かみ)を持つ
-ラタトスクの得意属性(とくい
-ぞくせい)はフレイムだ
-$J=====1886=====
-苦手であるフロスト属性(ぞく
-せい)の攻撃(こうげき)で、戦
-いにいどめ!!
-$J=====1887=====
+$E=====1885=====
+//燃(も)える色の髪(かみ)を持つ
+//ラタトスクの得意属性(とくい
+//ぞくせい)はフレイムだ
+With his fiery red hair,
+Ratatosk's, strong element
+is Flame.
+$E=====1886=====
+//苦手であるフロスト属性(ぞく
+//せい)の攻撃(こうげき)で、戦
+//いにいどめ!!
+Use his weakness, the Frost
+element, to fight him!
+$E=====1887=====
 <PROC=0>
 <END>
-$J=====1888=====
-ヴァナルガンドの2つの手、ホ
-ワイトアームとブラックアーム
-は、
-$J=====1889=====
-それぞれソル属性(ぞくせい)と
-ダーク属性(ぞくせい)を得意と
-する
-$J=====1890=====
-苦手であるダーク属性(ぞくせ
-い)、ソル属性(ぞくせい)で攻
-撃(こうげき)せよ!!
-$J=====1891=====
+$E=====1888=====
+//ヴァナルガンドの2つの手、ホ
+//ワイトアームとブラックアーム
+//は、
+Vanargand's two arms, the
+White Arm and Black Arm,
+$E=====1889=====
+//それぞれソル属性(ぞくせい)と
+//ダーク属性(ぞくせい)を得意と
+//する
+are Sol element and Dark
+element, respectively.
+$E=====1890=====
+//苦手であるダーク属性(ぞくせ
+//い)、ソル属性(ぞくせい)で攻
+//撃(こうげき)せよ!!
+Attack them with their
+weaknesses, the Dark and Sol
+elements!
+$E=====1891=====
 <PROC=0>
 <END>
-$J=====1892=====
-ヴァナルガンドが放つ属性(ぞ
-くせい)ビーム、怪光線(かいこ
-うせん)は、
-$J=====1893=====
-ソードでの攻撃(こうげき)で、
-打ち返すことが可能(かのう)だ
-$J=====1894=====
-ただし、怪光線(かいこうせん)
-を打ち返せば、ソードは大きな
-ダメージを受ける
-$J=====1895=====
-打ち返しに使うソードは、折(
-お)れることを覚悟(かくご)せ
-よ!!
-$J=====1896=====
+$E=====1892=====
+//ヴァナルガンドが放つ属性(ぞ
+//くせい)ビーム、怪光線(かいこ
+//うせん)は、
+Mystery Beams, the elemental
+beams that Vanargand fires,
+$E=====1893=====
+//ソードでの攻撃(こうげき)で、
+//打ち返すことが可能(かのう)だ
+can be deflected back at it
+with sword attacks.
+$E=====1894=====
+//ただし、怪光線(かいこうせん)
+//を打ち返せば、ソードは大きな
+//ダメージを受ける
+However, this will cause
+severe damage to the sword.
+$E=====1895=====
+//打ち返しに使うソードは、折(
+//お)れることを覚悟(かくご)せ
+//よ!!
+If you decide to use a sword
+to knock them back, be
+prepared for it to break!
+$E=====1896=====
 <PROC=0>
 <END>
 $J=====1897=====
@@ -8749,10 +9132,10 @@ $U=====2588=====
 Attacks include Dark Shot, Dark Seeds, Ice Lens, and Fire Ball. Uses snow.
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
-Attacks include Thorn Bot, Bomb, and Iron Ball. Creates a barrier.
+Attacks include Spine Bot, Bomb, and Iron Ball. Creates a barrier.
 $E=====2590=====
 //死人使い、人形使い、影使(かげつか)い、チャクラム、ダークウィップ、ダークホールなどで攻撃(こうげき)する。
-Attacks include Necromancy, Puppet Control, Shadow Control, Chakram, Dark Whip, and Dark Hole.
+Attacks include Necromancy, Puppeteer, Shadow Puppeteer, Chakram, Dark Whip, and Dark Hole.
 $E=====2591=====
 //ホワイトアーム、ブラックアーム、かみ付き、怪光線(かいこうせん)、破壊光線(はかいこうせん)などで攻撃(こうげき)する。
 Attacks include White Arm, Black Arm, Bite, Mystery Beam, and Destruction Beam.
