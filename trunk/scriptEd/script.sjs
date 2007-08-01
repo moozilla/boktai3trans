@@ -1,3 +1,4 @@
+挙==>拳
 $E=====0=====
 //「<EXTEND=0>のカギ」
 //を使った!!
@@ -6523,28 +6524,40 @@ prepared for it to break!
 $E=====1896=====
 <PROC=0>
 <END>
-$J=====1897=====
-ヴァナルガンドの頭部(とうぶ)
-は無属性(むぞくせい)だ
-$J=====1898=====
-弱点を突くことはできないが、
-$J=====1899=====
-属性攻撃(ぞくせいこうげき)を
-行えば、多少なりともダメージ
-をますことは可能(かのう)だ
-$J=====1900=====
+$E=====1897=====
+//ヴァナルガンドの頭部(とうぶ)
+//は無属性(むぞくせい)だ
+Vanargand's head has no
+strong element.
+$E=====1898=====
+//弱点を突くことはできないが、
+There's no specific weak
+point for you to hit,
+$E=====1899=====
+//属性攻撃(ぞくせいこうげき)を
+//行えば、多少なりともダメージ
+//をますことは可能(かのう)だ
+but elemental attacks will
+deal slightly more damage.
+$E=====1900=====
 <PROC=0>
 <END>
-$J=====1901=====
-ヴァナルガンドの腹部(ふくぶ)
-には、サバタがいる
-$J=====1902=====
-苦手であるソル属性(ぞくせい)
-で攻撃(こうげき)すれば、
-$J=====1903=====
-より多くのダメージをあたえる
-ことが可能(かのう)だが・・・
-$J=====1904=====
+$E=====1901=====
+//ヴァナルガンドの腹部(ふくぶ)
+//には、サバタがいる
+Sabata is located on
+Vanargand's abdomen.
+$E=====1902=====
+//苦手であるソル属性(ぞくせい)
+//で攻撃(こうげき)すれば、
+If you attack him with the
+Sol element,
+$E=====1903=====
+//より多くのダメージをあたえる
+//ことが可能(かのう)だが・・・
+it will deal a lot more
+damage, but...
+$E=====1904=====
 <PROC=0>
 <END>
 $E=====1905=====
@@ -6913,58 +6926,94 @@ $J=====1992=====
 そしてそのヴァナルガンドをあ
 やつる闇の一族(イモータル)に
 支配(しはい)された世界が、
-$J=====1993=====
-未来世紀さ<PROC=1>
-$J=====1994=====
-太陽はうばわれ、空には闇の一
-族(イモータル)が作り出した暗
-黒の太陽が浮かんでやがる
-$J=====1995=====
-地上は死者(アンデッド)の世界
-・・・
-$J=====1996=====
-人間は地下にかくれてくらすし
-かなかった
-$J=====1997=====
-食い物も満足に手に入らない地
-下世界じゃあ、同じ人間同士で
-もすべてがうばい合い
-$J=====1998=====
-食い物も、
-金も、
-命さえな・・・
-$J=====1999=====
-だれもが他人をうたがうそんな
-世界で、信じられるものといっ
-たら金だけさ。そうだろ?
-$J=====2000=====
-そんなみじめなオイラたちにと
-って、たった1つの希望は伝説
-の戦士だ
-$J=====2001=====
-かつて闇の一族(イモータル)と
-戦い、数々の伝説を残したとい
-う光の戦士
-$J=====2002=====
-その戦士さえあらわれてくれり
-ゃあ、世界は救われるってわけ
-だ
-$J=====2003=====
-でもよぉ、そんなのは子供だま
-しのおとぎ話さ
-$J=====2004=====
-伝説の戦士は仲間にうらぎられ
-世界のどこかに封印(ふういん)
-されちまったっていうが、
-$J=====2005=====
-だれもそれをさがそうだなんて
-しなかったからな
-$J=====2006=====
-<PROC=2>そんなことをしたバカは・・・
+$E=====1993=====
+//未来世紀さ<PROC=1>
+The Future Era.<PROC=1>
+$E=====1994=====
+//太陽はうばわれ、空には闇の一
+//族(イモータル)が作り出した暗
+//黒の太陽が浮かんでやがる
+The Immortals stole away the
+sun and put up an artificial
+dark sun.
+$E=====1995=====
+//地上は死者(アンデッド)の世界
+//・・・
+Above ground is the domain
+of the Undead...
+$E=====1996=====
+//人間は地下にかくれてくらすし
+//かなかった
+Humans had no choice but to
+hide underground to
+survive.
+$E=====1997=====
+//食い物も満足に手に入らない地
+//下世界じゃあ、同じ人間同士で
+//もすべてがうばい合い
+It provides nothing. Humans
+are forced to compete with
+each other for everything--
+$E=====1998=====
+//食い物も、
+//金も、
+//命さえな・・・
+food,
+money,
+even their lives...
+$E=====1999=====
+//だれもが他人をうたがうそんな
+//世界で、信じられるものといっ
+//たら金だけさ。そうだろ?
+Nobody trusts strangers
+there. The only thing that
+can be trusted is money.
+$E=====2000=====
+//そんなみじめなオイラたちにと
+//って、たった1つの希望は伝説
+//の戦士だ
+In our miserable situation,
+the Legendary Warrior is our
+only hope.
+$E=====2001=====
+//かつて闇の一族(イモータル)と
+//戦い、数々の伝説を残したとい
+//う光の戦士
+He once fought against the
+Immortals. Legends call him
+the Warrior of Light.
+$E=====2002=====
+//その戦士さえあらわれてくれり
+//ゃあ、世界は救われるってわけ
+//だ
+If only the Warrior would
+appear, the world would be
+saved.
+$E=====2003=====
+//でもよぉ、そんなのは子供だま
+//しのおとぎ話さ
+But... that's just a fairy
+tale that only children
+would believe.
+$E=====2004=====
+//伝説の戦士は仲間にうらぎられ
+//世界のどこかに封印(ふういん)
+//されちまったっていうが、
+The Legendary Warrior ended
+up betrayed by his friend
+and sealed away somewhere.
+$E=====2005=====
+//だれもそれをさがそうだなんて
+//しなかったからな
+Nobody went looking for the
+place.
+$E=====2006=====
+//<PROC=2>そんなことをしたバカは・・・
+<PROC=2>Only a fool would try...
 $E=====2007=====
 //オイラの母ちゃんぐらいだぜ」
-just like mom."
-$J=====2008=====
+a fool like my mom."
+$E=====2008=====
 <PROC=0>
 <END>
 $E=====2009=====
@@ -7390,7 +7439,7 @@ $E=====2099=====
 $E=====2100=====
 //<PROC=6>・・・
 <PROC=6>...
-$J=====2101=====
+$E=====2101=====
 //あの、<NAME>さん・・・
 umm... <NAME>...
 $E=====2102=====
@@ -7437,38 +7486,47 @@ $E=====2111=====
 <END>
 $E=====2112=====
 //<WEIGHT>{＋}ボタン</WEIGHT>左
-<WEIGHT>{＋}Control Pad</WEIGHT> Left
+<WEIGHT>{＋}Left</WEIGHT>
 $E=====2113=====
 //<WEIGHT>{＋}ボタン</WEIGHT>上
-<WEIGHT>{＋}Control Pad</WEIGHT> Up
+<WEIGHT>{＋}Up</WEIGHT>
 $E=====2114=====
 //<WEIGHT>{＋}ボタン</WEIGHT>右
-<WEIGHT>{＋}Control Pad</WEIGHT> Right
+<WEIGHT>{＋}Right</WEIGHT>
 $E=====2115=====
 //<WEIGHT>{＋}ボタン</WEIGHT>下
-<WEIGHT>{＋}Control Pad</WEIGHT> Down
-$J=====2116=====
-<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
-「あなたには今からここで発
-電をしてもらいます
-「あなたには今からここで発電をしてもらいます
-$J=====2117=====
-方法は簡単。
-<EXTEND=1>と<WEIGHT>Ａボタン</WEIGHT>を交互(
-こうご)に押(お)して走るだけ
-
-$J=====2118=====
-エナジーが発電されれば、それ
-が返済にあてられるというわけ
-です
+<WEIGHT>{＋}Down</WEIGHT>
+$E=====2116=====
+//<LABEL>暗黒ローンの<EXTEND=0>ちゃん</LABEL>
+//「あなたには今からここで発
+//電をしてもらいます
+<LABEL><EXTEND=0> of Dark Loans</LABEL>:
+"Starting now, you're going
+to run the generator for us.
+$E=====2117=====
+//方法は簡単。
+//<EXTEND=1>と<WEIGHT>Ａボタン</WEIGHT>を交互(
+//こうご)に押(お)して走るだけ
+It's simple. Alternate
+between pressing <EXTEND=1>
+and the <WEIGHT>A Button</WEIGHT> to run.
+$E=====2118=====
+//エナジーが発電されれば、それ
+//が返済にあてられるというわけ
+//です
+We'll take the energy you
+generate as repayment.
 $E=====2119=====
 //簡単ですね{note}
 Pretty simple, huh?{note}
-$J=====2120=====
-それでは<NAME>さん、
-よろしくお願いします」
+$E=====2120=====
+//それでは<NAME>さん、
+//よろしくお願いします」
+//<PROC=1><LOCK=48>
+Well then, <NAME>,
+if you please..."
 <PROC=1><LOCK=48>
-$J=====2121=====
+$E=====2121=====
 <PROC=0>
 <END>
 $E=====2122=====
@@ -7497,7 +7555,7 @@ keep using Dark Loans.
 $E=====2126=====
 //<PROC=1><PROC=2>ありがとうございました!!」<LOCK=48>
 <PROC=1><PROC=2>Thank you very much!"<LOCK=48>
-$J=====2127=====
+$E=====2127=====
 <PROC=0>
 <END>
 $E=====2128=====
@@ -7841,15 +7899,21 @@ $X=====2212=====
 {D2}{C2}{01}{08}{0B}{D1}{C1}{01}0{0B}{D5}{C1}{01}{B8}{0B}{CF}{C2}{01}{E0}{0B}{D4}{C2}{01}{F8}{0B}{D2}{C2}{01}{10}{0C}{D0}{C2}{01}({0C}{D2}{C2}{01}8{0C}{CF}{C2}{01}8{0C}{D4}{C2}{C0}{C0}{C0}
 $X=====2213=====
 {C3}{C5}{C1}{C3}{C1}{C5}{C1}{C3}{C2}{C3}{C1}{C4}{C3}{C1}{C1}{C1}{C3}{C1}{C5}{C1}{C3}{C6}{C1}{C1}{C3}{C1}{C5}{C1}{C3}{C2}{C3}{C1}{C4}{C3}{C5}{C1}{C3}{C6}{C1}{E2}{E3}{E3}{E3}{E4}{C1}{C4}{C3}{C2}{C5}{DF}{E0}{E0}{E0}{E1}{C3}{C5}{C1}{C3}{C1}{E2}{E3}{E3}{E3}{E4}{C1}{C4}{C3}{C2}{C5}{DF}{E0}{E0}{E0}{E1}{C3}{C2}{C3}{C2}{C5}{E2}{E3}{E3}{E3}{E4}{C1}{C4}{C3}{C2}{C5}{DF}{E0}{E0}{E0}{E1}{C3}{C5}{C1}{C3}{C1}{C1}{C5}{C1}{C3}{C3}{C1}{C4}{C1}{C6}{C1}{C3}{C3}{C1}{C4}{C1}{CC}{CD}{CE}{C3}{C2}{C1}{C5}{C1}{CC}{CD}{CE}{C3}{C3}{C1}{C4}{C1}{CC}{CD}{CE}{C5}{C3}{C1}{C3}{C1}{CC}{CD}{CE}{C3}{C2}{C1}{C5}{C1}{CC}{CD}{CE}{C3}{C3}{C1}{C4}{C1}{CC}{CD}{CE}{C2}{C3}{C1}{C3}{C1}{C6}{C1}{C3}{C1}{C2}{D4}{D5}{D5}{D5}{D6}{C3}{C1}{C1}{C4}{C1}{C1}{C2}{C3}{C1}{C3}{C6}{C1}{C3}{C1}{C2}{C5}{C3}{C1}{C3}{C1}{C3}{C1}{C3}{C1}{C6}{D9}{DA}{DA}{DA}{DB}{C1}{C3}{C1}{C1}{C6}{C3}{C4}{C2}{C1}{C1}{C5}{C1}{C6}{C3}{CF}{D0}{D1}{D2}{D2}{D2}{D2}{D3}{C2}{C1}{C1}{C1}{C6}{C1}{C3}{C1}{C1}{C3}{C1}{C6}{C3}{C4}{C1}{C6}{C3}{C3}{C4}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C4}{DF}{E0}{E0}{E0}{E1}{C1}{C6}{C3}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C3}{E2}{E3}{E3}{E3}{E4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C1}{DF}{E0}{E0}{E0}{E1}{C1}{C6}{C5}{C3}{CC}{CD}{CE}{C1}{E2}{E3}{E3}{E3}{E4}{C3}{C3}{C4}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C4}{DF}{E0}{E0}{E0}{E1}{C1}{C6}{C3}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C3}{E2}{E3}{E3}{E3}{E4}{C1}{C3}{C1}{C1}{C6}{C3}{C4}{C1}{C1}{C6}{C3}{C5}{C3}{C1}{C3}{C1}{C2}{C7}{C8}{C9}{CA}{CA}{CA}{D8}{D2}{D2}{D2}{D2}{D3}{C1}{C6}{C3}{C5}{C3}{C1}{C3}{C1}{C2}{C1}{C6}{C3}{C4}{C1}{C1}{C6}{C3}{C1}{C3}{C1}{C2}{C1}{C6}{C3}{C4}{C1}{C1}{C1}{C1}{C6}{C3}{E2}{E3}{E3}{E3}{E4}{C1}{C3}{C1}{C2}{C1}{C6}{C3}{C1}{C6}{C3}{C4}{C1}{C7}{C8}{C9}{CA}{CB}{C1}{C6}{C3}{C1}{C3}{C4}{C1}{C1}{C6}{C3}{C3}{C1}{C3}{C4}{C1}{C1}{C6}{C1}{D4}{D5}{D5}{D5}{D6}{C3}{C1}{C6}{C3}{C4}{C1}{C1}{C6}{C3}{C1}{C2}{C1}{C6}{C3}{C1}{C6}{C3}{C1}{C6}{C3}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C3}{C4}{C1}{C1}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C1}{C3}{C2}{C1}{C6}{C3}{C5}{C1}{C3}{C2}{C3}{C4}{C1}{C3}{D9}{DA}{DA}{DA}{DB}{C2}{C1}{C6}{C3}{C5}{C1}{C3}{C2}{D4}{D5}{D5}{D5}{D6}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{D9}{DA}{DA}{DA}{DB}{C3}{C2}{C3}{C4}{C1}{C5}{C1}{C3}{D4}{D5}{D5}{D5}{D6}{C5}{C1}{C3}{C2}{C1}{C6}{C3}{C1}{C3}{C2}{C3}{C4}{C3}{C3}{C5}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C3}{C4}{C1}{C1}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C1}{C5}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C2}{C1}{C3}{DF}{E0}{E0}{E0}{E1}{C3}{C2}{C6}{C3}{E2}{E3}{E3}{E3}{E4}{C6}{C3}{C3}{C3}{DF}{E0}{E0}{E0}{E1}{C3}{C2}{C1}{C3}{E2}{E3}{E3}{E3}{E4}{C5}{C1}{C1}{C3}{C3}{C3}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C4}{C3}{C6}{C1}{C5}{C1}{C3}{C2}{C1}{C6}{D9}{DA}{DA}{DA}{DB}{C3}{C1}{C3}{C4}{C3}{D4}{D5}{D5}{D5}{D6}{C3}{C2}{C1}{C6}{C3}{D9}{DA}{DA}{DA}{DB}{C1}{C6}{C3}{C3}{C3}{D4}{D5}{D5}{D5}{D6}{C3}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C3}{C5}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C3}{C2}{C1}{C4}{C3}{C1}{C3}{C3}{D7}{C2}{C1}{C6}{C3}{C1}{C0}{C0}{C0}{C0}{C0}
-$J=====2214=====
-<LABEL=SABATA></LABEL>やあやあ
-たすけてやるぜ
-さきいってていいよ<LOCK=20>
-$J=====2215=====
-<LABEL=SABATA></LABEL>まあそういうことで
-おつかれ
-またな<LOCK=20>
-$J=====2216=====
+$U=====2214=====
+//<LABEL=SABATA></LABEL>やあやあ
+//たすけてやるぜ
+//さきいってていいよ<LOCK=20>
+<LABEL=SABATA></LABEL>Well well, you helped me
+out. What you said back
+there is fine.<LOCK=20>
+$U=====2215=====
+//<LABEL=SABATA></LABEL>まあそういうことで
+//おつかれ
+//またな<LOCK=20>
+<LABEL=SABATA></LABEL>Well that's how it is.
+Thanks.
+Later.<LOCK=20>
+$E=====2216=====
 <PROC=0>
 <END>
 $X=====2217=====
@@ -8447,7 +8511,7 @@ $E=====2407=====
 ---
 $E=====2408=====
 ???
-$J=====2409=====
+$E=====2409=====
 //ボディのつけかえによるスロッ
 //ト減少(げんしょう)分、オプシ
 //ョンが外されました
@@ -8481,13 +8545,13 @@ $E=====2417=====
 $E=====2418=====
 // 太陽センサーと?
  SOLAR SENSOR & ? ? ?
-$J=====2419=====
+$C=====2419=====
 「新・ボクらの太陽」では、カ
 ートリッジ上部の太陽センサー
 に太陽の光を当てることにより
 ゲームの中でさまざまな効果を
 楽しむことが出来ます。
-$J=====2420=====
+$C=====2420=====
 「新・ボクらの太陽」では、カ
 ートリッジ上部の太陽センサー
 に太陽の光を当てることにより
@@ -9157,30 +9221,30 @@ Sabata after succeeding the Beast of Destruction. The madness induced by Vanarga
 $E=====2597=====
 //ぬすみの言いわけに「伝説の戦士」の子孫だとかたったため、戦士をさがし出し、その死を未然にふせぐことを命じられた自称(じしょう)「トレジャーハンター」。母の形見である「鉄鍋(てつなべ)」と「青ポンチョ」を身にまとう。
 A self-styled Treasure Hunter who claims to be descended from the Legendary Warrior, he seeks out the Warrior to prevent his death. He wears the Iron Pot and Blue Poncho as a memento of his mother.
-$J=====2598=====
-石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
-$J=====2599=====
-道具屋の少女。太陽樹(たいようじゅ)を守る大地の巫女(みこ)であり、太陽の果実を育てることができる。<NAME>をしたう一途(いちず)な少女だが、徒手空挙(としゅくうけん)において彼女の右に出る者はいない。
-$J=====2600=====
-星読みの少女。今は亡(な)き伝説の魔女「ひまわり娘(むすめ)」の弟子であり、その絶大(ぜつだい)なる魔力を持って、サン・ミゲルを魔物(モンスター)から守っている。サバタやカーミラのことが気にかかるようだが・・・。
-$J=====2601=====
-鍛冶屋(ブラックスミス)の親父。かつては「ガンマスター」とも呼ばれた天才銃職人(ガンスミス)で、「紅(くれない)のリンゴ」に銃(じゅう)を教えた男だが、片目(かため)を失って以来、戦いをしりぞいている。スミレの本名とその父親を知る数少ない人物の1人。
-$J=====2602=====
-<NAME>の家で留守番(るすばん)をしてくれている少女。かつての伯爵(はくしゃく)の襲撃(しゅうげき)により母親を失い、スミスに引き取られた。本人にその自覚はないが、ショックにより以前の記憶(きおく)を失っている。
-$J=====2603=====
-黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
-$J=====2604=====
-アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
-//Acessory-ya no shounen.
-//Tenshu deatta "Item Master" no fuzai ni katte ni mise o hirake, 
-//shoubai ga emadeshite shimau o choushitemo.
-//sono mi, giri gatai "Afromaster" ningyouha.
-//The young man from the accessory shop.
-//Shopkeeper "Item Master" no absence ni arbitrarily opens the store,
-//business gaemadeshite shiyou matter of chance.
-//in fact, girigatai "Afromaster" human interest group.
-$J=====2605=====
-武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
+$C=====2598=====
+//石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
+The Crying Witch who controls the petrifying Deadly Wind. Born as a human, her soul was scattered when she became an Immortal. But even in death, she continues to watch over Sabata as a phantom girl.
+$E=====2599=====
+//道具屋の少女。太陽樹(たいようじゅ)を守る大地の巫女(みこ)であり、太陽の果実を育てることができる。<NAME>をしたう一途(いちず)な少女だが、徒手空拳(としゅくうけん)において彼女の右に出る者はいない。
+The girl from the Item Shop. As the Earthly Maiden who protects the Solar Tree, she can grow Solar Fruit. She completely adores <NAME>, but her bare-fisted fighting skill is unmatched.
+$E=====2600=====
+//星読みの少女。今は亡(な)き伝説の魔女「ひまわり娘(むすめ)」の弟子であり、その絶大(ぜつだい)なる魔力を持って、サン・ミゲルを魔物(モンスター)から守っている。サバタやカーミラのことが気にかかるようだが・・・。
+The Star Reader. Apprentice to the legendary witch, the late Sunflower Girl, she protects San Miguel with that powerful magic. She seems troubled by Sabata and Carmilla...
+$E=====2601=====
+//鍛冶屋(ブラックスミス)の親父。かつては「ガンマスター」とも呼ばれた天才銃職人(ガンスミス)で、「紅(くれない)のリンゴ」に銃(じゅう)を教えた男だが、片目(かため)を失って以来、戦いをしりぞいている。スミレの本名とその父親を知る数少ない人物の1人。
+An aged blacksmith. Once known as the Legendary Gunsmith, he taught Red Ringo how to shoot. He has withdrawn from fighting since losing an eye. One of the few people who know Violet's real name and her father.
+$E=====2602=====
+//<NAME>の家で留守番(るすばん)をしてくれている少女。かつての伯爵(はくしゃく)の襲撃(しゅうげき)により母親を失い、スミスに引き取られた。本人にその自覚はないが、ショックにより以前の記憶(きおく)を失っている。
+A girl who is house-sitting for <NAME> while he's away. Has been cared for by Smith since she lost her mother in the Count's raid. She's not self-conscious, but due to the shock she lost her memories prior to the incident.
+$U=====2603=====
+//黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
+A black kitten. Violet's adventuring friend. His true form is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
+$U=====2604=====
+//アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
+The boy from the Accessory Shop. In the absense of the owner, Item Master, he opens the store arbitrarily. The truth is, he does it out of a sense of duty to the Afro Master human interest group.
+$U=====2605=====
+//武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
+The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. To Kid, he is also the Ice Warrior, Item Master.
 $J=====2606=====
 図書館の司書。その正体は組織(ギルド)中央から派遣(はけん)された「ギルドマスター」。封印術(ふういんじゅつ)の他、護身術(ごしんじゅつ)にも長けており、リタの才能(さいのう)を開花させた張本人(ちょうほんにん)。
 $E=====2607=====
@@ -9779,7 +9843,7 @@ $E=====2785=====
 //ない
 it won't be able to attack
 them.
-$J=====2786=====
+$E=====2786=====
 //だが、その破壊力(はかいりょ
 //く)だけは保証(ほしょう)する
 //ぞ
@@ -10158,30 +10222,43 @@ $E=====2858=====
 <LABEL=SHAIAN>Cheyenne</LABEL>:
 "Have you heard about SP
 effects?
-$U=====2859=====
-マヒ、ふき飛ばしなど、さまざ
-まだが、
-$J=====2860=====
-いずれも、太陽鍛冶(たいよう
-かじ)で強化することで初めて
-付け加えることができる
+$E=====2859=====
+//マヒ、ふき飛ばしなど、さまざ
+//まだが、
+There are a variety of
+effects, such as poison and
+knockback.
+$E=====2860=====
+//いずれも、太陽鍛冶(たいよう
+//かじ)で強化することで初めて
+//付け加えることができる
+They can be obtained both
+when fusing two items and
+when reinforcing one.
 $E=====2861=====
 //SP(特殊効果)が付いたソードに
 //は、名前の後ろにSPが付くぞ
 Swords with SP effects will
 have SP appended to their
 names.
-$J=====2862=====
-また、SP(特殊効果)を付けるこ
-とができるかどうかは、おまえ
-の運しだいだが、
-$J=====2863=====
-潜在能力(せんざいのうりょく)
-の高いアクセサリーを使えば、
-$J=====2864=====
-その確率(かくりつ)を引き上げ
-ることが可能(かのう)だ」
-$J=====2865=====
+$E=====2862=====
+//また、SP(特殊効果)を付けるこ
+//とができるかどうかは、おまえ
+//の運しだいだが、
+Again, however you obtain SP
+effects, whether you get one
+is up to chance,
+$E=====2863=====
+//潜在能力(せんざいのうりょく)
+//の高いアクセサリーを使えば、
+but if you use accessories
+with high potential,
+$E=====2864=====
+//その確率(かくりつ)を引き上げ
+//ることが可能(かのう)だ」
+it's possible to increase
+the odds."
+$E=====2865=====
 <PROC=0>
 <END>
 $E=====2866=====
@@ -10771,133 +10848,205 @@ on the damage meter, okay?"
 $E=====2990=====
 <PROC=0>
 <END>
-$J=====2991=====
-<LABEL=RITA>リタ</LABEL>
-「<NAME>さま、
-アイテムは足りていますか?
-$J=====2992=====
-アイテムが必要なときには、い
-つでもいらしてくださいね
-$J=====2993=====
-<PROC=7>もちろん、そうでないときにも
-・・・
-$J=====2994=====
-<PROC=3>い、いえ!
-何でもありません!!
-$J=====2995=====
-<PROC=8>いつも心に太陽を!」
-$J=====2996=====
+$E=====2991=====
+//<LABEL=RITA>リタ</LABEL>
+//「<NAME>さま、
+//アイテムは足りていますか?
+<LABEL=RITA>Lita</LABEL>:
+"<NAME>,
+do you have enough items?
+$E=====2992=====
+//アイテムが必要なときには、い
+//つでもいらしてくださいね
+Whenever you need items,
+you can always stop by,
+okay?
+$E=====2993=====
+//<PROC=7>もちろん、そうでないときにも
+//・・・
+<PROC=7>of course, even if you don't
+need any...
+$E=====2994=====
+//<PROC=3>い、いえ!
+//何でもありません!!
+<PROC=3>n-nothing!
+Never mind!
+$E=====2995=====
+//<PROC=8>いつも心に太陽を!」
+<PROC=8>Keep the Sun always in your
+heart!"
+$E=====2996=====
 <PROC=9>
 <PROC=0>
 <END>
-$J=====2997=====
-<LABEL=RITA>リタ</LABEL>
-「ごぞんじですか?
-$J=====2998=====
+$E=====2997=====
+//<LABEL=RITA>リタ</LABEL>
+//「ごぞんじですか?
+<LABEL=RITA>Lita</LABEL>:
+"Have you heard?
+$E=====2998=====
 この店で売っているアイテムの
 多くは、
-$J=====2999=====
-冒険家(ぼうけんか)の???(ハテ
-ナ)さんが、各地を回って買い
-付けてくれているんです
-$J=====3000=====
-もし、冒険(ぼうけん)の途中で
-お会いになった???(ハテナ)さ
-んから、
-$J=====3001=====
-この店で売っていないアイテム
-を買ってきて、わたしに売って
-くだされば、
-$J=====3002=====
-それを買い付けて、この店の品
-ぞろえをふやすことができます
-$J=====3003=====
-???(ハテナ)さんが売っている
-アイテムは、レアなものが多い
-そうですから、
-$J=====3004=====
-きっと、<NAME>さまの冒険(ぼうけん)にも役立ちますわ」
-$J=====3005=====
+There's an adventurer, ???
+(Unknown), who travels
+around several areas,
+$E=====2999=====
+//冒険家(ぼうけんか)の???(ハテ
+//ナ)さんが、各地を回って買い
+//付けてくれているんです
+buying many of the goods we
+sell here.
+$E=====3000=====
+//もし、冒険(ぼうけん)の途中で
+//お会いになった???(ハテナ)さ
+//んから、
+If by chance you meet him
+during your adventure,
+$E=====3001=====
+//この店で売っていないアイテム
+//を買ってきて、わたしに売って
+//くだされば、
+and you buy any items that
+we don't offer here,
+$E=====3002=====
+//それを買い付けて、この店の品
+//ぞろえをふやすことができます
+I can add them to our stock
+if you sell me one of them.
+$E=====3003=====
+//???(ハテナ)さんが売っている
+//アイテムは、レアなものが多い
+//そうですから、
+??? (Unknown) seems to sell
+a lot of rare items,
+$E=====3004=====
+//きっと、<NAME>さまの冒険(ぼうけん)にも役立ちますわ」
+which will surely aid you on
+your adventure."
+$E=====3005=====
 <PROC=0>
 <END>
-$J=====3006=====
-<LABEL=RITA>リタ</LABEL>
-「辺境(へんきょう)の大樹海(
-だいじゅかい)、
-$J=====3007=====
-<NAME>さまをお救いくださった古(いにしえ)の大樹(たいじゅ)さまとは・・・
-$J=====3008=====
-死の都イストラカンや、
+$E=====3006=====
+//<LABEL=RITA>リタ</LABEL>
+//「辺境(へんきょう)の大樹海(
+//だいじゅかい)、
+<LABEL=RITA>Lita</LABEL>:
+That Ancient Tree you
+helped,
+$E=====3007=====
+//<NAME>さまをお救いくださった古(いにしえ)の大樹(たいじゅ)さまとは・・・
+in the remote forest...
+$E=====3008=====
+//死の都イストラカンや、
+the Solar Trees that are
+purifying the City of Death,
+Istrakan,
 $J=====3009=====
-このサン・ミゲルの大地を浄化
-(じょうか)してくださっている
-太陽樹(たいようじゅ)さま、
-$J=====3010=====
-その始祖(しそ)であられる世界
-樹(せかいじゅ)さまなのでしょ
-うか?
-$J=====3011=====
-<PROC=2>いつかわたしも・・・
-お会いしてみたいですわ」
-$J=====3012=====
+//このサン・ミゲルの大地を浄化
+//(じょうか)してくださっている
+//太陽樹(たいようじゅ)さま、
+and the lands around San
+Miguel...
+$E=====3010=====
+//その始祖(しそ)であられる世界
+//樹(せかいじゅ)さまなのでしょ
+//うか?
+Do you think they came from
+the World Tree itself?
+$E=====3011=====
+//<PROC=2>いつかわたしも・・・
+//お会いしてみたいですわ」
+<PROC=2>I'd like meet it too,
+someday..."
+$E=====3012=====
 <PROC=9>
 <PROC=0>
 <END>
-$J=====3013=====
-<LABEL=RITA>リタ</LABEL>
-「大地の実やおいしい肉などの
-生ものは、
-$J=====3014=====
-回復量が大きい代わりに、太陽
-の光を浴びすぎると、くさって
-しまいます
-$J=====3015=====
-反対に回復薬などのお薬や干し
-肉などは、
-$J=====3016=====
-回復量は小さいですが、太陽の
-光を浴びてもくさることはあり
-ません
-$J=====3017=====
-目的や状況(じょうきょう)に合
-わせて、うまく使い分けてくだ
-さいね」
-$J=====3018=====
+$E=====3013=====
+//<LABEL=RITA>リタ</LABEL>
+//「大地の実やおいしい肉などの
+//生ものは、
+<LABEL=RITA>Lita</LABEL>:
+"Perishables like Earthly
+Nut and Tasty Meat
+$E=====3014=====
+//回復量が大きい代わりに、太陽
+//の光を浴びすぎると、くさって
+//しまいます
+recover a lot of health, but
+start to rot when exposed to
+sunlight.
+$E=====3015=====
+//反対に回復薬などのお薬や干し
+//肉などは、
+On the other hand, for items
+like Healer and Dried Meat,
+$E=====3016=====
+//回復量は小さいですが、太陽の
+//光を浴びてもくさることはあり
+//ません
+they recover a smaller
+amount but never go bad.
+$E=====3017=====
+//目的や状況(じょうきょう)に合
+//わせて、うまく使い分けてくだ
+//さいね」
+Please weigh the pros and
+cons and use the right type
+of item for your situation."
+$E=====3018=====
 <PROC=0>
 <END>
-$J=====3019=====
-<PROC=2><LABEL=RITA>リタ</LABEL>
-「やはりサバタさまは・・・
-$J=====3020=====
-自らの意思で、<NAME>さまをうらぎっていたわけではなかったんですね
-$J=====3021=====
-命をかけたサバタさまの想い、
-$J=====3022=====
-<PROC=3>それさえも利用するなんて!
-$J=====3023=====
-人形使い、ラタトスク・・・
-$J=====3024=====
-<PROC=4>絶対(ぜったい)にゆるせないで
-すわ!!」
-$J=====3025=====
+$E=====3019=====
+//<PROC=2><LABEL=RITA>リタ</LABEL>
+//「やはりサバタさまは・・・
+<PROC=2><LABEL=RITA>Lita</LABEL>:
+"I knew it...
+$E=====3020=====
+//自らの意思で、<NAME>さまをうらぎっていたわけではなかったんですね
+Sabata didn't betray Master
+<NAME> by his own will.
+$E=====3021=====
+//命をかけたサバタさまの想い、
+To take control of his mind,
+$E=====3022=====
+//<PROC=3>それさえも利用するなんて!
+<PROC=3>and just manipulate him
+like that!
+$E=====3023=====
+//人形使い、ラタトスク・・・
+The Puppeteer, Ratatosk...
+$E=====3024=====
+//<PROC=4>絶対(ぜったい)にゆるせないで
+//すわ!!」
+<PROC=4>I'll never forgive him!"
+$E=====3025=====
 <PROC=9>
 <PROC=0>
 <END>
-$J=====3026=====
-<LABEL=RITA>リタ</LABEL>
-「ごぞんじですか?
-$J=====3027=====
-くさったアイテムを食べると、
-お腹(なか)をこわし、毒化して
-しまいます
-$J=====3028=====
-いくらお腹(なか)がすいても、
-くさったアイテムをむやみに食
-るのはやめてくださいね?」
-$J=====3029=====
+$E=====3026=====
+//<LABEL=RITA>リタ</LABEL>
+//「ごぞんじですか?
+<LABEL=RITA>Lita</LABEL>:
+"Have you heard?
+$E=====3027=====
+//くさったアイテムを食べると、
+//お腹(なか)をこわし、毒化して
+//しまいます
+If you eat rotten items,
+you'll end up with food
+poisoning.
+$E=====3028=====
+//いくらお腹(なか)がすいても、
+//くさったアイテムをむやみに食
+//るのはやめてくださいね?」
+No matter how hungry you
+are, don't eat rotten food
+carelessly, okay?"
+$E=====3029=====
 <PROC=0>
 <END>
-$J=====3030=====
+$E=====3030=====
 <LABEL=RITA>リタ</LABEL>
 「かつての闇の女王(クイーン)
 との決戦の地、
@@ -13351,7 +13500,7 @@ Your abilities are already
 beyond that of an agent.
 $E=====3638=====
 //これだったら、リタちゃんの徒
-//手空挙(としゅくうけん)にもた
+//手空拳(としゅくうけん)にもた
 //えられるわね
 I bet you could even
 withstand Lita's bare-fisted
@@ -21599,8 +21748,8 @@ $E=====5607=====
 //ってきた、わたしのことまでわ
 //すれてはいないだろうな?
 you haven't forgotten me?
-We fought together against
-the Immortals.
+We came here together,
+fighting the Immortals.
 $E=====5608=====
 //わたしは太陽の使者、
 //おてんこだ
