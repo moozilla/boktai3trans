@@ -4901,7 +4901,7 @@ $E=====1572=====
 <END>
 $E=====1573=====
 <EXTEND=0>
-$C=====1574=====
+$U=====1574=====
 <LABEL=RITA>リタ</LABEL>
 ここにデモが入りますわ。
 $E=====1575=====
@@ -4909,7 +4909,7 @@ $E=====1575=====
 <END>
 $E=====1576=====
 <EXTEND=0>
-$C=====1577=====
+$U=====1577=====
 <LABEL=ZAJI>ザジ</LABEL>
 ここはパネルが入るんやで。
 $E=====1578=====
@@ -4917,7 +4917,7 @@ $E=====1578=====
 <END>
 $E=====1579=====
 <EXTEND=0>
-$C=====1580=====
+$U=====1580=====
 <LABEL=ROCKMAN>ロックマン</LABEL>
 ここに会話が入るよ。
 $E=====1581=====
@@ -9237,15 +9237,16 @@ $E=====2602=====
 A girl who is house-sitting for <NAME> while he's away. Has been cared for by Smith since she lost her mother in the Count's raid. She's not self-conscious, but due to the shock she lost her memories prior to the incident.
 $U=====2603=====
 //黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
-A black kitten. Violet's adventuring friend. His true form is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
+A black kitten. Violet's adventuring friend. His true identity is as a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
 $U=====2604=====
 //アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
 The boy from the Accessory Shop. In the absense of the owner, Item Master, he opens the store arbitrarily. The truth is, he does it out of a sense of duty to the Afro Master human interest group.
-$U=====2605=====
+$E=====2605=====
 //武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
-The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. To Kid, he is also the Ice Warrior, Item Master.
-$J=====2606=====
-図書館の司書。その正体は組織(ギルド)中央から派遣(はけん)された「ギルドマスター」。封印術(ふういんじゅつ)の他、護身術(ごしんじゅつ)にも長けており、リタの才能(さいのう)を開花させた張本人(ちょうほんにん)。
+The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. He still hasn't told Kid about the death of the Ice Warrior, Item Master.
+$E=====2606=====
+//図書館の司書。その正体は組織(ギルド)中央から派遣(はけん)された「ギルドマスター」。封印術(ふういんじゅつ)の他、護身術(ごしんじゅつ)にも長けており、リタの才能(さいのう)を開花させた張本人(ちょうほんにん)。
+The librarian. She's actually a Guild Master sent from the central Guild. Besides sealing arts, she also excels at self defense, and she's to blame for Lita's budding skill.
 $E=====2607=====
 //愛する者を失い、そのショックに自分をも失ってしまった男。棺桶(かんおけ)に執着(しゅうちゃく)し、ついには究極の棺桶(かんおけ)「ベクターコフィン」と「棺桶(かんおけ)バイク」を作るにいたった。コーチとの関係は・・・?
 A man who lost himself from the shock of losing his loved one. Attached to coffins, he has finally created the ultimate coffin "Vector Coffin" and "Coffin Bike". Just what is his connection to Coach...?
@@ -10940,7 +10941,7 @@ $E=====3008=====
 the Solar Trees that are
 purifying the City of Death,
 Istrakan,
-$J=====3009=====
+$E=====3009=====
 //このサン・ミゲルの大地を浄化
 //(じょうか)してくださっている
 //太陽樹(たいようじゅ)さま、
@@ -11046,21 +11047,31 @@ $E=====3029=====
 <PROC=0>
 <END>
 $E=====3030=====
-<LABEL=RITA>リタ</LABEL>
-「かつての闇の女王(クイーン)
-との決戦の地、
-$J=====3031=====
-暗黒城(あんこくじょう)・・・
-$J=====3032=====
-それが今ふたたび、動き始めた
-だなんて・・・
-$J=====3033=====
-<PROC=2>銀河意思(ダーク)は・・・
-$J=====3034=====
+//<LABEL=RITA>リタ</LABEL>
+//「かつての闇の女王(クイーン)
+//との決戦の地、
+<LABEL=RITA>Lita</LABEL>:
+"The Dark Castle,
+$E=====3031=====
+//暗黒城(あんこくじょう)・・・
+where the decisive battle
+with the Queen was once
+fought...
+$E=====3032=====
+//それが今ふたたび、動き始めた
+//だなんて・・・
+it's once again beginning to
+stir...
+$E=====3033=====
+//<PROC=2>銀河意思(ダーク)は・・・
+1234567890123456789012345678
+<PROC=2>The Galaxy Universe, Dark,
+is...
+$U=====3034=====
 生ける者はおろか・・・死した
 者にさえ、安らぎをあたえては
 くれないのでしょうか・・・」
-$J=====3035=====
+$E=====3035=====
 <PROC=9>
 <PROC=0>
 <END>
