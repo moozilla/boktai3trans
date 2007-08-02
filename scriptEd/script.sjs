@@ -10889,8 +10889,8 @@ $E=====2997=====
 <LABEL=RITA>Lita</LABEL>:
 "Have you heard?
 $E=====2998=====
-この店で売っているアイテムの
-多くは、
+//この店で売っているアイテムの
+//多くは、
 There's an adventurer, ???
 (Unknown), who travels
 around several areas,
@@ -12010,14 +12010,14 @@ $E=====3242=====
 $E=====3243=====
 //SP(特殊効果)は・・・
 //<EXTEND=1>
-SP effect:
+As for  SP effects...
 <EXTEND=1>
 $E=====3244=====
 <PROC=0>
 <END>
 $E=====3245=====
 //すばらしい出来ばえじゃな!!
-Extremely well done!
+Great job!
 $E=====3246=====
 //いい出来じゃな!
 Well done!
@@ -12029,16 +12029,16 @@ $E=====3248=====
 Not very good.
 $E=====3249=====
 //すでに付いておるな!」
-It can't improve any more!"
+it already has one!"
 $E=====3250=====
 //付いたようじゃぞ!!」
-Looks like it improved!"
+it gained one!"
 $E=====3251=====
 //付かなかったようじゃな」
-Looks like it got worse."
+it didn't gain any."
 $E=====3252=====
 //付かないようじゃな」
-Looks like it can't get any worse."
+it can't gain any."
 $E=====3253=====
 //<LABEL=SMITH>スミス</LABEL>
 //「最強のヴァンパイアハンター
@@ -14010,27 +14010,42 @@ $E=====3688=====
 //「知ってる?
 <LABEL=LADY>Lady</LABEL>:
 "Did you know?
-$J=====3689=====
-引火は、身体に点(つ)いた炎(
-ほのお)に少しずつライフをう
-ばわれ、
-$J=====3690=====
-氷結は、身体に付(つ)いた氷に
-移動力をうばわれる
-$J=====3691=====
-マヒは、身体の自由をうばわれ
-星のマークが消えるまで、何も
-できなくなるわ
-$J=====3692=====
-でも、今言った3つのステータ
-ス異常(いじょう)は、
-$J=====3693=====
-<WEIGHT>{＋}ボタン</WEIGHT>をすばやく動かせば、
-ふりはらうことができるの
-$J=====3694=====
-あわててパニックになってはダ
-メよ?」
-$J=====3695=====
+$E=====3689=====
+//引火は、身体に点(つ)いた炎(
+//ほのお)に少しずつライフをう
+//ばわれ、
+If you catch fire, you will
+continually lose Life.
+$E=====3690=====
+//氷結は、身体に付(つ)いた氷に
+//移動力をうばわれる
+If you're frozen, your
+movement speed will
+decrease.
+$E=====3691=====
+//マヒは、身体の自由をうばわれ
+//星のマークが消えるまで、何も
+//できなくなるわ
+If you're paralyzed, you
+won't be able to move as
+long as you're seeing stars.
+$E=====3692=====
+//でも、今言った3つのステータ
+//ス異常(いじょう)は、
+But all the above status
+effects can be alleviated
+quickly,
+$E=====3693=====
+//<WEIGHT>{＋}ボタン</WEIGHT>をすばやく動かせば、
+//ふりはらうことができるの
+by quickly mashing the
+<WEIGHT>{＋}Control Pad</WEIGHT>.
+$E=====3694=====
+//あわててパニックになってはダ
+//メよ?」
+Don't panic in tough
+situations, okay?"
+$E=====3695=====
 <PROC=0>
 <END>
 $J=====3696=====
@@ -17012,9 +17027,11 @@ some unusual accessories."
 $E=====4414=====
 <PROC=0>
 <END>
-$J=====4415=====
-<LABEL=PEOPLE2>???(ハテナ)</LABEL>
-「おう、少年!!
+$E=====4415=====
+//<LABEL=PEOPLE2>???(ハテナ)</LABEL>
+//「おう、少年!!
+<LABEL=PEOPLE2>??? (Unknown)</LABEL>:
+"Hey, boy!
 $J=====4416=====
 各地の闇の領域(ダンジョン)を
 行ったり来たりで、おたがいに
@@ -17062,6 +17079,7 @@ $J=====4426=====
 <LABEL=PEOPLE2>???(ハテナ)</LABEL>
 「せっかく買ったアイテムだ。
 くさらせるんじゃあないぞ?
+"It's my long-awaited item. It doesn't rot, you see?
 $J=====4427=====
 もっとも、生ものでなければ、
 その心配はないがな」
@@ -19057,8 +19075,7 @@ $E=====4921=====
 Is this alright?
 $E=====4922=====
 //まだ装備できないがいいんだな?
-Even though you can't equip
-it yet?
+Even if you can't equip it?
 $E=====4923=====
 //お前の腕ではまだ無理なようだ。
 Looks like you're not
