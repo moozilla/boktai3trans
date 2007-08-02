@@ -9262,14 +9262,18 @@ A young man living in San Miguel who likes animals. Despite his large body, he i
 $E=====2611=====
 //サン・ミゲルに住む散歩好きな老人。白くて長いヒゲが自慢(じまん)。
 An old man living in San Miguel who likes going on walks. Proud of his long, white beard.
-$J=====2612=====
-イモータル四人衆(よにんしゅう)の1人。好敵手(ライバル)との戦いを求めて復活(ふっかつ)した「ヴァンパイア・ロード」。闇の女王(クイーン)への忠誠心(ちゅうせいしん)からか、<NAME>をサバタの下へとみちびき、ラタトスクの野望を妨害(ぼうがい)した。
-$J=====2613=====
-イモータル四人衆(よにんしゅう)の1人。とぼけた外見で相手を油断(ゆだん)させ、罠(わな)にはめようとする奇怪(きかい)な鳥。食えないモノ(機械)ばかりを作り出すニーズホッグとは犬猿(けんえん)の仲。
-$J=====2614=====
-イモータル四人衆(よにんしゅう)の1人。鉄(くろがね)の軍団(ぐんだん)を作り出し、自らは巨大鉄竜(きょだいてつりゅう)に乗りこむマッドサイエンティスト。食い気優先(ゆうせん)のフレスベルグとは犬猿(けんえん)の仲。
-$J=====2615=====
-イモータル四人衆(よにんしゅう)の1人。破壊(はかい)の獣(けもの)の恐怖(きょうふ)による世界支配(せかいしはい)をもくろみ、サバタや他の闇の一族(イモータル)を利用する。物理的にも精神的(せいしんてき)にも、他者をあやつる能力(のうりょく)に長けている。
+$E=====2612=====
+//イモータル四人衆(よにんしゅう)の1人。好敵手(ライバル)との戦いを求めて復活(ふっかつ)した「ヴァンパイア・ロード」。闇の女王(クイーン)への忠誠心(ちゅうせいしん)からか、<NAME>をサバタの下へとみちびき、ラタトスクの野望を妨害(ぼうがい)した。
+One of the Four Immortals. The revived Vampire Lord who seeks to battle his rival. Ever loyal to the Queen, he guided <NAME> under Sabata's influence, hindering Ratatosk's schemes.
+$E=====2613=====
+//イモータル四人衆(よにんしゅう)の1人。とぼけた外見で相手を油断(ゆだん)させ、罠(わな)にはめようとする奇怪(きかい)な鳥。食えないモノ(機械)ばかりを作り出すニーズホッグとは犬猿(けんえん)の仲。
+One of the Four Immortals. A strange bird who catches his opponents unaware with his foolish appearance. Doesn't get along with Nidhoggr, who does nothing but build machines.
+$E=====2614=====
+//イモータル四人衆(よにんしゅう)の1人。鉄(くろがね)の軍団(ぐんだん)を作り出し、自らは巨大鉄竜(きょだいてつりゅう)に乗りこむマッドサイエンティスト。食い気優先(ゆうせん)のフレスベルグとは犬猿(けんえん)の仲。
+One of the Four Immortals. A mad scientist who built an iron army and operates a giant iron dragon. Doesn't get along with Hresvelgr, who thinks of nothing but his appetite.
+$E=====2615=====
+//イモータル四人衆(よにんしゅう)の1人。破壊(はかい)の獣(けもの)の恐怖(きょうふ)による世界支配(せかいしはい)をもくろみ、サバタや他の闇の一族(イモータル)を利用する。物理的にも精神的(せいしんてき)にも、他者をあやつる能力(のうりょく)に長けている。
+One of the Four Immortals. He is manipulating Sabata and the other Immortals in a plot to rule the world through fear of the Beast of Destruction. He is skilled at controls others both physically and mentally.
 $E=====2616=====
 //異世界からの来訪者(らいほうしゃ)。記憶(きおく)がないという自らの状況(じょうきょう)を楽しんでいる。単独潜入任務(たんどくせんにゅうにんむ)を得意とするが、女性にはだまされやすい・・・らしい。
 A visitor from another world. A man with no memories, he is enjoying himself while unaware of his circumstances. Proud of his solo infiltration missions, he is easily deceived by women... apparently.
@@ -11064,7 +11068,6 @@ it's once again beginning to
 stir...
 $E=====3033=====
 //<PROC=2>銀河意思(ダーク)は・・・
-1234567890123456789012345678
 <PROC=2>The Galaxy Universe, Dark,
 is...
 $U=====3034=====
@@ -11075,79 +11078,121 @@ $E=====3035=====
 <PROC=9>
 <PROC=0>
 <END>
-$J=====3036=====
-<LABEL=RITA>リタ</LABEL>
-「チョコレートはくさりこそし
-ませんが、
-$J=====3037=====
-熱には弱いので、太陽の光を浴
-びすぎると溶(と)けてしまいま
-す
-$J=====3038=====
-溶(と)けたからといって、その
-効力(こうりょく)に変わりはな
-いのですが・・・
-$J=====3039=====
-やっぱりちょっぴりイヤですわ
-」
-$J=====3040=====
+$E=====3036=====
+//<LABEL=RITA>リタ</LABEL>
+//「チョコレートはくさりこそし
+//ませんが、
+<LABEL=RITA>Lita</LABEL>:
+"Chocolate doesn't rot per
+se,
+$E=====3037=====
+//熱には弱いので、太陽の光を浴
+//びすぎると溶(と)けてしまいま
+//す
+but it is susceptible to
+heat, and will melt if left
+out in the sun.
+$E=====3038=====
+//溶(と)けたからといって、その
+//効力(こうりょく)に変わりはな
+//いのですが・・・
+It won't lose any of its
+effect, but...
+$E=====3039=====
+//やっぱりちょっぴりイヤですわ
+//」
+it can get a bit messy."
+$E=====3040=====
 <PROC=0>
 <END>
-$J=====3041=====
-<LABEL=RITA>リタ</LABEL>
-「はるか天空にうかぶもう1つ
-の大地、月・・・
-$J=====3042=====
-月の巫女(月下美人)のマーニさ
-ま・・・
-<NAME>さまのお母さまの、
-$J=====3043=====
-その祖先(そせん)である月の一
-族がくらしたという月面の都市
-$J=====3044=====
-<PROC=2>そんなところに封印(ふういん)
-されていたなんて・・・
-$J=====3045=====
-破壊(はかい)の獣(けもの)と月
-の一族・・・
-$J=====3046=====
-その間にはいったい、どんな関
-係があったのでしょう・・・」
-$J=====3047=====
+$E=====3041=====
+//<LABEL=RITA>リタ</LABEL>
+//「はるか天空にうかぶもう1つ
+//の大地、月・・・
+<LABEL=RITA>Lita</LABEL>:
+"Far off the horizon lies
+another land, the moon...
+$E=====3042=====
+//月の巫女(月下美人)のマーニさ
+//ま・・・
+//<NAME>さまのお母さまの、
+The Moon Beauty, Mani,
+Master <NAME>'s mother...
+$E=====3043=====
+//その祖先(そせん)である月の一
+//族がくらしたという月面の都市
+The Lunar Family, your
+ancestors, lived in a city
+on the moon's surface.
+$E=====3044=====
+//<PROC=2>そんなところに封印(ふういん)
+//されていたなんて・・・
+<PROC=2>To be sealed in such a
+place...
+$E=====3045=====
+//破壊(はかい)の獣(けもの)と月
+//の一族・・・
+the Beast of Destruction and
+the Lunar Family...
+$E=====3046=====
+//その間にはいったい、どんな関
+//係があったのでしょう・・・」
+Just how were they
+related..."
+$E=====3047=====
 <PROC=9>
 <PROC=0>
 <END>
-$J=====3048=====
-<LABEL=RITA>リタ</LABEL>
-「ごぞんじですか?
-$J=====3049=====
-チョコレートが溶(と)けると、
-$J=====3050=====
-その下の欄(らん)のアイテムは
-チョコまみれになってしまいま
-すが、
-$J=====3051=====
-チョコまみれになったアイテム
-も、1度使えば元のアイテムに
-もどります
-$J=====3052=====
-つまりチョコレートが溶(と)け
-ることを利用すれば、
-$J=====3053=====
-1つのアイテム欄(らん)に2つの
-アイテムを持つことができるん
-です
-$J=====3054=====
-ただしチョコまみれになってし
-まうと、
-$J=====3055=====
-1度使うまでは、元のアイテム
-が何だったのかを確認(かくに
-ん)することはできません
-$J=====3056=====
-上級者向けのテクニック、です
-わ」
-$J=====3057=====
+$E=====3048=====
+//<LABEL=RITA>リタ</LABEL>
+//「ごぞんじですか?
+<LABEL=RITA>Lita</LABEL>:
+"Have you heard?
+$E=====3049=====
+//チョコレートが溶(と)けると、
+When Chocolate melts,
+$E=====3050=====
+//その下の欄(らん)のアイテムは
+//チョコまみれになってしまいま
+//すが、
+the item below it will
+become Chocolate-Covered,
+$E=====3051=====
+//チョコまみれになったアイテム
+//も、1度使えば元のアイテムに
+//もどります
+but if you use it, the
+original item will come out
+intact.
+$E=====3052=====
+//つまりチョコレートが溶(と)け
+//ることを利用すれば、
+In other words, if you melt
+Chocolate over an item,
+$E=====3053=====
+//1つのアイテム欄(らん)に2つの
+//アイテムを持つことができるん
+//です
+you can effectively store
+two items in a single spot.
+$E=====3054=====
+//ただしチョコまみれになってし
+//まうと、
+Although, when an item
+becomes Chocolate-Covered,
+$E=====3055=====
+//1度使うまでは、元のアイテム
+//が何だったのかを確認(かくに
+//ん)することはできません
+you won't be able to tell
+what it was originally until
+you uncover it again.
+$E=====3056=====
+//上級者向けのテクニック、です
+//わ」
+It's a strategy for advanced
+players."
+$E=====3057=====
 <PROC=0>
 <END>
 $E=====3058=====
@@ -11160,7 +11205,7 @@ $E=====3059=====
 //ったんだって?
 //とんだ災難(さいなん)だったな
 You got amnesia?
-What a drag, man.
+Boy, what a drag.
 $E=====3060=====
 //でも、もう治ったんだろ?
 And you still ain't better?
@@ -11226,8 +11271,8 @@ $E=====3072=====
 //の必需品(ひつじゅひん)だ
 which should help you out
 on your adventure. Can't 
-live without 'em, man.
-$J=====3073=====
+live without 'em, guy.
+$E=====3073=====
 //アクセサリーとはいっても、鎧
 //(よろい)や靴(くつ)なんかも取
 //りあつかってるからな
@@ -11304,18 +11349,26 @@ obtained!<LOCK=176>
 $E=====3088=====
 <PROC=0>
 <END>
-$J=====3089=====
-<LABEL=KID>キッド</LABEL>
-「ちなみにオレが集めてんのは
-なつかしの銀貨なんだ
-$J=====3090=====
-なぬっ!?
-オマエも昔集めてた?
-しかもフルコンプ?
-$J=====3091=====
-あはっ・・・
-やっぱ本物はちがうぜ!!」
-$J=====3092=====
+$U=====3089=====
+//<LABEL=KID>キッド</LABEL>
+//「ちなみにオレが集めてんのは
+//なつかしの銀貨なんだ
+<LABEL=KID>Kid</LABEL>:
+"By the way, I'm collectin'
+these (sentimental) silver coins.
+$E=====3090=====
+//なぬっ!?
+//オマエも昔集めてた?
+//しかもフルコンプ?
+Say what!?
+You did that already? And
+you got the complete set?
+$E=====3091=====
+//あはっ・・・
+//やっぱ本物はちがうぜ!!」
+Ahaha...
+yer the real thing, guy!"
+$E=====3092=====
 <PROC=0>
 <END>
 $E=====3093=====
@@ -11337,7 +11390,8 @@ $E=====3096=====
 //アクセサリーが必要になったら
 //いつでも来てくれよ?」
 If ya ever need accessories,
-you know where to come, man.
+you know where to come,
+dude.
 $E=====3097=====
 <PROC=0>
 <END>
@@ -11625,43 +11679,67 @@ you just can't stop!"
 $E=====3174=====
 <PROC=0>
 <END>
-$J=====3175=====
-<LABEL=KID>キッド</LABEL>
-「ところでボーイ、
-$J=====3176=====
-オマエが集めてた銀貨は、どこ
-にいったんだ?
-$J=====3177=====
-なぬっ!?
-イストラカンに置いてきた?
-$J=====3178=====
-かーっ!!
-もったいねー!!
-$J=====3179=====
-アレは大昔、旧世界で使われて
-いたという現金(リアルマネー)
-なんだぜ?
-$J=====3180=====
-はぁ・・・
-やっぱ、本物にはかなわねぇぜ
-」
-$J=====3181=====
+$E=====3175=====
+//<LABEL=KID>キッド</LABEL>
+//「ところでボーイ、
+<LABEL=KID>Kid</LABEL>:
+"By the way, boy,
+$E=====3176=====
+//オマエが集めてた銀貨は、どこ
+//にいったんだ?
+where are those silver coins
+you collected?
+$E=====3177=====
+//なぬっ!?
+//イストラカンに置いてきた?
+Say what!?
+You left them in Istrakan?
+$E=====3178=====
+//かーっ!!
+//もったいねー!!
+Duuude!
+What a waste!
+$E=====3179=====
+//アレは大昔、旧世界で使われて
+//いたという現金(リアルマネー)
+//なんだぜ?
+You know, way back when,
+they were used as real
+money!
+$E=====3180=====
+//はぁ・・・
+//やっぱ、本物にはかなわねぇぜ
+//」
+Man...
+guess I'll never get my
+hands on the real deal."
+$E=====3181=====
 <PROC=0>
 <END>
-$J=====3182=====
-<LABEL=KID>キッド</LABEL>
-「アクセサリーの中には、
-$J=====3183=====
-4つをセットで装備(そうび)す
-ることによって初めて、
-$J=====3184=====
-隠(かく)された効果(こうか)を
-発揮(はっき)するものがあるら
-しい
-$J=====3185=====
-オマエにも何か、心当たりがあ
-るんじゃないか?」
-$J=====3186=====
+$E=====3182=====
+//<LABEL=KID>キッド</LABEL>
+//「アクセサリーの中には、
+<LABEL=KID>Kid</LABEL>:
+"When you're equippin'
+accessories,
+$E=====3183=====
+//4つをセットで装備(そうび)す
+//ることによって初めて、
+the first time you put on a
+complete 4-piece set,
+$E=====3184=====
+//隠(かく)された効果(こうか)を
+//発揮(はっき)するものがあるら
+//しい
+a hidden effect will
+activate, it seems.
+$E=====3185=====
+//オマエにも何か、心当たりがあ
+//るんじゃないか?」
+Hey guy, you wouldn't happen
+to know anything about that,
+would you?"
+$E=====3186=====
 <PROC=0>
 <END>
 $E=====3187=====
@@ -11739,30 +11817,42 @@ $E=====3201=====
 //言わば太陽鍛冶(たいようかじ)
 //じゃ
 I call it SOLARSMITH.
-$U=====3202=====
+$E=====3202=====
 //今のわしにできるのは鍛冶(か
 //じ)くらいじゃが・・・
 All I can do now is forge...
-$U=====3203=====
-協力はおしまんからな!!」
-$J=====3204=====
+$E=====3203=====
+//協力はおしまんからな!!」
+but I'll help you out in any
+way I can!"
+$E=====3204=====
 <PROC=0>
 <END>
-$J=====3205=====
-<LABEL=SMITH>スミス</LABEL>
-「とうとうやりおったか・・・
-$J=====3206=====
-太陽鍛冶(たいようかじ)で作る
-ことのできる、すべてのソード
-を作り上げ、
-$J=====3207=====
-アクセサリーのすべてとシーク
-レットソードまで手に入れると
-は・・・
-$J=====3208=====
-今こそ、おまえにこの称号(し
-ょうごう)をあたえよう!!」
-$J=====3209=====
+$E=====3205=====
+//<LABEL=SMITH>スミス</LABEL>
+//「とうとうやりおったか・・・
+<LABEL=SMITH>Smith</LABEL>:
+"You finally did it...
+$E=====3206=====
+//太陽鍛冶(たいようかじ)で作る
+//ことのできる、すべてのソード
+//を作り上げ、
+You made every single type
+of sword that can be made
+through SOLARSMITH,
+$E=====3207=====
+//アクセサリーのすべてとシーク
+//レットソードまで手に入れると
+//は・・・
+and you even obtained every
+secret sword you can get
+through accessories...
+$E=====3208=====
+//今こそ、おまえにこの称号(し
+//ょうごう)をあたえよう!!」
+Now, I present you with this
+title!"
+$E=====3209=====
 <PROC=0>
 <END>
 $E=====3210=====
@@ -11775,16 +11865,20 @@ obtained!<LOCK=176>
 $E=====3211=====
 <PROC=0>
 <END>
-$J=====3212=====
-<LABEL=SMITH>スミス</LABEL>
-「アルケミストとは、
-$J=====3213=====
-錬金術師(れんきんじゅつし)と
-いう意味じゃ
-$J=====3214=====
+$E=====3212=====
+//<LABEL=SMITH>スミス</LABEL>
+//「アルケミストとは、
+<LABEL=SMITH>Smith</LABEL>:
+"An Alchemist is
+$E=====3213=====
+//錬金術師(れんきんじゅつし)と
+//いう意味じゃ
+someone who practices
+alchemy.
+$U=====3214=====
 その名にはじぬ活躍(かつやく)
 を期待しておるぞ!」
-$J=====3215=====
+$E=====3215=====
 <PROC=0>
 <END>
 $E=====3216=====
@@ -11921,22 +12015,30 @@ SP effect:
 $E=====3244=====
 <PROC=0>
 <END>
-$J=====3245=====
-すばらしい出来ばえじゃな!!
-$J=====3246=====
-いい出来じゃな!
-$J=====3247=====
-まずまずじゃな
-$J=====3248=====
-いまいちじゃな
-$J=====3249=====
-すでに付いておるな!」
-$J=====3250=====
-付いたようじゃぞ!!」
-$J=====3251=====
-付かなかったようじゃな」
-$J=====3252=====
-付かないようじゃな」
+$E=====3245=====
+//すばらしい出来ばえじゃな!!
+Extremely well done!
+$E=====3246=====
+//いい出来じゃな!
+Well done!
+$E=====3247=====
+//まずまずじゃな
+Not bad.
+$E=====3248=====
+//いまいちじゃな
+Not very good.
+$E=====3249=====
+//すでに付いておるな!」
+It can't improve any more!"
+$E=====3250=====
+//付いたようじゃぞ!!」
+Looks like it improved!"
+$E=====3251=====
+//付かなかったようじゃな」
+Looks like it got worse."
+$E=====3252=====
+//付かないようじゃな」
+Looks like it can't get any worse."
 $E=====3253=====
 //<LABEL=SMITH>スミス</LABEL>
 //「最強のヴァンパイアハンター
@@ -12032,136 +12134,219 @@ also drop them."
 $E=====3269=====
 <PROC=0>
 <END>
-$J=====3270=====
-<LABEL=SMITH>スミス</LABEL>
-「ヴァンパイア・ロード、伯爵
-(はくしゃく)・・・
-$J=====3271=====
-今は亡(な)き闇の王(キング・
-オブ・イモータル)に仕えた、
-$J=====3272=====
-夜の一族(ヴァンパイア)の君主
-・・・
-$J=====3273=====
-最強のヴァンパイアハンターで
-ったおまえの親父、紅(くれな
-)のリンゴとは、
-$J=====3274=====
-もともと、最大の好敵手(ライ
-バル)どうしだったのじゃが、
-$J=====3275=====
-闇の王(キング)の下に身をよせ
-ていた、月の一族の2人の娘(む
-すめ)の1人、
-$J=====3276=====
-後の闇の女王(クイーン)である
-ヘルの妹にして、月の巫女(月
-下美人)でもあったマーニが、
-$J=====3277=====
-闇の王(キング)とヘルをうらぎ
-り、リンゴの下に走ったことで
-$J=====3278=====
-その執着(しゅうちゃく)は、さ
-らに深まったようじゃ・・・
-$J=====3279=====
-2人の亡(な)き今、2人の息子で
-あるおまえに執着(しゅうちゃ
-く)するのも、
-$J=====3280=====
-そんな理由からなのじゃろう
-$J=====3281=====
-だが、同じく2人の息子である
-サバタに組するとは、いったい
-何を考えておるんじゃ?
-$J=====3282=====
-むう・・・」
-$J=====3283=====
+$E=====3270=====
+//<LABEL=SMITH>スミス</LABEL>
+//「ヴァンパイア・ロード、伯爵
+//(はくしゃく)・・・
+<LABEL=SMITH>Smith</LABEL>:
+"The Vampire Lord,
+the Count...
+$E=====3271=====
+//今は亡(な)き闇の王(キング・
+//オブ・イモータル)に仕えた、
+he used to serve the late
+King of Immortals,
+$E=====3272=====
+//夜の一族(ヴァンパイア)の君主
+//・・・
+the ruler of all Vampires...
+$E=====3273=====
+//最強のヴァンパイアハンターで
+//ったおまえの親父、紅(くれな
+//)のリンゴとは、
+The strongest vampire
+hunter, your father Red
+Ringo,
+$E=====3274=====
+//もともと、最大の好敵手(ライ
+//バル)どうしだったのじゃが、
+was naturally his greatest
+rival.
+$E=====3275=====
+//闇の王(キング)の下に身をよせ
+//ていた、月の一族の2人の娘(む
+//すめ)の1人、
+One of the two Lunar Family
+daughters who lived under
+the king,
+$E=====3276=====
+//後の闇の女王(クイーン)である
+//ヘルの妹にして、月の巫女(月
+//下美人)でもあったマーニが、
+Moon Beauty Mani, younger
+sister of Hel, the Queen,
+$E=====3277=====
+//闇の王(キング)とヘルをうらぎ
+//り、リンゴの下に走ったことで
+betrayed the King and ran
+off to live with Ringo.
+$E=====3278=====
+//その執着(しゅうちゃく)は、さ
+//らに深まったようじゃ・・・
+And the connection runs even
+deeper...
+$E=====3279=====
+//2人の亡(な)き今、2人の息子で
+//あるおまえに執着(しゅうちゃ
+//く)するのも、
+They have since passed away,
+but the connection remains
+through their two sons,
+$E=====3280=====
+//そんな理由からなのじゃろう
+though at least you've got a
+reason for it.
+$E=====3281=====
+//だが、同じく2人の息子である
+//サバタに組するとは、いったい
+//何を考えておるんじゃ?
+But for Sabata to join up
+with them... just what is he
+thinking?
+$E=====3282=====
+//むう・・・」
+Hmm..."
+$E=====3283=====
 <PROC=0>
 <END>
-$J=====3284=====
-<LABEL=SMITH>スミス</LABEL>
-「太陽鍛冶(たいようかじ)では
-$J=====3285=====
-ただ闇雲(やみくも)に、レベル
-の高いソードを作ればいいわけ
-ではない
-$J=====3286=====
-自分よりレベルの高いソードを
-装備(そうび)することはできな
-いからな
-$J=====3287=====
-材料選びは慎重(しんちょう)に
-行うんじゃ」
-$J=====3288=====
+$E=====3284=====
+//<LABEL=SMITH>スミス</LABEL>
+//「太陽鍛冶(たいようかじ)では
+<LABEL=SMITH>Smith</LABEL>:
+"If you just use SOLARSMITH
+haphazardly,
+$U=====3285=====
+//ただ闇雲(やみくも)に、レベル
+//の高いソードを作ればいいわけ
+//ではない
+you won't have any excuse if
+you end up making high-level
+swords,
+$E=====3286=====
+//自分よりレベルの高いソードを
+//装備(そうび)することはできな
+//いからな
+and you can't equip swords
+with a level higher than
+yours.
+$E=====3287=====
+//材料選びは慎重(しんちょう)に
+//行うんじゃ」
+Choose your ingredients
+carefully."
+$E=====3288=====
 <PROC=0>
 <END>
-$J=====3289=====
-<LABEL=SMITH>スミス</LABEL>
-「太陽の化身、ソル<NAME>へのトランス(合身)か・・・
-$J=====3290=====
-かつては、わしやひまわり、お
-まえの親父とも共に戦ったおて
-んこじゃが、
-$J=====3291=====
-そのような力を秘(ひ)めておっ
-たとはな・・・」
-$J=====3292=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「わたしとておどろいている
-$J=====3293=====
-だが、これはわたしの力ではな
-い
-$J=====3294=====
-はるかなる時をこえて生きてき
-た古(いにしえ)の大樹(たいじ
-ゅ)・・・
-$J=====3295=====
-太陽の光をその身に受け、その
-めぐみを分けあたえることで、
-$J=====3296=====
-この星のあらゆる生命を育んで
-きた大地の精霊(せいれい)
-$J=====3297=====
-その大地の精霊(せいれい)があ
-たえてくれた大いなる力を持っ
-てして初めて、
-$J=====3298=====
-われわれのトランス(合身)は可
-能(かのう)となったのだ」
-$J=====3299=====
-<LABEL=SMITH>スミス</LABEL>
-「太陽と大地の力か・・・
-$J=====3300=====
-まさに生命の起源(きげん)たる
-力、そのものじゃな」
-$J=====3301=====
+$E=====3289=====
+//<LABEL=SMITH>スミス</LABEL>
+//「太陽の化身、ソル<NAME>へのトランス(合身)か・・・
+<LABEL=SMITH>Smith</LABEL>:
+"The Incarnation of the Sun,
+Sol <NAME> Trance...
+$E=====3290=====
+//かつては、わしやひまわり、お
+//まえの親父とも共に戦ったおて
+//んこじゃが、
+I used to fight alongside
+Sunflower Girl, your father,
+and Otenko,
+$E=====3291=====
+//そのような力を秘(ひ)めておっ
+//たとはな・・・」
+but to think he held such a
+power..."
+$E=====3292=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「わたしとておどろいている
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"I was surprised as well,
+$E=====3293=====
+//だが、これはわたしの力ではな
+//い
+but this is not my power.
+$E=====3294=====
+//はるかなる時をこえて生きてき
+//た古(いにしえ)の大樹(たいじ
+//ゅ)・・・
+The Ancient Tree, who has
+lived for ages and ages...
+$E=====3295=====
+//太陽の光をその身に受け、その
+//めぐみを分けあたえることで、
+he drew in the sunlight and
+granted us his blessing.
+$E=====3296=====
+//この星のあらゆる生命を育んで
+//きた大地の精霊(せいれい)
+The Earth Spirit brough up
+all the life on this star.
+$E=====3297=====
+//その大地の精霊(せいれい)があ
+//たえてくれた大いなる力を持っ
+//てして初めて、
+When we obtained his great
+power,
+$E=====3298=====
+//われわれのトランス(合身)は可
+//能(かのう)となったのだ」
+It became possible for us to
+transform for the first time.
+$E=====3299=====
+//<LABEL=SMITH>スミス</LABEL>
+//「太陽と大地の力か・・・
+<LABEL=SMITH>Smith</LABEL>:
+"The power of the Sun and the
+Earth, huh...?
+$E=====3300=====
+//まさに生命の起源(きげん)たる
+//力、そのものじゃな」
+that's surely the kind of
+power that could give rise to
+life."
+$E=====3301=====
 <PROC=0>
 <END>
-$J=====3302=====
-<LABEL=SMITH>スミス</LABEL>
-「ソードは消耗品(しょうもう
-ひん)じゃ
-$J=====3303=====
-使いつづけていれば、いつかは
-折(お)れてしまう
-$J=====3304=====
-じゃが、折(お)れたからといっ
-て、すてたりするんじゃないぞ
-?
-$J=====3305=====
-太陽鍛冶(たいようかじ)を行え
-ば、元通りのソードに作り直す
-ことも、
-$J=====3306=====
-新しいソードに作り変えること
-も可能(かのう)なんじゃからな
-」
-$J=====3307=====
+$E=====3302=====
+//<LABEL=SMITH>スミス</LABEL>
+//「ソードは消耗品(しょうもう
+//ひん)じゃ
+<LABEL=SMITH>Smith</LABEL>:
+"Swords don't last forever,
+you know.
+$E=====3303=====
+//使いつづけていれば、いつかは
+//折(お)れてしまう
+If you keep using them,
+they'll end up breaking sooner
+or later.
+$E=====3304=====
+//じゃが、折(お)れたからといっ
+//て、すてたりするんじゃないぞ
+//?
+But don't just throw them away
+when they break, okay?
+$E=====3305=====
+//太陽鍛冶(たいようかじ)を行え
+//ば、元通りのソードに作り直す
+//ことも、
+Use them with SOLARFORGE and
+you can repair them just like
+new.
+$E=====3306=====
+//新しいソードに作り変えること
+//も可能(かのう)なんじゃからな
+//」
+In fact, you can even change
+them into a different type of
+sword."
+$E=====3307=====
 <PROC=0>
 <END>
-$J=====3308=====
-<LABEL=SMITH>スミス</LABEL>
-「サバタ・・・
+$E=====3308=====
+//<LABEL=SMITH>スミス</LABEL>
+//「サバタ・・・
+<LABEL=SMITH>Smith</LABEL>:
+"Sabata...
 $J=====3309=====
 その心を闇の一族(イモータル)
 に支配(しはい)されながらも、
@@ -13127,99 +13312,150 @@ Wanted monster, <NAME>!
 $E=====3556=====
 //グール+の賞品は、レアアイテ
 //ムだったわね・・・
-The prize for a Ghoul + is a
-rare item.
+The reward for defeating the
+Ghoul + is a rare item.
 $E=====3557=====
 //さぁて、何が出るかしら?」
-Now, what might appear?"
+Now, what might it be?"
 $E=====3558=====
 <PROC=0>
 <END>
-$J=====3559=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターをしと
-めたようね、<NAME>くん!!
-$J=====3560=====
-マミー+の賞品は、300ソル相当
-のアクセサリーだったわね
-$J=====3561=====
-さぁて、何が出るかしら?」
-$J=====3562=====
+$E=====3559=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターをしと
+//めたようね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+It seems you took out a
+Wanted monster, <NAME>!
+$E=====3560=====
+//マミー+の賞品は、300ソル相当
+//のアクセサリーだったわね
+The reward for defeating the
+Mummy + is an accessory worth
+300 Soll.
+$E=====3561=====
+//さぁて、何が出るかしら?」
+Now, what might it be?"
+$E=====3562=====
 <PROC=0>
 <END>
-$J=====3563=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターをしと
-めたようね、<NAME>くん!!
-$J=====3564=====
-ゴーレム+の賞品は、400ソル相
-当のアクセサリーだったわね
-$J=====3565=====
-さぁて、何が出るかしら?」
-$J=====3566=====
+$E=====3563=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターをしと
+//めたようね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+It seems you took out a
+Wanted monster, <NAME>!
+$E=====3564=====
+//ゴーレム+の賞品は、400ソル相
+//当のアクセサリーだったわね
+The reward for defeating the
+Golem + is an accessory worth
+400 Soll.
+$E=====3565=====
+//さぁて、何が出るかしら?」
+Now, what might it be?"
+$E=====3566=====
 <PROC=0>
 <END>
-$J=====3567=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターをしと
-めたようね、<NAME>くん!!
-$J=====3568=====
-ハウンド+の賞品は、500ソル相
-当の非売品アクセサリーだった
-わね・・・
-$J=====3569=====
-さぁて、何が出るかしら?」
-$J=====3570=====
+$E=====3567=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターをしと
+//めたようね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+It seems you took out a
+Wanted monster, <NAME>!
+$E=====3568=====
+//ハウンド+の賞品は、500ソル相
+//当の非売品アクセサリーだった
+//わね・・・
+The reward for defeating the
+Hound + is an unbuyable
+accessory worth 500 Soll.
+$E=====3569=====
+//さぁて、何が出るかしら?」
+Now, what might it be?"
+$E=====3570=====
 <PROC=0>
 <END>
-$J=====3571=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターをしと
-めたようね、<NAME>くん!!
-$J=====3572=====
-ヴォーン+の賞品は、600ソル相
-当の非売品アクセサリーだった
-わね・・・
-$J=====3573=====
-さぁて、何が出るかしら?」
-$J=====3574=====
+$E=====3571=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターをしと
+//めたようね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+It seems you took out a
+Wanted monster, <NAME>!
+$E=====3572=====
+//ヴォーン+の賞品は、600ソル相
+//当の非売品アクセサリーだった
+//わね・・・
+The reward for defeating the
+Vorn + is an unbuyable
+accessory worth 600 Soll.
+$E=====3573=====
+//さぁて、何が出るかしら?」
+Now, what might it be?"
+$E=====3574=====
 <PROC=0>
 <END>
-$J=====3575=====
-<LABEL=LADY>レディ</LABEL>
-「ワンテッドモンスターをしと
-めたようね、<NAME>くん!!
-$J=====3576=====
-スケルトン+の賞品は、600ソル
-相当の非売品アクセサリーだっ
-たわね・・・
-$J=====3577=====
-さぁて、何が出るかしら?」
-$J=====3578=====
+$E=====3575=====
+//<LABEL=LADY>レディ</LABEL>
+//「ワンテッドモンスターをしと
+//めたようね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+It seems you took out a
+Wanted monster, <NAME>!
+$E=====3576=====
+//スケルトン+の賞品は、600ソル
+//相当の非売品アクセサリーだっ
+//たわね・・・
+The reward for defeating the
+Skeleton + is an unbuyable
+accessory worth 500 Soll.
+$E=====3577=====
+//さぁて、何が出るかしら?」
+Now, what might it be?"
+$E=====3578=====
 <PROC=0>
 <END>
-$J=====3579=====
-<LABEL=LADY>レディ</LABEL>
-「ああ、<NAME>くん。
-ちょうどいいところに来たわね
-$J=====3580=====
-実はまた、あなたにお願いした
-い仕事があるのよ
+$E=====3579=====
+//<LABEL=LADY>レディ</LABEL>
+//「ああ、<NAME>くん。
+//ちょうどいいところに来たわね
+<LABEL=LADY>Lady</LABEL>:
+"Ah, <NAME>.
+Perfect timing.
+$E=====3580=====
+//実はまた、あなたにお願いした
+//い仕事があるのよ
+See, I have another mission
+I'd like you ask you to take
+on.
 $J=====3581=====
 あなたに退治(たいじ)してもら
 ったワンテッドモンスターなん
 だけど、
-$J=====3582=====
-一時はおさまったはずの被害(
-ひがい)が、また出始めている
-の
-$J=====3583=====
-ほんと、たおしてもたおしても
-きりがないんだから・・・
-$J=====3584=====
-手配書を張(は)っておくから、
-また、お願いね?」
-$J=====3585=====
+You did eradicate the Wanted
+monsters, and the damage had
+been mitigated for a while,
+$E=====3582=====
+//一時はおさまったはずの被害(
+//ひがい)が、また出始めている
+//の
+but they're beginning to
+appear again.
+$E=====3583=====
+//ほんと、たおしてもたおしても
+//きりがないんだから・・・
+I swear, there's just no end
+to the killing...
+$E=====3584=====
+//手配書を張(は)っておくから、
+//また、お願いね?」
+well, I've posted the Request
+Sheets. Please take care of
+them again, won't you?"
+$E=====3585=====
 <PROC=0>
 <END>
 $E=====3586=====
@@ -13577,58 +13813,89 @@ Sheet.{note}"
 $E=====3651=====
 <PROC=0>
 <END>
-$J=====3652=====
-<LABEL=LADY>レディ</LABEL>
-「モンスター退治(たいじ)、順
-調かしら?
-$J=====3653=====
-特定の条件(じょうけん)を満た
-さないと、出現しないワンテッ
-ドモンスターだけど、
-$J=====3654=====
-とあるぬいぐるみをかざってお
-けば、その条件(じょうけん)を
-教えてくれるらしいのよね
-$J=====3655=====
-でもそんなぬいぐるみ、どこで
-手に入るのかしら?」
-$J=====3656=====
+$E=====3652=====
+//<LABEL=LADY>レディ</LABEL>
+//「モンスター退治(たいじ)、順
+//調かしら?
+<LABEL=LADY>Lady</LABEL>:
+"I trust the monster
+eradication is going well?
+$E=====3653=====
+//特定の条件(じょうけん)を満た
+//さないと、出現しないワンテッ
+//ドモンスターだけど、
+The Wanted monsters won't
+appear unless you fulfill
+their special conditions,
+$E=====3654=====
+//とあるぬいぐるみをかざってお
+//けば、その条件(じょうけん)を
+//教えてくれるらしいのよね
+but I hear there's a stuffed
+doll that can tell you those
+conditions.
+$E=====3655=====
+//でもそんなぬいぐるみ、どこで
+//手に入るのかしら?」
+But where might you obtain
+such a stuffed doll, I
+wonder?"
+$E=====3656=====
 <PROC=0>
 <END>
-$J=====3657=====
-<LABEL=LADY>レディ</LABEL>
-「とうとうここまで来たわね
-$J=====3658=====
-残るワンテッドモンスターは、
-あと1体!
-$J=====3659=====
-がんばってね、<NAME>くん!!」
-$J=====3660=====
+$E=====3657=====
+//<LABEL=LADY>レディ</LABEL>
+//「とうとうここまで来たわね
+<LABEL=LADY>Lady</LABEL>:
+"You've made it this far.
+$E=====3658=====
+//残るワンテッドモンスターは、
+//あと1体!
+Now there's only 1 Wanted
+monster left!
+$E=====3659=====
+//がんばってね、<NAME>くん!!」
+You can do it, <NAME>!"
+$E=====3660=====
 <PROC=0>
 <END>
-$J=====3661=====
-<LABEL=LADY>レディ</LABEL>
-「ついにやったわね、<NAME>くん!!
-$J=====3662=====
-これで魔物(モンスター)による
-人々への被害(ひがい)も、ずい
-ぶんとへるはずよ
-$J=====3663=====
-あなたみたいに優秀(ゆうしゅ
-う)なエージェントがいてくれ
-ると、
-$J=====3664=====
+$E=====3661=====
+//<LABEL=LADY>レディ</LABEL>
+//「ついにやったわね、<NAME>くん!!
+<LABEL=LADY>Lady</LABEL>:
+"You finally did it,
+<NAME>!
+$E=====3662=====
+//これで魔物(モンスター)による
+//人々への被害(ひがい)も、ずい
+//ぶんとへるはずよ
+With this, you've greatly
+diminished the damage monsters
+are doing to the people.
+$E=====3663=====
+//あなたみたいに優秀(ゆうしゅ
+//う)なエージェントがいてくれ
+//ると、
+For such an excellent agent to
+come along,
+$E=====3664=====
 ギルドマスターも楽だわぁ
-$J=====3665=====
-あらっ?
-$J=====3666=====
-あなたは別に、組織(ギルド)の
-エージェントってわけじゃなか
-ったわね
-$J=====3667=====
+your Guild Master is quite
+pleased.
+$E=====3665=====
+//あらっ?
+Eh?
+$E=====3666=====
+//あなたは別に、組織(ギルド)の
+//エージェントってわけじゃなか
+//ったわね
+Being a Guild agent didn't
+really mean anything to you?
+$U=====3667=====
 いくら何でも、あまえすぎちゃ
 ったかしら?」
-$J=====3668=====
+//No matter how (good you are?), isn't that being too spoiled?"
+$E=====3668=====
 <PROC=0>
 <END>
 $E=====3669=====
@@ -13738,9 +14005,11 @@ quickly, okay?"
 $E=====3687=====
 <PROC=0>
 <END>
-$J=====3688=====
-<LABEL=LADY>レディ</LABEL>
-「知ってる?
+$E=====3688=====
+//<LABEL=LADY>レディ</LABEL>
+//「知ってる?
+<LABEL=LADY>Lady</LABEL>:
+"Did you know?
 $J=====3689=====
 引火は、身体に点(つ)いた炎(
 ほのお)に少しずつライフをう
