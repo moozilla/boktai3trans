@@ -15260,8 +15260,8 @@ $E=====3880=====
 //うちやうちの師匠(ししょう)と
 //同じ、人間ながらにして異能(
 //いのう)の力を持った者、魔女
-just like me an' my master,
-she had an	unusual ability
+just like me and my master,
+she had an unusual ability
 when she was human--magic.
 $E=====3881=====
 //この世紀末世界において、魔女
