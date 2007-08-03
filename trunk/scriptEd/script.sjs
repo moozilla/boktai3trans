@@ -11457,203 +11457,327 @@ making your selections."
 $E=====3110=====
 <PROC=0>
 <END>
-$J=====3111=====
-<LABEL=KID>キッド</LABEL>
-「アクセサリー屋を始めたオレ
-の代わりに、
-$J=====3112=====
-リタには道具屋をやってもらっ
-てるんだ
-$J=====3113=====
-大地の巫女(みこ)だけあって、
-オレなんかよりよっぽど、しっ
-かりしてるからな
-$J=====3114=====
-この街の太陽樹(たいようじゅ)
-だって、あんなに立派(りっぱ)
-になって・・・
-$J=====3115=====
-っていうかアレ、ちょっと育て
-すぎだと思わないか?」
-$J=====3116=====
+$E=====3111=====
+//<LABEL=KID>キッド</LABEL>
+//「アクセサリー屋を始めたオレ
+//の代わりに、
+<LABEL=KID>Kid</LABEL>:
+"When I first started
+running the Accessory Shop,
+$E=====3112=====
+//リタには道具屋をやってもらっ
+//てるんだ
+Lita from the Item Shop
+helped me out.
+$E=====3113=====
+//大地の巫女(みこ)だけあって、
+//オレなんかよりよっぽど、しっ
+//かりしてるからな
+She's really reliable, bein'
+the Earthly Maiden and all.
+$E=====3114=====
+//この街の太陽樹(たいようじゅ)
+//だって、あんなに立派(りっぱ)
+//になって・・・
+And the Solar Tree in this
+town is looking mighty
+healthy...
+$E=====3115=====
+//っていうかアレ、ちょっと育て
+//すぎだと思わないか?」
+actually, don't you think
+she's raising it a bit too
+much?"
+$E=====3116=====
 <PROC=0>
 <END>
-$J=====3117=====
-<LABEL=KID>キッド</LABEL>
-「アクセサリーっていうのは、
-$J=====3118=====
-さまざまな効果(こうか)で装備
-(そうび)した者を助ける、冒険
-の必需品(ひつじゅひん)だが、
-$J=====3119=====
-太陽鍛冶(たいようかじ)におい
-ては、ソードをパワーアップす
-るための材料にもなるんだ
-$J=====3120=====
-アクセサリーとしての効果(こ
-うか)を期待するか、ソードの
-パワーアップを図るか・・・
-$J=====3121=====
-自分のプレイスタイルに合った
-使い方をしてくれ」
-$J=====3122=====
+$E=====3117=====
+//<LABEL=KID>キッド</LABEL>
+//「アクセサリーっていうのは、
+<LABEL=KID>Kid</LABEL>:
+"Accessories have a wide
+variety of effects
+$E=====3118=====
+//さまざまな効果(こうか)で装備
+//(そうび)した者を助ける、冒険
+//の必需品(ひつじゅひん)だが、
+that can help you out on
+your quest,
+$E=====3119=====
+//太陽鍛冶(たいようかじ)におい
+//ては、ソードをパワーアップす
+//るための材料にもなるんだ
+But they're also used as the
+ingredients to power up your
+swords in SOLARSMITH.
+$E=====3120=====
+//アクセサリーとしての効果(こ
+//うか)を期待するか、ソードの
+//パワーアップを図るか・・・
+To plan how to power up your
+sword, predict what effects
+accessories will have,
+$E=====3121=====
+//自分のプレイスタイルに合った
+//使い方をしてくれ」
+and use ones that fit your
+playing style."
+$E=====3122=====
 <PROC=0>
 <END>
-$J=====3123=====
-<LABEL=KID>キッド</LABEL>
-「ところでボーイ、
-オマエ、気づいたか?
-$J=====3124=====
-何にだって?
-アレだよアレ!
-$J=====3125=====
-ダンジョンの中にあるツボとか
-小箱とかさ
-$J=====3126=====
-アレをこわすと、中からアイテ
-ムが出てくることがあるんだ
-$J=====3127=====
-まあ、たまにしか出てこないか
-ら、当てにはできないがな」
-$J=====3128=====
+$E=====3123=====
+//<LABEL=KID>キッド</LABEL>
+//「ところでボーイ、
+//オマエ、気づいたか?
+<LABEL=KID>Kid</LABEL>:
+"By the way, boy,
+didya know?
+$E=====3124=====
+//何にだって?
+//アレだよアレ!
+About what?
+About those, dude!
+$E=====3125=====
+//ダンジョンの中にあるツボとか
+//小箱とかさ
+Those jars and small boxes
+inside dungeons.
+$E=====3126=====
+//アレをこわすと、中からアイテ
+//ムが出てくることがあるんだ
+You can get items by
+breaking them.
+$E=====3127=====
+//まあ、たまにしか出てこないか
+//ら、当てにはできないがな」
+Well, it only happens once
+in a while, so you can't
+depend on them, but..."
+$E=====3128=====
 <PROC=0>
 <END>
-$J=====3129=====
-<LABEL=KID>キッド</LABEL>
-「アクセサリーを手に入れるに
-は、2つの方法がある
-$J=====3130=====
-1つはこの店で買うという方法
-$J=====3131=====
-もう1つは、敵(てき)モンスタ
-ーをたおして手に入れるという
-方法だ
-$J=====3132=====
-ただし、たおしたモンスターが
-アクセサリーを落とすかどうか
-は、オマエの運しだいだがな」
-$J=====3133=====
+$E=====3129=====
+//<LABEL=KID>キッド</LABEL>
+//「アクセサリーを手に入れるに
+//は、2つの方法がある
+<LABEL=KID>Kid</LABEL>:
+"There are two ways to
+obtain accessories, dude.
+$E=====3130=====
+//1つはこの店で買うという方法
+You can buy them at this
+store,
+$E=====3131=====
+//もう1つは、敵(てき)モンスタ
+//ーをたおして手に入れるという
+//方法だ
+but the other way is to pick
+them up when defeated
+monsters drop them.
+$E=====3132=====
+//ただし、たおしたモンスターが
+//アクセサリーを落とすかどうか
+//は、オマエの運しだいだがな」
+But whether or not they drop
+anything depends on your
+luck, guy."
+$E=====3133=====
 <PROC=0>
 <END>
-$J=====3134=====
-<LABEL=KID>キッド</LABEL>
-「ところでボーイ、
-オマエ、気にならないか?
+$E=====3134=====
+//<LABEL=KID>キッド</LABEL>
+//「ところでボーイ、
+//オマエ、気にならないか?
+<LABEL=KID>Kid</LABEL>:
+"By the way, boy,
+didya know?
 $J=====3135=====
-何にだって?
-穴(あな)だよ穴(あな)!
-$J=====3136=====
-ダンジョンの中で壁(かべ)と地
-面の間に、
-$J=====3137=====
-小さな穴(あな)が開いているの
-を見つけたことはないか?
-$J=====3138=====
-赤いキノコっていうアイテムさ
-えあれば、あの中に入れるはず
-なんだがなぁ・・・」
-$J=====3139=====
+//何にだって?
+//穴(あな)だよ穴(あな)!
+About what?
+About holes, dude!
+$E=====3136=====
+//ダンジョンの中で壁(かべ)と地
+//面の間に、
+On the walls and floors of
+dungeons,
+$E=====3137=====
+//小さな穴(あな)が開いているの
+//を見つけたことはないか?
+haven't you seen any small
+holes?
+$E=====3138=====
+//赤いキノコっていうアイテムさ
+//えあれば、あの中に入れるはず
+//なんだがなぁ・・・」
+If only you had an item
+called a Redshroom, you
+could get through them..."
+$E=====3139=====
 <PROC=0>
 <END>
-$J=====3140=====
-<LABEL=KID>キッド</LABEL>
-「アクセサリーが装備(そうび)
-できるのは、
-$J=====3141=====
-頭、胴(どう)、腕(うで)、脚(
-あし)の4ヶ所だが、
-$J=====3142=====
-どこに装備(そうび)するアクセ
-サリーなのかによって、得られ
-る効果(こうか)がちがうんだ
-$J=====3143=====
-頭用は、ステータスなどの状態
-(じょうたい)に関する効果(こ
-うか)を、
-$J=====3144=====
-胴(どう)用は、敵(てき)モンス
-ターなどから受けるダメージに
-関する効果(こうか)を、
-$J=====3145=====
-腕(うで)用は、敵(てき)モンス
-ターなどにあたえるダメージに
-関する効果(こうか)を、
-$J=====3146=====
-脚(あし)用は、移動(いどう)や
-回復(かいふく)に関する効果(
-こうか)を得られるぞ」
-$J=====3147=====
+$E=====3140=====
+//<LABEL=KID>キッド</LABEL>
+//「アクセサリーが装備(そうび)
+//できるのは、
+<LABEL=KID>Kid</LABEL>:
+"There are 4 places you can
+equip accessories:
+$E=====3141=====
+//頭、胴(どう)、腕(うで)、脚(
+//あし)の4ヶ所だが、
+head, body, arms, and legs.
+$E=====3142=====
+//どこに装備(そうび)するアクセ
+//サリーなのかによって、得られ
+//る効果(こうか)がちがうんだ
+Accessesories for different
+places affect different
+things.
+$E=====3143=====
+//頭用は、ステータスなどの状態
+//(じょうたい)に関する効果(こ
+//うか)を、
+Head accessories affect
+things like status,
+$E=====3144=====
+//胴(どう)用は、敵(てき)モンス
+//ターなどから受けるダメージに
+//関する効果(こうか)を、
+body accessories affect
+things like the damage you
+receive from enemies,
+$E=====3145=====
+//腕(うで)用は、敵(てき)モンス
+//ターなどにあたえるダメージに
+//関する効果(こうか)を、
+arm accessories affect
+things like the damage you
+deal to enemies,
+$E=====3146=====
+//脚(あし)用は、移動(いどう)や
+//回復(かいふく)に関する効果(
+//こうか)を得られるぞ」
+and leg accessories affect
+things like movement and
+recovery."
+$E=====3147=====
 <PROC=0>
 <END>
-$J=====3148=====
-<LABEL=KID>キッド</LABEL>
-「ところでボーイ、
-オマエ、聞いたことないか?
-$J=====3149=====
-屋外エリアや天窓(てんまど)の
-下では、通常、太陽の光が得ら
-れるわけだが、
-$J=====3150=====
-満月の夜にかぎっては、何か別
-のものが得られるらしい
-$J=====3151=====
-いったい何が起こるんだ?」
-$J=====3152=====
+$E=====3148=====
+//<LABEL=KID>キッド</LABEL>
+//「ところでボーイ、
+//オマエ、聞いたことないか?
+<LABEL=KID>Kid</LABEL>:
+"By the way, boy,
+haven't you heard?
+$E=====3149=====
+//屋外エリアや天窓(てんまど)の
+//下では、通常、太陽の光が得ら
+//れるわけだが、
+Usually you use outdoor
+areas and skylights to
+charge with sunlight,
+$E=====3150=====
+//満月の夜にかぎっては、何か別
+//のものが得られるらしい
+but on full moon nights, you
+might be able to charge with
+something else.
+$E=====3151=====
+//いったい何が起こるんだ?」
+Just what might happen?"
+$E=====3152=====
 <PROC=0>
 <END>
-$J=====3153=====
-<LABEL=KID>キッド</LABEL>
-「知ってるか?
-$J=====3154=====
-アクセサリーには、それぞれに
-潜在能力(せんざいのうりょく)
-ってものがある
-$J=====3155=====
-太陽鍛冶(たいようかじ)の材料
-にしたとき、
-$J=====3156=====
-ソードをどこまで強化できるか
-は、この潜在能力(せんざいの
-うりょく)によって決まるんだ
-$J=====3157=====
-そのソードに対して、十分な能
-力(のうりょく)を持ったアクセ
-サリーであれば、
-$J=====3158=====
-レベルや、ランクを上げること
-ができるが、
-$J=====3159=====
-能力(のうりょく)が足りなけれ
-ば、レベルを下げてしまうって
-わけだ
-$J=====3160=====
-言いかえれば、
-$J=====3161=====
-レベルの高いソードを作るには
-それに見合ったアクセサリーが
-必要だってことだな」
-$J=====3162=====
+$E=====3153=====
+//<LABEL=KID>キッド</LABEL>
+//「知ってるか?
+<LABEL=KID>Kid</LABEL>:
+"Did you know?
+$E=====3154=====
+//アクセサリーには、それぞれに
+//潜在能力(せんざいのうりょく)
+//ってものがある
+Every accessory has its own
+potential.
+$E=====3155=====
+//太陽鍛冶(たいようかじ)の材料
+//にしたとき、
+When you use them as
+ingredients for SOLARSMITH,
+$E=====3156=====
+//ソードをどこまで強化できるか
+//は、この潜在能力(せんざいの
+//うりょく)によって決まるんだ
+how much you can strengthen
+your sword depends on the
+accessory's potential.
+$E=====3157=====
+//そのソードに対して、十分な能
+//力(のうりょく)を持ったアクセ
+//サリーであれば、
+For each sword, if you use
+an accessory with enough
+ability,
+$E=====3158=====
+//レベルや、ランクを上げること
+//ができるが、
+you can raise the sword's
+level and rank.
+$E=====3159=====
+//能力(のうりょく)が足りなけれ
+//ば、レベルを下げてしまうって
+//わけだ
+However, if the accessory
+isn't powerful enough, the
+sword might lose levels.
+$E=====3160=====
+//言いかえれば、
+In other words,
+$E=====3161=====
+//レベルの高いソードを作るには
+//それに見合ったアクセサリーが
+//必要だってことだな」
+to make high-level swords,
+you need equally suitable
+accessories."
+$E=====3162=====
 <PROC=0>
 <END>
-$J=====3163=====
-<LABEL=KID>キッド</LABEL>
-「ところでボーイ、
-$J=====3164=====
-オマエ、ブロマイドを集めてる
-んだって?
-$J=====3165=====
-ぜんぜん集まらないんでこまっ
-てる?
-$J=====3166=====
-そんなに気にすることないんじ
-ゃないか?
-$J=====3167=====
-ああいうもんは、ほしいときに
-は手に入らないクセに、
-$J=====3168=====
-あきらめたとたん、あっさり手
-に入ったりするもんだからな」
-$J=====3169=====
+$E=====3163=====
+//<LABEL=KID>キッド</LABEL>
+//「ところでボーイ、
+<LABEL=KID>Kid</LABEL>:
+"By the way, boy,
+$E=====3164=====
+//オマエ、ブロマイドを集めてる
+//んだって?
+Have you been collecting
+photos?
+$E=====3165=====
+//ぜんぜん集まらないんでこまっ
+//てる?
+You're not at all interested
+in collecting them?
+$E=====3166=====
+//そんなに気にすることないんじ
+//ゃないか?
+You don't care about that
+kind of thing?
+$E=====3167=====
+//ああいうもんは、ほしいときに
+//は手に入らないクセに、
+Oh, I get it, it's like you
+won't find them when you're
+looking for them,
+$E=====3168=====
+//あきらめたとたん、あっさり手
+//に入ったりするもんだからな」
+but as soon as you give up,
+you'll find them easily,
+right?"
+$E=====3169=====
 <PROC=0>
 <END>
 $E=====3170=====
@@ -11663,8 +11787,7 @@ $E=====3170=====
 "By the way, boy,
 $E=====3171=====
 //ブロマイドは集まってるか?
-Have you been collecting
-photos?
+Are you collecting photos?
 $E=====3172=====
 //何だ、けっこう集まってるじゃ
 //ないか
@@ -12347,182 +12470,293 @@ $E=====3308=====
 //「サバタ・・・
 <LABEL=SMITH>Smith</LABEL>:
 "Sabata...
-$J=====3309=====
-その心を闇の一族(イモータル)
-に支配(しはい)されながらも、
-おまえを信じ、
-$J=====3310=====
-自らを犠牲(ぎせい)にしてまで
-も、おまえのために道を切り開
-くとは・・・
-$J=====3311=====
-リンゴとマーニ、2人がおまえ
-たちにたくした意思、
-$J=====3312=====
-太陽と月に見守られたこの大地
-と、そこに生きるすべての命を
-守ろうとするその意思は、
-$J=====3313=====
-確実に、おまえたち兄弟の中に
-息づいているようじゃな
-$J=====3314=====
-<NAME>・・・
-$J=====3315=====
-このままサバタを、破壊(はか
-い)の獣(けもの)の後継者(こう
-けいしゃ)などにしてはならん!
-$J=====3316=====
-なんとしても、あいつを取りも
-どすんじゃ!!」
-$J=====3317=====
+$E=====3309=====
+//その心を闇の一族(イモータル)
+//に支配(しはい)されながらも、
+//おまえを信じ、
+Even while the Immortals
+were controlling his mind,
+he trusted in you,
+$E=====3310=====
+//自らを犠牲(ぎせい)にしてまで
+//も、おまえのために道を切り開
+//くとは・・・
+and sacrificed himself to
+open up the path for you...
+$E=====3311=====
+//リンゴとマーニ、2人がおまえ
+//たちにたくした意思、
+The responsibility that
+Ringo and Mani gave you two,
+$E=====3312=====
+//太陽と月に見守られたこの大地
+//と、そこに生きるすべての命を
+//守ろうとするその意思は、
+to protect all life on this
+land watched over by the
+sun and moon,
+$U=====3313=====
+//確実に、おまえたち兄弟の中に
+//息づいているようじゃな
+between the two of you it
+shouldn't be too daunting a
+task.
+$E=====3314=====
+//<NAME>・・・
+<NAME>...
+$E=====3315=====
+//このままサバタを、破壊(はか
+//い)の獣(けもの)の後継者(こう
+//けいしゃ)などにしてはならん!
+You can't let Sabata become
+the Beast of Destruction's
+successor like this!
+$E=====3316=====
+//なんとしても、あいつを取りも
+//どすんじゃ!!」
+You have to find a way to
+return him to normal!"
+$E=====3317=====
 <PROC=0>
 <END>
-$J=====3318=====
-<LABEL=SMITH>スミス</LABEL>
-「ソードとアクセサリーには相
-性(あいしょう)があり、
-$J=====3319=====
-相性(あいしょう)の良いアクセ
-サリーを使わなければ、
-$J=====3320=====
-ソードをレベルアップさせるこ
-とはできない
-$J=====3321=====
-どの種類(部位)のアクセサリー
-と相性(あいしょう)が良いのか
-は、
-$J=====3322=====
-ソードによって異(こと)なるが
-$J=====3323=====
-直剣および大剣タイプは胴(ど
-う)用のアクセサリーと、
-$J=====3324=====
-曲刀は脚(あし)用のアクセサリ
-ーと、
-$J=====3325=====
-長刀は腕(うで)用のアクセサリ
-ーと、
-$J=====3326=====
-刀は頭用のアクセサリーと相性
-(あいしょう)が良いことが多い
-ようじゃ」
-$J=====3327=====
+$E=====3318=====
+//<LABEL=SMITH>スミス</LABEL>
+//「ソードとアクセサリーには相
+//性(あいしょう)があり、
+<LABEL=SMITH>Smith</LABEL>:
+"Certain types of swords and
+accessories are compatible.
+$E=====3319=====
+//相性(あいしょう)の良いアクセ
+//サリーを使わなければ、
+If you don't use a
+compatible accessory,
+$E=====3320=====
+//ソードをレベルアップさせるこ
+//とはできない
+you won't be able to raise
+a sword's level.
+$E=====3321=====
+//どの種類(部位)のアクセサリー
+//と相性(あいしょう)が良いのか
+//は、
+Which type of accessory is
+compatible varies,
+$E=====3322=====
+//ソードによって異(こと)なるが
+depending on the type of
+sword.
+$E=====3323=====
+//直剣および大剣タイプは胴(ど
+//う)用のアクセサリーと、
+Use body accessories for
+straight swords and
+greatswords,
+$E=====3324=====
+//曲刀は脚(あし)用のアクセサリ
+//ーと、
+leg accessories for curved
+swords,
+$E=====3325=====
+//長刀は腕(うで)用のアクセサリ
+//ーと、
+arm accessories for
+longswords,
+$E=====3326=====
+//刀は頭用のアクセサリーと相性
+//(あいしょう)が良いことが多い
+//ようじゃ」
+and head accessories for
+katanas.
+$E=====3327=====
 <PROC=0>
 <END>
-$J=====3328=====
-<LABEL=SMITH>スミス</LABEL>
-「あの暗黒城(あんこくじょう)
-が復活(ふっかつ)するとはな
-$J=====3329=====
-かつての戦いにおいては、おま
-えの親父と共に、われわれもあ
-の城(しろ)にいどんだが、
-$J=====3330=====
-暗黒物質(ダークマター)が引き
-起こす世紀末現象によって、
-$J=====3331=====
-あらゆる闇の領域(ダンジョン)
-と魔物(モンスター)があらわれ
-る、
-$J=====3332=====
-あの城(しろ)の攻略(こうりゃ
-く)には、ずいぶんと骨(ほね)
-を折(お)ったものじゃ
-$J=====3333=====
-おまえも十分に準備(じゅんび)
-を整えた上で、いどむんじゃぞ
-?
-$J=====3334=====
-アイテム、武器(ぶき)、アクセ
-サリー、そしておまえ自身のレ
-ベル・・・
-$J=====3335=====
-どれ1つとして、おろそかには
-できないぞ」
-$J=====3336=====
+$E=====3328=====
+//<LABEL=SMITH>スミス</LABEL>
+//「あの暗黒城(あんこくじょう)
+//が復活(ふっかつ)するとはな
+<LABEL=SMITH>Smith</LABEL>:
+"The Dark Castle has been
+restored, it seems.
+$E=====3329=====
+//かつての戦いにおいては、おま
+//えの親父と共に、われわれもあ
+//の城(しろ)にいどんだが、
+We once fought a great
+battle alongside your father
+in that castle,
+$E=====3330=====
+//暗黒物質(ダークマター)が引き
+//起こす世紀末現象によって、
+but due to the end-of-the-
+world phenomenon caused by
+Dark Matter,
+$E=====3331=====
+//あらゆる闇の領域(ダンジョン)
+//と魔物(モンスター)があらわれ
+//る、
+all the dungeons and
+monsters have appeared.
+$E=====3332=====
+//あの城(しろ)の攻略(こうりゃ
+//く)には、ずいぶんと骨(ほね)
+//を折(お)ったものじゃ
+That castle must be captured
+at any cost.
+$E=====3333=====
+//おまえも十分に準備(じゅんび)
+//を整えた上で、いどむんじゃぞ
+//?
+Are you well-prepared for
+the coming challenge?
+$E=====3334=====
+//アイテム、武器(ぶき)、アクセ
+//サリー、そしておまえ自身のレ
+//ベル・・・
+Items, weapons accessories,
+and your own level...
+$E=====3335=====
+//どれ1つとして、おろそかには
+//できないぞ」
+you can't neglect even one
+of those."
+$E=====3336=====
 <PROC=0>
 <END>
-$J=====3337=====
-<LABEL=SMITH>スミス</LABEL>
-「太陽鍛冶(たいようかじ)にお
-いて、
-$J=====3338=====
-相性(あいしょう)の良くないア
-クセサリーとの組み合わせで、
-$J=====3339=====
-ソードをレベルアップさせるこ
-とはできないが、
-$J=====3340=====
-そのアクセサリーの潜在能力(
-せんざいのうりょく)が十分で
-あれば、
-$J=====3341=====
-ソードのランクを上げたり、SP
-(特殊効果)を付けることはでき
-るぞ」
-$J=====3342=====
+$E=====3337=====
+//<LABEL=SMITH>スミス</LABEL>
+//「太陽鍛冶(たいようかじ)にお
+//いて、
+<LABEL=SMITH>Smith/LABEL>:
+"When using SOLARFORGE,
+$E=====3338=====
+//相性(あいしょう)の良くないア
+//クセサリーとの組み合わせで、
+if you combine a sword with
+an accessory of the wrong
+type,
+$E=====3339=====
+//ソードをレベルアップさせるこ
+//とはできないが、
+you won't be able to level
+up the sword.
+$E=====3340=====
+//そのアクセサリーの潜在能力(
+//せんざいのうりょく)が十分で
+//あれば、
+However, if that accessory
+has high enough potential,
+$E=====3341=====
+//ソードのランクを上げたり、SP
+//(特殊効果)を付けることはでき
+//るぞ」
+the sword can still gain
+ranks or SP effects."
+$E=====3342=====
 <PROC=0>
 <END>
-$J=====3343=====
-<LABEL=SMITH>スミス</LABEL>
-「はるかなる月世界・・・
-失われた楽園、まほろばか
-$J=====3344=====
-かつて太陽の一族が、天空に都
-市をうかべ、そこを楽園とした
-ように、
-$J=====3345=====
-月の一族もまた、自分たちの楽
-園を持っておったのじゃな
-$J=====3346=====
-じゃがそれも、はるか昔の話じ
-ゃ・・・
-$J=====3347=====
-太陽と暗黒、火水風土の4大元
-素、そのすべてをあやつりみち
-びく力・・・
-$J=====3348=====
-その力を持つがゆえに、太陽と
-暗黒の戦いにまきこまれ、ほろ
-びの道を歩んだ月の一族が、
-$J=====3349=====
-ふたたびこの世界に姿(すがた)
-を表すことは、もうないだろう
-$J=====3350=====
-その最後の生き残りであった、
-おまえの母も、
-$J=====3351=====
-闇の王(キング・オブ・イモー
-タル)を受けついだその姉も、
-$J=====3352=====
-もはやこの世界にはいないのじ
-ゃからな・・・」
-$J=====3353=====
+$E=====3343=====
+//<LABEL=SMITH>スミス</LABEL>
+//「はるかなる月世界・・・
+//失われた楽園、まほろばか
+<LABEL=SMITH>Smith</LABEL>:
+"In the distant lunar world,
+the great Lost Paradise...
+$E=====3344=====
+//かつて太陽の一族が、天空に都
+//市をうかべ、そこを楽園とした
+//ように、
+The Solar Family once had a
+flying city in the sky,
+called Paradise.
+$E=====3345=====
+//月の一族もまた、自分たちの楽
+//園を持っておったのじゃな
+The Lunar Family had their
+own paradise,
+$E=====3346=====
+//じゃがそれも、はるか昔の話じ
+//ゃ・・・
+although that too is a story
+of ancient times...
+$E=====3347=====
+//太陽と暗黒、火水風土の4大元
+//素、そのすべてをあやつりみち
+//びく力・・・
+The power to control it all-
+Sol and Darkness, the four
+great elements...
+$E=====3348=====
+//その力を持つがゆえに、太陽と
+//暗黒の戦いにまきこまれ、ほろ
+//びの道を歩んだ月の一族が、
+with that power, they were
+drawn into the battle
+between Sol and Darkness.
+$E=====3349=====
+//ふたたびこの世界に姿(すがた)
+//を表すことは、もうないだろう
+The Lunar Family walked the
+path of destruction, and
+were never seen again.
+$E=====3350=====
+//その最後の生き残りであった、
+//おまえの母も、
+Your mother and her older
+sister who accepted the King
+of Immortals,
+$E=====3351=====
+//闇の王(キング・オブ・イモー
+//タル)を受けついだその姉も、
+they were the last
+survivors,
+$E=====3352=====
+//もはやこの世界にはいないのじ
+//ゃからな・・・」
+and now they are no longer
+of this world..."
+$E=====3353=====
 <PROC=0>
 <END>
-$J=====3354=====
-<LABEL=SMITH>スミス</LABEL>
-「<NAME>、
-$J=====3355=====
-おまえが太陽鍛冶(たいようか
-じ)で作り出すソードの中には
-$J=====3356=====
-おまえにしか作ることのできな
-いレアソードが存在(そんざい)
-する
-$J=====3357=====
-さらに、おまえでさえ作り出す
-ことのできないシークレットソ
-ードも存在するらしい
-$J=====3358=====
-それらのソードを、わしやシャ
-イアンが量産することはできな
-い
-$J=====3359=====
-もし手に入れることができたら
-簡単(かんたん)には手放すなよ
-?」
-$J=====3360=====
+$E=====3354=====
+//<LABEL=SMITH>スミス</LABEL>
+//「<NAME>、
+<LABEL=SMITH>Smith</LABEL>:
+"<NAME>,
+$E=====3355=====
+//おまえが太陽鍛冶(たいようか
+//じ)で作り出すソードの中には
+among the swords that you
+can create through
+SOLARSMITH,
+$E=====3356=====
+//おまえにしか作ることのできな
+//いレアソードが存在(そんざい)
+//する
+there exist rare swords that
+only you can create.
+$E=====3357=====
+//さらに、おまえでさえ作り出す
+//ことのできないシークレットソ
+//ードも存在するらしい
+Furthermore, there are
+secret swords that even you
+can't create.
+$E=====3358=====
+//それらのソードを、わしやシャ
+//イアンが量産することはできな
+//い
+Cheyenne and I won't be able
+to mass-produce either of
+those types of swords.
+$E=====3359=====
+//もし手に入れることができたら
+//簡単(かんたん)には手放すなよ
+//?」
+If you manage to obtain any
+of them, don't part with
+them easily, okay?"
+$E=====3360=====
 <PROC=0>
 <END>
 $E=====3361=====
@@ -12734,71 +12968,103 @@ $E=====3409=====
 //棺桶(かんおけ)バイクはともか
 //く、おまえ自身がオーバーヒー
 //トをしてしまう
-you or your solar bike can
-become overheated.
-$J=====3410=====
-日差しや暑さへの対策(たいさ
-く)をほどこした上で、
-$J=====3411=====
-こまめな休憩(きゅうけい)を心
-がけるんだ」
-$J=====3412=====
+you and your solar bike can
+both become overheated.
+$E=====3410=====
+//日差しや暑さへの対策(たいさ
+//く)をほどこした上で、
+To counteract the sunlight
+and heat,
+$E=====3411=====
+//こまめな休憩(きゅうけい)を心
+//がけるんだ」
+make sure to take frequent
+breaks, got it?"
+$E=====3412=====
 <PROC=0>
 <END>
-$J=====3413=====
-<LABEL=COACH>コーチ</LABEL>
-「バイクポイントとは、
-$J=====3414=====
-バイクアクションやバイクバト
-ルで、その成績(せいせき)にお
-うじて得ることのできる、
-$J=====3415=====
-賞金のようなものだ
-$J=====3416=====
-ポイントを貯めれば、アイテム
-やバイクのパーツと交換(こう
-かん)することできるぞ
-$J=====3417=====
-ポイントの交換(こうかん)につ
-いては、そこにいるマネージャ
-ーに一任(いちにん)してある
-$J=====3418=====
-有能(ゆうのう)なマネージャー
-だ。棺桶(かんおけ)だからとい
-ってなめてかかるなよ?」
-$J=====3419=====
+$E=====3413=====
+//<LABEL=COACH>コーチ</LABEL>
+//「バイクポイントとは、
+<LABEL=COACH>Coach</LABEL>:
+"To earn Bike Points,
+$E=====3414=====
+//バイクアクションやバイクバト
+//ルで、その成績(せいせき)にお
+//うじて得ることのできる、
+participate in Bike Action
+and Bike Battle.
+$E=====3415=====
+//賞金のようなものだ
+The points can be exchanged
+for prizes.
+$E=====3416=====
+//ポイントを貯めれば、アイテム
+//やバイクのパーツと交換(こう
+//かん)することできるぞ
+Once you've saved up enough
+points, exchange them for
+items and bike parts.
+$E=====3417=====
+//ポイントの交換(こうかん)につ
+//いては、そこにいるマネージャ
+//ーに一任(いちにん)してある
+See the Manager over there?
+I put him in charge of
+exchanging points.
+$E=====3418=====
+//有能(ゆうのう)なマネージャー
+//だ。棺桶(かんおけ)だからとい
+//ってなめてかかるなよ?」
+He's a great manager. He's
+a coffin, so he should know
+all about them, right?"
+$E=====3419=====
 <PROC=0>
 <END>
-$J=====3420=====
-<LABEL=COACH>コーチ</LABEL>
-「マネージャーからの報告(ほ
-うこく)によると、
-$J=====3421=====
+$E=====3420=====
+//<LABEL=COACH>コーチ</LABEL>
+//「マネージャーからの報告(ほ
+//うこく)によると、
+<LABEL=COACH>Coach</LABEL>:
+"According to the manager's
+info,
+$E=====3421=====
 <PROC=0>
 <END>
-$J=====3422=====
-<LABEL=COACH></LABEL>バイクポイントとの交換(こう
-かん)によって、手に入れるこ
-とのできるバイクのパーツは、
-$J=====3423=====
-300ポイントのコースで、残り
-<VAR=0>コ、
-$J=====3424=====
-600ポイントのコースで、残り
-<VAR=1>コ、
-$J=====3425=====
-1200ポイントのコースで、残り
-<VAR=2>コだ」
-$J=====3426=====
+$E=====3422=====
+//<LABEL=COACH></LABEL>バイクポイントとの交換(こう
+//かん)によって、手に入れるこ
+//とのできるバイクのパーツは、
+<LABEL=COACH></LABEL>the number of bike parts
+you can still get from each
+exchange course are:
+$E=====3423=====
+//300ポイントのコースで、残り
+//<VAR=0>コ、
+300 points: <VAR=0> left,
+$E=====3424=====
+//600ポイントのコースで、残り
+//<VAR=1>コ、
+600 points: <VAR=1> left,
+$E=====3425=====
+//1200ポイントのコースで、残り
+//<VAR=2>コだ」
+1200 points: <VAR=2> left."
+$E=====3426=====
 <PROC=0>
 <END>
-$J=====3427=====
-<LABEL=COACH></LABEL>バイクポイントとの交換(こう
-かん)によって、手に入れるこ
-とのできるバイクのパーツは、
-$J=====3428=====
-もうない」
-$J=====3429=====
+$E=====3427=====
+//<LABEL=COACH></LABEL>バイクポイントとの交換(こう
+//かん)によって、手に入れるこ
+//とのできるバイクのパーツは、
+<LABEL=COACH></LABEL>there aren't any bike parts
+left to be exchanged for
+points.
+$E=====3428=====
+//もうない」
+You've got them all."
+$E=====3429=====
 <PROC=0>
 <END>
 $J=====3430=====
@@ -13431,12 +13697,12 @@ $E=====3580=====
 See, I have another mission
 I'd like you ask you to take
 on.
-$J=====3581=====
-あなたに退治(たいじ)してもら
-ったワンテッドモンスターなん
-だけど、
+$U=====3581=====
+//あなたに退治(たいじ)してもら
+//ったワンテッドモンスターなん
+//だけど、
 You did eradicate the Wanted
-monsters, and the damage had
+monsters, and the damage has
 been mitigated for a while,
 $E=====3582=====
 //一時はおさまったはずの被害(
@@ -14048,77 +14314,121 @@ situations, okay?"
 $E=====3695=====
 <PROC=0>
 <END>
-$J=====3696=====
-<LABEL=LADY>レディ</LABEL>
-「いい、<NAME>くん
-$J=====3697=====
-エナジーを回復するには太陽の
-光が必要だけれど、
-$J=====3698=====
-強すぎる光を浴び続けたり、長
-時間、太陽の光を浴び続けてい
-ると、
-$J=====3699=====
-太陽銃(ガン・デル・ソル)はと
-もかく、あなた自身がオーバー
-ヒートをしてしまうわ
-$J=====3700=====
-日差しや暑さへの対策(たいさ
-く)をほどこした上で、
-$J=====3701=====
-こまめな休憩(きゅうけい)を心
-がけてね?」
-$J=====3702=====
+$E=====3696=====
+//<LABEL=LADY>レディ</LABEL>
+//「いい、<NAME>くん
+<LABEL=LADY>Lady</LABEL>:
+"Listen, <NAME>.
+$E=====3697=====
+//エナジーを回復するには太陽の
+//光が必要だけれど、
+You need sunligh in order
+to recharge your energy,
+$E=====3698=====
+//強すぎる光を浴び続けたり、長
+//時間、太陽の光を浴び続けてい
+//ると、
+but if the sunlight is too
+strong or you remain exposed
+for too long,
+$E=====3699=====
+//太陽銃(ガン・デル・ソル)はと
+//もかく、あなた自身がオーバー
+//ヒートをしてしまうわ
+you and the Gun del Sol can
+both become overheated.
+$E=====3700=====
+//日差しや暑さへの対策(たいさ
+//く)をほどこした上で、
+To counteract the sunlight
+and heat,
+$E=====3701=====
+//こまめな休憩(きゅうけい)を心
+//がけてね?」
+make sure to take frequent
+breaks, okay?"
+$E=====3702=====
 <PROC=0>
 <END>
-$J=====3703=====
-<LABEL=LADY>レディ</LABEL>
-「いい、<NAME>くん
-$J=====3704=====
-敵(てき)モンスターをたおすこ
-とによって得られる経験値(け
-いけんち)なんだけど、
-$J=====3705=====
-自分の攻撃(こうげき)でたおさ
-なければ、経験値(けいけんち)
-を得ることはできないの
-$J=====3706=====
-レベルアップを目指すなら、
-$J=====3707=====
-天窓(てんまど)などの仕掛(し
-か)けを利用したり、
-$J=====3708=====
-敵(てき)の同士討(どうしう)ち
-をねらうのではなく、
-$J=====3709=====
-自分自身の手でトドメをささな
-きゃダメよ?」
-$J=====3710=====
+$E=====3703=====
+//<LABEL=LADY>レディ</LABEL>
+//「いい、<NAME>くん
+<LABEL=LADY>Lady</LABEL>:
+"Listen, <NAME>.
+$E=====3704=====
+//敵(てき)モンスターをたおすこ
+//とによって得られる経験値(け
+//いけんち)なんだけど、
+You gain experience points
+for defeating monsters,
+$E=====3705=====
+//自分の攻撃(こうげき)でたおさ
+//なければ、経験値(けいけんち)
+//を得ることはできないの
+but you won't earn points
+unless you defeat them with
+your own attacks.
+$E=====3706=====
+//レベルアップを目指すなら、
+If you're trying to level
+up,
+$E=====3707=====
+//天窓(てんまど)などの仕掛(し
+//か)けを利用したり、
+try not to use indirect
+methods like skylights,
+$E=====3708=====
+//敵(てき)の同士討(どうしう)ち
+//をねらうのではなく、
+or letting enemies attack
+each other.
+$E=====3709=====
+//自分自身の手でトドメをささな
+//きゃダメよ?」
+You have to finish them off
+by yourself, okay?"
+$E=====3710=====
 <PROC=0>
 <END>
-$J=====3711=====
-<LABEL=LADY>レディ</LABEL>
-「カウンターの横、西側の本棚
-(ほんだな)にある、
-$J=====3712=====
-称号記録(しょうごうきろく)は
-見た?
-$J=====3713=====
-称号(しょうごう)というのは、
-$J=====3714=====
-特定の条件(じょうけん)を満た
-すことで得られる、よび名のこ
-とで、
-$J=====3715=====
-それを得られたからといって、
-何か得をするわけではないの
-$J=====3716=====
-その価値(かち)を決めるのは、
-あなた自身・・・
-$J=====3717=====
-集めるも集めないも、あなたの
-好きにすればいいわ」
-$J=====3718=====
+$E=====3711=====
+//<LABEL=LADY>レディ</LABEL>
+//「カウンターの横、西側の本棚
+//(ほんだな)にある、
+<LABEL=LADY>Lady</LABEL>:
+"Have you seen the Title
+record?
+$E=====3712=====
+//称号記録(しょうごうきろく)は
+//見た?
+It's on the bookshelf next
+to the counter on the west
+wall.
+$E=====3713=====
+//称号(しょうごう)というのは、
+A title is a label of
+commendation,
+$E=====3714=====
+//特定の条件(じょうけん)を満た
+//すことで得られる、よび名のこ
+//とで、
+awarded for fulfulling
+special conditions.
+$E=====3715=====
+//それを得られたからといって、
+//何か得をするわけではないの
+Having a title doesn't come
+with any extra privileges.
+$E=====3716=====
+//その価値(かち)を決めるのは、
+//あなた自身・・・
+The value is in the
+accomplishment itself...
+$E=====3717=====
+//集めるも集めないも、あなたの
+//好きにすればいいわ」
+whether or not to try and
+collect them is up to you."
+$E=====3718=====
 <PROC=0>
 <END>
 $E=====3719=====
@@ -14299,19 +14609,28 @@ obtained!<LOCK=176>
 $E=====3754=====
 <PROC=0>
 <END>
-$J=====3755=====
-<LABEL=ZAJI>ザジ</LABEL>
-「せやけど、油断(ゆだん)した
-らアカンで?
-$J=====3756=====
-あんたと同じで、敵(てき)モン
-スターにもレベルっちゅうもん
-があるんや
-$J=====3757=====
-特に闘技場(とうぎじょう)のプ
-ラチナクラスは、ほんまハンパ
-やないで?」
-$J=====3758=====
+$E=====3755=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「せやけど、油断(ゆだん)した
+//らアカンで?
+<LABEL=ZAJI>Zazie</LABEL>:
+"Awright, but don't go
+gettin' careless now.
+$E=====3756=====
+//あんたと同じで、敵(てき)モン
+//スターにもレベルっちゅうもん
+//があるんや
+There are still monsters out
+there with the same level
+yer at,
+$U=====3757=====
+//特に闘技場(とうぎじょう)のプ
+//ラチナクラスは、ほんまハンパ
+//やないで?」
+'specially in the Platinum
+class at the Arena. ほんま
+ハンパやないで?"
+$E=====3758=====
 <PROC=0>
 <END>
 $E=====3759=====
@@ -14328,7 +14647,7 @@ $E=====3761=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //「読めたでっ!!」
 <LABEL=ZAJI>Zazie</LABEL>:
-"Done!"
+"Readin' complete!"
 $E=====3762=====
 <PROC=0>
 <END>
@@ -14356,201 +14675,308 @@ Guess Otenko can rest easy."
 $E=====3767=====
 <PROC=0>
 <END>
-$J=====3768=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの中にある2つの力、
-ソルとダーク・・・
-$J=====3769=====
-今のあんたは、そのどちらにも
-かたむいてへんみたいやな
-$J=====3770=====
-何をまよっとるんや、
-<NAME>?」
-$J=====3771=====
+$E=====3768=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの中にある2つの力、
+//ソルとダーク・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"Ya got two powers within
+ya, Sol and Dark...
+$E=====3769=====
+//今のあんたは、そのどちらにも
+//かたむいてへんみたいやな
+but yer ain't really leanin'
+toward either one right now.
+$E=====3770=====
+//何をまよっとるんや、
+//<NAME>?」
+Whatcha hesitatin' for,
+<NAME>?"
+$E=====3771=====
 <PROC=0>
 <END>
-$J=====3772=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの中にある2つの力、
-ソルとダーク・・・
-$J=====3773=====
-今のあんたはダークに・・・
-暗黒の側にかたむいとるみたい
-やな
-$J=====3774=====
-あんたまさか・・・
-$J=====3775=====
-少しでもサバタに近づこうて思
-てんの?」
-$J=====3776=====
+$E=====3772=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの中にある2つの力、
+//ソルとダーク・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"Ya got two powers within
+ya, Sol and Dark...
+$E=====3773=====
+//今のあんたはダークに・・・
+//暗黒の側にかたむいとるみたい
+//やな
+Yer Dark right now...
+yeah, looks like yer leanin'
+toward the darkness.
+$E=====3774=====
+//あんたまさか・・・
+Don't tell me...
+$E=====3775=====
+//少しでもサバタに近づこうて思
+//てんの?」
+you ain't thinkin' of
+gettin' closer to Sabata,
+are ya?"
+$E=====3776=====
 <PROC=0>
 <END>
-$J=====3777=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの向かうべき方角は、
-東や
-$J=====3778=====
-この街の東に広がる死の砂漠(
-さばく)・・・
-$J=====3779=====
-その先にある街から、あんたの
-ことをよぶ声が聞こえるで」
-$J=====3780=====
+$E=====3777=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの向かうべき方角は、
+//東や
+<LABEL=ZAJI>Zazie</LABEL>:
+"You should head east.
+$E=====3778=====
+//この街の東に広がる死の砂漠(
+//さばく)・・・
+The deadly desert that
+stretches out to the east of
+this city...
+$E=====3779=====
+//その先にある街から、あんたの
+//ことをよぶ声が聞こえるで」
+beyond the town there, a
+voice is callin' you."
+$E=====3780=====
 <PROC=0>
 <END>
-$J=====3781=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの向かうべき方角は、
-北東や
-$J=====3782=====
-この街のはるか北東、辺境(へ
-んきょう)に広がる大樹海(だい
-じゅかい)・・・
-$J=====3783=====
-その中の一本の樹(き)に、あん
-たの追うべき相手が向かっとる
-みたいやで」
-$J=====3784=====
+$E=====3781=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの向かうべき方角は、
+//北東や
+<LABEL=ZAJI>Zazie</LABEL>:
+"You should head northeast.
+$E=====3782=====
+//この街のはるか北東、辺境(へ
+//んきょう)に広がる大樹海(だい
+//じゅかい)・・・
+The remote forest that
+stretches out to the
+northeast of this city...
+$E=====3783=====
+//その中の一本の樹(き)に、あん
+//たの追うべき相手が向かっとる
+//みたいやで」
+in front of a tree there,
+you'll face yer enemy."
+$E=====3784=====
 <PROC=0>
 <END>
-$J=====3785=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの向かうべき方角は、
-北や
-$J=====3786=====
-この街の北に見える火吹山(ひ
-ふきやま)・・・
-$J=====3787=====
-その山中にある雪ふる森に、あ
-んたのさがし求める相手がおる
-はずや
-$J=====3788=====
-あいつのこと・・・
-たのむで、<NAME>?」
-$J=====3789=====
+$E=====3785=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの向かうべき方角は、
+//北や
+<LABEL=ZAJI>Zazie</LABEL>:
+"You should head north.
+$E=====3786=====
+//この街の北に見える火吹山(ひ
+//ふきやま)・・・
+The volcano you can see to
+the north of this city...
+$E=====3787=====
+//その山中にある雪ふる森に、あ
+//んたのさがし求める相手がおる
+//はずや
+The enemy you seek should be
+in the snow-covered forest
+among those mountains.
+$E=====3788=====
+//あいつのこと・・・
+//たのむで、<NAME>?」
+Please save him, <NAME>."
+$E=====3789=====
 <PROC=0>
 <END>
-$J=====3790=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの向かうべき方角は、
-南東や
-$J=====3791=====
-この街のはるか南東に広がる呪
-(のろ)われた海・・・
-$J=====3792=====
-そこにうかぶ島の1つに、あん
-たがさがすべきモノがあるはず
-や」
-$J=====3793=====
+$E=====3790=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの向かうべき方角は、
+//南東や
+<LABEL=ZAJI>Zazie</LABEL>:
+"You should head southeast.
+$E=====3791=====
+//この街のはるか南東に広がる呪
+//(のろ)われた海・・・
+The cursed sea that
+stretches out to the
+southeast of this city...
+$E=====3792=====
+//そこにうかぶ島の1つに、あん
+//たがさがすべきモノがあるはず
+//や」
+The thing you seek should be
+on one of the islands in
+there."
+$E=====3793=====
 <PROC=0>
 <END>
-$J=====3794=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの向かうべき場所は、
-空の上や
-$J=====3795=====
-この星のはるか上空にうかぶ、
-黒き城(しろ)・・・
-$J=====3796=====
-そのてっぺんに、あんたがたお
-すべき相手がおるはずや」
-$J=====3797=====
+$E=====3794=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの向かうべき場所は、
+//空の上や
+<LABEL=ZAJI>Zazie</LABEL>:
+"You should head up in the
+sky.
+$E=====3795=====
+//この星のはるか上空にうかぶ、
+//黒き城(しろ)・・・
+The dark castle that floats
+high in the sky above this
+star...
+$E=====3796=====
+//そのてっぺんに、あんたがたお
+//すべき相手がおるはずや」
+The enemy you must defeat
+should be up there."
+$E=====3797=====
 <PROC=0>
 <END>
-$J=====3798=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの向かうべき場所は、
-空の上や
-$J=====3799=====
-この星のはるか上空にうかぶ、
-赤き星・・・
-$J=====3800=====
-そのどこかで、あいつがあんた
-を待っとるはずや
-$J=====3801=====
-あいつのこと・・・
-たのんだで、<NAME>?」
-$J=====3802=====
+$E=====3798=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの向かうべき場所は、
+//空の上や
+<LABEL=ZAJI>Zazie</LABEL>:
+"You should head up in the
+sky.
+$E=====3799=====
+//この星のはるか上空にうかぶ、
+//赤き星・・・
+The red star that floats
+high in the sky above this
+star...
+$E=====3800=====
+//そのどこかで、あいつがあんた
+//を待っとるはずや
+he should be waitin' for you
+up there.
+$E=====3801=====
+//あいつのこと・・・
+//たのんだで、<NAME>?」
+Please save him, <NAME>!"
+$E=====3802=====
 <PROC=0>
 <END>
-$J=====3803=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3804=====
-いっぺんくらい、レベル99目指
-してみたらどうや?」
-$J=====3805=====
+$E=====3803=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$U=====3804=====
+//いっぺんくらい、レベル99目指
+//してみたらどうや?」
+why don't you try to
+get to level 99?"
+$E=====3805=====
 <PROC=0>
 <END>
-$J=====3806=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3807=====
-すべての腕試(うでだめ)しで、
-ランクSを目指してみぃ?」
-$J=====3808=====
+$E=====3806=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3807=====
+//すべての腕試(うでだめ)しで、
+//ランクSを目指してみぃ?」
+why don't you try to
+earn an S rank on
+every mission?"
+$E=====3808=====
 <PROC=0>
 <END>
-$J=====3809=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3810=====
-すべてのバイクコースで、ラン
-クSを目指してみぃ?」
-$J=====3811=====
+$E=====3809=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3810=====
+//すべてのバイクコースで、ラン
+//クSを目指してみぃ?」
+why don't you try to
+earn an S rank on
+every bike course?"
+$E=====3811=====
 <PROC=0>
 <END>
-$J=====3812=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3813=====
-魔物(モンスター)ぜーんぶたお
-してみぃや?」
-$J=====3814=====
+$E=====3812=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3813=====
+//魔物(モンスター)ぜーんぶたお
+//してみぃや?」
+why don't you try to defeat
+every type of monster?"
+$E=====3814=====
 <PROC=0>
 <END>
-$J=====3815=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3816=====
-ソードぜーんぶ集めてみぃや?
-」
-$J=====3817=====
+$E=====3815=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3816=====
+//ソードぜーんぶ集めてみぃや?
+//」
+why don't you try to collect
+every type of sword?"
+$E=====3817=====
 <PROC=0>
 <END>
-$J=====3818=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3819=====
-すべてのブロマイドを集めや?
-」
-$J=====3820=====
+$E=====3818=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3819=====
+//すべてのブロマイドを集めや?
+//」
+why don't you try to collect
+every photograph?"
+$E=====3820=====
 <PROC=0>
 <END>
-$J=====3821=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3822=====
-ぬいぐるみぜーんぶ集めてみぃ
-や?」
-$J=====3823=====
+$E=====3821=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3822=====
+//ぬいぐるみぜーんぶ集めてみぃ
+//や?」
+why don't you try to collect
+every stuffed doll?"
+$E=====3823=====
 <PROC=0>
 <END>
-$J=====3824=====
-<LABEL=ZAJI>ザジ</LABEL>
-「もしあんたが、この世界のす
-べてを極めたいんなら・・・
-$J=====3825=====
-この物語の結末(エンディング)
-をぜんぶ見たらんと」
-$J=====3826=====
+$E=====3824=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「もしあんたが、この世界のす
+//べてを極めたいんなら・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"If you want to experience
+everything there is to do...
+$E=====3825=====
+//この物語の結末(エンディング)
+//をぜんぶ見たらんと」
+why don't you try to obtain
+every ending there is to
+this story?"
+$E=====3826=====
 <PROC=0>
 <END>
 $E=====3827=====
@@ -14644,69 +15070,113 @@ sunlight."
 $E=====3845=====
 <PROC=0>
 <END>
-$J=====3846=====
-<LABEL=ZAJI>ザジ</LABEL>
-「闇夜(やみよ)にあって太陽を
-うつす鏡、月・・・
-$J=====3847=====
-月の一族には太陽と暗黒、そし
-て火水風土の4大元素、それら
-みんなを受け入れる力があった
-$J=====3848=====
-その力を使いこなすことができ
-たんが月の巫女(みこ)、月下美
-人
-$J=====3849=====
-マーニさまはその最後の生き残
-りやった・・・
-$J=====3850=====
-そして、かつて最強とうたわれ
-たヴァンパイアハンター、紅(
-くれない)のリンゴ
-$J=====3851=====
-太陽の一族の残した魔法機械、
-太陽銃(ガン・デル・ソル)を手
-に、
-$J=====3852=====
-闇の王(キング・オブ・イモー
-タル)をたおした男・・・
-$J=====3853=====
-2人の血と魂(たましい)を受け
-ついで生まれたんが、あんたら
-2人というわけや」
-$J=====3854=====
+$E=====3846=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「闇夜(やみよ)にあって太陽を
+//うつす鏡、月・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"On dark nights, the moon is
+like a mirror for the sun.
+$E=====3847=====
+//月の一族には太陽と暗黒、そし
+//て火水風土の4大元素、それら
+//みんなを受け入れる力があった
+The Lunar Family obtained
+the power of Sol and Dark,
+and the 4 great elements.
+$E=====3848=====
+//その力を使いこなすことができ
+//たんが月の巫女(みこ)、月下美
+//人
+The one who could control
+that power was the Lunar
+Maiden, the Moon Beauty.
+$E=====3849=====
+//マーニさまはその最後の生き残
+//りやった・・・
+Mani was the last
+survivor...
+$E=====3850=====
+//そして、かつて最強とうたわれ
+//たヴァンパイアハンター、紅(
+//くれない)のリンゴ
+and then there was Red
+Ringo, the renowned,
+strongest Vampire Hunter.
+$E=====3851=====
+//太陽の一族の残した魔法機械、
+//太陽銃(ガン・デル・ソル)を手
+//に、
+With the Gun Del Sol, the
+magical device he inherited
+from the Solar Family,
+$E=====3852=====
+//闇の王(キング・オブ・イモー
+//タル)をたおした男・・・
+that man managed to defeat
+the King of Immortals...
+$E=====3853=====
+//2人の血と魂(たましい)を受け
+//ついで生まれたんが、あんたら
+//2人というわけや」
+The two of you inherited
+both of those bloodlines,
+both of their spirits."
+$E=====3854=====
 <PROC=0>
 <END>
-$J=====3855=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたの持つヴァンパイアの
-力、トランス・ダーク・・・
-$J=====3856=====
-ヴァンパイアは夜の一族とよば
-れるだけあって、
-$J=====3857=====
-暗闇(くらやみ)には強いけど、
-太陽の光には弱いし、水にかて
-弱い
-$J=====3858=====
-それはあんたがトランス(変身)
-したダーク<NAME>も同じや
-$J=====3859=====
-太陽ゲージの値が低いほど攻撃
-力(こうげきりょく)はおおきな
-るけど、
-$J=====3860=====
-太陽の光やら雨やら浴びたり、
-水たまりにさわったらダメージ
-受けてまうで?
-$J=====3861=====
-トランス・ダークを使うときは
-太陽センサーを太陽の光からか
-くしたるんや
-$J=====3862=====
-くれぐれも力の使い方をまちが
-えたらアカンで。ええな?」
-$J=====3863=====
+$E=====3855=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたの持つヴァンパイアの
+//力、トランス・ダーク・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"That vampiric power yer
+got, Dark Trance...
+$E=====3856=====
+//ヴァンパイアは夜の一族とよば
+//れるだけあって、
+vampires are known as the
+family of the night, so as
+yer would expect,
+$E=====3857=====
+//暗闇(くらやみ)には強いけど、
+//太陽の光には弱いし、水にかて
+//弱い
+they have an affinity to
+darkness but are weak to
+sunlight and water.
+$E=====3858=====
+//それはあんたがトランス(変身)
+//したダーク<NAME>も同じや
+Yer Trance, Dark <NAME>,
+is no different.
+$E=====3859=====
+//太陽ゲージの値が低いほど攻撃
+//力(こうげきりょく)はおおきな
+//るけど、
+Yer attacks will be stronger
+the lower the value of the
+Solar Gauge,
+$E=====3860=====
+//太陽の光やら雨やら浴びたり、
+//水たまりにさわったらダメージ
+//受けてまうで?
+but sunlight, rain, and
+puddles will all cause
+damage.
+$E=====3861=====
+//トランス・ダークを使うときは
+//太陽センサーを太陽の光からか
+//くしたるんや
+Yer should cover up the
+solar sensor whenever yer
+use Dark Trance.
+$E=====3862=====
+//くれぐれも力の使い方をまちが
+//えたらアカンで。ええな?」
+Never misuse the power you
+have, awright?"
+$E=====3863=====
 <PROC=0>
 <END>
 $J=====3864=====
@@ -14733,137 +15203,218 @@ $J=====3869=====
 $J=====3870=====
 <PROC=0>
 <END>
-$J=====3871=====
-<LABEL=ZAJI>ザジ</LABEL>
-「反対属性(はんたいぞくせい)
-ってしってるか?
-$J=====3872=====
-ソルとダーク、
-フレイムとフロスト、
-クラウドとアース、
-$J=====3873=====
-以上の3組は、たがいを反対属
-性(はんたいぞくせい)っちゅう
-てな
-$J=====3874=====
-属性(ぞくせい)を持つ敵(てき)
-モンスターには、
-$J=====3875=====
-それぞれに得意な属性(ぞくせ
-い)と苦手な属性(ぞくせい)が
-あるんやけど、
-$J=====3876=====
-そいつの得意な属性(ぞくせい)
-の反対属性(はんたいぞくせい)
-が、
-$J=====3877=====
-苦手な属性(ぞくせい)やと思っ
-てまちがいないで」
-$J=====3878=====
+$E=====3871=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「反対属性(はんたいぞくせい)
+//ってしってるか?
+<LABEL=ZAJI>Zazie</LABEL>:
+"Do yer know about opposing
+elements?
+$E=====3872=====
+//ソルとダーク、
+//フレイムとフロスト、
+//クラウドとアース、
+There are 3 pairs of
+opposite elements:
+$E=====3873=====
+//以上の3組は、たがいを反対属
+//性(はんたいぞくせい)っちゅう
+//てな
+Sol and Dark,
+Flame and Frost,
+Cloud and Earth.
+$E=====3874=====
+//属性(ぞくせい)を持つ敵(てき)
+//モンスターには、
+For monsters that have
+elemental attributes,
+$E=====3875=====
+//それぞれに得意な属性(ぞくせ
+//い)と苦手な属性(ぞくせい)が
+//あるんやけど、
+each one has a strong
+element and a weak element.
+$E=====3876=====
+//そいつの得意な属性(ぞくせい)
+//の反対属性(はんたいぞくせい)
+//が、
+These elements are always
+opposites,
+$E=====3877=====
+//苦手な属性(ぞくせい)やと思っ
+//てまちがいないで」
+so yer should be able to
+figure out weaknesses
+without any mistakes."
+$E=====3878=====
 <PROC=0>
 <END>
-$J=====3879=====
-<LABEL=ZAJI>ザジ</LABEL>
-「嘆(なげ)きの魔女、カーミラ
-・・・
-$J=====3880=====
-うちやうちの師匠(ししょう)と
-同じ、人間ながらにして異能(
-いのう)の力を持った者、魔女
-$J=====3881=====
-この世紀末世界において、魔女
-は闇の一族(イモータル)と同様
-$J=====3882=====
-人にこわがられる存在(そんざ
-い)なんや
-$J=====3883=====
-<PROC=1>魔女の中には、その力をおそれ
-た人ら、人間の手ぇによって殺
-された者かて多い・・・
-$J=====3884=====
-<LABEL=ZAJI></LABEL>ゆうたらカーミラも、そんな魔
-女の1人やったんやろな
-$J=====3885=====
-魔女の力やなんて・・・
-持ちたくて持った力やないのに
-$J=====3886=====
-<PROC=2>でもうちは、もうだいじょうぶ
-やで!
-$J=====3887=====
-師匠(ししょう)に・・・
-あのクソババアに会えたんやか
-ら!!
-$J=====3888=====
-<PROC=3>ひまわりはうつむかへん!<LOCK=50>
-$J=====3889=====
-上向いて行かんと!!」
-$J=====3890=====
+$E=====3879=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「嘆(なげ)きの魔女、カーミラ
+//・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"The Crying Witch,
+Carmilla...
+$E=====3880=====
+//うちやうちの師匠(ししょう)と
+//同じ、人間ながらにして異能(
+//いのう)の力を持った者、魔女
+just like me an' my master,
+she had an	unusual ability
+when she was human--magic.
+$E=====3881=====
+//この世紀末世界において、魔女
+//は闇の一族(イモータル)と同様
+In this world, witches are
+treated just like Immortals,
+$E=====3882=====
+//人にこわがられる存在(そんざ
+//い)なんや
+always feared by people.
+$E=====3883=====
+//<PROC=1>魔女の中には、その力をおそれ
+//た人ら、人間の手ぇによって殺
+//された者かて多い・・・
+<PROC=1>Many witches are killed by
+human hands, out of fear of
+their power...
+$E=====3884=====
+//<LABEL=ZAJI></LABEL>ゆうたらカーミラも、そんな魔
+//女の1人やったんやろな
+<LABEL=ZAJI></LABEL>Carmilla was one of those
+witches...
+$U=====3885=====
+//魔女の力やなんて・・・
+//持ちたくて持った力やないのに
+A witch's power is...
+not something you want to
+have.
+$E=====3886=====
+//<PROC=2>でもうちは、もうだいじょうぶ
+//やで!
+<PROC=2>But I'm okay now!
+$E=====3887=====
+//師匠(ししょう)に・・・
+//あのクソババアに会えたんやか
+//ら!!
+'cause I met the old...
+er, I mean, the Mistress!
+$E=====3888=====
+//<PROC=3>ひまわりはうつむかへん!<LOCK=50>
+<PROC=3>Even if it's raining cats<LOCK=50>
+'n' dogs, a sunflower
+holds its head up high! 
+$E=====3889=====
+//上向いて行かんと!!」
+So chin up, eh?"
+$E=====3890=====
 <PROC=4><PROC=0>
 <END>
-$J=====3891=====
-<LABEL=ZAJI>ザジ</LABEL>
-「属性(ぞくせい)での攻撃(こ
-うげき)は、
-$J=====3892=====
-敵(てき)モンスターの持つ属性
-(ぞくせい)との相性(あいしょ
-う)によって、
-$J=====3893=====
-あたえるダメージが変わってく
-んねん
-$J=====3894=====
-敵(てき)の得意な属性(ぞくせ
-い)で攻撃(こうげき)した場合
-$J=====3895=====
-あたえるダメージは大幅(おお
-はば)に下がってしまうんやけ
-ど、
-$J=====3896=====
-敵(てき)の苦手な属性(ぞくせ
-い)で攻撃(こうげき)した場合
-$J=====3897=====
-あたえるダメージを大幅(おお
-はば)に上げることができるで
-$J=====3898=====
-得意でも苦手でもない属性(ぞ
-くせい)で攻撃(こうげき)した
-場合でも、
-$J=====3899=====
-無属性(むぞくせい)で攻撃(こ
-うげき)した場合よりは、
-$J=====3900=====
-たくさんのダメージをあたえる
-ことができるしな
-$J=====3901=====
-属性(ぞくせい)を使いこなせた
-ら、あんたの戦いもえらい有利
-になるはずやで」
-$J=====3902=====
+$E=====3891=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「属性(ぞくせい)での攻撃(こ
+//うげき)は、
+<LABEL=ZAJI>Zazie</LABEL>:
+"When yer use elemental
+attacks,
+$E=====3892=====
+//敵(てき)モンスターの持つ属性
+//(ぞくせい)との相性(あいしょ
+//う)によって、
+and the enemy monster has an
+affinity to the element,
+$E=====3893=====
+//あたえるダメージが変わってく
+//んねん
+the damage yer deal changes.
+$E=====3894=====
+//敵(てき)の得意な属性(ぞくせ
+//い)で攻撃(こうげき)した場合
+If yer attack the enemy with
+its strong element,
+$E=====3895=====
+//あたえるダメージは大幅(おお
+//はば)に下がってしまうんやけ
+//ど、
+the damage yer deal goes
+way down,
+$E=====3896=====
+//敵(てき)の苦手な属性(ぞくせ
+//い)で攻撃(こうげき)した場合
+but if yer use its weak
+element,
+$E=====3897=====
+//あたえるダメージを大幅(おお
+//はば)に上げることができるで
+the damage yer deal goes
+way up, y'see.
+$E=====3898=====
+//得意でも苦手でもない属性(ぞ
+//くせい)で攻撃(こうげき)した
+//場合でも、
+If yer don't use either the
+strong or weak element,
+$E=====3899=====
+//無属性(むぞくせい)で攻撃(こ
+//うげき)した場合よりは、
+yer won't do much more
+damage
+$E=====3900=====
+//たくさんのダメージをあたえる
+//ことができるしな
+than if yer didn't use an
+element at all.
+$E=====3901=====
+//属性(ぞくせい)を使いこなせた
+//ら、あんたの戦いもえらい有利
+//になるはずやで」
+Usin' elements effectively
+should make yer adventure a
+lot easier, yeah?"
+$E=====3902=====
 <PROC=0>
 <END>
-$J=====3903=====
-<LABEL=ZAJI>ザジ</LABEL>
-「いよいよ敵(てき)さんの本拠
-地(ほんきょち)やな・・・
-$J=====3904=====
-サバタの持つ月の巫女(月下美
-人)の力を利用して、
-$J=====3905=====
-破壊(はかい)の獣(けもの)、ヴ
-ァナルガンドの力を得ようとす
-る人形使い、ラタトスク
-$J=====3906=====
-自分で戦わんと、他人の力ばっ
-か利用しよるやなんて、
-$J=====3907=====
-ホンマ、ムカつく闇の一族(イ
-モータル)やな!
-$J=====3908=====
-<PROC=1><NAME>・・・
-$J=====3909=====
-<PROC=2>そないなヤツに、絶対(ぜった
-い)負けるんやないで!!」
-$J=====3910=====
+$E=====3903=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「いよいよ敵(てき)さんの本拠
+//地(ほんきょち)やな・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"At the enemy stronghold at
+last...
+$E=====3904=====
+//サバタの持つ月の巫女(月下美
+//人)の力を利用して、
+that Ratatosk the Puppeteer,
+usin' Sabata's Moon Beauty
+power like that,
+$E=====3905=====
+//破壊(はかい)の獣(けもの)、ヴ
+//ァナルガンドの力を得ようとす
+//る人形使い、ラタトスク
+to obtain the power of the
+Beast of Destruction,
+Vanargand.
+$E=====3906=====
+//自分で戦わんと、他人の力ばっ
+//か利用しよるやなんて、
+Usin' someone else's power
+instead of fightin' for
+himself...
+$E=====3907=====
+//ホンマ、ムカつく闇の一族(イ
+//モータル)やな!
+really, what a disgustin'
+Immortal!
+$E=====3908=====
+//<PROC=1><NAME>・・・
+<PROC=1><NAME>...
+$U=====3909=====
+//<PROC=2>そないなヤツに、絶対(ぜった
+//い)負けるんやないで!!」
+<PROC=2>yer better not lose to such
+a jerk!"
+$E=====3910=====
 <PROC=4><PROC=0>
 <END>
 $J=====3911=====
@@ -14884,54 +15435,83 @@ $J=====3914=====
 $J=====3915=====
 <PROC=0>
 <END>
-$J=====3916=====
-<LABEL=ZAJI>ザジ</LABEL>
-「アカンわ・・・
-$J=====3917=====
-うちの星読みでもわからへん
-$J=====3918=====
-月におるはずのサバタが今、ど
-んな状況(じょうきょう)にある
-んか・・・
-$J=====3919=====
-自らに目覚め、ヴァナルガンド
-に抵抗(ていこう)しとるんか
-$J=====3920=====
-自らをわすれ、破壊(はかい)の
-獣(けもの)と成り果ててしまっ
-たんか
-$J=====3921=====
-<PROC=1><NAME>・・・
-$J=====3922=====
-<PROC=2>あいつのこと、たのんだで!!」
-$J=====3923=====
+$E=====3916=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「アカンわ・・・
+<LABEL=ZAJI>Zazie</LABEL>:
+"I don't get it...
+$E=====3917=====
+//うちの星読みでもわからへん
+"I don't get what's up with
+my Star Readin'...
+$E=====3918=====
+//月におるはずのサバタが今、ど
+//んな状況(じょうきょう)にある
+//んか・・・
+Sabata's supposed to be on
+the moon, but I can't tell
+what's goin' on with him...
+$E=====3919=====
+//自らに目覚め、ヴァナルガンド
+//に抵抗(ていこう)しとるんか
+If he came to his senses and
+is resistin' Vanargand,
+$E=====3920=====
+//自らをわすれ、破壊(はかい)の
+//獣(けもの)と成り果ててしまっ
+//たんか
+or if he lost himself and
+became the Beast of
+Destruction.
+$E=====3921=====
+//<PROC=1><NAME>・・・
+<PROC=1><NAME>...
+$E=====3922=====
+//<PROC=2>あいつのこと、たのんだで!!」
+<PROC=2>I'm beggin' yer,
+please save him!"
+$E=====3923=====
 <PROC=4><PROC=0>
 <END>
-$J=====3924=====
-<LABEL=ZAJI>ザジ</LABEL>
-「苦手属性(ぞくせい)での攻
-撃(こうげき)ほどやないけど、
-$J=====3925=====
-背後(はいご)からの攻撃(こう
-げき)は、
-$J=====3926=====
-敵(てき)モンスターに、より大
-きなダメージをあたえることが
-できるねん
-$J=====3927=====
-苦手属性(にがてぞくせい)と背
-後攻撃(はいごこうげき)・・・
-$J=====3928=====
-この2つを組み合わせることが
-ベストな戦術(せんじゅつ)とい
-えるやろな」
-$J=====3929=====
+$E=====3924=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「苦手属性(ぞくせい)での攻
+//撃(こうげき)ほどやないけど、
+<LABEL=ZAJI>Zazie</LABEL>:
+"It's not as good as usin'
+elemental attacks,
+$E=====3925=====
+//背後(はいご)からの攻撃(こう
+//げき)は、
+but if yer attack enemies
+from behind,
+$E=====3926=====
+//敵(てき)モンスターに、より大
+//きなダメージをあたえることが
+//できるねん
+yer can do more damage.
+$E=====3927=====
+//苦手属性(にがてぞくせい)と背
+//後攻撃(はいごこうげき)・・・
+Attackin' the enemy from
+behind with its elemental
+weakness...
+$E=====3928=====
+//この2つを組み合わせることが
+//ベストな戦術(せんじゅつ)とい
+//えるやろな」
+combinin' the two is the
+best strategy as far as I'm
+concerned."
+$E=====3929=====
 <PROC=0>
 <END>
-$J=====3930=====
+$E=====3930=====
+//
+// 　　　[立ち入り禁止]　　　 
 
- 　　　[立ち入り禁止]　　　 
-$J=====3931=====
+      [NO TRESPASSING]
+$E=====3931=====
 <PROC=0>
 <END>
 $E=====3932=====
@@ -15327,16 +15907,22 @@ you've collected."
 $E=====4010=====
 <PROC=0>
 <END>
-$J=====4011=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「やったね、おにいちゃん!!
-$J=====4012=====
-ぜんぶのぬいぐるみが、あつま
-ったよ!
-$J=====4013=====
-スミレから、ごほうびをあげる
-ね{note}」
-$J=====4014=====
+$E=====4011=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「やったね、おにいちゃん!!
+<LABEL=SUMIRE>Violet</LABEL>:
+"You did it, <NAME>!
+$E=====4012=====
+//ぜんぶのぬいぐるみが、あつま
+//ったよ!
+You collected all the
+stuffed dolls!
+$E=====4013=====
+//スミレから、ごほうびをあげる
+//ね{note}」
+You deserve a nice
+reward.{note}"
+$E=====4014=====
 <PROC=0>
 <END>
 $E=====4015=====
@@ -15349,15 +15935,19 @@ obtained!<LOCK=176>
 $E=====4016=====
 <PROC=0>
 <END>
-$J=====4017=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「おにいちゃんは、どのこがい
-ちばんすき?
-$J=====4018=====
-スミレはねぇ・・・
-$J=====4019=====
-みーんなだいすき!!」
-$J=====4020=====
+$E=====4017=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「おにいちゃんは、どのこがい
+//ちばんすき?
+<LABEL=SUMIRE>Violet</LABEL>:
+"Which one's your favorite?
+$E=====4018=====
+//スミレはねぇ・・・
+Mine is... um...
+$E=====4019=====
+//みーんなだいすき!!」
+I love all of them!"
+$E=====4020=====
 <PROC=0>
 <END>
 $E=====4021=====
@@ -15388,33 +15978,39 @@ $E=====4025=====
 $E=====4026=====
 <PROC=0>
 <END>
-$J=====4027=====
+$E=====4027=====
 //<LABEL=SUMIRE>スミレ</LABEL>
 //「またかえるのー?」
 <LABEL=SUMIRE>Violet</LABEL>:
-"Come back soon!"
-$J=====4028=====
+"Switch again?"
+$E=====4028=====
 <PROC=0>
 <END>
-$J=====4029=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「もうダメっ!!」
-$J=====4030=====
+$E=====4029=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「もうダメっ!!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"It's no good!"
+$E=====4030=====
 <PROC=0>
 <END>
-$J=====4031=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「ぽかぽか!」
-$J=====4032=====
+$E=====4031=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「ぽかぽか!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"Warm and cozy!"
+$E=====4032=====
 <PROC=0>
 <END>
-$J=====4033=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「おちゅうしゃ!」
-$J=====4034=====
+$E=====4033=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「おちゅうしゃ!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"Ready for your shot?"
+$E=====4034=====
 <PROC=0>
 <END>
-$J=====4035=====
+$E=====4035=====
 //<LABEL=SUMIRE>スミレ</LABEL>
 //「う～、ひっく!」
 <LABEL=SUMIRE>Violet</LABEL>:
@@ -15422,16 +16018,20 @@ $J=====4035=====
 $E=====4036=====
 <PROC=0>
 <END>
-$J=====4037=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「よめたでっ!」
-$J=====4038=====
+$E=====4037=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「よめたでっ!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"Readin' complete!"
+$E=====4038=====
 <PROC=0>
 <END>
-$J=====4039=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「かっこいー!」
-$J=====4040=====
+$E=====4039=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「かっこいー!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"So cool!"
+$E=====4040=====
 <PROC=0>
 <END>
 $E=====4041=====
@@ -15439,13 +16039,15 @@ $E=====4041=====
 //「おんがくー{note}」
 <LABEL=SUMIRE>Violet</LABEL>:
 "Muuusic{note}"
-$J=====4042=====
+$E=====4042=====
 <PROC=0>
 <END>
-$J=====4043=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「ごりようはけいかくてきに!」
-$J=====4044=====
+$E=====4043=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「ごりようはけいかくてきに!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"The method is simple!"
+$E=====4044=====
 <PROC=0>
 <END>
 $E=====4045=====
@@ -15482,10 +16084,12 @@ $E=====4051=====
 $E=====4052=====
 <PROC=0>
 <END>
-$J=====4053=====
-<LABEL=SUMIRE>スミレ</LABEL>
-「ぷーだっ!!」
-$J=====4054=====
+$U=====4053=====
+//<LABEL=SUMIRE>スミレ</LABEL>
+//「ぷーだっ!!」
+<LABEL=SUMIRE>Violet</LABEL>:
+"ぷーだっ!!"
+$E=====4054=====
 <PROC=0>
 <END>
 $E=====4055=====
@@ -15926,65 +16530,96 @@ Handed over
 $E=====4148=====
 <PROC=0>
 <END>
-$J=====4149=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「この魔法機械は・・・
-$J=====4150=====
-これがあれば、エナジーを太陽
-パイルとして放出することがで
-きるな・・・
-$J=====4151=====
-問題はその出力か・・・
-$J=====4152=====
-棺桶(かんおけ)バイクの太陽エ
-ンジンにエナジーをたくわえ、
-それを一気に送り込めば・・・
-$J=====4153=====
-だが、そのためにはエナジーの
-安定供給(あんていきょうきゅ
-う)が必要だ・・・
-$J=====4154=====
-太陽の光では安全性(あんぜん
-せい)に問題がある・・・太陽
-スタンドを利用するか・・・
-$J=====4155=====
-・・・」
-$J=====4156=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「分かるか、<NAME>?」
-$J=====4157=====
+$E=====4149=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「この魔法機械は・・・
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"This magical device...
+$E=====4150=====
+//これがあれば、エナジーを太陽
+//パイルとして放出することがで
+//きるな・・・
+with this, I can make the
+Solar Pile emit energy...
+$E=====4151=====
+//問題はその出力か・・・
+the problem is the output...
+$E=====4152=====
+//棺桶(かんおけ)バイクの太陽エ
+//ンジンにエナジーをたくわえ、
+//それを一気に送り込めば・・・
+if I can store up energy in
+the Solar Engine, then let
+it all out at once...
+$E=====4153=====
+//だが、そのためにはエナジーの
+//安定供給(あんていきょうきゅ
+//う)が必要だ・・・
+But I'd need a stable supply
+of energy...
+$E=====4154=====
+//太陽の光では安全性(あんぜん
+//せい)に問題がある・・・太陽
+//スタンドを利用するか・・・
+storing sunlight safely is a
+problem... if I use the
+Solar Stand...
+$E=====4155=====
+//・・・」
+..."
+$E=====4156=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「分かるか、<NAME>?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Did any of that make sense
+to you, <NAME>?"
+$E=====4157=====
 <PROC=0>
 <END>
-$J=====4158=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「出来たぞ!!」
-$J=====4159=====
+$E=====4158=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「出来たぞ!!」
+<LABEL=COFFIN>Coffin Shipkeeper</LABEL>:
+"It's ready!"
+$E=====4159=====
 <PROC=0>
 <END>
-$J=====4160=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「ふふふ・・・
-$J=====4161=====
-棺桶(かんおけ)バイクに続き、
-こんなものまで作ってしまうと
-は・・・
-$J=====4162=====
-われながらおそろしい才能(さ
-いのう)だよ」
-$J=====4163=====
+$E=====4160=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「ふふふ・・・
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Heh heh heh...
+$E=====4161=====
+//棺桶(かんおけ)バイクに続き、
+//こんなものまで作ってしまうと
+//は・・・
+to improve upon something so
+perfect as the Coffin
+Bike...
+$E=====4162=====
+//われながらおそろしい才能(さ
+//いのう)だよ」
+such awe-inspiring talent,
+if I say so myself."
+$E=====4163=====
 <PROC=0>
 <END>
-$J=====4164=====
-棺桶(かんおけ)バイクにトラッ
-プ機能(きのう)が付いた!
-$J=====4165=====
+$E=====4164=====
+//棺桶(かんおけ)バイクにトラッ
+//プ機能(きのう)が付いた!
+Coffin Bike gained Trap
+ability!
+$E=====4165=====
 <PROC=0>
 <END>
-$J=====4166=====
-スペシャルアクション
-「パイルトラップ」
-を覚えた!!<LOCK=96>
-$J=====4167=====
+$E=====4166=====
+//スペシャルアクション
+//「パイルトラップ」
+//を覚えた!!<LOCK=96>
+Special Action
+"Pile Trap"
+learned!<LOCK=96>
+$E=====4167=====
 <PROC=0>
 <END>
 $J=====4168=====
@@ -20320,7 +20955,7 @@ $E=====5214=====
 Solar Detective "Otante" doll. Finds Wanted monsters.
 $E=====5215=====
 //太陽バンクと暗黒ローンの受付嬢(うけつけじょう)、「陽子ちゃんと暗子ちゃん」のぬいぐるみ。あずけるとき、借りるときの利率とおしおきをサービスしてくれる。
-Solar Bank and Dark Loans receptionist "Luxana and Doomy" dolls. Adjust interest rates in your favor.
+Solar Bank and Dark Loans receptionist "Luxana and Doomy" doll. Adjusts interest rates in your favor.
 $E=====5216=====
 //ネットナビ「ロックマン」のぬいぐるみ。エナジーを回復(かいふく)してくれる。
 Net Navi "RockMan" doll. Fully restores your ENE.
