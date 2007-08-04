@@ -1,0 +1,4260 @@
+Boktai 2: Solar Boy Django Script
+Version 1.2
+
+By Miluda (miluda@gmail.com)
+
+-------------------------------------------------------------------------------
+Version History
+-------------------------------------------------------------------------------
+
+Version 1.2 - 9th April 2007
+I changed a couple of small things and added two missing conversations with 
+Lita after the Solar Tree restoration..
+
+Version 1.1 - 23rd January 2006
+
+Version 1.0 - 28th October 2005
+
+-------------------------------------------------------------------------------
+Script Notes
+-------------------------------------------------------------------------------
+
+The vast majority of this script uses a Berserker code from Boktai 1. 
+
+If there is anything missing, or any mistakes, please email and tell me!
+
+-------------------------------------------------------------------------------
+Script Contents
+-------------------------------------------------------------------------------
+
+To quickly find what you're looking for use CTRL+F and the text in the square
+brackets.
+
+Beginning                                  [ITDT]
+Ruins                                      [RUI1]
+Cathedral                                  [CEDL]
+White Duneyrr's Purification               [WDPU]
+Spider Forest                              [SPFO]
+Remains                                    [RMNS]
+Django's Purification                      [SBDP]
+Dark City                                  [DACI]
+Red Durathror's Purification               [RDPU]
+"I can see your tonsils!"                  [CSYT]
+House of Time                              [HOFT]
+The Tarot Seal                             [TROT]
+Aqueduct                                   [AQDU]
+Blue Dvalinn's Purification                [BDVP]
+Spiral Tower                               [SPTO]
+Black Dainn's Purification                 [BDPU]
+Undead Zone                                [UNZO]
+Ending                                     [ENDG]
+MegaMan Quest                              [MMQU]
+Alternate Endings                          [END1]
+
+Lita's Offer                               [LIOF]
+Request Sheet - House of Time: Challenge 3 [RSCH]
+Request Sheet - House of Time: Sunflower   [RSSU]
+The Solar Tree Restoration                 [TSTR]
+Titles and Emblems                         [TMBM]
+Solarsmith Things                          [SSMI]
+Boss Tips                                  [BOTI]
+
+===============================================================================
+Introduction                                                             [ITDT]
+===============================================================================
+
+Once Sun and Moon retreat into darkness, grand twilight descends on the wedge-
+binding City of the Sun. A deep shadow is then born in its wake. The beginning
+of the end.
+
+===============================================================================
+Valley
+===============================================================================
+
+Master Otenko: "It's not far now... Pass through this valley and you'll
+finally arrive at the City of the Sun, San Miguel. Or rather, the City of Death
+that your hometown has been turned into by the Undeadening curse of the Dark
+Immortals. I thought that the Undeadening would abate with the Queen defeated.
+But I feel it with my solar sense... The Undead still roam there, dark
+servants, stripped of life and stripped of death. And the immortal shadow that
+manipulates them all... Let's go, Solar Boy Django! Dispel the dark clouds that
+shroud the City of the Sun! May the Sun be with you!"
+
+[Try to go south]
+
+Master Otenko: "Hey, Django! San Miguel is north. Head for the top right of the
+screen."
+
+[Go north]
+
+Master Otenko: "Huh? Is that a Hint Panel over there? Hint Panels are guides
+for adventurers left by those who have gone before. They give you useful info
+for your adventure, and tips for overcoming obstacles. To read a panel, move
+close to it and press the A Button. It'll do you no harm to find out what it
+says."
+
+[A man is blocking the way]
+
+Man in the Hat: ! "..."
+
+Django: ?
+
+Master Otenko: "Careful! He's... Yes, there's no doubt... He's one of the
+Immortals! A Vampire!"
+
+All: !
+
+Vampire: "Urgh...?! Urgh... urrrgh!"
+
+<Django points the Gun Del Sol at the Vampire>
+
+Vampire: "The... Sol... ...Solar... gun... The Solar Gun... GUN DEL SOL!"
+
+Django, Otenko: !
+
+<Vampire takes the Gun from Django>
+
+Master Otenko: "He took the Solar Gun?! ...Still, it's no use to him! Only
+a Solar Child can operate the Solar Gun! It's useless in the hands of a
+Vampire!" !
+
+<Vampire shoots Django>
+
+Master Otenko: "Django! But how...?! Why would a Vampire...?!"
+
+Vampire: "Django...? Uh... uh?!"
+
+Master Otenko: ?
+
+<Vampire screams and then runs off>
+
+Master Otenko: "The danger's passed... for now! But I can't believe it... A
+Vampire that can use the Solar Gun! Maybe he is the dark Cloud covering San
+Miguel...?"
+
+Django: ...
+
+Master Otenko: "Django... What's done is done. You can't change the past. But
+it doesn't mean that the future is decided! What you do right now... That's
+what will determine the future! The Sun will rise tomorrow! Remember the blood
+and soul that rests in your Crimson Scarf! Something like this would never have
+knocked your father's spirits!"
+
+<Django gets up>
+
+Master Otenko: "Let's go, Django! You should find some clues in San Miguel. You
+must track down that Vampire and retrieve the Solar Gun! May the Sun be with
+you!"
+
+===============================================================================
+Unknown Place
+===============================================================================
+
+Black Shadow: "So he's surfaced then, the Solar Boy, Django..."
+
+Red-haired Girl: "But he's just a kid... How could he have defeated the Queen,
+let alone the Count?"
+
+Black Shadow: "Don't underestimate him! The blood of both the Sun and the Moon
+runs in his veins. Anyway, the Queen, -- no, Hel -- simply returned to her
+rightful place... Right then! I must get on while there's nothing in the way.
+Sleeping Beauty awaits her wake-up kiss. You're in charge of stopping the boy."
+
+Red-haired Girl: "...Okay. What would you like me to do about the vessel?"
+
+Black Shadow: "Let it do as it pleases for now, until its entire soul sinks
+into Darkness..."
+
+===============================================================================
+City Gate
+===============================================================================
+
+Master Otenko: "Behold! The City of the Sun, San Miguel! But now it is truly
+the City of Death. ...Huh?! Is that...? Admist the Darkness... I sense a faint
+glimmer of life! Could there be something alive in there that escaped the
+Undeadening?"
+
+[After opening the treasure chest]
+
+Master Otenko: "Ah, the Gradius... It's a type of sword, I see. It's nothing
+compared to the Solar Gun, but it's better than using your bare hands. It can't
+purify the Undead without the power of the Sun, but Skeletons are material-type
+monsters, with physical form... so you can get rid of them for a while by
+destroying their bodies. It's all up to you now, Django!"
+
+[After defeating the Skeleton]
+
+Master Otenko: "Brilliant, Django! Ex Points go up when you defeat monsters.
+When they reach a certain point, you'll be able to level up. By allocating the
+status points you get when you level up, you can enhance some of your stats.
+There are 4 stats you can enhance: Vitality, which affects Life Gauge capacity,
+Spirit, which affects you Energy Gauge capacity, Strength, which affects your
+attack power, and Agility, which affects your movement speed and your power to
+defend. You can allocate your points on the menu screen's status menu. Even if
+you level up, your stats won't be enhanced unless you allocate points. So don't
+forget to do it!"
+
+[In a room, trapped with a Zombie, a girl appears]
+
+Django, Zombie: !
+
+Magical Girl: "No, no, no! Zombies are undead monsters. Yer can't defeat 'em
+without the Sun's power. What where you thinkin', eh?! The Solar Boy losin' the
+Solar Gun! Jeez! Gotta use a bit more noggin before yer act. Eh? You cryin'?
+Cryin', are yer? Think cryin's gonna help? Even if it's rainin' cats 'n' dogs,
+a sunflower holds its head up high! Here! I'll lend yer this. Now, just
+cheerup, 'kay?"
+
+*<Alternate text, only if you used a Trigger of Sol password>
+*
+*Magical Girl: "No, no, no! Zombies are undead monsters. Yer can't defeat 'em
+*without the Sun's power. What where you thinkin', eh?! The Solar Boy losin'
+*the Solar Gun! Jeez! So you're Trigger of Sol? How embarrassing... Eh? You
+*cryin'? Cryin', are yer? Think cryin's gonna help? Even if it's rainin' cats
+*'n' dogs, a sunflower holds its head up high! Here! I'll lend yer this. Now,
+*just cheerup, 'kay?"
+
+<Django receives the Sol de Vice>
+
+Magical Girl: "That glove's the Sol de Vice. It can add the property of
+Enchantment to any weapon by using the Sun's power. It's one
+amaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazing Magic Machine! But for
+Enchantment, yer gonna need all different types o' Moonlight Magic. Huh? How
+come a Solar Machine needs Moonlight Magic, you ask?"
+
+All: ...
+
+Magical Girl: "It's not that I don't know. I surely do! Don't worry 'bout all
+those details. Just use it. Eh? Can't use magic?! You really ain't cut out for
+all this! You sure you're the Solar Boy? Surely you can use easy stuff like
+ENCHANTMENT SOL, eh? Alright! I'm doing you some bloody favors. Bloody enough
+to please them Vampires! Ready?"
+
+<Django learns the Moonlight Magic, ENCHANTMENT SOL.>
+
+Magical Girl: "Listen up, 'kay? To use magic you gotta equip the stuff first on
+the menu screen. Then yer equipped magic shows up at the bottom left of the
+screen, 'kay? You can switch Enchantment Magic on and off using the L Button.
+When yer attack usin' a weapon with Enchantment on, the attack becomes a
+property attack, 'kay? Magic lowers yer energy, so watch yerself and don't
+forget solar chargin'! Rest is up to you, 'kay?! I'm goin' to the Mall. Don't
+be too long, awright?"
+
+Django, Zombie: ...
+
+[After defeating the Zombie]
+
+Master Otenko: "So there's Moonlight Magic in the Sol de Vice...? Well, you'll
+be able to purify the Undead with it. You still have much to learn before
+facing Immortals, but we can't be picky! But goodness, that girl... and the way
+she talks... She said she'd be waiting at the Mall. Go to Sun Avenue, in the
+heart of the city. Carry on to the north, Django!"
+
+===============================================================================
+6th Avenue
+===============================================================================
+
+Master Otenko: "So you've ventured outside... Let me explain, Django. You'll
+need sunlight to restore your energy, but if you're exposed to very strong or
+are outside for too long, you'll run the risk of overheating both the Sol De
+Vice and yourself. If this happens, obviously you won't be able to carry on
+with your adventure. So if you see the overheat alert appear over the Solar
+Gauge, make sure you get into the shade and rest for a while. Got it?"
+
+===============================================================================
+Ruins                                                                    [RUI1]
+===============================================================================
+
+Master Otenko: "It's here... Can you feel it? The presence of the Undead...
+We're not in the city anymore. This is an Undead Dungeon. Every time you enter
+an Undead Dungeon, all traps and enemy monsters return to their original state.
+It's all part of the Doomsday Phenomenon. Be sure to stay alert, Django!"
+
+[After the trap room]
+
+Young Man: ! "You're... Django... ...aren't you? I'm Marcello. On the day the
+city was attacked by the Undead, I got left behind when everybody ran away..."
+
+Django: ...
+
+Marcello: "I see... Then maybe I'll head for Sun Avenue too. This new warp
+magic square will probably take you to the Dungeon entrance. See ya then! You
+take care too, okay?!"
+
+===============================================================================
+Mall
+===============================================================================
+
+[Talk to Master Otenko]
+
+Master Otenko: "So this is what's left of the old City of the Sun...?"
+
+[Talk to Master Otenko again]
+
+Master Otenko: "How about talking to that girl over there first?"
+
+[A blonde girl hides behind Magical Girl]
+
+Magical Girl: "Huh. Made it here didya, squirt? I s'pose you are Solar Boy.
+Hey, take care of the rental fee for the Sol de Vice... in the Solar Bank,
+'kay? Yeah... 'bout a million should do it. Y'what? Got no cash? Well, that's
+just typical, now ain't it... Anyway, I reckon this'll help yer out. You can
+borra energy whenever yer want. But watch out, 'cos you'll have to pay it
+back, 'kay? Betta use it carefully. Go ask over at Dark Loans if you wanna know
+more, awright?"
+
+<Django receives the Dark Card>
+
+Master Otenko: "Aah, that way you speak... it's so familiar... If I'm not
+mistaken... Sunflower Girl, isn't it?"
+
+Magical Girl: "And you're Master Otenko, Messenger of the Sun? It's an honor to
+meet you. I am the Star Reader, Zazie. Sunflower Girl is the name the old...er,
+I mean, the Mistress used in her youth. Not that I can begin to imagine the
+old... er, the Mistress at my age. She saved the world with Red Ringo, the
+strongest Vampire Hunter. I came here to because of her star reading, to see
+the end of the world for myself..."
+
+Master Otenko: "The end of the world... Is that what she predicted?"
+
+Zazie: "That's right..."
+
+The Star Reading: Once Sun and Moon retreat into darkness, grand twilight
+descends on the wedge-binding City of the Sun. A deep shadow is then born in
+its wake. The beginning of the end.
+
+Master Otenko: "Hmmm... That Vampire... What on earth is going on in this
+place? And what could that deep shadow be...?"
+
+Blonde Girl: ...
+
+Zazie: "Oh yeah... You're Solar Boy, so yer should be able to help me out.
+Violet's gramps went off looking for somefin' but he ain't come back, see. Now
+we can't be lettin' a little kid like this be all upset, right? So how's about
+yer go off and bring the old man back, 'kay?"
+
+Master Otenko: "And who is this little girl? Amazing that she's survived
+through all the Undeadening in this place."
+
+Zazie: "Probably thanks to the City of Sun's barrier. I dunno though. Violet's
+gramps is the one to ask about all that. That old man happens to be steel
+Smith, you know!"
+
+Master Otenko: "Smith?! He's still alive?!"
+
+Zazie: "Oh yeah. That's why you've gotta go and save him, awright?"
+
+Master Otenko: "Steel Smith... He used to be an excellent gunsmith. People
+called him the Gun Master. He's the man that taught your Father Ringo, the
+great Vampire Hunter, about guns. He's sure to have some idea about what's
+causing all these strange things here."
+
+Zazie: "Goin' by my star reading', he headed to the cathedral just northwest of
+here. 'Course, I'd go there meself, but I'm s'posed to be watchin' the barrier,
+see. The barrier that protects this here City of Sun's gettin' weaker, I tell
+yer. I dunno how much I can do to help, but I'll be tryin' my best at any
+rate."
+
+Violet: "Look..."
+
+Master Otenko: "That's... ...Solar Gun Lens, Flame!!"
+
+Violet: "Me found it a while ago..."
+
+Zazie: "Hey, Django was it? Go on and take it as payment for savin' her gramps.
+With that you'll be able to use ENCHANTMENT FLAME, got it?"
+
+<Django retrieves the Solar Gun Lens, Flame, and learns ENCHANTMENT FLAME>
+
+Master Otenko: "If that lens was just lying around... Does that mean he's
+close?! But... First thing's first, we'd better find Smith. Come on Django,
+let's head for the Cathedral!"
+
+[Talk to Master Otenko]
+
+Master Otenko: "Smith... I really hope he's all right... Django, let's head for
+the Cathedral in the northwest!"
+
+[Talk to Master Otenko again]
+
+Master Otenko: "Hmm... It seems like there may be others left here beside Smith
+and Violet. I wonder if they've given up hope, or..."
+
+[Talk to Zazie]
+
+Zazie: "I forgot to tell yer... I left some Solar Bamboo on the first floor o'
+that Inn. If yer want to recover some Life, yer welcome to use it. Yer use it
+by... Oh just give it a beating."
+
+[Talk to Zazie again]
+
+Zazie: "Star readin'... It's looking at how the stars move to see the past,
+present and future, see. I s'pose yer think it's all a sham, don't yer? Bet
+there's plenty I could tell yer about yerself, though..."
+
+<Screen fades>
+
+Zazie: "Ready? You were born in... <your birthplace>. Your rank in the Istrakan
+adventure is... <Boktai 1 rank>. Bull's eye, right? I tell ya, my talent scares
+me sometimes, y'know."
+
+*<Choose "It is scary">
+*
+*Zazie: "Oh... And I though you of all people would get it. Looks like I was
+*wrong. I spoke outta turn. I'm sorry, awright?"
+
+*<Choose "It's amazing">
+*
+*Zazie: "Really?! You've made me go all red, sayin' that! Devilish charm, see?
+*I'm a wicked girl, I am? Nya ha hah!!"
+
+[Talk to Zazie again]
+
+Zazie: "With me standin' guard at the barrier, not even a single spider'll
+crawl into the City of Sun! I can't help yer directly with yer battles or
+nothing'... but I'll be watchin' yer."
+
+[Talk to Zazie again]
+
+Zazie: "Bad luck about the Solar Gun, eh. But don't let it knock yer duck off!
+What's done is done, after all. Even if it's raining cats 'n' dogs, a sunflower
+holds its head up high! So chin up, eh?"
+
+[Talk to Zazie again]
+
+Zazie: "Got plenty of life in yer, right? No? Such a weakling... Just take
+this, awright?"
+
+[Talk to Zazie again]
+
+Zazie: "Got enough energy, have ya? Gosh, I worry 'bout ya... take this, go on"
+
+[Talk to Violet, without the Warehouse key]
+
+Violet: "... Um... It's in the Warehouse. But there's no key so it won't open.
+Marcello of 6th Avenue, Luis of 10th Avenue... Maybe no one's coming back
+now..."
+
+[Talk to Violet, with the Warehouse key]
+
+Violet: "Ah... the key! That'll open the door to the Warehouse!"
+
+[Violet enters the Warehouse]
+
+Violet: "Here it is! You can have some, too. Here you go! Chocolate's really
+yummy. I'm going to give some to Zazie, too!"
+
+[Talk to Violet after being out in the rain]
+
+Violet: "Ooh, you're all wet! You mustn't be our in the rain, you know. That's
+what Grandpa said anyway. ...I know! You can have this!"
+
+<Treasure chest with a Raincoat appears>
+
+Violet: "Now you don't have to worry!"
+
+[Talk to Violet again]
+
+Violet: "Aren't you scared of lightning? I'm so scared, I hate it! I'm sure I
+saw something light up in the flash!"
+
+[Talk to Violet again]
+
+Violet: "I wonder if grandpa's okay..."
+
+[Talk to Violet again]
+
+Violet: "How was the chocolate? Nero doesn't think much of it, you know. I'm
+Nero's mommy. Nero's so cute and playful!"
+
+[Talk to Marcello]
+
+Marcello: "Django! Thanks to you, I managed to get out of the Dungeon okay! I
+heard that you're fighting to save this town, right? That's just amazing!
+There's no way I could do it. Don't you ever feel scared?"
+
+[Talk to Marcello]
+
+Marcello: "I really hate fighting... I just can't even stand hurting anyone,
+even a monster. That's the way I feel... ...does that sound strange to you?"
+
+[Talk to Marcello again]
+
+Marcello: "I'm quite large, you see... So I'm often misunderstood. But what I
+really like is to observe little creatures like birds and fish. Life and death
+in their world has a certain cruelty to it too, but I get the feeling that it's
+somehow different to the human world..."
+
+[Talk to Marcello again]
+
+Marcello: "Listen up! When you're choosing items to use or weapons and
+protectors to equip, press the A Button once over the icon you want on the menu
+screen, and then press it again without moving the cursor to use or equip the
+selected icon. This is a basic control on the menu screen, so you make sure you
+remember it!"
+
+[Talk to Marcello again]
+
+Marcello: "Listen up! To drop items, weapons, or protectors, press the A button
+once over the icon on the menu screen and then press SELECT. Once you've thrown
+something away, you can't get it back again. Be careful. And remember that you
+can't drop equipped weapons or valuables and the like."
+
+[Talk to the Coffin Shopkeeper]
+
+Coffin Shopkeeper: "...Wanna buy a coffin? Trade in your old one first though."
+
+*<Choose "Buy" and buy a coffin>
+*
+*Coffin Shopkeeper: "Huh. I've never seen a kid more suited for a coffin! ha ha
+*ha... If it's coffins you're after, I've got plenty. Come anytime!"
+
+*<Choose "Don't buy" or choose "buy" and don't buy a coffin>
+*
+*Coffin Shopkeeper: "Such a pity. I've got a coffin that'd suit you like a
+*glove..."
+
+*<Choose "Don't buy" or choose "buy" and don't buy a coffin again>
+*
+*Coffin Shopkeeper: "Oh well... Come back if you change your mind, okay? I'll
+*be waiting."
+
+[Talk to the Clocktower Keeper]
+
+Clocktower Keeper: "Hey, young'un... What's a brat like you doing here? This it
+the City of Death. Now scram, if you know what's good for you. Hm? Me? I'll be
+fine. I'm too old to be moving now. Anyway, I've got work to do. I'm Ennio --
+it's my job to keep watch on this clock and make sure time's a-tickin'."
+
+[Talk to Ennio again]
+
+Ennio: "What? The time's off, you say? You dare tell me my clock's wrong?!"
+
+*<Choose "It's not wrong" or "It's wrong" with "Don't fix it">
+*
+*Ennio: "So you were just having a laugh, were you? Have you never heard the
+*saying that time is money? I'm a busy man, you know. I don't have time for
+*this kind of messing around. It's hardly likely that my clock would be out of
+*sync now, is it? In fact, it hasn't lost any time for ages, not since the
+*Great Collapse that destroyed the old world. What did you say? I must be
+*really over the hill if I know about all that ancient stuff?! Well! You've
+*certainly got some nerve, lad! That's it! Get outta here! I don't want to set
+*eyes on you ever again! Honestly! The youth of today just have no manners at
+*all!"
+
+*<Choose "It's wrong">
+*
+*Ennio: "Hmm... Oh well. These things happen. But the people in this town all
+*rely on that big clock, you see. I can't change it easily. It can only be
+*adjusted once a day, you know. And once the time's changed, you can't undo it
+*because the data'll be saved. What do you say then, young'un?"
+*
+*<Choose "Fix it">
+*
+*Ennio: "Great, all set! It wasn't easy, mind you. All done then? In that case,
+*you should be on your way. Okay?"
+
+[Talk to Ennio after adjusting the time]
+
+Ennio: "No, I tell you! No! The clock's already been adjusted once today,
+right? I can only change the clock once a day. Got it? Then you should be on
+your way. Okay?"
+
+===============================================================================
+The Solar Tree Area
+===============================================================================
+
+Master Otenko: "This... is where the Solar Tree used to stand... What a
+terrible scar we're left with. The Solar Tree was a shrine to all life in the
+world, and it contained the power to use the sun's energy and purify the land.
+The Solar Tree was taken away by the City of Death, Istrakan. The Earthly
+Maiden, Lita, brought it back to life, and the land there was purified. But
+here in San Miguel... There's something preventing that from happening. If we
+don't find out what that is, there is no hope for the City of the Sun..."
+
+===============================================================================
+Cathedral                                                                [CEDL]
+===============================================================================
+
+Master Otenko: "The Cathedral should be through there. I wonder where Smith
+could be...?"
+
+[Outside the Cathedral]
+
+Master Otenko: !
+
+<They spot a cat walking into the Cathedral>
+
+Master Otenko: "What was that...?"
+
+[After opening a treasure chest]
+
+Master Otenko: "A Club... That's a hammer-type weapon. It wields a lot of
+power, but can leave you open to attack. Be careful. At any rate you can use it
+to break wooden boxes that block pathways."
+
+[Inside the Cathedral]
+
+Master Otenko: "From the look of it... we've somehow managed to get inside the
+Cathedral."
+
+[Cathedral Great Hall]
+
+Django: !
+
+<After Django and Master Otenko spot the cat going down some stairs>
+
+Master Otenko: ... "That black cat... something's not right... How can we get
+access to those steps leading underground? Maybe that treasure box holds the
+key?"
+
+[After picking up the Triangle Key]
+
+Master Otenko: "Looks like you've got a key. The blue door is locked. Press the
+A Button in front of the door to try the key, but the door won't open if it's
+the wrong key."
+
+[After using an Orb]
+
+Master Otenko: "The floor painting in the great hall has appeared... but it
+lacks color. Seems like it needs the other three crystals...?"
+
+[After opening a treasure chest]
+
+Master Otenko: "Ah, a Short Spear. One of the spear-type weapons. Since it's
+range is long, it's quite ineffective at close quarters. Be careful! At any
+rate, you can use it attack things that are one block away. It can probably
+used to move those traps in the two eastern rooms as well."
+
+[After going down the secret stairs]
+
+Master Otenko: "I sense something... It's an Immortal! You don't have the Solar
+Gun, but you can manage, right, Django?"
+
+[In the boss room, after seeing the cat walk into another room]
+
+Django: !
+
+???: "Wait..."
+
+Django: !
+
+White-coated Woman: "You're the Solar Boy? Well, you're a darling. I am the
+White Duneyrr, the Sky-ruling Immortal... Please don't let this shock you,
+but... I'm afraid you must die now. My brother told me not to fight you. But
+I'm so hungry. I've been asleep for such a long time. Waking up and having a
+Solar Child for breakfast is just what I need... So you see, I've really got no
+choice. So sorry."
+
+[After you beat Duneyrr]
+
+Master Otenko: "The White Duneyrr... She's an Immortal. You can't afford to
+leave her like that. She may be shut away in a coffin for now, but she could
+escape. You must purify her with sunlight immediately. But... That Black Cat is
+still troubling me... and then there's Smith... Let's first explore a bit
+further."
+
+[Cathedral Wedge Room]
+
+Master Otenko, Django: !
+
+Master Otenko: "Smith!"
+
+Smith: "Urgh... urrrrgh..." ! "Is it...? Ah, Otenko!"
+
+Master Otenko: "It's been a long time, Gunsmith!"
+
+Smith: "I'm just a regular blacksmith now. Gettin' a bit too old for it,
+though! Anyway, Django! You made it back safely! So you've defeated the Vampire
+Lord?!"
+
+Master Otenko: "Oh, yes. And the Queen of Immortals, Hel, as well... But it
+came at a price... We lost Django's mother, the Moon Beauty Mani..."
+
+Smith: "I'm sorry..."
+
+Master Otenko: "What about Ringo, Smith?! Is he..."
+
+Smith: "Yup... Dyin' before his master like that... What a useless apprentice!
+...Oh, I'm sorry, Django..."
+
+Master Otenko: "...Anyway... What are you still doing here? What on earth
+happened here in this city?"
+
+Smith: "Well... Look at this."
+
+Master Otenko: "Is it... a wedge? Some kind of seal?"
+
+Smith: "After the count had gone, it seemed the Undeadening had come to an end.
+But then there started to be signs of movement from the Undead, as if they were
+seekin' something... Cheyenne, a descendent of the Guards of this city, gave a
+warning. He said the Undead were tryin' to break their seal, see. I dunno what
+the seal was, but..."
+
+Master Otenko: "The broken wedge... Perhaps it was Duneyrr's seal...? And that
+Vampire... There are still things we don't get in this city..."
+
+Black Cat: meow
+
+Master Otenko: "Is that you cat?"
+
+Smith: "That's Nero. A friend o' my granddaughter. He came all this way... For
+a cat, he's got some nerve, eh?"
+
+Master Otenko: "Mm... It's thanks to the cat that we managed to get this far.
+Thank you, Nero. Anyway, could you go back to Sun Avenue for us, Smith?
+Violet's worried, I'm sure. We've got to purify that Immortal."
+
+Smith: "Right you are. I'll be at Sun Avenue then."
+
+Master Otenko: "Come on then, Django! We must take that coffin to the Plaza
+north of the Mall. We'll summon the Pile Driver there, and use the Sun's rays
+to purify the Immortal White Duneyrr!"
+
+===============================================================================
+Plaza                                                                    [WDPU]
+===============================================================================
+
+Master Otenko: "All right. This is it. This is where we summon the Pile
+Driver!" Taiyoh! "Okay, position the coffin in the center of the Pile Driver!"
+
+Master Otenko: "Now then! You must adjust the 4 Generators with an Enchantment
+attack. The Generators are blessed by Father Sun and Mother Earth, so they can
+amplify solar energy. This Pile Driver is the one and only way to purify
+Immortals!"
+
+[Talk to Master Otenko]
+
+Master Otenko: "Django!! When you're ready, it's time to purify the White
+Duneyrr!"
+
+[Enter and re-enter Plaza]
+
+Master Otenko: "Okay, position the coffin in the center of the Pile Driver!"
+
+[In the coffin shop]
+
+Coffin Shopkeeper: "Hey there... looks like you're giving it your all. Huh? Are
+you after a new coffin? I'm afraid I can't help you, unless you bring in an old
+one. That's the rule. You know... a trade-in system. Come by again when you're
+done with the coffin you're using now, okay?"
+
+[Set all four Generators]
+
+Master Otenko: "Everything's set! Ready, Django? You need sunlight to start the
+Pile Driver. The sun's out, right?"
+
+*<Choose No>
+*
+*Master Otenko: "Ah... Guess you won't be able to purify the Immortal. The Pile
+*Driver requires sunlight. You'll have to try again when the sun's out. You can
+*either look for new dungeons outside of Sun Avenue, or stop you adventure for
+*the time being and wait for the sun..."
+
+*<Choose Yes>
+*
+*Master Otenko: "Great! Make sure sunlight's hitting the solar sensor, then
+*press the A Button over the flashing white emblem to start the Pile Driver!"
+
+[Use the Pile Driver with no reading on the sensor]
+
+Master Otenko: "Eh? The sun! You must have sunlight to start the Pile Driver!
+Make sure sunlight's hitting the solar sensor!"
+
+[Use the Pile Driver with a reading on the sensor]
+
+Master Otenko: "Taiyooooooooooh!"
+
+[Generators start up]
+
+Master Otenko: "Begin Battle Drive! Now to purify the Immortal with a Solar
+Pile from the Generators! The Pile will be more powerful if more sunlight is
+hitting the solar sensor. But the Immortal will use Ectoplasm to resist it.
+You'll have to push it back into the coffin with Enchantment attacks. Get the
+Immortal's Dark Gauge down to zero, and you'll emerge victorious! It's all up
+to you now, Solar Boy Django!"
+
+[After the Dark Gauge has been brought down to zero]
+
+White Duneyrr: "Wh-what... At long last... I was released from my deep sleep.
+But now... Is this... the end? Brotherrrrrrrrrrrrr!"
+
+[Duneyrr fades away]
+
+Master Otenko: "You have completed the incineration of the Immortal's source,
+its Dark Matter. Now there's no way for it to come back. Well done, Solar Boy
+Django!"
+
+<They hear a noise>
+
+Master Otenko, Django: ! ...
+
+<They follow the noise>
+
+Ribbon Girl: ! "Master Django! Master Otenko!"
+
+Master Otenko: "Lita! What are you doing here?! The Undead are roaming San
+Miguel now, just as Sabata said, and there are signs that the Immortals are
+plotting in the shadows behind there. There's nothing you can..."
+
+Lita: "Well, I'm sorry! ...But, I can't just stay out of it, waiting in a safe
+place while the two of you are off risking your lives in battle!"
+
+Master Otenko: "But you're a maiden, not a warrior. Surely you wouldn't
+purposefully expose yourself to danger?"
+
+Lita: "True, I'm no warrior. I'm a maiden... But as the Earthly Maiden, I
+believe there are tasks that only I can fulfill. Besides, San Miguel is my
+home. Please, you can't deny me the chance to do what I can to help free this
+City of the Sun from Darkness!"
+
+Master Otenko: "...Okay. If you're that determined, there's nothing more I will
+say. So, Earthly Maiden Lita... Together we will crush the Immortal's evil
+scheme, and restore light once again to the City of the Sun!"
+
+Lita: "Thank you, Master Otenko..."
+
+Master Otenko: "Actually, I wonder if you could help us out now, Lita. The
+Undeadening supposedly ceased in this city, but it still can't be purified. Do
+you have idea why?"
+
+Lita: "Yes, I do... The land in San Miguel has lost the power of the Sun.
+Before the land has a chance to absorb the sunlight pouring down on it...
+someone or something is taking that energy away. That something must be
+expelled, or else the Solar Tree's seed will not grow, and its power cannot
+purify the city."
+
+Master Otenko: "I see... So we know what we must do. First we track down that
+Vampire and retrieve the Solar Gun. Then, we get rid of whatever is stealing
+power from the land. Right now, we need to gather some clues... Maybe Smith or
+Sunflower Girl have come up with something. To the Mall!"
+
+Lita: "Speaking of the Mall, I was wondering if I could be of any use to the
+people still left in the city, so I decided to open a Fruit Store! I'm sure the
+Solar Fruit I'm selling will help you two on your adventure! Be sure to come
+by, Master Django! Keep the Sun always in your heart!"
+
+<Lita runs off>
+
+Master Otenko: "Hm... I'm sure Lita's doing this because she really wants to
+help out the city... But maybe she also wants to get close to you..."
+
+*<Choose "Could be a pain">
+*
+*Master Otenko: "I see... Well, that's the way she is. There's no fault in
+*being worried about the future. Now, that great big hole... How did Lita fill
+*it in such a short time?"
+*
+*Master Otenko, Django: ...
+*
+*Master Otenko: "Don't give up, Django..."
+
+*<Choose "Great!">
+*
+*Master Otenko: "Right then. In order to make her wish come true, you mustn't
+*lose this battle!"
+
+[Talk to Master Otenko]
+
+Master Otenko: "It seems that things have worked out for now... But you can't
+let that Vampire have the Solar Gun forever. You must get it back at once!"
+
+[Talk to Master Otenko again]
+
+Master Otenko: "The barrier looks fine. The Legendary Witch, Sunflower Girl,
+would be proud of her apprentice!"
+
+===============================================================================
+Mall
+===============================================================================
+
+[Smith and Violet are standing outside the Solarsmith]
+
+Smith: "Looks like you managed to purify that Immortal then! That's the sun of
+the great Vampire Hunter, Red Ringo, for you, eh Django?!"
+
+Violet: "Err... Thanks for helping Nero and Grandpa!"
+
+Smith: "I heard what happened from Sunflower Girl. The Solar Gun, Gun Del Sol,
+has been stolen, eh? But that Sol de Vice could be even more powerful if you
+use it right, see? You need to get a higher level and make you weapons more
+powerful first, though. I run a smithery, you know. With your solar power, I
+could make weapons that are even more powerful. That's Solar-forging, see? But,
+to make a new weapon, I need two others to work from. Of course, the attributes
+of the new weapon depend on the two that you start with. Go collect some
+weapons you think would work, and bring them back to the smithery. Right now,
+all I can do is smithing... But I'd be happy to help you out!"
+
+<Smith and Violet both exit, Zazie appears>
+
+Zazie: "Yer dun awright, Django! Gettin' back the old man, and takin' care of
+an Immortal while yer at it... Not bad. It's all because of that Sol de Vice I
+lent yer! (Who'da thought such a load of junk'd be that useful, eh...? Nya ha
+hah!) Anyway. 'bout that Vampire's whereabouts... I gotta strong sense of
+Darkness from 'round where violet picked up that lens. Them Remains in the
+southeast desert, they're a bit fishy. They're up ahead on that path there. Be
+careful! It weren't just one thing I sensed, right? There's at least 2
+Immortals in them Remains... Aaaah... Well, I'm off for a nap! Lookin' after
+this barrier's no piece o' cake, yer know. I'll be at the Inn. Wake me up if
+anythin' happens. Now go get 'em!"
+
+[Talk to Smith in the Smithery]
+
+Smith: "There you are. There's some info SOLARSMITH on that panel over there.
+Better read it once before we start, eh."
+
+[Talk to Smith]
+
+Smith: "Want to do some forging?"
+
+<Choose "Forge" without reading the explanation panel>
+
+Smith: "Have you read the panel explanation?"
+
+[Talk to Smith again]
+
+Smith: "Cheyenne's still not back from exploring in the east. Wonder if
+something's happened to him...? No, what am I thinking... Cheyenne's a Guard. I
+mean, he's the Wind Warrior. He must've just found somethin'."
+
+[Talk to Smith again]
+
+Smith: "If ya need some forgin' done, just gimme a holler! Any time. I retired
+from battle, but I can still do as much as you young'uns!"
+
+[Talk to Violet in the Warehouse]
+
+Violet: "Nero just sleeps all the time. It's no fun!!"
+
+[Talk to Violet again]
+
+Violet: "You shouldn't hold too many items! If your bag's full, you can't carry
+any more items."
+
+[Talk to Violet with the Warehouse key]
+
+Violet: "Ah... the key! That'll open up even more of the Warehouse!"
+
+[Talk to Nero]
+
+Nero: "Meooow."
+
+[Talk to Nero again]
+
+Nero: "Meow?"
+
+[In the Fruit Store, talk to Lita]
+
+Lita: "Welcome! Come to buy something?"
+
+[Use the shop]
+
+Lita: "Thank you! Fresh produce like fruit get spoiled if they get too much
+sunlight. The expiration date varies for different items, and chips in the
+round mark before an item's name represent the condition it's in. Make sure you
+check the condition of your items on the menu screen okay?"
+
+[Use the shop]
+
+Lita: "Thank you! You must be really careful in the Dungeons at night. Keep the
+Sun always in your heart!"
+
+[Talk to Lita]
+
+Lita: "Have you got enough items, Master Django? If you need more Solar Fruit,
+stop by any time!"
+
+[Talk to Lita again]
+
+Lita: "Master Django, are you feeling all right? If you eat rotten food, you'll
+get an upset stomach. Take care, okay?"
+
+[Talk to Lita again]
+
+Lita: "Master Django... <3"
+
+[Talk to the Coffin Shopkeeper in the Coffin Shop]
+
+Coffin Shopkeeper: "You've come at a great time... I got my hands on a new
+coffin for ya! Be sure to take a look! It's got special effects and everything!
+I'm sure you'll love it!"
+
+[Talk to Luis in one of the houses]
+
+Luis: "Oh, it's you, sonny! Looks like those monsters can't be gettin' in 'ere
+now, eh? That's sure given me a bit of extra time here, I tell ya, sonny. I
+can't thank ya enough!"
+
+[Talk to Luis again]
+
+Luis: "D'ya wanna know what I've realized, sonny? 'Fraid I can't tell ya... If
+ya don't feel it on your own, ya won't understand. You'll get it soon, sonny.
+I'm sure of it..."
+
+[Talk to Luis again]
+
+Luis: "Did ya know this? If you press SELECT on the menu screen during an
+explanation of an item, weapon, or protector, ya can fast forward through to
+where ya want. Pretty useful, huh?"
+
+[Talk to Master Otenko]
+
+Master Otenko: "We're finally on the Vampire's trail... Django, they say there
+are Remains in the desert to the southeast. Head for there!"
+
+[Talk to Master Otenko again]
+
+Master Otenko: "Come to think of it... I'm sure I've seen that Vampire
+before... ...But where?"
+
+[Talk to Zazie who is sleeping on a barstool in the Inn]
+
+Zazie: "Huh...? Lemme sleep just a bit more, awright?"
+
+[Talk to Zazie again, she stands up]
+
+Zazie: "What?! No one can disturb my sleep! Take this! The Water Devil's
+Allure! Sun Magic, Freeze!"
+
+<Zazie freezes Django>
+
+Master Otenko: ...
+
+<Screen fades>
+
+Zazie: "Sorry. I'm cranky first thing in the morning 'cause of my low blood
+pressure."
+
+*<Choose "Huh?!">
+*
+*Zazie: "Jeez, yer got no guts... Guess I'll have to teach yer that magic I
+*used. That'll cheer yer up some. So, yer ready?"
+
+*<Choose "I see">
+*
+*Zazie: "Knew yer'd understand, Django! That's why you're the one I can count
+*on! Right then, I'll show yer that magic I used, awright? Ready?"
+
+<The water blesses Django, he learns the Sun Magic, Freeze.>
+
+Zazie: "Unlike Moonlight Magic, Sun Magic don't use energy. But it needs
+sunlight instead, awright? So as long as the Solar Gauge is above the magic
+level, yer can use it as much as yer like. Even if the gauge's right at the
+bottom, yer can still use a level 0 Freeze. But the amount of time it works for
+depends on the level of the gauge, right? So the stronger the Sun is, the
+better it works, see. Remember that!"
+
+[Talk to Zazie again]
+
+Zazie: "..."
+
+Django: (It's dangerous to wake her if she's fast asleep. Best be quiet.)
+
+===============================================================================
+Spider Forest                                                            [SPFO]
+===============================================================================
+
+[After defeating the two Golems]
+
+Old Man: "Sonny...? I'm Luis. I got chased by those Undead and got meself stuck
+here. I though I'd be left here for dead, I tell ya..."
+
+Django: ...
+
+Luis: "Hm... Maybe I'll be headin' to where the others are then. Looks like
+this new warp magic square'll take ya to the Dungeon entrance. Don't push
+yourself too much. Nothin's worth riskin' your own precious life..."
+
+===============================================================================
+4th Avenue                                                               [RMNS]
+===============================================================================
+
+[Just before entering the Remains]
+
+Master Otenko: "These look like... destructive traces of the Root of Darkness
+surfacing around the city. It's the work of the power of Darkness... The
+Remains that Sunflower Girl was talking about are up ahead."
+
+===============================================================================
+Remains
+===============================================================================
+
+Master Otenko: "These are the Remains in the desert. This is where that
+Vampire... Django! It's time to get revenge for what he did! May the Sun be
+with you!"
+
+[Django meets an Afro-haired Man]
+
+Afro-haired Man: ! "Oh, it's you again... Huh? Oh, no... my mistake. There was
+some dude in here just now that looked just like you, man... Ah, well. I'm Kid.
+I run the city's item shop. I was chased out to these Remains by the Undead.
+But I stayed cool, man... Only, then I got trapped by that freaky plant. And
+then some other dude was about to attack me. It was all bad, man. All bad...
+But then, like I said, that dude who looked just like you came by and beat up
+on that spikey thing, so I'm gonna get the heck out of here! Anyway, what are
+you doing 'round these parts, man?"
+
+*<Choose "I'm lost">
+*
+*Kid: "I see... You wanna check out the map on the menu screen. But you won't
+*be able to look at all the Dungeon maps straight away. You gotta get your
+*hands on them first in each Dungeon you go to. And maps aren't just limited to
+*just one per Dungeon. I'm sure I saw one over there somewhere... Anyway,
+*man... Who are ya?"
+*
+*<Screen fades>
+
+*<Choose "I'm after a Vampire" or after choosing "I'm lost">
+*
+*Kid: "So, what you're trying to say is... You're the Solar Boy old Smith's
+*been talkin' about?! That stuff he was talkin' about... that's all true?! I
+*dig it! I thought that this city was done. But this changes things. I'm
+*stayin' put now! I gotta open up shop again. Make sure you stop by, man! My
+*shop does protectors too, y'know! Not just items! Oh, yeah! That guy I told
+*you about, he got chased off by your look-alike, dude. I dunno where he
+*went... But he dropped this. If he were a Vampire... I guess this could be of
+*some use, huh?"
+
+<Django retrieves the Solar Gun Lens, Frost, learns ENCHANTMENT FROST>
+
+Kid: "There are traps all over these Remains, you know. Gotta stay cool and be
+careful, man, especially with treasure boxes. I've gotta split now! Watch your
+back, dude. Come back alive now!"
+
+<Kid leaves>
+
+Master Otenko: "That lens... There's no doubt he's here now! And he said there
+was someone who looked like you... Could he be here...?"
+
+Django: ...
+
+[They find Sabata kneeling on the floor, injured]
+
+Master Otenko: "Dark Boy Sabata! So you're here in San Miguel!"
+
+Sabata: "Django... You really messed up, eh? I mean, you of all people, getting
+the Solar Gun Stolen!"
+
+Master Otenko: "How did you know?"
+
+Sabata: "Hmph... 'Cause I took a hit! I'll never forget it, the stunning blow
+of the Gun Del Sol!"
+
+Master Otenko: "So you've seen that Vampire? Where is he?!"
+
+Sabata: "He escaped... Or rather, he slipped out of sight... I was caught off
+guard. I thought he was a normal Vampire. But what skill... And on top of that,
+he had the Solar Gun... thanks to this loser. What exactly is that Vampire?"
+
+Master Otenko: "We don't know... But something gets me. I don't think this is
+our first encounter..."
+
+Sabata: "... Well, you clearly can't stand up to him, having lost the Solar Gun
+and all. Turn back, Django!"
+
+*<Choose "Turn back">
+*
+*Master Otenko: ...
+*
+*<Forced to choose again>
+
+*<Choose "No way">
+*
+*Sabata: "So you're determined to go? Hrmph... You would defy the will of the
+*Galaxy Universe that wishes to cast aside the seeds of life of all these
+*countless stars? Are you both used to hopeless battles? Are you? Haa, haa,
+*haa, haa, haa!! Good luck to you! May as well take this with you!"
+
+<Django retrieves the Solar Guns Lens, Cloud, learns ENCHANMENT CLOUD>
+
+Sabata: "He went through that door up ahead. You'll need the key to that door
+if you want to go after him. Find that first."
+
+[Talk to Sabata]
+
+Sabata: "You think it's strange that I'm here? I'm not like you. I never cared
+about the fate of this city. I was raised as a warrior of Darkness by Hel, the
+Queen of Immortals... But it's not my deceitful mother I hate. Not anymore.
+It's that Dark, who drove both of us to madness, and the Immortals of the
+Forces of Darkness who obey his will. I won't let them carry on. That's why I'm
+here..."
+
+[Talk to Sabata again]
+
+Sabata: "He's tough... He dodged most of my attacks, and all I could do was get
+one lens off him. It'll be virtually impossible to get the Solar Gun back from
+him. It might be better just to destroy it..."
+
+[Talk to Sabata again]
+
+Sabata: "Kid from the Item Shop? With the crazy hair...? Yeah, without him
+getting in the way, it wouldn't have come to this! What's that? I helped him?
+Now why would I do that?!"
+
+[Talk to Sabata again]
+
+Sabata: "Do you know the legend of these Remains? It's said that it's a place
+where the dead are resurrected. But they don't lose their past lives' memories
+or appearances like the Undead. They come back just as they were before they
+died... Does that mean they're Immortals? Or do they have the bodies of men?
+But that's just crazy talk. There's no way you can change the past..."
+
+[After opening an explosive treasure chest]
+
+Master Otenko: "Are you all right, Django?!"
+
+<Django was blessed by fire, learns Dynamite>
+
+Master Otenko, Django: ...
+
+<Flashback to Django talking to Kid>
+
+Kid: "Gotta stay cool and be careful, man. Especially with treasure boxes."
+
+<Flashback ends>
+
+Django: (It's over...)
+
+[Outside, in the desert]
+
+Master Otenko: "Wait, Django! You must have water in the desert. Check that
+spring over there first."
+
+[Go to the next screen]
+
+Master Otenko: "Feel the heat of the desert! Without water, your life energy
+will go down. Your remaining water is shown at the top center of the screen. If
+your water runs out, don't push on, Django! Just go back and fill up."
+
+[After entering the hidden desert building]
+
+Master Otenko: "This is a Warp Magic Square... It seems to be connected close
+to the Dungeon entrance. You can use it to go in and out of the Dungeon
+whenever you want. To activate the warp, press the A Button on top of the Warp
+Magic Square. If you're worried about your equipment, why not return to the
+city first and prepare?"
+
+[Before the Immortal room]
+
+Master Otenko: "Hold on, Django! Can you sense it? This presence... Make no
+mistake... Just beyond here... It's the Vampire! Prepare yourself! May the Sun
+be with you!"
+
+[In the Immortal room]
+
+Vampire: "Stay away! Don't come near me! Heart... sinking... into...
+Darkness..."
+
+<Vampire starts to shake>
+
+Master Otenko: "It's... just like that other time?!"
+
+Vampire: "Urgh... urrrgh! Run...! Run away, Django!"
+
+Master Otenko: "You can't be...?!"
+
+<Another man appears>
+
+Black Shadow: "Heh, heh, heh... So you've finally figured it out? But it's too
+late! Messenger of the Sun, Otenko. This is where you must leave us. I can show
+them they way from here... The way for those two... to Darkness, that is!"
+
+Master Otenko: !
+
+<A big shadowy hand takes Master Otenko away>
+
+Django: !
+
+Vampire: "Aaaaaargh!"
+
+<Vampire lunges towards Django, Sabata appears and pushes Django away>
+
+Sabata: "What are you playing around for, Django?! Worry about Otenko later.
+Right now we've got to kill this Vampire! I'll stop his movement by sealing him
+with a Black Hole! You just keep him off my back 'til then, okay?"
+
+[After defeating the Vampire]
+
+Vampire: "You two... Django... And surely not... ...Sabata?!"
+
+Sabata: "How do you know my name?!"
+
+Django: "F-Father...?!"
+
+Sabata, Django: !
+
+Django: !
+
+<Vampire rushes forward and bites Django>
+
+Vampire: "...Django...!"
+
+<Vampire screams and disappears>
+
+Sabata: "Django! Damn! He's been hit with Vampire blood. The Undeadening is
+advancing... The Lunar Child blood should be suppressing the change but it's
+not working. Why?! The reaction must be too strong! If it's not stopped, not
+only will he turn into a Vampire... he may lose his life. It's a risky gamble,
+but... the Pile Driver's the only option!"
+
+<Sabata puts Django in the coffin>
+
+Sabata: "At the top right of the screen is Django's Life Gauge. Before that
+gets to zero he must be taken to the Pile Driver on Sun Avenue."
+
+[In the Remains Wedge Room]
+
+Sabata: "A broken wedge... This could be the seal of an ancient Immortal. Maybe
+who broke out of this seal was the Shadow that took Otenko. Hm. Looks like the
+Undead Immortals are the only ones who can transcend death..."
+
+===============================================================================
+Mall                                                                     [SBDP]
+===============================================================================
+
+[Lita and Zazie run up to Sabata]
+
+Lita: "Master Django?!"
+
+<Screen fades>
+
+===============================================================================
+Plaza
+===============================================================================
+
+[Django's coffin has been placed in the Pile Driver]
+
+Zazie: "It's like Sabata said... To help Django now, all we can do is purify
+the Vampire blood in him with the Pile driver."
+
+Lita: "But... if we do that... Master Django might..."
+
+Zazie: "Yer right. It's a gamble. A gamble with life..."
+
+Lita: ! "But! You can't..."
+
+Zazie: "Yer pretty attached to him, eh?"
+
+Lita: "Huh?! What? Me...?!"
+
+Zazie: "Then believe in him! Star readin's the same. Just 'cause yer believe in
+it don't mean it'll work. No matter how hard yer try, if it ain't gonna work,
+yer can't do nothin'. But, if yer don't even have faith and yer just give up...
+that's it, then. That Sabata, he knows only too well. And you need to as
+well... Believe in him! Your feelings'll get through to him!"
+
+[Talk to Lita]
+
+Lita: "Help Master Django... Please!"
+
+[Talk to Lita again]
+
+Lita: "Master Sabata, please use this!"
+
+[Talk to Lita again]
+
+Lita: "..."
+
+[Talk to Zazie]
+
+Zazie: "Your body..."
+
+Sabata: "Oh! Your great star reading again, right? Yeah that's right. My body's
+been taken over by Dark Matter... It probably couldn't survive without the
+power of Darkness..."
+
+Zazie: "But if yer use the Pile Driver with yer body... Yer must know the
+consequences, eh?"
+
+Sabata: "I won't last long anyways, will I? I fight the way I fight. That's
+all..."
+
+[Talk to Zazie again]
+
+Sabata: "The legend of the Remains in the desert, the resurrection of the
+dead... maybe it's just referring to the Immortals of the past. But your
+mistress, the Legendary Witch, she might know something... You know, about
+resurrecting people's souls..."
+
+Zazie: "Sabata, I dunno what yer thinking of, but that stuff's off-limits,
+awright? Even for a witch, that subject's taboo. So stop comin' up with such
+bad ideas, eh?"
+
+Sabata: "I know! I've known... from the beginning..."
+
+Zazie: "..."
+
+===============================================================================
+Mall
+===============================================================================
+
+[Kid is standing outside the Item Shop]
+
+Kid: "What's up, boy? I'm ya main man for items and protectors! They're all
+right here! Take a look!"
+
+<Kid goes inside the shop>
+
+Kid: "Yo! Wanna shop?"
+
+[Use the shop]
+
+Kid: "You're the man! Go through those items, and come see me when ya need some
+more!"
+
+[Use the shop again]
+
+Kid: "You're the man! I'll buy any stuff if it's weighin' ya down! I'm all on
+that!"
+
+[Talk to Kid]
+
+Kid: "Oh yeah! On my way back over here, I ran into that Cheyenne guy from the
+Weapon Shop. He's a crazy dude like you! Going to the Dark City with all those
+Undead wandering about... What's he doing in the ruins, man?"
+
+[Talk to Kid again]
+
+Kid: "Hey, you know 'bout all those abnormal statuses? Ignite sets your body on
+fire and drains your life bit by bit, man. Freeze zaps your mobility because of
+the ice stuck to your body. Petrify's all about rocks weighing you down so you
+can't move. But you can get out of all three of them with some speedy finger
+work on the Control Pad! Don't panic and just chill, okay?"
+
+[Talk to Luis]
+
+Luis: "Sonny..."
+
+[Talk to Marcello]
+
+Marcello: "You're..."
+
+[Talk to Violet]
+
+Violet: "Huh?! Aren't you Django's brother?"
+
+Sabata: "I'm Sabata..."
+
+Violet: "..."
+
+Sabata: "...?"
+
+Violet: "Um... I'm Violet. This is Nero."
+
+Sabata: "Oh..."
+
+Violet: "..."
+
+(The conversation ends)
+
+[Talk to Smith]
+
+Sabata: "You're Smith?"
+
+Smith: "Sabata...?! Django's brother, right? Ringo was always looking for
+you..."
+
+Sabata: "There's something I want to ask you. Is our Father... Is he really
+dead? Did you see it with your own eyes? His last moments, I mean..."
+
+Smith: "...Nobody saw his last moments... He used himself as bait to lure the
+Count away, so the people of the city could escape. We never found his body..."
+
+Sabata: "I see. Them there's no doubt that Vampire is..."
+
+Smith: "Don't be ridiculous! That's impossible! Old, maybe... but he had the
+Blood of the Sun. He was the ultimate Vampire Hunter."
+
+Sabata: "Still, there's no denying Django is in mortal danger of being killed
+at his hand... If that man obeys the Immortals, and Dark, I will destroy him.
+I'll defeat the Vampire... Even if he was once our Father! I was raised as a
+Dark Child... The only life I know to live is one smeared in blood! Haa, haa,
+haa, haa, haa!!"
+
+Smith: "Sabata...!"
+
+[Talk to Smith again]
+
+Smith: "Ringo...!"
+
+===============================================================================
+Plaza
+===============================================================================
+
+[After starting the Pile Driver]
+
+Zazie: "Sabata, yer ready? Force the Ectoplasm back into the coffin, and hold
+on to Django. Once the Dark Gauge at the top-right o' the screen hits zero, the
+purifyin's done. Yer body won't last for long, so it's a race against time,
+awright. Ready?"
+
+[After Django has been purified]
+
+Lita: "Master Django! Your body...?!"
+
+Sabata: "Guess we couldn't stop him from becoming a Vampire..."
+
+<Sabata collapses>
+
+Zazie, Lita, Django: !
+
+Zazie: "Sabata!"
+
+<Django got the power of Darkness, learns ENCHANMENT DARK, Sleeping, Change
+Mouse, and Change Wolf and Change Bat but loses the Power of the Sun>
+
+===============================================================================
+Plaza
+===============================================================================
+
+[Upstairs, in the Inn, Lita is watching over a comatose Sabata]
+
+[Downstairs Zazie is with Django]
+
+Zazie: "Django, you're half Vampire now, ain't yer? Sunlight burns yer, water
+scalds yer... Can't really call yer Solar Boy no more, eh...? More like Black
+Django! But the worst could be yet to come, y'know. The power of Darkness could
+eat yer up and turn yer into a real Vampire. Or... you could escape that fate
+and turn yerself back into Solar Boy... It's all still to come..."
+
+<Lita runs down the stairs>
+
+Zazie: "Where's Sabata?"
+
+Lita: "He still hasn't woken up..."
+
+Zazie: "Oh, right... A Witch's Apprentice but useless as a chocolate tea-pot. I
+can't do nothin'..."
+
+[Talk to Kid]
+
+Kid: "There you are, boy! Huh?! What's up? You seem a little different... Oh
+well. That's cool. I've got items and protectors on sale for ya here. Whaddya
+say?"
+
+[Talk to Luis]
+
+Luis: "Did ya know this? If ya press START on the menu screen, you'll get a
+list of menus. Scroll through with the Control Pad and select with the A Button
+to open one. Ya can switch between menus with the L Button and R Button too,
+which can come in handy when looking for a particular menu."
+
+[Talk to Luis again]
+
+Luis: "Bein' this age, I was starting to wonder what the point was in living
+any longer... But now seeing all this Undead stuff, I realized it for the first
+time. Now I understand it, the meanin' of life..."
+
+[Talk to the Coffin Shopkeeper]
+
+Coffin Shopkeeper: "You've come at a great time... I got my hand on a new
+coffin for ya! Be sure to take a look! I tell ya, these were a real good find
+this time around I got a coffin with Solar Child magic, and a living coffin,
+the Coffin Beast. You'd be crazy not to take a look, huh?!"
+
+<Buy a new coffin>
+
+Coffin Shopkeeper: "Ah, nice fit... The coffins love you, my boy! Ha ha ha....
+See ya again soon, kid."
+
+[Talk to Violet]
+
+Violet: "Waaah... You look like Nero!"
+
+[Talk to Violet again]
+
+Violet: "Nero's gone missing again. Oh fooey!!"
+
+[Talk to Violet again]
+
+Violet: "Anything you put in the Warehouse won't go bad. You don't have to
+worry about fruit or meat getting spoiled."
+
+[Talk to Smith]
+
+Smith: "Django... I can't believe that you, Solar Boy, are turning into a
+Vampire... And Ringo too. Was the Vampire that you were chasing really
+Ringo...?"
+
+[Talk to Smith again]
+
+Smith: "Come to think of it, I've heard word from Cheyenne. Seems like he's
+found something in Dark City to the northeast. Says he going to look into it a
+bit further. The Dark City is the ruins from before we were attacked by the
+Undeadening... A territory of Darkness made by us mortals. Maybe the Forces of
+Darkness coming back to life was our own doing..."
+
+[Talk to Smith again]
+
+Smith: "Weapons don't go bad in the Sun like fruit and meat do. But if you use
+them a lot they can show a bit of wear and tear. Too much damage will
+eventually lower the quality of the weapon. It's smart to use it for forging
+before that and make yourself a stronger weapon!"
+
+[Talk to Lita]
+
+Lita: "Master Django, I heard that Solar Fruit has no effect on Vampires. I
+won't be able to provide you with any blood... But try quenching your thirst
+with this!"
+
+[Use the Solar Fruit shop]
+
+Lita: "Thank you! Master Django, even if you become a Vampire, I'll still...
+um... Keep the Sun always in your heart!"
+
+[Talk to Lita again]
+
+Lita: "Depriving the earth of its power... That strange plant, the Root of
+Darkness, that's sprung up all over San Miguel... I'm sure it's that plant
+that's preventing this city from being purified. But the Root of Darkness is
+just the tip of it all. Somewhere there is a Darkness Tree, and unless that's
+destroyed this town cannot be purified. The Root of Darkness steals the Sun's
+energy from the ground, and it seems that this makes it vulnerable to the power
+of Darkness. You should be able to use ENCHANTMENT DARK now. You can destroy it
+with that!"
+
+[Talk to Lita again]
+
+Lita: "Master Django, are you feeling all right? Solar Fruit doesn't have any
+effect on Vampires. Be careful, okay?"
+
+[Talk to Zazie, who is watching over a sleeping Sabata]
+
+Zazie: "Sorry an' all, Django. I haven't a clue where Master Otenko or that
+Vampire went off to. It's these black clouds... They're gettin' in the way of
+me star readin', see. I'm no use at all, am I..."
+
+*<Choose "That's right">
+*
+*Zazie: "Guess I'm not as good as that old hag..."
+
+*<Choose "Cheer up!">
+*
+*Zazie: "Thanks, Django. Appreciate it..."
+
+[Talk to Zazie again]
+
+Zazie: "This fella's been tryin' the impossible all along... Exposing his
+body... with the blood from the Sun an' the Moon... to Darkness. And you're in
+the same boat now, too. Watch out for the Sun's rays, awright? Especially when
+yer solar chargin'."
+
+[Talk to Zazie again]
+
+Zazie: "Django, You can't be usin' the Power o' the Sun now, yer know. Yer can
+only use Dark Enchantment. Yer can't be usin' Sun Magic no more. So instead,
+yer need to use the power o' Vampire -- Dark Magic. Yer gotta take control o'
+that power and manipulate it for yerself. Yer can't let the power o' Darkness
+swallow yer up, okay?"
+
+[Talk to Sabata]
+
+Sabata: "..."
+
+===============================================================================
+Dark City                                                                [DACI]
+===============================================================================
+
+[Django sees Nero enter Dark City]
+
+Django: !
+
+[While searching Dark City]
+
+???: "Django... You must make use of it... the power of Vampires, Dark Magic...
+Sleeping is Healing Magic that uses a coffin. Sleeping in a coffin allows you
+to recover energy without relying on the Sun. You must embrace it, Dark
+Magic..."
+
+???: "Django... You must make use of it... the power of Vampires, Dark Magic...
+CHANGE BAT is Change Magic that enables you to transform into a bat. When you
+become a bat, you'll be able to use ultrasonic waves to see things you can't
+usually see. You must embrace it, Dark Magic..."
+
+???: "Django... You must make use of it... the power of Vampires, Dark Magic...
+CHANGE MOUSE is Change Magic that enables you to transform into a mouse. Then
+you'll be able to get through small holes that you usually can't pass through.
+You must embrace it, Dark Magic..."
+
+???: "Django... You must make use of it... the power of Vampires, Dark Magic...
+CHANGE WOLF is Change Magic that enables you to transform into a wolf. With
+CHANGE WOLF, you can steal life energy from enemies by biting them. But you
+have to bite them behind or else it won't work, so keep that in mind. Hit the L
+Button repeatedly while biting and you'll steal more life energy. You must
+embrace it, Dark Magic..."
+
+???: "Django... You must make use of it... the power of Vampires, Dark Magic...
+CHANGE BAT is Change Magic that enables you to transform into a bat. As a bat,
+you'll be able to get through small, usually impassable windows. You must
+embrace it, Dark Magic..."
+
+???: "You must be careful, Django... Vampires are vulnerable to water and the
+Sun's rays. Even puddles can harm you, so you can't let your guard down for
+even a second... You must make use of it... The power of Vampires, Dark
+Magic... CHANGE BAT is Change Magic that enables you to transform into a bat.
+As a bat, you'll be able to fly around obstacles that are usually impassable.
+You must embrace it, Dark Magic..."
+
+[On the roof, an axe is thrown towards Django]
+
+Django: !
+
+???: "A Vampire... So it is an Immortal that is behind that Darkness Tree. I am
+Cheyenne, Guard of San Miguel and the Wind Warrior of the four Sun Warrior
+classes. Even if I'm the last one left, I will not let you Immortals do as you
+please! Creatures of the night that sully the pure Sun... with my sword I will
+send you back to the Darkness!"
+
+*<Choose "Wait!">
+*
+*Cheyenne: "You're wasting your breath!"
+
+*<Choose "Come on, then!">
+*
+*Cheyenne: "Aaaaaargh!"
+
+[After beating Cheyenne]
+
+Cheyenne: "I don't believe it! Django...?! You've turned into a Vampire...
+...But I was certain I would see you again...! Do you remember me? That day,
+thanks to the sacrifice your Father, Red Ringo, made, we managed to escape from
+San Miguel. But the Count had a trap in store for us... And we all paid dearly
+at the hands of the Vampires. Smith lost an eye, I lost my dear brothers, and
+you... You lost your mother, Mani. But despite that, you didn't give up. With
+the Crimson Scarf as a memento of your Father, you set off on your travels to
+the City of Death, Istrakan... And now, even though you have dark blood
+invading your body, I see no despair in your eyes. Your Sun... hasn't set
+yet!!"
+
+<Cheyenne stands up>
+
+Cheyenne: "We Guards have been defending the City of the Sun since the days of
+old. But in this period of Darkness... What could the legendary Wedge Seal have
+been locking away? It has all been lost in time. Just like people have
+forgotten the Sun... And now the powers of Darkness have come back to life. Two
+seals are already broken... one at the Cathedral and one at the Remains in the
+desert. Go take a look at that."
+
+<Both look at the vines covering the building>
+
+Cheyenne: "That plant... It's definitely not natural. I'm sure it's the
+Darkness Tree. By the look of things, the third seal isn't safe either. Looking
+at that Root of Darkness that's overwhelming the entire city, it seems likely
+that here in Dark City was where it all began. This city is being swallowed up
+by the Darkness humans have created themselves. What exactly have we Guards
+been protecting all these years...? I can't do anything to put an end to that
+Darkness Tree... In fact I don't think there's anything more I can do here...
+I'm going to return to the City of the Sun and set up a shop. I'll sell weapons
+opposite Smith's place. Maybe that way I'll be able to help you some. And we
+must continue to find out more about the Wedge Seal. Django, it's up to you to
+save this City of Darkness! You possess the ability to defeat the Darkness
+Tree... and the Darkness within you. Take this! It's the key to the door on the
+first floor."
+
+<Django receives the key>
+
+Cheyenne: "I believe in you, Solar Boy Django!"
+
+[Before the Immortal room]
+
+Black Shadow: "You've finally made it all the way here. Enjoying the power of
+Darkness? You're half Vampire now, so you haven't mastered the power of
+Darkness yet... But you've probably realized how marvelous it is, right? The
+very fact that you made it this far is testament to that power. Ha, ha, ha...!!
+I haven't introduced myself. I am the true Dark Child, Black Dainn. Django,
+you're one of us now. Only the Immortals can truly save this world now.
+Together, we must release this world from the hand of the unforgiven. That
+would make your Father, the Vampire Ringo, so proud."
+
+???: "Hey! How dare you do dropping my name in like that!"
+
+Django, Black Dainn: !
+
+<Many bats appear>
+
+Black Dainn: "What the...?! You got your memory back?!"
+
+Ringo: "Django, thank goodness you're safe... Your blood... The blood of Mani
+within you is what woke me. Now there's no time to lose! This is our chance!
+While I'm subduing him, you must destroy the Darkness Tree!"
+
+Black Dainn: "Urgh... That fool Count... What a useless Vampire he's
+created..."
+
+<Ringo moves Black Dainn out of the way; Django goes into the Immortal room>
+
+Red Hair Girl: "Dark Brother has been playing for too long now... White Sister
+is defeated, and Blue Sister will not awaken. We cannot let you continue your
+games any further. We must swiftly get rid of harmful pests. The abandoned Dark
+City and the Darkness Seed it bore, the seed I nurtured... It took root in me,
+and started to sprout. And on the day of the Undeadening... I woke up to my
+true self. Dark Brother called to me! I'm not alone anymore! I'm needed! I'm
+allowed to stay here! I am the Red Durathror! I am the Earth-ruling Immortal!"
+
+<Plant tentacles rise from the ground>
+
+Red Durathror: "...Light attracts Darkness. But your light was too strong. And
+that troubles Dark Brother... You don't need light anymore, right? I'll take
+you... to a world with no light... to a world where the Sun doesn't rise!"
+
+[After defeating Red Durathror]
+
+Ringo's Voice: "Django... You must purify the Darkness Tree..."
+
+[After seeing that Ringo is not outside the Immortal room]
+
+Django: ...
+
+===============================================================================
+Plaza                                                                    [RDPU]
+===============================================================================
+
+[Zazie appears in front of Django]
+
+Zazie: "Eh, it that... the Darkness Tree Immortal? You certainly got the hang
+of that power o' Darkness business, didn't yer...? But yer not thinkin' o'
+usin' the Pile Driver like that, are yer, Django? It's true that San Miguel's
+doomed if the Darkness Tree ain't purified. But you ain't forgotten what
+happened to Sabata, right? Yer still gonna do it?!"
+
+*<Choose "No">
+*
+*Zazie: "...Didya really think yer could pull a fast one by me? Honestly, you
+*two brothers are pretty sneaky, ain't yer? Still, that's what I like about you
+*two. Awright, I won't stop yer. I'm watchin' over all yer battles. Give it all
+*yer got!"
+
+*<Choose "Yes">
+*
+*Zazie: "...You two brothers are mental, I swear. Stark ravin' bonkers...
+*Still, that's what I like about you two. Awright, I won't stop yer. I'm
+*watchin' over all yer battles. Give it all yer got!"
+
+[Talk to Zazie]
+
+Zazie: "In the dark night sky is a mirror reflecting the Sun, the Moon...
+Sunlight and Darkness, and the four elements of fire, water, wind and earth...
+The Moon Kindred, Lunar Children, had the ability to understand their power.
+The Lunar Maiden, Moon Beauty, was able to make use o' this power. Mani was the
+last of those who remained... And then there was Red Ringo, said to be the
+strongest Vampire Hunter. With the Solar Gun, a Magic Machine handed down from
+the Solar Children, he's the one that succeeded in defeating the King o' the
+Immortals... And it's their blood and soul that's been passed down to you two,
+see."
+
+[Talk to Zazie again]
+
+Zazie: "You brothers have inherited the blood o' the Sun and the Moon. But that
+don't mean your powers are the same. You've got more o' the Sun in yer, and
+Sabata's got more o' the Moon in him. So when it comes to Darkness, you didn't
+have the same degree of resistance as he did. And now that you're bein' invaded
+by that Vampire blood, you don't have resistance to the Sun's rays either. So
+yer really gotta watch it now, awright?"
+
+[After starting the Pile Driver]
+
+Django: "Taiyooooooooooh!"
+
+<Django collapses>
+
+Zazie: "Django?!"
+
+???: "Django... You must wake up. You still have work to do. There is something
+that only you can do. There are people who need your help. Can you not hear
+their voices?"
+
+Sunflower Girl: "Oy, Django! Get up, will yer?!"
+
+Smith: "Django!!"
+
+Violet: "Wakey wakey!"
+
+Kid: "Come on, boy!"
+
+Cheyenne: "Django!!"
+
+Lita: "Please, Master Django!"
+
+<Django gets up, sees Sabata in front of him>
+
+Sabata: "Django, you mustn't give in to the power of Darkness. Surely you
+haven't forgotten the battle with the Queen? It's just like you taught me,
+remember? The power to escape death... The will to live... That and only that,
+is..."
+
+<Sabata disappears>
+
+Django: "That is... our..." sun!
+
+<Django retrieves the power of the Sun, learns Transform and Rising Sun>
+
+[After Red Durathror has been purified]
+
+Red Durathror: "In my world, there was no light... With no light in the world,
+I just wanted to die... Dark Brother... I tried my hardest... My life had...
+meaning... didn't it? Aah, it's so warm... So this is... the Sun..."
+
+[Everybody is around Django]
+
+Zazie: "Blimey, don't scare me like that, I tell yer..."
+
+Smith: "You really had me worried there!!"
+
+Violet: "You're safe! I'm so happy!"
+
+Kid: "Well, this town would just be dull without ya."
+
+Cheyenne: "I had faith in you, Solar Boy Django!!"
+
+Lita: "Dear Master Django!! I... sniff... ...I'm sorry."
+
+Sabata: "Phew, glad that's over..."
+
+===============================================================================
+Solar Tree Area
+===============================================================================
+
+Lita: "Now that the Darkness Tree is gone, the city can finally start to
+recover from the ravages of the Undeadening. Look! The seedlings of the Solar
+Tree have grown so much... The Solar Tree's happy too!"
+
+Django: (Durathror?!)
+
+<Django learns Healing>
+
+Lita: "It's small right now... but as long as we have this new Solar Tree, the
+Sun, and the Earth... As long as we don't forget their blessings... we should
+all be able to go on living together. Even if the world faces the Doomsday
+Reincarnation..."
+
+===============================================================================
+Mall, the Inn                                                            [CSYT]
+===============================================================================
+
+Sabata: "So? Have you found out where that Vampire is?"
+
+Zazie: "No luck... Master Otenko and Ringo are still covered by that dark
+cloud... Me star readin's no use as usual. You're all doin' yer best even while
+recuperatin' but I can't do nothin'. To think I didn't realize that Vampire was
+Ringo... I'm not worthy of bein' the old hag..."
+
+Sabata: "Save your regrets for later. You think there's nothing you can do?
+Don't be ridiculous! What about the barrier you set up here at Sun Avenue?
+Without that, this city would've been taken over by enemies ages ago. It must
+take a huge amount of energy to maintain that barrier. Who else but you could
+provide that amount of energy? Who else besides the legendary Witch's
+Apprentice, eh?"
+
+Zazie: "Yer mean... only I can do it? Yer right. There is stuff I can do, that
+I must do... The Sun Avenue barrier... That's me job -- To protect that, and
+the city folk... and the young Solar Tree. And I'm the only one who can do it!
+Even if it's rainin' cat 'n' dogs, a sunflower holds its head up high! And to
+think it was me who told Django that... This is no time to be down!"
+
+Sabata: "Oh goodness... You do not have what it takes to live up to the name
+Sunflower Girl."
+
+Zazie: "Hrmph! Don't call me by the old hag's name! I got my own name, and it's
+Zazie! I can't do everything the old hag could, but I'm doin' me best, so it's
+fine!"
+
+Sabata: "Haa... Haa, haa, haa, haa, haa!!"
+
+Zazie: "Nya, ha hah!"
+
+Sabata: "Hey, Sunflower! I can see your tonsils!"
+
+Zazie: "Huh?!"
+
+<Sabata leaves>
+
+Zazie: "Aaaaaaah!"
+
+===============================================================================
+Mall
+===============================================================================
+
+[Talk to Cheyenne who is outside the Weapons Shop]
+
+Cheyenne: "Ah, looks like you're fine now, Django. Well, the shop's all ready.
+I don't have much stock yet, but Smith and I plan to work together and gather
+new weapons as well. Use them to win your battles!"
+
+[Talk to Cheyenne inside the shop]
+
+Cheyenne: "Django, I've got something I want to give you. You should be able to
+master it, now that the Sun is back with you."
+
+<Django learns Dash>
+
+Cheyenne: "And I've found out some things about those wedges. The Spiral Tower
+that stands on the Hill of Promises to the north if the city... I don't know
+what's in there, but the 4-Quarter Seal blocking the path... that used to be
+the purpose of the wedges. Four wedges complete the four quarters, sealing away
+four Immortals: The Black Dainn, the White Duneyrr, the Red Durathror, and the
+Blue Dvalinn... Of the four wedges, three have already been broken. The last
+one is in the depths of the Aqueduct in the southwest of the city. Fortunately
+a strong Tarot Seal holds the door to the Aqueduct tightly shut. The city's
+Guild Master set it up to protect the water supply from the Undeadening. Even
+an Immortal would have a lot of trouble breaking through it. Of all the
+Immortals that were released, you've already purified two. Just defeat the
+Black Dainn who's left, and you will preserve the 4-Quarter Seal. You must find
+Dainn, Django!"
+
+[Talk to Cheyenne again]
+
+Cheyenne: "Hi there, Django."
+
+[Use the shop]
+
+Cheyenne: "Hm. The weapons here are just run of the mill. If you want high
+quality weapons, try forging them at Smith's place. The quality could go up or
+down though, depending on how good you are."
+
+[Use the shop again]
+
+Cheyenne: "Hm. The price you'll get for weapons depends entirely on their
+quality. Any with SP will get you a nice tidy sum!"
+
+[Talk to Cheyenne again]
+
+Cheyenne: "Do you remember Lady? Normally she works at the Library, but that's
+just a cover... Her real job is running the underground operations in town as
+the Guild Master. And she's the Card Master too. You know the seal on the
+Aqueduct door that operates by Magic Cards and Tarot? She was supposed to come
+back to San Miguel with Smith and me, but I haven't seen her since..."
+
+[Talk to Cheyenne again]
+
+Cheyenne: "There are various ways to get yourself a weapon. The easiest is just
+to buy one at this shop, but sometimes monsters drop them as well."
+
+[Talk to Cheyenne again, and choose "Link Shop"]
+
+Cheyenne: "With Link Shopping, you can use the Game Boy AdvanceTM Game LinkTM
+cable to buy and sell weapons with your Solar Boy friends. The prices you pay
+and charge are entirely up to you. But remember, no matter how strong the
+weapon is, if it's higher than your current level, you won't be able to use it.
+Got it?"
+
+[Talk to Violet]
+
+Violet: "Poor Nero... Sabata found him for me, but he's hurt... Lita put a
+bandage on for me, so he'll be okay. He will, won't he? Sabata's much better
+now too..."
+
+<Nero wakes up and walks off>
+
+Violet: "Nero, you've got to rest!"
+
+[Talk to Violet]
+
+Violet: "..."
+
+[Talk to Violet again]
+
+Violet: "Bad Nero!! ...sniff..."
+
+[Talk to Smith]
+
+Smith: "You had me worried there for a while... But I tell ya, I'm sure glad
+you're back as Solar Boy again. It's Ringo we've gotta worry about now, eh.
+Losing his memory and all when he became a Vampire... But why would the Count
+have done that to his arch rival? Maybe it signifies his love and hatred. Or
+maybe... Anyway, I'm still worried about what's happened to Otenko as well.
+We've toppled the Darkness Tree, but it's still no time to relax..."
+
+[Talk to Smith again]
+
+Smith: "The power of the Lunar Child blood running through your body is what
+brought back Ringo's memory. But that power was abused by the Immortals, and
+the Lunar Child disappeared from this world... The last remaining two, Mani and
+Hel... Two sides of the moon, Affection and Lunacy, each inherited
+separately... Two tragic sisters, split as friend and foe... Mani... please
+help guide Ringo!"
+
+[Talk to Smith again]
+
+Smith: "Weapons have ranks according to their level. Weapons up to level 13 are
+C-rank, easy for beginners to use, but not much power. Weapons up to level 29
+are B-rank. Special effects come into play at this rank. But giving a weapon a
+special effect is all down to your SOLARSMITH, see."
+
+[Talk to Kid]
+
+Kid: "I can't believe you were a Vampire, man... But if your cash is still
+comin' my way for items, dude, I'm cool with that. We live in a craaazy world!
+We can't worry about all the little details, man. We just gotta chill."
+
+[Talk to Kid again]
+
+Kid: "Hey, dude! Has it ever been Game Over for you? When you get beat in the
+middle of an adventure, part with some SOLL and pay to the order of Dark Loans,
+and you can continue from the start of the area you were beaten in."
+
+[Use the Item shop]
+
+Lita: "Thank you! Keep your strength up, Master Django! Let's get through
+another day!"
+
+[Talk to Lita]
+
+Lita: "I'm so glad you're okay, Master Django... Zazie called us. She told us
+to talk to you so the Darkness wouldn't take your soul... Could you hear our
+voices?"
+
+[Talk to Lita again]
+
+Lita: "Do you know...? If you're poisoned or confused, you'll get better
+naturally in time. Other kinds of abnormal statuses like stomach aches will
+heal themselves too. But the Curse of Kaamos never goes away on its own. There
+are two ways to lift it. You can either bathe in plenty of sunlight, or use a
+Drop of Sun. When the Solar Tree fully matures, you could use morning dew as
+well..."
+
+[Talk to the Coffin Shopkeeper]
+
+Coffin Shopkeeper: "You've come at a great time... I got my hand on a new
+coffin for ya! Be sure to take a look! It's a Coffin of Darkness. I got it off
+the black market. It's a bit hard to handle but if you master it, the results
+are spectacular!"
+
+===============================================================================
+House of Time                                                            [HOFT]
+===============================================================================
+
+???: "Who are you...? This is the House of Time... a distorted time space where
+past and present collapse. If you don't watch your step, you could get lost in
+time..."
+
+[After Django blows up a wall]
+
+???: ! ! "Who's there?! Hm? A boy? Who are you...?!"
+
+Django: ...
+
+???: "Hmm... Solar Boy fighting the Forces of Darkness, eh...? My name is...
+...oh, it's no good! I just can't remember a thing. Seems like I've gone and
+lost my memory somehow. What was I doing trapped between these walls in a room
+with no exit? How on earth did I manage to get in here in the first place?!"
+
+Django: ...
+
+??? : "You're right... What's the point in hanging around here? I'll go to Sun
+Avenue like you said. Hey, there's no need to worry. I have my own skills to
+get me through safely. Yeah, my own skills... Not that I can remember what they
+are. You take care, too, Solar Boy!"
+
+[After falling in a trapdoor]
+
+???: "Who is it...?!"
+
+Django: !
+
+Ghost Boy: "You did well not to get lost in this time warp. Maybe you could
+help... You might be able to find my Pa for me. Please!! Bring my Pa back!!"
+
+*<Choose "Don't want to">
+*
+*Ghost Boy: "Awww...! I'll give you a reward! Please!! Bring my Pa back!!"
+*
+*<Forced to choose again>
+
+*<Choose "Okay">
+*
+*Ghost Boy: "Thank you!! Pa got taken away by these Ghosts. I don't know where
+*they've taken him to, but... He's in the house somewhere. The key we used to
+*use for the house is over there. You should take it with you. And remember
+*that me, Pa, and the Ghosts are all in the present, okay? Make sure you don't
+*get confused between the present and the past."
+
+[Talk to Ghost Boy]
+
+Ghost Boy: "Pa should be in the house in the present... I wonder if he's
+okay...?"
+
+[Talk to Ghost Boy again]
+
+Ghost Boy: "The Ghost will probably try to get in your way. Better be really
+careful, all right?"
+
+[After defeating the skeletons]
+
+???: "Where am I...? What am I doing here...? Oh yes... The Ghosts whisked me
+away..."
+
+Django: ...
+
+???: "Ah! What about my son...?!"
+
+<Screen fades>
+
+Ghost Father: "Django, I really must thank you. I nearly fell in with some evil
+spirits back there. I never thought I'd see my son again... But the whole thing
+was my fault... It was fair punishment for the things I did when I was alive."
+
+Ghost Boy: "But you did those things to save me... And if the illness has
+spread, even more people would've gotten hurt. You didn't do anything wrong,
+Pa..."
+
+Ghost Father: "That may be so, but it's not right to sacrifice others, even if
+you're doing it to help someone. And in the end, nothing I did saved your
+life... I will go to the World of the Dead and accept the judgment of the
+Queen. That is the only thing I can do to try to atone for my sins..."
+
+Ghost Boy: "I'm coming with you! I can't let you suffer alone, Pa!"
+
+Ghost Father: "Giorgio..."
+
+Ghost Boy: "Well, we'll be going now, Django... Thanks so much for saving Pa
+for me!"
+
+===============================================================================
+Aqueduct                                                                 [TROT]
+===============================================================================
+
+Django: !
+
+Ringo: "Django?! So you defeated Durathror... And you got back the power of the
+Sun without losing the power of Darkness... ...I'm impressed you found this
+place. Dainn is behind here... I was just a step behind, but he got away
+through this door. I'm sure that behind here we'll find the Wedge Seal. If it's
+broken, yet another Immortal will be brought back to life. We must defeat Dainn
+before he can do that. But first we've got to do something about this tarot
+Seal..."
+
+Django: ...
+
+Ringo: "No ordinary Immortal could break this seal. But he's the Shadow
+Immortal. Apparently he can slip through gaps that are too tiny to see... To
+undo the Tarot Seal, we need the cards of the 3 Sages. I can't leave this
+place. I need you to go and find the cards, Django! Here, take this! I think it
+might come in handy when you're hunting them down."
+
+<Django retrieves the Solar Gun Lens, Earth, learns ENCHANTMENT EARTH>
+
+[Talk to Ringo]
+
+Ringo: "Black Dainn is behind this door. To preserve the Wedge Seal we must
+unlock this Tarot Seal... So it's essential we get hold of the 3 Sage cards!"
+
+[Talk to Ringo again]
+
+Ringo: "Listen, Django! I don't know who or what put this seal in place, but
+the cards of the 3 Sages must be somewhere here in San Miguel. I'm sure of it.
+Otherwise they wouldn't be used as the key. If I only knew how to do some star
+reading..."
+
+===============================================================================
+Dark City
+===============================================================================
+
+[After getting the Tarot card]
+
+???: "I wondered who it was... And it's you, young Django! Getting past all my
+traps, guess it's no surprise seeing you made it alive from the City of Death.
+Do you remember me? It's me, Lady! The Librarian!"
+
+*<Choose "Don't know you">
+*
+*Lady: "Really?! What a pity..."
+
+*<Choose "I remember">
+*
+*Lady: "You're a good kid!"
+
+Lady: "By the way, what are you planning to do with that card? It's very
+important because it protects the city's water supply... You know I can't just
+let you take it away, even if you are Solar Boy."
+
+Django: ...
+
+Lady: "Getting past the Tarot Seal... No one could manage that, not even an
+Immortal... I suppose it's okay. I'll trust you. But just make sure you defeat
+that Immortal, okay? It seems that Lita managed to revive the Solar Tree, so
+there shouldn't be any problem with the water supply. But I'm a bit worried
+about what Cheyenne said. People seem to be gathering on Sun Avenue, so maybe
+I'd better return soon, too. There might be some Request Sheets that need to be
+taken care of... See you again, then! I'll leave that Immortal to you!"
+
+===============================================================================
+Mall
+===============================================================================
+
+[Zazie is in the Inn, awake]
+
+Zazie: "The cards of the 3 Sages? I didn't know yer were interested in Tarot
+cards! Huh? Yer trying to break the seal? Oh, the Tarot Seal... Didn't know
+anyone here could do that kind o' stuff. Out o' the 21 cards, 18 are used for
+the Tarot Seal. The other 3 cards are the key for unlockin' the seal. Them 3
+cards are the Sages, awright. The Magician, the Hierophant and the Hermit.
+Awright, then. Now I'll find out where they are using me star reading'!"
+
+<Screen fades>
+
+Zazie: "The Magician card is... in a holy place, on the opposite side of a
+lotus leaf. Guess a holy place's gotta be the Cathedral. And speaking of a
+lotus leaf... Maybe that Sun Magic might come in useful, eh?"
+
+[Talk to Zazie again]
+
+Zazie: "The Hierophant card is... in a place of thirst, behind a sealed wall.
+Guess a place of thirst means them Remains in the desert. And speaking of a
+sealed wall... Maybe that Sun Magic might come in useful, eh?"
+
+[Talk to Zazie again]
+
+Zazie: "The Hermit card is... in a dark place, inside a house guarded by
+special properties. Guess a dark place'd be that Dark City. And speaking of
+them properties... Maybe that Enchantment Magic might come in useful, eh?"
+
+[Talk to Zazie after collecting all three cards]
+
+Zazie: "Looks like yer've got all them 3 Sages, eh. See, me star readin's right
+on! Which means... the dark cloud that was getting' in the way o' the stars
+is..."
+
+[Talk to ???]
+
+???: "Hey, boy!! How's it going'? Huh? Me? My memory's still not comin' back,
+but... Hey, what can you do? I'll be fine. I've even set up shop. I'm sellin'
+the weapons and items I've picked up for 200 SOLL a peice. I sell 'em in
+Blindboxes though, so ya can't see what you're buyin'. To be honest, I've yet
+to sell one... So how 'bout it? Ya wanna buy one?"
+
+[Talk to ??? again]
+
+???: "Level 1 Blindboxes cost 200 SOLL each. Whaddya say?"
+
+<Buy a Blindbox>
+
+???: "Wonder what it'll be?!"
+
+[Talk to ??? after buying a Blindbox]
+
+???: "Boy, don't forget to get yourself a Blindbox before you go, eh?"
+
+[Talk to ??? again]
+
+???: "Listen to this, boy... Some undead monsters, like Ghouls and Mummies, and
+some Phantom monsters, like Klorofolun and Ghosts, are weak to the Sun's rays.
+This means you can inflict damage on them with rays from Skylights. But you'll
+have to be careful in the night when there's no Sun because monsters that
+usually lurk indoors go on the prowl outdoors after dark."
+
+[Talk to ??? again]
+
+???: "By the way, boy, have you ever seen one of those monsters colored all
+over in red? Those are Crimson Monsters. They've been completely Undeadened.
+Dark Matter gets stronger from negative feelings like anger and hatred. The
+resentment of defeated monsters awakens these Crimson Monsters. They're a
+formidable foe. Don't take them lightly."
+
+[Talk to Lady without having done any Request Sheets]
+
+Lady: "Welcome, young Django! Books can teach you many things. They should help
+you on your adventure, so read as many as you like. Oh, also... my Guild work
+is really piling up at the moment. Would you mind helping me out a bit? There
+are Request Sheets on the left and right shelves. Could you have a go at doing
+some of them?"
+
+[Talk to Lady with having done some Request Sheets]
+
+Lady: "Welcome, young Django! Books can teach you many things. They should help
+you on your adventure, so read as many as you like. One more thing... It looks
+like you helped out on my Guild work while I wasn't around. I was wondering if
+I could count on you for more help? I'd be sure to reward you for it."
+
+[Talk to Lady again]
+
+Lady: "How are things?"
+
+["Discuss work" with Lady]
+
+Lady: "Weren't there any requests that you fancied? If you change your mind,
+have a go any time!"
+
+["Chat" with Lady]
+
+Lady: "Hmm, actually... wasn't your house behind 6th Avenue, Django? That area
+was completely ransacked, wasn't it..."
+
+["Chat" with Lady again]
+
+Lady: "You get Ex Points by defeating enemy monsters. But if they're killed by
+a Skylight or a Dungeon trap, or by another monster, you won't get any points.
+Better remember that!"
+
+["Chat" with Lady again]
+
+Lady: "You know... there are monsters roaming about in the Forest at the end of
+10th Avenue. It used to be such a peaceful forest, but now it's full of the
+Dead..."
+
+["Chat" with Lady again]
+
+Lady: "Apparently... the Catacomb under 10th Avenue has been contaminated by
+the Undeadening. I hope all those monsters don't start surfacing above
+ground..."
+
+["Chat" with Lady again]
+
+Lady: "Did you know... the big mansion at the end of 2nd Avenue is like Dark
+City, just an uninhabited ruin. But now somehow monsters have intruded. I
+wonder what's in there...?"
+
+["Chat" with Lady again]
+
+Lady: "Actually... have you taken a look at the Treasury on 8th Avenue? It's
+been made into a kind of puzzle. If you like that kind of thing, why don't you
+have a go? It's quite tricky!"
+
+["Chat" with Lady again]
+
+Lady: "I was thinking... don't the iron bars on 12th Avenue bother you? What on
+earth could be behind them...?"
+
+["Chat" with Lady again]
+
+Lady: "I've been wondering... when do you think the mystery door on 6th Avenue
+will open?"
+
+[Talk to Lady and choose "Gift"]
+
+Lady: "A gift exchange is when you swap the Battle Points you collect in link
+battles for Magic Cards. But which card you get depends on your fate... And if
+you bag is full, you won't be able to make the exchange, so watch out! Have a
+go, and see if you can get some good cards!"
+
+[Before taking on a request]
+
+Lady: "Well, good luck then, Django! <music note>"
+
+[If you fail a request]
+
+Lady: "Are you all right, Django? Maybe you weren't quite ready... Don't push
+yourself too hard, okay?!"
+
+[If you succeed in your request]
+
+Lady: "Django! You did it! This is your reward. Please take it! <music note>"
+
+[If you didn't pick up your reward and try to accept another request]
+
+Lady: "First get your reward for last time, okay?"
+
+[Talk to Cheyenne]
+
+Cheyenne: "I see you've already met Lady. Watch out for her. Normally she works
+at the Library, but that's just a cover... Her real job is running the
+underground operations in town as the Guild Master. Don't do any rash work for
+her that you might end up regretting."
+
+===============================================================================
+Aqueduct                                                                 [AQDU]
+===============================================================================
+
+[Talk to Ringo after finding a card]
+
+Ringo: "We still need two cards... There's not much time! Hurry, Django!"
+
+[Talk to Ringo after finding two cards]
+
+Ringo: "We still need one card... Almost there, Django!"
+
+[Talk to Ringo after finding all three cards]
+
+Ringo: "Great work, Django! You've got all 3 Sage cards... Right! Now use them
+to unlock the Tarot Seal!"
+
+<Django goes to unlock the Tarot Seal>
+
+???: "Wait, Django! That's not Father!"
+
+Django: !
+
+<Sabata enters the Aqueduct>
+
+Ringo: "Too late!"
+
+<Ringo unlocks the Tarot Seal, knocks Django aside>
+
+Sabata: "I won't let you pass!"
+
+<Sabata shoots at Ringo>
+
+Ringo's Voice: "Thank you, Django! Now I can finally reach the last wedge! It's
+not much, but I prepared a little thank-you gift. Ha, ha, ha...!!"
+
+Sabata: "No...!"
+
+[In the Immortal room]
+
+Ringo: "You're too late, Django! You'll never catch me like that! Ha, ha,
+ha...!!"
+
+Sabata: "Stop this pretense and show your true form... ...Black Dainn!"
+
+Ringo: "My true form? What is one's true form? It's nothing more than an
+illusion... People just play the part of the person that suits them at the
+time, wagging their tails at those they like, and shaking their heads at those
+they don't. Just like switching between the Sun and Darkness... Isn't that so,
+Django? I am a shadow. I have no true form. That's why I've borrowed a body for
+myself from someone else!"
+
+<Dainn screams>
+
+Sabata, Django: !
+
+Black Dainn: "The Immortals' old rival, your Father, Red Ringo... Actually, I'm
+getting quite used to being his Vampire-turned body! Ha, ha, ha...!!"
+
+Sabata: "...You twisted being!"
+
+Black Dainn: "Never expected such harsh words, especially from you. How could
+you, with your dark blood, betray the Will of the Galaxy Universe now?"
+
+Sabata: "Betray? Hrmph! Even if my body is infested with all this Dark Matter,
+I'm not part of some group! And I don't take orders from anyone! Even from the
+Galaxy Universe, Dark!!"
+
+Black Dainn: "I will see to it that Dark's will is obeyed... Neither of your
+inherited bloodlines are any use! You inadequate Dark One! I have no use for
+you anymore!"
+
+Sabata: "Inadequate...? What's wrong with that...? I used to seek completeness.
+Complete power... But it's because people aren't complete that they keep
+striving for more! Being able to wish for things... the power to dream... Being
+incomplete gives them potential for the future! They have hope! You don't even
+have a self! You could never understand."
+
+Black Dainn: "Believe me, there is no hope for you... What will come out of
+betraying the Will of the Galaxy Universe? Do you think you stand a chance?"
+
+Sabata: "Hrmph...! Against Dark, the Will of the Galaxy Universe, the origin of
+all life. Of course... Right from the start, I don't stand a chance. All the
+starts, all life... Everything is enveloped with eternal death. People die...
+But me... I don't care about all that. It's all about how I live. Resisting and
+fighting to the end. That's what it means to me... to live!"
+
+Black Dainn: "Then you will die fighting... Django, I still have many things I
+want to talk to you about. But now is not the time. ...The fourth one is awake.
+With this body, I can get into that tower... I'll leave Dvalinn to deal with
+you two. I have no more use for this thing either... Here, take it back."
+
+<Black Dainn brings out Nero>
+
+Django: (Nero...!)
+
+<Black Dainn throws Nero, Django catches the cat>
+
+<A tentacle comes up from the water>
+
+Sabata, Django: !
+
+<Django is dragged underwater, Sataba picks up Nero>
+
+Black Dainn: "Ha, ha, ha...!!"
+
+[Underwater]
+
+Blue-silhouette Woman: "So Sabata got away from me... Never mind. If it's just
+him, my brother can take care of him. We can have our own bit of fun here,
+can't we? After all you did for -- or should I say, did to -- my underlings...
+I am Blue Dvalinn, the Sea-ruling Immortal!"
+
+Sabata's Voice: "Stay strong, Django! You take care of her! I'm going after
+Dainn!"
+
+[Blue Dvalinn pops up from the water]
+
+Django: !
+
+===============================================================================
+Plaza                                                                    [BDVP]
+===============================================================================
+
+[After starting the Pile Driver]
+
+Django: "Taiyooooooooooh!"
+
+[After purifying Blue Dvalinn]
+
+Blue Dvalinn: "Urgh... urrrgh... So sad... for it to end like this... But my
+end... will soon unleash the Doomsday Beast! Now I must leave the rest to
+you... b... brotherrrrrrr!"
+
+[Zazie appears]
+
+Zazie: "Django! Yer got a message from Sabata... Come to the Spiral Tower right
+away! It's north o' Sun Avenue, on that Hill o' Promises at the end o' 12th
+Avenue, 'kay? The 4-Quarter Seal that blocked the path up to the tower's been
+broken... Reckon yer've got to be careful, 'kay? That tower's off-limits even
+for Immortals. I don't have a good feelin' about all this... And yer've got to
+save yer Father, Ringo, too. Not that I should be tellin' yer to save yer own
+Father... But it was me Mistress -- the old hag's -- last wish..."
+
+===============================================================================
+Mall
+===============================================================================
+
+Zazie: "Yer know... there's more about the old hag's star readin' I was tellin'
+yer about."
+
+The Star Reading: Once Sun and Moon retreat into darkness, grand twilight
+descends on the wedge-binding City of the Sun. A deep shadow is then born in
+its wake. The beginning of the end. The shadow plunges the infant sun into
+darkness, depriving the new moon of its shimmering light. And so awakens the
+Doomsday Beast. The world of the living, amidst chaos, shall sink into the
+world of the dead.
+
+Zazie: "Sun and Moon, right, I reckon that might be Ringo and Mani, eh... And a
+deep shadow... That could be that Black Dainn who captured Ringo. The two of
+'em passed away, and Dainn came back... And that bit about the infant Sun being
+plunged into Darkness... If that signifies you, when you became a Vampire, then
+half of it's like the star readin' said. But that don't mean everythin' is! The
+path to the tower's open now, but the Doomsday Beast's not awake yet! It's not
+too late for Ringo... There's still time! Whatever happens, yer've gotta stop
+Dainn, Django!"
+
+Zazie: "Wanna hear about the old hag's star readin' again?"
+
+*<Choose "Yes" to hear it again>
+
+*<Choose "No">
+*
+*Zazie: "Star readin' the future's not just about foretellin'. The instant them
+*stars are read, yer grab the potential to guide a different future. That's
+*what star readin' is all about, right? Graspin' future possibilities!"
+
+*<Choose "No" again>
+*
+*Zazie: "The old hag never said nothin', but... I reckon she really liked Ringo
+*a lot..."
+
+[Talk to Cheyenne]
+
+Cheyenne: "...So was everything I've done too late? I am the one who stands
+atop my three sacrificed brothers... But what have I accomplished? Have I been
+traveling the right path all this time...? What is there that I can do right
+now...?"
+
+[Talk to Cheyenne again]
+
+Cheyenne: "Enemy monsters all have different properties. Of course, an
+Enchanted attack with that monster's property won't do much, but if you Enchant
+an attack with the opposite property, an enemy weakpoint property, you can
+deliver several times more damage than usual."
+
+[Talk to Violet]
+
+Violet: "Nero... He'll be okay, right?"
+
+*<Choose "Probably not">
+*
+*Violet: "Sniff... ...Nero..."
+
+*<Choose "Yes">
+*
+*Violet: "Hmm... ...Nero... Nero belongs with me. And I became like his mum...
+*But I haven't been such a good mum..."
+
+[Talk to Smith]
+
+Smith: "So Ringo... has been reduced to a Vampire, and had his body stolen from
+him. Has his soul already sunk into Darkness...? What am I talkin' about?! I
+should know how stubborn that guy is! He's not the type to fold under somethin'
+like this! Django... you've gotta help Ringo. Save his soul!"
+
+[Talk to Smith again]
+
+Smith: "The Sun will rise tomorrow! That was Ringo's catchphrase... Django!
+Believe in Ringo! Believe in your Father!"
+
+[Talk to Smith again]
+
+Smith: "Weapons have ranks according to their level. Weapons up to level 45 are
+A-rank, not even sold at the Weapon Shop. They're designed for pros! The only
+way you can get them is by Solar-forging."
+
+[Talk to Kid]
+
+Kid: "The recovery items I've got at my store, man... They're not as effective
+as fruit or meat, but they don't go bad in sunlight. Dude, you'd better get
+some of them just in case, eh?"
+
+[Talk to Kid again]
+
+Kid: "Chocolate doesn't go bad, but it's no good in heat. That stuff's gonna
+melt if it gets too much Sun, man. Still, melted chocolate tastes good too,
+right?"
+
+[Talk to Lita]
+
+Lita: "Master Django... I can't believe Ringo's body has been taken over by an
+Immortal... But Ringo's your Father, Master Django! Even if they take his body,
+I'm sure his heart won't be defeated by the Darkness! And also Master Otenko...
+You believe they're okay, don't you, Master Django?!"
+
+*<Choose: "I'm not sure">
+*
+*Lita: "Master Django...! Brighten up your spirits! Keep the Sun always in your
+*heart!"
+
+*<Choose "Yes">
+*
+*Lita: "That's the Master Django I know! Keep the Sun always in your heart!"
+
+[Talk to Lita again]
+
+Lita: "Master Django, have you noticed a crystal-like thing appear out of the
+floor when you're fighting? That's a Solar Bamboo Shoot. They're clumps of
+energy that's stored in the ground. All kinds of Spirit Bugs are hidden in
+Solar Bamboo Shoots. There are Solar Bugs that store solar energy, Darkness
+Bugs that store Dark Matter, and Moon Bugs that can restore your life energy.
+Spirit Bugs of the same property as yourself can restore your energy, but ones
+of the opposite nature can suck energy away, so careful of that!"
+
+[Talk to Lita]
+
+Lita: "Solar Fruit grows in the sunlight. If there's a good dose of sunlight
+one day, the following day will bring a big harvest of fruit, so I'll be able
+to give you a discount. Up to 40% off! Keep the Sun always in your heart!
+That's the spirit!"
+
+===============================================================================
+The Hill of Promises                                                     [SPTO]
+===============================================================================
+
+Sabata: "Looks like you managed to deal with the Immortal. He is in the
+tower... This Spiral Tower's made of two towers, the Solar Tower and the Dark
+Tower. There are two security locks in the two towers. And there are two keys
+for the locks: the power of the sun and the power of darkness. The solar energy
+from the sun's rays, and the Dark Matter from the Darkness. Without either of
+them, you can't get to the top of the tower. That's why Dainn was after your
+body and your father's as well. Not mine. I've already lost the power of the
+sun... What on earth could be so important that it'd bring a Solar Child and a
+Dark Child together to protect it, when they'd normally be enemies? Whatever it
+is, we can't just let that Immortal do anything he wants with it! Django, let's
+go after him! Up the tower!"
+
+[Talk to Sabata]
+
+Sabata: "You ready?"
+
+*<Choose "Not yet">
+*
+*Sabata: "Time's running out! Get ready quickly!"
+
+*<Choose "yeah" to go and open the doors>
+*
+*Sabata: "Right! First I'll use Dark Charge and open the dark door. Once that's
+*open, you follow with Solar Charge and open the solar door quickly. Okay?!
+*Let's do it!"
+
+[If you fail to Dark Charge]
+
+Sabata: "There's no time! For Dark Charge, hide the solar sensor from sunlight
+and hold down on the A Button!"
+
+[If you fail to Solar Charge]
+
+Sabata: "What are you doing?! For Solar Charge, expose the solar sensor to
+sunlight and hold down on the A Button!"
+
+[Once the doors are open]
+
+Sabata: "Ready, Django? If we don't conquer both the Solar and the Dark parts
+of this tower at the same time, we can't get to the very top. I'll take the
+Dark Tower. Your job's to conquer the Solar Tower. Don't let me down!"
+
+[Try to enter the Dark Tower]
+
+Sabata: "Django! What are you doing?! Hurry up and climb the Solar Tower!"
+
+===============================================================================
+Spiral Tower
+===============================================================================
+
+[If Sabata reaches the top first]
+
+Sabata: "This is the top... but... ...it looks like a dead end! Ah, no... There
+are two weight switches! Guess I've got to wait for Django, then."
+
+[After Sabata and Django press the switches]
+
+Sabata: "Django, Dainn is probably waiting beyond here. This time we've got to
+settle things. But first I need to tell you something. Dainn's taken over
+Father's body, but what happened to his soul...? Maybe it's already sunk into
+Darkness? Or maybe it's still struggling internally? Either way, Dainn's not
+the kind of enemy you can afford to go easy on. Got it? We're going all-out! No
+holding back! Don't be confused and think you can help Father out!"
+
+Django: ...
+
+Sabata: "Let's do it!"
+
+[In the Immortal room]
+
+Black Dainn: "So it seems Dvalinn could only slow you down... Still, she
+fulfilled her duty well enough. As we speak, the binding spear is about to be
+drawn out."
+
+<The tower shakes>
+
+Black Dainn: "Heh, heh, heh... Now my destiny as the true Dark Child is
+fulfilled! Ha, ha, ha...!!"
+
+Sabata: "You... What have you done?!"
+
+Black Dainn: "So you really don't know? It seems I was right to seal away
+Otenko. San Miguel, the City of the Sun, is no ordinary city. Underneath it
+lies the ancient Sol City... One of the heavenly cities created by the late Sun
+Kindred, the Solar Children, fell to the ground. Of course, there was a reason
+for that."
+
+Sabata: "The seal..."
+
+Black Dainn: "Very perceptive! Yes, Sol City was brought down to the ground in
+order to seal something away... This something was the Doomsday Beast...
+Jormungandr! The Ancestor Piece even Immortals fear..."
+
+Sabata: "Ancestor Piece?"
+
+Black Dainn: "When the Count attacked this city... it was all part of my plan.
+He was sent to spy on Hel, but then fell in love with her. We didn't expect him
+to break away from us. Someone like Hel becoming Queen... what a bad joke!"
+
+Sabata: ... "You said the binding spear? You mean this tower is..."
+
+Black Dainn: "Exactly! A giant spear guarded by the four wedges and three
+bloodlines. The tower is the seal that bind Jormungandr in place. That's what
+this Spiral Tower is! Heh, heh, heh..."
+
+Sabata: "Hrmph! If this tower's a binding spear, then we can just thrust it
+back in again! It hasn't been withdrawn all the way yet!"
+
+Black Dainn: "True, it's not too late. Django, I'll ask you once... Join us!
+Become our Dark Sun! The world is in the midst of its Doomsday Reincarnation,
+the recurring cycle of life and death. The unforgiven... hurting others,
+hurting themselves, hurting the whole world... That pain hurts the stars, the
+solar system, and the very Galaxy Universe itself. Someone has to stop it. Only
+the Immortals of the Forces of Darkness can do that... If people reject the
+eternity of becoming the Undead, they must be sent back to their ancestral
+origin with or without the dawn of Doomsday... Surely you must understand?
+Django! Together, let us free this world from the hands of the unforgiven!"
+
+*<Choose "Join Black Dainn">
+*
+*<Django screams>
+*
+*Sabata: "Don't be crazy! Django..."
+*
+*Black Dainn: "Ha, ha, ha...!!"
+*
+*<Game credits roll>
+*
+*The Star Reading: Once Sun and Moon retreat into darkness, grand twilight
+*descends on the wedge-binding City of the Sun. A deep shadow is then born in
+*its wake. The beginning of the end. The shadow plunges the infant sun into
+*darkness, depriving the new moon of its shimmering light. And so awakens the
+*Doomsday Beast. The world of the living, amidst chaos, shall sink into the
+*world of the dead.
+*
+*<Boktai 2 End>
+
+*<Choose "Refuse!!">
+*
+*Sabata: "That was a waste of time! Now let's go, Django! Let's crush this guy
+*and get the tower seal back in place! That's probably what Father wants as
+*well!!"
+
+[Halfway through the battle, Dainn leaves Ringo's body]
+
+Black Dainn: "Tsch!... What a bothersome body! It's no use to me anymore!
+...Behold! The power of the true Dark Child! The power of my shadow that even
+casts all stars into darkness!"
+
+[After you defeat Black Dainn, he goes back into Ringo's body]
+
+Black Dainn: "I... But I am the true Dark Child... How can this be?"
+
+Sabata: "You still don't know? You're just like me... Just a piece of nothing
+being used by Dark!"
+
+Black Dainn: "No... Can't be... Ringo's soul... It should have sunk completely
+into Darkness... But..."
+
+Django: "The Sun will rise tomorrow... Even if the Sun sets... it always rises
+again!"
+
+[After Dainn is sealed into the coffin]
+
+Sabata: "So the tower, the binding spear, is back to normal. But... what about
+the Doomsday Beast? We've got to make sure. Django, you purify this guy. And...
+honor Father with a ceremony, please."
+
+===============================================================================
+Plaza                                                                    [BDPU]
+===============================================================================
+
+[After starting the Pile Driver]
+
+Django: "Taiyooooooooooh!"
+
+[After purifying Black Dainn]
+
+Black Dainn: "Urrrgh... Ringo...! You're trying to leave me...?! You'd throw
+away your future?!"
+
+Ringo: "I'm not throwing it away... I'm passing it on! I'm already dead. But
+even so, my blood and soul will live on in my sons! That's what it means... to
+live!"
+
+<Nero walks into the Plaza>
+
+Black Dainn: "Noooooo! I shall not disappear! I shall not be shut away in this
+body! Help me, Django... Join me... as one!"
+
+Django: "I'm going to live... That's true, isn't it... Father?"
+
+Ringo: "Yes, exactly! Even if my body were to disappear... the Sun will rise
+tomorrow! People grow and evolve. That's by no means the path to extinction!
+Live, Django! Otenko... look after my sons!"
+
+Black Dainn: "Stop this! ...Ringo!!"
+
+Ringo: Taiyoh!
+
+Django: (Goodbye, Father...)
+
+<Zazie runs into the Plaza>
+
+Zazie: "Django, that was... ...Ringo..."
+
+Django: ...
+
+Zazie: "The Ancestor Piece, Jormungandr... So that was the true form of the
+Doomsday Beast... It's called an ancestor 'cause it's the mother of all
+existence. The seeds of all kinds o' being come from that one seed, y'see. The
+seeds grow, bear children, and go on evolving, while transcending all time and
+age. That's the reincarnation cycle of life and death. But them Immortals are
+like seeds of anti-being, puttin' a stop to life and death... The Forces of
+Darkness, playin' out eternity in a vacuum of time. But the Ancestor Piece
+ain't a seed o' being or a seed o' anti-being. It can't be granted life or
+death. It just exists. Eternity... The absolute existence even the Immortals
+fear. Yer can't kill somethin' that can never die. That's why it's sealed away.
+It really is a Doomsday Beast, eh? If that kinda creature woke up, it'd really
+be the end o' the world for sure. To think that was the Will of the Galaxy
+Universe..."
+
+<The ground shakes>
+
+Zazie, Django: !
+
+Zazie: "Is this... Jormungandr?! If it is...? Oh no! If only Master Otenko were
+here for times like this!"
+
+Nero: meow
+
+Zazie: "Wait... Can't be!?"
+
+???: "Yes, that black cat is Otenko."
+
+Zazie, Django: !
+
+<Sabata appears>
+
+Sabata: "Dainn's old body, and now the vessel that holds Otenko's soul. --
+That's Nero."
+
+<The ground shakes again>
+
+Sabata: "The Doomsday Beast may soon awaken. At the moment, his body is
+ensnared by the Spiral Tower... but that'll change once Jormungandr wakes up...
+And we can't get to him because the door that leads underground is still
+sealed. It's protected by a third power following the Sun and Darkness..."
+
+Zazie: "The power of the Moon, the power of the Lunar Child, right?"
+
+Sabata: "Exactly. I don't have that power in me now... But I do know how to
+summon Otenko's soul sealed inside Nero. I once sealed Otenko into my own very
+soul, so I know. Now that Nero's recovered his strength, he should be up to the
+separation... Here it goes!"
+
+Master Otenko: "Ah! At last... I'm back to my true form...! Thank you, Sabata!"
+
+Sabata: "Hrmph! I didn't do it for you. Just didn't want to lose the battle
+without even putting up a fight."
+
+Master Otenko: "Hm. I see I don't need to ask whether you're okay, with that
+kind of comment!"
+
+Zazie: "Master Otenko, What about Jormungandr's seal?!"
+
+Master Otenko: "It's okay. I understand the situation. Although I was sealed
+away, I could still share consciousness with Nero."
+
+Sabata: "So, you know what to do?"
+
+Master Otenko: "The method is simple. Strike Jormungandr's head, deep below the
+Spiral Tower, and reposition the seal at the same time."
+
+Sabata: "But the door leading underground!!"
+
+Master Otenko: "Sabata, that problem has already been solved."
+
+Sabata, Zazie, Django: ?
+
+<The screen fades>
+
+Master Otenko: "...So, even though he'd become a Vampire, he chose to meet his
+end as a human. Hm... He was definitely one that defied death. Farewell, Ringo!
+The ultimate Vampire Hunter! My greatest friend! Your blood and soul... lives
+on in your sons...!"
+
+<The ground shakes>
+
+Master Otenko: "Django... Come to the Spiral Tower as soon as you're ready.
+This isn't a battle just for San Miguel. The fate of the entire world rests on
+it. Make sure that you don't have any regrets, all right? May the Sun be with
+you!"
+
+===============================================================================
+Plaza
+===============================================================================
+
+[Talk to Zazie]
+
+Zazie: "What's up, Django? Getiin' cold feet? Of course yer nervous... Yer
+facin' the Doomsday Beast! But yer not alone, awright! Yer got me and old Smith
+o' course, and all these folk who've gathered in Sun Avenue to cheer yer on,
+too. Everyone's gonna give their support for sealin' away that Jormungandr. All
+'cause of what yer've done up to now. Yer've touched everyone's hearts. Yer can
+do it! Everyone believes in yer!"
+
+[Talk to Zazie again]
+
+Zazie: "As it turns out, all this is just like what the old hag's star readin'
+said... But it can't just end like this. If it did, there'd be no point in the
+old hag bringin' me to this city. I reckon I'm here to change the future.
+That's right, ain't it, Django?!"
+
+[Talk to Zazie again]
+
+Zazie: "Eh, Django... Who's Carmilla? ...Oh, no! I should never have brought it
+up! It's a bad habit of star readin', wanting to know about other people's
+pasts. Still... I'm sure I've heard that name Carmilla before. Yeah, the Cryin'
+Witch. She was feared and killed for her amazin' power. Magical powers... It's
+not like she even wanted to have 'em..."
+
+[Talk to Lady]
+
+Lady: "Jormungandr, the Doomsday Beast... We can't afford to let something like
+that awaken again. Now listen, Django. I know I've told you before, but... I
+believe in you. And so does everyone else in this city. So... believe in us
+too, and strike Jormungandr right on the head, okay? Don't worry. I know you
+can do it!"
+
+["Chat" with Lady]
+
+Lady: "Are you using Magic cards? Magic cards and Tarot cards all harbor great
+strength. If you use them right, you can turn a tough jam into an opportunity,
+you know. But get it wrong, and an opportunity might become a tough jam. Take
+care!"
+
+["Chat" with Lady again]
+
+Lady: "Do you know about Skill? Skill is a barometer that measures how much you
+have mastered a weapon. By SOLARSMITH a weapon, or by using it to defeat enemy
+monsters, your Skill for that weapon-type will increase. The quality of the
+weapons you make by forging goes up with your Skill. And with gun-type weapons
+or your bare hands, the attack power increases with Skill. You can check your
+Skill level on the status menu on the menu screen."
+
+[Talk to Cheyenne]
+
+Cheyenne: "...The Wedge Seal has been broken, and the bond of the Spiral Tower
+is no more. Yet the Doomsday Beast... might still awaken. I couldn't fulfill my
+duty as a Guard... ...But even so, there's still hope. And that hope is you!
+There is no good to be gained from regretting the past. We must think what we
+can do now so that we can have hope for the future! There is still something we
+must fulfill! Right, Django?! We're going to make sure that Jormungandr is
+sealed away again!"
+
+[Talk to Cheyenne again]
+
+Cheyenne: "By attacking an enemy monster from behind, you can increase the
+damage you inflict. But it's not as powerful as an attack that's Enchanted with
+the monster's weakpoint property. Yes... weakpoint property and back attacks...
+I guess a combination of the two is the ultimate battle technique."
+
+[Talk to Cheyenne again]
+
+Cheyenne: "To find out a monster's weakpoint property, watch how it reacts hen
+it suffers an Enchanted attack... If attacked by its weakpoint property, black
+smoke will come out of its body."
+
+[Talk to ???]
+
+???: "Yes, the Doomsday Beast... So it seems the fate of the world has been
+placed in your hands, Solar Boy... You can't afford to lose, boy!"
+
+[Talk to ??? again]
+
+???: "This is the last battle. Prepare your weapons and protectors carefully.
+Don't forget about items either. You must think long and hard about what you'll
+need. If you find you're short of items, just pull out of the fight. Don't
+hesitate. As long as you're alive, you'll always have another shot at it."
+
+[Sabata has brought Nero back to Violet -- only if you don't go to the Undead
+Zone first]
+
+Sabata: "...It's nothing to worry about. A bit of rest and he'll be fine
+again."
+
+Violet: "Okay..."
+
+<Django enters the Warehouse>
+
+Violet: "Ah, there you are! Sabata's just helped Nero again!"
+
+Sabata: "Funny huh, Django? Gosh, I can't believe I'm helping out other people.
+Maybe Carmilla's preaching has affected me... ...But there's nothing wrong with
+that! Violet, I've got my own battles to fight now. I can't help Nero anymore."
+
+Violet: "..."
+
+Sabata: "But even if I'm not around, you can still help him. Right?"
+
+Violet: "...I guess... I'll... Yes! I'll be the one to look after Nero now!"
+
+Sabata: "That's right. That's your battle! Don't you give in, Violet!"
+
+Violet: "Yeah! I'll do my best! And you do your best too, Sabata!"
+
+Sabata: "Hrmph! That always goes without saying..."
+
+<Sabata leaves>
+
+[Talk to Violet]
+
+Violet: "Don't worry, Nero... I won't let anything happen to you from now on!"
+
+[Talk to Violet having found all Warehouse keys]
+
+Violet: "There are 3 Warehouse keys in all. Now you've found all of them!"
+
+[Talk to Smith]
+
+Smith: "You can leave the sealing up to us. We can't let Ringo steal all the
+glory! It'll be the first big job we've had in a while, and we're up for it!
+You go and give that Jormungandr the good whack on the head he needs!"
+
+[Talk to Smith with the Solar Gun back in your possession]
+
+Smith: "Huh? That thing you hold... Is that... the Solar Gun, Gun Del Sol!! So
+you finally managed to get it back, eh? It's not in good shape though. It's not
+gonna be much use like that. Let's see if I can fix it for you. They used to
+call me the Gun Master, see. Probably won't be as good as it was to start with,
+but I'll get it going again!"
+
+<Smith fixes the gun>
+
+Smith: "That should do it!"
+
+<Django receives the fixed Gun Del Sol>
+
+Smith: "It should be usable now, but you can't change lenses, I'm afraid. And
+the energy efficiency's dropped a bit. I have tried to make up for it though.
+By holding down on the B Button, you can amplify its power and shoot a high-
+energy charge. Give it a try."
+
+[Talk to Smith again]
+
+Smith: "Ringo... How could he pass on from the world and leave me behind, just
+an old man... What a stupid fool!"
+
+[Talk to Smith]
+
+Smith: "When you're Solar-forgin', the same combination of materials usually
+leads to the same type of weapon. But on top of that, depending on your luck
+and skill, you can make rare weapons. They're R-ranked weapons, see. Have you
+already got one, Django?"
+
+[Talk to Kid]
+
+Kid: "I heard what happened, man. Seems like you've got some serious stuff
+going on... I'm just a shopkeeper here at the item shop. It's not like I own
+it, dude. There's not much I can do to help ya, my man... But I know what
+you're up against. Even I can see how tough it's gonna be. So I was thinking...
+Maybe I could lend you a hand? Items are the way! We've gotta keep at it!
+That's what it's all about, man!"
+
+[Talk to Kid again]
+
+Kid: "Did you know? When chocolate melts, the item in the row below it gets
+chocolate-covered. But it'll go back to normal after you've used it once, man.
+So by getting the chocolate to melt, you can hold two items in one space, dude.
+Only thing is, you can't see what a chocolate-covered item is underneath until
+you've used it once, and the chocolate goes away. Guess it's not something for
+beginners, right dude?"
+
+[Talk to Kid again]
+
+Kid: "You can reduce damage if you equip a protector, but if you try and carry
+one that's too heavy it'll really slow ya down, man. You gotta pick a protector
+that's right for your Agility, okay?"
+
+[Talk to Lita]
+
+Lita: "Master Django! Please let me help you in sealing Jormungandr away! I
+can't ignore Ringo's dying wish! It's been a while, but... I'm ready to get
+serious now!"
+
+Django: (Lita getting serious... ...let me not imagine it.)
+
+[Use the item shop]
+
+Lita: "Thank you! Make sure you're well-prepared before setting off, Master
+Django."
+
+[Talk to Lita]
+
+Lita: "Do you know about fighting without weapons? When you're not equipped
+with a weapon and you attack, you'll strike with your bare hands. You can only
+make short-range attacks with your bare hands, and you can't use Enchantment
+either. Still, bare hand attacks don't leave you unguarded for enemy attacks.
+Since both Strength and Skill have a direct impact on the attack power, the
+more you train, the more powerful the attacks become. ...Master Django... How
+about we both try for maximum power together?"
+
+[Talk to Lita again]
+
+Lita: "The Solar Tree is just like Solar Fruit. It needs the sun's rays to
+grow. If you, Solar Boy, are at one with the sun, Master Django, I should think
+it won't be too long before the Solar Tree is fully grown."
+
+[Talk to Marcello]
+
+Marcello: "The new Solar Tree has taken root, and the animals have finally
+returned to this place... But is it over... ...this time around?"
+
+[Talk to Marcello again]
+
+Marcello: "Jormungandr, the Doomsday Beast... The Undead and the Immortals are
+the ones that threaten the cycle of life and death, but Jormungandr also has
+the power to influence the life of the stars. It's hard to believe there's
+something so powerful lying dormant in this town... Can the stars not escape
+the cycle of life and death yet again...?"
+
+[Talk to Luis]
+
+Luis: "What is this earthquake? My life... You saved me, sonny, but... ...is it
+over now?"
+
+[Talk to Luis again]
+
+Luis: "Even if this is the end, I'm ready. I haven't got nay regrets. Livin'
+life is not about the end..."
+
+===============================================================================
+The Hill of Promises                                                     [UNZO]
+===============================================================================
+
+Master Otenko: "Are you ready then, Django? I'm relying on you, then, Sabata.
+The moon reflects the light of the Sun. But she's more than just a mirror. Her
+light bears the affection and lunacy of all things, and directs every power in
+existence: the Sun and the Darkness, and the four elements of fire, water, wind
+and earth. The power to direct... That is the power of a Lunar Child. A long
+time ago, you sealed me away, along with the Spirits of the Ancients, Muspell
+and Garmr. That was the moon's dark side, the power of lunacy. But now you have
+rescued me from a prison of shadows. Your power even saved the small life that
+was turned into a prison. That was the moon's Sun side, the power of affection!
+Your actions of helping others will lead you on the path to becoming a Moon
+Beauty! The two sides of the moon, affection and lunacy... Mastering these
+opposing forces is the way to become a true Moon Beauty!"
+
+Sabata: "Hear this, Spirits of the Ancients! We are the Lunar Children,
+following the line of our mother, and her ancestors. The evil that you sealed
+away in the past is trying to break free. We wish to lay this evil to rest,
+just as you did. I ask that you grant us the means to subdue this beast! I am
+your child, Sabata, the Moon Beauty!"
+
+<The door opens and Sabata falls to his knees>
+
+Master Otenko: "Are you okay, Sabata?!"
+
+Sabata: "The Doomsday Beast... Incredible... Just holding the reins on this one
+is too much pressure...! Django, it's up to you now to strike Jormungandr. It
+doesn't look like I can leave here any time soon. This is my battle... You have
+your own battle awaiting you! Now go forth! Solar Boy Django!"
+
+Master Otenko: "you hold the fort here, Sabata!! Jormungandr's head... We'll be
+sure to strike it!"
+
+<Django and Master Otenko enter the Undead Zone>
+
+[Go back and talk to Sabata]
+
+Sabata: "I don't believe it... Me... A Moon Beauty... This is like my worst
+nightmare. Surely I shouldn't have affection in me? But if I do then it must be
+from Carmilla... Her soul that lies within me alongside the Dark Matter. It's
+her soul that's turning me into a Moon Beauty... The Crying Witch I killed,
+Carmilla... If only... I wish I could give back human life and death to her.
+...An impossible dream. And yet, I..."
+
+[Talk to Sabata again]
+
+Sabata: "We lost our mother, defeated our father... And yet... We must go on.
+There's no victory in our fight. Which is all the more reason that we mustn't
+lose. Keep up the good fight... That's the only sure way to resist the evil
+plots of Dark!! Right, Django?"
+
+[Talk to Sabata again]
+
+Sabata: "Django, while you're underground, the Sunflower Girl and all will
+prepare for the sealing. You should just concentrate all your efforts on
+hitting Jormungandr's head, okay?"
+
+[Talk to Master Otenko]
+
+Master Otenko: "Are you ready?"
+
+*<Choose "No">
+*
+*Master Otenko: "Django, Ringo's entrusted everything to you as he died, so for
+*all our sakes... you cannot absolutely cannot lose this fight!"
+
+*<Talk to Master Otenko and choose "No" again>
+*
+*Master Otenko: "The Will of the Galaxy Universe, Dark... This doesn't just
+*stop at the Undeadening of all life forms... It also plans to take back all
+*species to nil with the Ancestor Piece. If we don't do something, this whole
+*star is going to get swallowed up. That's how much it wishes to stop the
+*evolution of species... of the Solar System..."
+
+*<Choose "Yes" and Sabata will open the door again>
+*
+*Sabata: "Now go forth! Solar Boy Django!"
+
+===============================================================================
+Undead Zone
+===============================================================================
+
+[Go down a floor]
+
+Master Otenko: "What is that I feel...? Is it the Undead? This is the deepest
+floor of the Spiral Tower, already within the seal. Nothing usually exists in
+this space... But there's this landform... the Ancestor Piece, Jormungandr.
+Could its existence be the whole cause of all these Undead phenomena...? You
+can't afford to be reckless, Django! May the Sun be with you!"
+
+[When you reach the bottom floor]
+
+Master Otenko: "This is the very bottom... So much disease in the air. The
+Undead influence has spread fast... If something is not done... The Spiral
+Tower won't stay a binding spear for much longer! Let's hurry, Django! But be
+careful! This diseased air... From here on out, you won't be able to retreat or
+save! You'd better save right now, okay?"
+
+[Lady and Lita are in the Cathedral]
+
+Lady: "Those born into Darkness... I bid you, return quietly to your graves!"
+
+<The Skeletons crumble>
+
+Lita: "You're amazing! Master!!"
+
+Lady: "It's not over yet! Stay alert, Lita!"
+
+<The Skeletons get back up>
+
+Lita: "Now it's my turn...!"
+
+<Lita beats up the Skeletons>
+
+Lita: "Out of the way, small fry!"
+
+Lady: "(Dear me... Maybe I trained her a bit too hard...?)"
+
+[Cheyenne is in Dark City, disposing of some dogs]
+
+Kid: "Ch... Cheyenne!"
+
+Cheyenne: !
+
+<Kid is being chased by bees>
+
+Cheyenne: ... "I told you not to follow me... ...Oh well, a bit of excitement
+every now and then can't hurt. Kid!! Prepare some Healer!"
+
+[Before facing Jormungandr]
+
+Master Otenko: "This is it... The tip of the tower. Jormungandr's head will be
+up ahead... You can't defeat Jormungandr, the Eternal Ancestor Peice. But if
+you inflict enough damage on its head to make it unconscious, you just might
+have enough of a window to seal it away again! Everything rests on this battle!
+Go for it, Solar Boy Django! May the Sun be with you!"
+
+[Face to face with Jormungandr]
+
+Master Otenko, Django: !
+
+Master Otenko: "This is the Ancestor Piece, Jormungandr! Maybe the Ancestor
+Piece possesses no reason... Maybe all there is to it is a greedy instinct to
+swallow everything up! Let's do it, Django! Strike it on the head! I'll relay
+the Sun's rays from here above the ground!" Taiyoh!
+
+[After Jormungandr has been defeated]
+
+Master Otenko: "Did we do it...?!"
+
+Django: !
+
+<Jormungandr swallows Django>
+
+Master Otenko: "Django!!"
+
+[Lita, Violet and Nero are by the Solar Tree]
+
+Lita: ! "Master Django!!"
+
+Violet: "Django...?"
+
+[Sabata is still outside the Spiral Tower]
+
+Sabata: "Django!! We didn't make it in time...?!"
+
+Zazie: "It ain't over yet!"
+
+[Lady is in a Cathedral Wedge Room]
+
+Lady: "You mustn't give up! It's when you're in a pinch that you have to seize
+an opportunity for victory!"
+
+[Cheyenne is in a Wedge Room]
+
+Cheyenne: "You must believe in yourself! Your Sun... hasn't set yet!!"
+
+[Kid is in a Wedge Room]
+
+Kid: "Us guys... We ain't given up yet, man!"
+
+[Smith is in a Wedge Room]
+
+Smith: "You're actually thinkin' of leavin' me behind?! Ringo entrusted
+something of great importance to you... The Sun... It's time you remembered
+what it represents!"
+
+[Zazie is standing on the Pile Driver]
+
+Zazie: "Django! Hear all our words! Take strength in 'em! Now's yer chance!"
+
+[Back underground]
+
+Master Otenko: "This is it...!! Now's our chance, Django! Grab the Sun in your
+hands!"
+
+<Django grabs the Sun>
+
+Django: Taiyoh!
+
+===============================================================================
+Ending                                                                   [ENDG]
+===============================================================================
+
+[Zazie and Django are standing outside The Hill of Promises]
+
+Django: "That day, the Black Shadow that stopped Jormungandr in its tracks...
+Was that father? Or..."
+
+Zazie: "Yer think it was the Black Dainn?"
+
+Django: "I don't know... But when the light is strong the shadows thrown out
+become a deeper Darkness. The dark is scary... But around dusk, I always think
+the same thing... It's those dark shadows that allow the world to be so..."
+
+Zazie: "That kinda stuff... ...you may be right about."
+
+===============================================================================
+Plaza, after Jormungandr has been defeated                               [MMQU]
+===============================================================================
+
+Django: ?
+
+Blue One: "...n... Hello...? Can you hear me? ...an? Huh? Lan... Isn't it you
+Lan? You're... I don't believe it! Do you remember me?"
+
+*<Choose "Of Course">
+*
+*MegaMan: "Django! Never thought I'd see you again!"
+
+*<Choose "No">
+*
+*Blue One: "I'm Lan's NetNavi, MegaMan!"
+
+MegaMan: "But what are you doing with this PET...?"
+
+<Screen fades>
+
+MegaMan: "Django, I was chasing after the Dark NetNavi, ShadeMan, when I found
+myself in this Undernet Warphole. And I ended up here in this Doomsday World...
+Django, maybe you could help me find ShadeMan? If I can find him, I should be
+able to figure a way home, back to Lan."
+
+Django: (nods)
+
+MegaMan: "Thanks a lot, Django!! ShadeMan's dark power DarkSoul... I'm picking
+up a signal for it in the tower to the north of the city. Let's head for it!"
+
+===============================================================================
+Mall
+===============================================================================
+
+[Talk to Lady]
+
+Lady: You've come at just the right time. I removed the book seal. Take a look!
+On the shelf along the wall in front of the counter, you'll find the Book of
+Memories that contains records of all kinds of adventures. On the shelves to
+the left and right, there is a book about investigations in San Miguel and
+another about titles. If you read them, you're sure to get some new clues
+for your adventure."
+
+[Talk to ???]
+
+???: "Now listen, boy. Just because you've ascquired titles, doesn't mean you
+profit from them. It's up to you to decide how much that's worth."
+
+===============================================================================
+The Hill of Promises
+===============================================================================
+
+MegaMan: "Django, DarkSoul's signal's coming from the top of this tower!"
+
+[Go towards the Spiral Tower door]
+
+Django: !
+
+???: "He he hee... How soon my presence has been discovered... You're pretty
+sharp, Solar Boy Django..."
+
+MegaMan: "ShadeMan!"
+
+ShadeMan: "Well, well! I wondered who it was... Who'd have though you'd follow
+me all this way! I may have been defeated by you pests before, but soon I will
+gain the true power of Darkness from this Doomsday world! And then... He he he
+hee!"
+
+MegaMan: "We're not going to let you get away with this!"
+
+ShadeMan: "He he! You never change! I respect that determination of yours, you
+know. So I'll give you a hint. The key to opening that door... lies with my
+underlings... the four ShadeBats. They're gathering the power of Darkness for
+me in the four corners of San Miguel. I wonder if you can manage to find them?!
+He he hee!"
+
+MegaMan: "Django! We must find those four ShadeBats fast! But what could he
+have meant by the four corners if the city? Have any ideas?"
+
+[Talk to Sabata]
+
+Sabata: "What are you up to? Get a move on and delete that ShadeMan program,
+now! In the meantime, you can leave Jormungandr to me!"
+
+[Talk to Sabata again]
+
+Sabata: "Hmph. At a time like this, who needs to be worrying about other
+people. You two are just like him... Why am I always surrounded by such
+fools...?!"
+
+[Talk to Master Otenko]
+
+Master Otenko: "What is it, Django? Hm? That machine..."
+
+MegaMan: "Are you... Master Otenko?!"
+
+<Screen fades>
+
+Master Otenko: "Ah, that's right... Django, you must work with MegaMan to put a
+stop to ShadeMan's evil ambitions. Sabata and I will keep an eye on
+Jormungandr. It's quiet at the moment, but we mustn't let our guard down."
+
+MegaMan: "Thank you, Master Otenko!"
+
+[Talk to Master Otenko again]
+
+Master Otenko: "MegaMan, the worlds we live in are different, but together we
+must fight the Darkness. Tell us any time if you ever need anything. We're
+always here to help!"
+
+[Talk to Master Otenko again]
+
+Master Otenko: "ShadeMan... A Darkloid, a man-made program that employs the
+power of darkness. But how could it be here in this doomsday world... And how
+can a program with no physical form function in our world? ...There's something
+behind all of this..."
+
+===============================================================================
+ShadeBat Hunting
+===============================================================================
+
+[Destroy a Shadebat]
+
+MegaMan: "Key Data... The four clusters of data that the 4 bats hold form the
+key to opening the door... There are 3 more clusters to find. Where are the
+other ShadeBats...?"
+
+[Destroy second Shadebat]
+
+MegaMan: "Now you've got two clusters of Key Data! There are another two left
+to find. Good luck, Django!"
+
+[Destroy third Shadebat]
+
+MegaMan: "That makes 3! Now there's just one more cluster of data to find.
+Almost there, Django!"
+
+[Destroy last Shadebat]
+
+MegaMan: "You did it, Django! Now you've got all the data. Time to find
+ShadeMan in the northern Tower!"
+
+===============================================================================
+Hill of Promises
+===============================================================================
+
+[After opening the door]
+
+MegaMan: "Now we'll be able to climb the tower, but... Why would ShadeMan have
+told us about the key like that? It could be a trap... We must be careful,
+Django!"
+
+[At the top of Spiral Tower]
+
+ShadeMan: "Hee hee hee. I've been waiting for you, Solar Boy."
+
+MegaMan: "ShadeMan! You can't get away now! You must return quietly to our
+world!"
+
+ShadeMan: "He he hee... Of course I'll return. Thanks to that man, my ambitions
+in this world have now been fulfilled!"
+
+Django: ?
+
+MegaMan: "What do you mean?"
+
+ShadeMan: "You don't know? He he he he he! Even in this Doomsday world, you're
+just a NetNavi in a PET. But I... Yes... thanks to Dark Matter, I have gained
+physical form!"
+
+MegaMan: "That's impossible...!!"
+
+ShadeMan: "He he hee... First I'll have myself a nice snack... My first meal in
+the real world... You'll do just fine, Solar Boy Django! He he heeeee!!!"
+
+MegaMan: "Django! ShadeMan is shielded by the power of Darkness. First break
+down his defense using the very same power!"
+
+[After breaking ShadeMan's barrier]
+
+ShadeMan: "You!! How did you...? Solar Boy using the power of darkness...?!
+Even with no defenses, the power of darkness, Dark Matter, still dominates!
+You'll soon regret getting on my wrong side!"
+
+MegaMan: "Now, Django! Burn ShadeMan's Dark Matter with the power of the sun!"
+
+[After beating ShadeMan]
+
+MegaMan: "Let's go Django, time to purify ShadeMan using the Pile Driver!"
+
+===============================================================================
+Plaza
+===============================================================================
+
+[After starting the Pile Driver]
+
+Django: "Taiyooooooooooh!"
+
+[After purifying ShadeMan]
+
+ShadeMan: "Gwaaaaargh!! If you think you can strike me down with this... You're
+making a big mistake!"
+
+MegaMan: "Django! Gosh, at times like these... I can't but feel completely
+powerless!"
+
+Django: !
+
+MegaMan: "What's this?!"
+
+Django & MegaMan: "Chaaaaarge!"
+
+ShadeMan: "What?!"
+
+MegaMan: "Now, Django!"
+
+Django: Taiyoh!
+
+ShadeMan: "Gwooooorgh!! Once more... I...! ...Don't think... ...that I will
+disappear... ...in THIS world! And again... back... ...to the... ...the
+Cyberworld...!"
+
+MegaMan: "Right, I'll be going then. I should be able to get back to the
+Cyberworld using the Warphole ShadeMan made. I'm a bit worried about what's
+become of him now though..."
+
+Django: "Don't worry about it! It doesn't matter how many times he springs to
+life... We're all here in this world and you and Lan are there in your world to
+stop him. He doesn't stand a chance!"
+
+MegaMan: "Yeah! You're right! Okay then, see you later... Sometime, 
+someplace!!"
+
+Django: "The Sun will rise tomorrow! See you again soon, MegaMan! Say hi to Lan
+for me!"
+
+[After leaving the Plaza]
+
+???: "MegaMan...? An unexpected hindrance to my plans. But... I certainly had
+some fun, Solar Boy Django. That's what makes me such a good rival! I'd planned
+to use ShadeMan to get myself a new physical form... But now I know I should
+wait for a full resurrection of my own! Heh, heh, heh... Hm, ha, ha, haaah!!"
+
+===============================================================================
+Alternate Endings                                                        [END1]
+===============================================================================
+
+[Defeat Jormungandr repeatedly for a slightly altered end scene]
+
+[Defeat Jormungandr again]
+
+[Violet, Nero and Django are standing outside The Hill of Promises]
+
+Django: "That day, the Black Shadow that stopped Jormungandr in its tracks...
+Was that father? Or..."
+
+Violet: ?
+
+Django: "When the light is strong... the shadows thrown out become a deeper 
+Darkness. The dark is scary... But around dusk, I always think the same 
+thing... It's those dark shadows that allow the world to be so..."
+
+Violet: "That's... pretty! <music note>"
+
+[Defeat Jormungandr again]
+
+[Sabata and Django are standing outside The Hill of Promises]
+
+Django: "That day, the Black Shadow that stopped Jormungandr in its tracks...
+Was that father? Or..."
+
+Sabata: "Him, huh...?!"
+
+Django: "I don't know... But when the light is strong the shadows thrown out
+become a deeper Darkness. The dark is scary... But around dusk, I always think
+the same thing... It's those dark shadows that allow the world to be so..."
+
+Sabata: "Hmph... You really are just too naive sometimes, you know..."
+
+[Defeat Jormungandr again]
+
+[Lady and Django are standing outside The Hill of Promises]
+
+Django: "That day, the Black Shadow that stopped Jormungandr in its tracks...
+Was that father? Or..."
+
+Lady: "The infamous... Shadow Immortal?"
+
+Django: "I don't know... But when the light is strong the shadows thrown out
+become a deeper Darkness. The dark is scary... But around dusk, I always think
+the same thing... It's those dark shadows that allow the world to be so..."
+
+Lady: "Beautiful... I reckon. You're a bit of a poet, aren't you, Django?"
+
+[Defeat Jormungandr again]
+
+[Lita and Django are standing outside The Hill of Promises]
+
+Django: "That day, the Black Shadow that stopped Jormungandr in its tracks...
+Was that father? Or..."
+
+Lita: "The Black Dainn?"
+
+Django: "I don't know... But when the light is strong the shadows thrown out
+become a deeper Darkness. The dark is scary... But around dusk, I always think
+the same thing... It's those dark shadows that allow the world to be so..."
+
+Lita: "How... beautiful."
+
+===============================================================================
+Lita's Offer                                                             [LIOF]
+===============================================================================
+
+[Talk to Lita three times after Django has been purified and during the night]
+
+Lita: "Master Django, I... I've made up my mind! For you, and only you, Master 
+Django... I want to give you... my blood!"
+
+<Lita turns her back to you>
+
+<Talk to Lita>
+
+Lita: ...
+
+<Bite Lita with the Werewolf Attack>
+
+<Django bites Lita>
+
+<Game over!>
+
+===============================================================================
+Request Sheet - House of Time: Challenge 3                               [RSCH]
+===============================================================================
+
+[Enter the last room]
+
+Django: !
+
+Cheyenne: "Glad you made it. I've no interest in Kid's foolish games... But I 
+can't let this opportunity go to waste. Django!! I am a warrior... And so I 
+challenge you once more to a fight! Let's go, Solar Boy!"
+
+===============================================================================
+Request Sheet - House of Time: Sunflower                                 [RSSU]
+===============================================================================
+
+[After defeating the enemies in the last room]
+
+???: "You surely are the son of that man... Yer brother's like yer mum, but 
+you're just like yer dad. Yer really are... Maybe yer have what it takes to 
+change the future... My star-readin' had some use after all then, eh...? ...So 
+it's all up to you now, awright...? That girl and this world as well... Really 
+lookin' forward to what's gonna happen to this world... for sure..."
+
+===============================================================================
+The Solar Tree Restoration                                               [TSTR]
+===============================================================================
+
+[When you get a fully grown Solar Tree]
+
+Lita: "Master Django! The Solar Tree is fully grown at last! This is all thanks 
+to you, Master Django! This is a present from the Solar Tree. Here, please take 
+it! <Music note>"
+
+[Talk to Lita]
+
+Lita: "Now that the Solar Tree is fully grown, it will provide us with the 
+healing water, Morning Dew. If you bathe in this Morning Dew, its purifying 
+power will restore your Life and Energy, and even cure the Curse of Kaamos! To 
+obtain Morning Dew, you must go to the Solar Tree and watch sunrise. Press the 
+A Button while holding down SELECT on the menu screen to change the time 
+display and check what time sunrise is."
+
+[Talk to Lita again]
+
+Lita: "Master Django! I... I love... u... kuleles! ...... Keep the Sun always 
+in your heart!"
+
+[When you get a pink Solar Tree]
+
+Lita: "Master Django! The Solar Tree...! I... I love... it! It's great! This is 
+all thanks to you, Master Django! This a present from the Solar Tree. Here, 
+please take it! <Music note>"
+
+[Talk to Lita]
+
+Lita: "Master Django... I... I love... u... nicorns!"
+
+Django: ...
+
+Lita: (Aargh! What am I saying?! Fool, fool, fool... I'm such an idiot!)
+
+[Talk to Lita again]
+
+Lita: "Master Django... I... I love... u... nicycling!"
+
+Django: ...
+
+Lita: (Aargh! What am I saying?! Fool, fool, fool... I'm such an idiot!)
+
+[Talk to Lita again]
+
+Lita: "Master Django... I... I love... y... ule logs!"
+
+Django: ...
+
+Lita: (Aargh! What am I saying?! Fool, fool, fool... I'm such an idiot!)
+
+[Talk to Lita again]
+
+Lita: "Master Django... I... I love... (you! <3)"
+
+Django: ?
+
+Lita: (Aargh! I just can't say it! Fool, fool, fool... I'm such an idiot!)
+
+[Talk to Lita in her shop afterwards]
+
+Lita: "Now that the Solar Tree is fully grown, its purifying strength will 
+finally heal the land of San Miguel. Soon the place will be filled with 
+laughter and birdsong and trees again. The Sun and the land, and all the 
+creatures and plants that live among them... Everything's connected..."
+
+[Talk to Lita in her shop afterwards again]
+
+Lita: "Master Django... <3"
+
+===============================================================================
+Titles and Emblems                                                       [TMBM]
+===============================================================================
+
+[Talk to Lita with a skill level of 99 for fists]
+
+Lita: "I don't believe it! You've really mastered the skill of using your bare 
+hands! You're amazing Master Django <3 Now it's time to pass the highest title 
+from the master to you. Please accept this!"
+
+<Django receives the Heart Emblem>
+
+Lita: "Those that inherit the Heart Emblem get stronger bare hands, the more 
+Life they lose. What doesn't kill you makes you stronger!"
+
+[Talk to Sabata with a skill level of 99 for guns]
+
+Sabata: "Hm? Oh, you finally got the gun back, huh? Looks like the Charge 
+Shot's up to level 2. All right then... I'd better give you this."
+
+<Django receives the Joker Emblem>
+
+Sabata: "The Joker Emblem allows the bearer to reduce the Charge Shot time by 
+half when using any gun-type weapon. With Charge Shots, you can increase your 
+attack power through energy consumption. You can't call yourself a Gun Master 
+without getting the hang of this weapon."
+
+[Talk to Smith with a skill level of 99 for hammers]
+
+Smith: "Django, Looks like you've really mastered the hammer. Okay... It's time 
+we did some limit liftin' for your SOLARSMITH so that you can make an S-rank 
+hammer."
+
+<Django receives the Club Emblem>
+
+Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+powers. You can make yourself a super weapon!"
+
+[Talk to Smith with a skill level of 99 for swords]
+
+Smith: "Django, looks like you've realy mastered the sword. Okay... It's time 
+we did some limit liftin' for your SOLARSMITH so that you can make an S-rank 
+sword."
+
+<Django receives the Spade Emblem>
+
+Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+powers. You can make yourself a super weapon!"
+
+[Talk to Lady after completing the Monster Guide]
+
+Lady: "You finally did it! You finished the Monster Guide... You're amazing, 
+Django! I've got a special present by way of thanks. Use it wisely! <Music 
+note>"
+
+[Talk to Lady after completing all Request Sheets]
+
+Lady: "You finally did it! You got all that Guild work done for me... You're 
+amazing, Django! I've got a present for you to thank you for all your hard 
+work. Use it wisely! <Music note>"
+
+[Discuss work with Lady after completing all Request Sheets]
+
+Lady: "It's such a help having you around, Django! Keep up the good work!"
+
+[Talk to Lady after completing the Weapon Guide]
+
+Lady: "You finally did it! You finished the Weapon Guide... You're amazing, 
+Django! I've got a special present by way of thanks. Use it wisely! <Music 
+note>"
+
+[Talk to Lady after completing the Album]
+
+Lady: "You finally did it! You finished the Album... You're amazing, Django! 
+I've got a special present by way of thanks. I've added SOUND for you on the 
+title menu, so you can enjoy lots of cool Boktai music! <Music note>"
+
+[Talk to ???]
+
+???: "Day Walker is the title you get when you've sealed away the Doomsday
+Beast. Huh? The Doomsday Beast has already been sealed away?!"
+
+[Talk to ??? again]
+
+???: "Spear Master is the title you get when you've learned how to master a 
+spear."
+
+[Talk to ??? again]
+
+???: "Hammer Master is the title you get when you've learned how to handle a 
+hammer."
+
+[Talk to ??? again]
+
+???: "Fist Master is the title you get when you've learned how to fight with 
+your bare hands."
+
+[Talk to ??? again]
+
+???: "Gun Master is the title you get when you've learned how to operate a 
+gun."
+
+[Talk to ??? again]
+
+???: "Adept is the title you get when you've survived in battles and tested 
+your limits."
+
+[Talk to ??? again]
+
+???: "Adventurer is the title you get when you've traveled through all of the 
+Dungeons."
+
+[Talk to ??? again]
+
+???: "Agent is the title you get when you've completed all requests you've 
+received."
+
+[Talk to ??? again]
+
+???: "Collector is the title you get when you've secured every weapon, 
+protector, and photo."
+
+[Talk to ??? again]
+
+???: "Dark Hunter is the title you get when you've fought and defeated all 
+monsters."
+
+[Talk to ??? after obtaining all other titles]
+
+???: "Ya finally did it, boy! You got all those titles... Wow... Right then. 
+Now let's give ya the final title... Grand Master! Here's the certificate for 
+ya."
+
+<Django received The World!>
+
+???: "Thanks to you, business is goin' well. By way of thanks, I've upgraded 
+the stuff in my Blindboxes for ya. Here's to doin' more business with ya, Solar 
+Boy!!"
+
+[Talk to ???]
+
+???: "Grand Master is the highest ranking title that you get when you've 
+attained all other titles."
+
+===============================================================================
+Solarsmith Things                                                        [SSMI]
+===============================================================================
+
+[Do a really bad job]
+
+Smith: "Tsh... Not great, eh. Looks like your timing was great <number>
+times(s), good <number> time(s), and bad <number> time(s). The key to forging
+is temperature control and the timing of the strikes. You'll get better at it
+the more things you make."
+
+[Do a decent job]
+
+Smith: "Oooh... A fine job! Looks like your timing was great <number> times(s),
+good <number> time(s), and bad <number> time(s). Make sure you get some use out
+of that, eh?"
+
+[Do a fabulous job]
+
+Smith: "Wow... Superb workmanship! Looks like your timing was great <number>
+times(s), good <number> time(s), and bad <number> time(s). Great work, Django!"
+
+[Make a rare weapon]
+
+Smith: "Well... that's a pretty rare weapon! Looks like your timing was great
+<number> times(s), good <number> time(s), and bad <number> time(s). This weapon
+is R-rank, so it's got some hidden higher powers."
+
+[Getting Smith's photo]
+
+Smith: "Wow... Superb workmanship! Your timing when you're forgin' is perfect!
+I can't believe you got it just right <number> times! I'm giving you this to
+mark the occasion!"
+
+[Talk to Smith with the Star Piece]
+
+Smith: "Django, what do you have there... It's meteoric iron, a Star Piece,
+right? Meteoric Iron comes from Star Pieces that have fallen from space. It's a
+type of metal we could never make here on Earth. You could use it to make some
+really unique weapons. But there's only enough of it to make one. Django, which
+type will it be?"
+
+<Choose "Spear", "Hammer" or "Sword">
+
+Smith: "All done! You can't use that weapon for forgin', but it's already got
+some special effects anyway. The first one means that, when you make an
+Enchantment Attack, you can use solar energy directly from a Solar Station
+instead of your own. Another special effect is that its power will adjust to
+match your level. Success or failure depends on you with this weapon. Use it
+well, okay?"
+
+[Talk to Smith with one or more weapon level at 50]
+
+Smith: "Django, looks like you've become quite skilled with weapons now. 
+Okay... It's time we did some limit lifting for your SOLARSMITH so that you can 
+make an S-rank weapon. But you can only lift the limit on one type, see."
+
+Smith: "How about limit liftin' sword-type weapons?"
+
+*<Choose "Sure">
+*
+*<Django recieves the Spade Emblem>
+*
+*Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+*special powers. You can make yourself a super weapon!"
+
+*<Choose "No">
+*
+*Smith: "How about limit liftin' spear-type weapons?"
+*
+*<Choose "Sure">
+*
+*<Django recieves the Diamond Emblem>
+*
+*Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+*special powers. You can make yourself a super weapon!"
+
+*<Choose "No">
+*
+*Smith: "How about limit liftin' hammer-type weapons?"
+*
+*<Choose "Sure">
+*
+*<Django recieves the Club Emblem>
+*
+*Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+*special powers. You can make yourself a super weapon!"
+
+<Choose "No" again and the questions will cycle round>
+
+*[If only the sword weapon level is at 50]
+*
+*Smith: "Looks like you're best with sword-type weapons. "Okay then. Here's 
+*proof of your limit liftin' for sword-type weapons, the Spade Emblem."
+*
+*<Django recieves the Spade Emblem>
+*
+*Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+*special powers. You can make yourself a super weapon!"
+
+*[If only the spear weapon level is at 50]
+*
+*Smith: "Looks like you're best with spear-type weapons. Okay then. Here's 
+*proof of your limit liftin' for spear-type weapons, the Diamond Emblem."
+*
+*<Django recieves the Diamond Emblem>
+*
+*Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+*special powers. You can make yourself a super weapon!"
+
+*[If only the hammer weapon level is at 50]
+*
+*Smith: "Looks like you're best with hammer-type weapons. Okay then. Here's 
+*proof of your limit liftin' for hammer-type weapons, the Club Emblem."
+*
+*<Django recieves the Club Emblem>
+*
+*Smith: "S-rank refers to weapons of level 49 or more. They each possess secret 
+*special powers. You can make yourself a super weapon!"
+
+===============================================================================
+Boss Tips                                                                [BOTI]
+===============================================================================
+
+If poor Django fails to beat an Immortal, you can choose to continue and the
+game will give you a helpful hint.
+
+[White Duneyrr]
+
+You can't attack Duneyrr when she's in the sky. You have to set the candle
+stands alight to lure her down to the ground first.
+
+There are two ways to light the candle stands. You can hit them directly by
+hitting them with an Enchanted Flame weapon or you can activate the 4 lever
+switches to set them alight.
+
+[Vampire]
+
+You won't get anywhere trying to attack a Vampire from the front. Stop the
+Vampire from moving by sealing him with Sabata's Black Hole.
+
+Defend Sabata and complete the Black Hole. Deflect attacks on Sabata to
+yourself to make sure he doesn't get hurt, and be sure to take out any Vampire
+Swords that are directed towards him.
+
+[Red Durathror]
+
+If a fake bud appears, keep an eye on its movement and hunt out Durathror.
+Using CHANGE BAT will allow you to see right inside the bud.
+
+If you follow Durathror, bite with CHANGE WOLF, and you can steal Life from
+her.
+
+[Blue Dvalinn]
+
+Dvalinn's weak point is her head. You can inflict damage by attacking her arms
+too, but don't get too engrossed in that and miss a chance to deliver a bit in
+her head.
+
+Dvalinn's Dark Breath and Ink Balls are Dark properties. If you transform into
+Black Django, you can limit the damage you incur.
+
+[Black Dainn]
+
+Dainn's Dark Blast attack will plunge an entire area into darkness. But it's
+possible to weaken his powers if you have the sun's rays to help you.
+
+If you get caught in Dainn's grabbing attack, Shadow Arm, you'll incur damage
+and lose Life, and Dainn's Dark Gauge will be restored too. Refrain from
+attacking, but when the dark lightens, be sure to counterattack.
+
+[Jormungandr]
+
+When Jormungandr is protected by the power of Darkness, you can't hurt it. Get
+rid of the Dark Guard by bathing in the Sun's rays.
+
+Jormungandr's weak point is its tongue. Attack both of its eyes to get it to
+open its mouth.
+
+[ShadeMan]
+
+It's difficult to dodge ShadeMan's WingStorm, an attack in which he summons a
+large amount of Bats. But if you defeat the Bats when he uses a normal RedWing
+attack, you'll be able to reduce the number of Bats that come during the
+WingStorm attack.
+
+After a WingStorm attack, ShadeMan lets down his guard down for a while. Don't
+miss this opportunity to attack.
+
+-------------------------------------------------------------------------------
+Disclaimer
+-------------------------------------------------------------------------------
+
+This document was made by Miluda, and can only be found on Gamefaqs. If you
+would like to put this on your site, email me and ask first.
+
+-------------------------------------------------------------------------------
+Thanks to...
+-------------------------------------------------------------------------------
+I'd like to thank the following:
+
+Gamefaqs for helping me with my gaming troubles for over ten years.
+Konami for making the game.
+Nintendo for stealing many hours of my life.
+
+All trademarks and copyrights contained here in this document are owned by
+their respective trademark and copyright holders.
+
+-------------------------------------------------------------------------------
