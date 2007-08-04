@@ -1,0 +1,1478 @@
+                  ---------------------------------------------
+                  \  Boktai: The Sun Is in Your Hands Script  /
+                  /                Version 1.10               \
+                  ---------------------------------------------
+                              bcherone@comcast.net
+                          Copyright 2003 Brad Cherone
+
+If you see anything wrong (inaccurate information, grammar suggestions, etc) or
+want to add your input, strategies or anything of value, feel free to email me.
+I encourage you to. The more information you send, the better the FAQ. You will
+also get a shout out in my credits section :)
+
+===============================================================================
+ Contents
+===============================================================================
+
+ 1. Script
+ 2. Revisions
+ 3. Special Thanks
+
+===============================================================================
+ Script
+===============================================================================
+
+This script is for the easiest difficulty. I know there are some variations, but
+I do not believe there is anything major that is different. Give me an e-mail if
+you know otherwise. The FAQ also follows my walkthrough.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Introduction
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Narrator: In a place not too far from here and now, the End of the World
+approaches. The Undead appear, breaking the natural cycle of life and death. The
+evolution of species ceases...and, one by one, they become extinct.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Road of Encounter
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*Django enters*
+
+???: The is the City of Death, Istrakan. Since time immemorial, this dark city
+has been ruled by a race known as the Immortals. But now, at last...the Sun is
+rising...
+
+*Master Otenko enters*
+
+???: You've come at last! The heir to the Solar Gun; Gun Del Sol...The new
+Vampire Hunter! My name is Otenko, Messenger of the Sun. Together we will bring
+light back to this world! In the castle ahead is the Vampire Lord. Let's go,
+Solar Boy!
+
+Django: ...
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Fog Castle
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Master Otenko: Here will do. Watch; this is the Pile Driver! Taiyohhhhhh!!
+
+*Master Otenko summons Pile Driver*
+
+Master Otenko: The Vampire Lord...Leader of the race of Immortal vampires. The
+wounds your father gave him have not healed. This is our only chance! Even you
+can do it...if you act now. Listen, Solar Boy. Bring him and his coffin back
+here. We will purify him with sunlight and this Pile Driver! You need sunlight
+to start the Pile Driver. See the gauge with the Sun mark in the lower right
+corner? It shows the level of sunlight striking the Solar Sensor. It's called
+the Solar Gauge. You can't use the Pile Driver when the sunlight level is zero.
+
+*At the gate of the castle*
+
+Master Otenko: Solar Boy, let's go over the Solar Gun 'Gun Del Sol' one more
+time. Press the B Button with the fighter frame equipped to fire a Solar Shot.
+Use the Shot to temporarily stun the Undead. Attacks from behind are the most
+effective. But if the energy in your Solar Battery (see the Gun Gauge in the
+lower right corner) runs out, you won't be able to fire your Solar Gun. Recharge
+by letting sunlight strike the sensor. May the Sun be with you!
+
+*At the Otenko Panel*
+
+Master Otenko: The panel on this wall is an Otenko Panel. Press the A Button
+when the mark is flashing to summon me. Don't be afraid to ask for advice. My
+knowledge might come in handy!
+
+*At the Otenko Panel*
+
+Master Otenko: That's a Solar Station. It automatically stores solar energy
+collected by your Solar Sensor. You can transfer energy to your gun whenever you
+need to - even at night. The number above the Solar Station shows how much
+energy is left. Hold the A Button when in front of the Station to transfer
+energy. Use it wisely, now.
+
+*At the Otenko Panel*
+
+Master Otenko: By the way...If you use the Solar Gun inside a Dungeon, crystal
+spikes may grow up from the floor. Perhaps you've already seen them? These are
+Solar Bamboo Shoots. They're made of hardened solar energy...Three kinds of
+Spirit Bugs live in Solar Bamboo Shoots: Solar Bugs, which charge your Solar Gun
+battery; Moon Bugs, which restore your Life; and Darkness Bugs, which drain
+energy from your Solar Gun battery. Best to run away from Darkness Bugs. But you
+can attract the other Spirit Bugs by pressing the A Button. Don't forget these
+Solar Bamboo Shoots, my friend.
+
+*After grabbing the Knight frame*
+
+Master Otenko: Looks like you got the Knight Solar Gun frame! If you equip it
+you can use the Solar Spread attack on the Undead. Hold down the B Button to
+fire the Spread. Use the Weapon Screen to switch Solar Gun parts. Press SELECT
+to bring up the Menu Screen and use the L Button & R Button to select the Item
+Screen, Weapon Screen, or Map Screen. Try equipping KNIGHT from the Weapon
+Screen.
+
+*After going up the stairs and spotting a Bok*
+
+Master Otenko: Wait! That's a ghoul; a Bok. This type of Undead serves the
+Immortals. Boks are weak, but don't let them spot you. Try to avoid
+confrontation. Hide in shadows or run past when they're not looking. When a Bok
+spots you, he attacks with Klorofolun, a dark substance. If you get Klorofolun
+on you, it will start to deplete your Life. Shake that stuff off, as quickly as
+you can. You can also sterilize it with your gun. OK?
+*At the Otenko Panel*
+
+Master Otenko: Solar Boy! Make sure to call me while sunlight is striking the
+sensor! OK?
+
+*At the Otenko Panel*
+
+Master Otenko: If you go outside and your Solar Gauge shows a level greater than
+zero, your battery will charge up naturally, or you can perform a Solar Charge
+for a quick refill. Pretty easy, right? Sadly, the Sun's not out right now.
+
+*After you climb the flight of stairs*
+
+Master Otenko: This belongs to the Count.
+
+Django: ...
+
+Master Otenko: This Vampire Lord, the Count of Groundsoaking Blood, was the
+sworn enemy of your father. But do not be afraid, my young Vampire Hunter. That
+crimson scarf...holds the spirit of your father. You are not alone!
+
+*After disposing of the Count's bats*
+
+Master Otenko: A trap...But he still can't move, it seems. Your gun alone cannot
+return him to nothingness. You must take the coffin to where the Pile Driver is,
+outside the castle. Get close to the coffin and press the A Button to grab it.
+Hold down the A Button and use the Control Pad to drag the coffin along. You
+cannot run or attack while you are dragging the coffin. Be careful.
+
+*After bringing the Count's coffin to the Pile Driver*
+
+Master Otenko: Alright! Now set the coffin in the center of the Pile Driver!
+
+*After the coffin is in place*
+
+Mater Otenko: Good! Fire a Spread to start up the Generators that just appeared.
+Equip the KNIGHT and hold the B Button to fire a Solar Spread. These Generators
+have been blessed by Gaea the Motherland, and the Sun's spirit, Sol, with the
+power to amplify solar energy. The Pile Driver is the only thing we can use to
+purify Immortals!
+
+*After Django starts up the Generators*
+
+Master Otenko: We're ready! Press the A Button over the shining emblem to start
+the Pile Driver! Is the Sun out?
+
+*After Djanjo starts the Pile Driver*
+
+Master Otenko: Taiyohhhhhh!!
+
+Master Otenko: Starting purification! Destroy the vampire with Solar Piles from
+the Generators. The stronger the sunlight striking the sensor, the stronger the
+Solar Piles will be. But the vampire will resist the Solar Piles! When he does,
+hit the Generators with a Spread to boost its power. You can overcome the
+vampire's resistance. When the vampire's Darkness Gauge (upper right) hits zero
+we win. Stop the Vampire Lord! You can do it, Solar Boy!
+
+*After defeating the Count*
+
+Master Otenko: Okay?!
+
+Master Otenko: Incineration of the Dark Matter, the energy source of the
+Immortals, is complete. This eliminates all possibility of revival. Good work,
+Solar Boy! Er...Come to think of it, I don't know your name.
+
+Django: ...
+
+Master Otenko: Django, is it? That's a manly name.
+
+*Screen goes black*
+
+???: Heh heh heh! So here you are, Otenko, Messenger of the Sun! And this must
+be the new Vampire hunter...But I'm afraid you're too late. While you've been
+busy playing with the decoy, my wounds have healed splendidly.
+
+Master Otenko: The Count! We've been tricked!
+
+Count: I'll teach you a thing or two. When I attacked the City of the Sun, San
+Miguel, and struck my enemy down...I had another objective. Yes, the Lunar
+Maiden...Moon Beauty. She...is still alive. Heh heh heh! Do you dare go after
+her...Otenko?
+
+Master Otenko: Moon Beauty?! ...Ha! She's your...in that case, there's still a
+chance!
+
+Django: ?
+
+Master Otenko: I sense darkness...to the North. Let's go Django! We have to save
+Moon Beauty! Do not fear, Solar Boy. We have the Sun. The Sun will rise
+tomorrow! May the Sun be with you!
+
+*Screen fades to white as Django and Otenko leave*
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Road of Encounter
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Master Otenko: Django, I must talk to you about something. It's about the Solar
+Gun, Gun Del Sol. The Solar Gun takes in sunlight as its energy. If you continue
+using it under strong sunlight for too long, it will overheat. Then you won't be
+able to fire the Solar Gun. At the bottom right of the screen, If the gun mark
+becomes an x, that's a sign of trouble. If you keep on using it under strong
+sunlight, it will overheat. Go into the shade and let the Solar Gun cool down.
+After a while, the gun will no longer be overheated. Even when the overheat
+status has ended, the gun is still very hot. If you use it under strong
+sunlight, it will soon overheat again. If it repeats overheating, the safety
+mechanism disables the Solar Gun. The safety mechanism will not undo itself
+until the Sun sets. Be careful. Once it overheats, continue your adventure in
+the shade or take a break for a while. Do not be reckless. There is no one to
+replace you. I'm counting on you, Solar Boy Django!!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Small Cave
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Master Otenko: I sense darkness. Nothing big, but...Django, this is the City of
+Death. Ends of eras are interwoven here in Istrakan...The Undead you defeat can
+slip through the time fabric and recover. The journey will take us through
+dungeons like this one...We will have to pass through many Undead
+Dungeons...Through many times and many places...Each time we enter an Undead
+Dungeon, the traps and devices will be reset. And the Undead will be back...You
+must not lose heart, even when surrounded by danger. Understood?
+
+Master Otenko: We'll need this...
+
+*Otenko summons teleport*
+
+Master Otenko: Alright, let's go.
+
+*After Django finds the key*
+Master Otenko: Looks like you found a key, Django. Wait a second! That blue
+key...That was made by Immortal hands! If you leave the Dungeon their power will
+weaken and the key will evaporate. That blue key can only be used inside this
+Dungeon. Remember that.
+
+*Standing in front of a blue door*
+
+Master Otenko: Django, with the blue key you can probably open the blue door.
+Stand in front of the door and press the A Button.
+
+*After getting trapped*
+
+Master Otenko: We're locked in! Django! Take care of all the enemies you see!
+
+*After killing the bats*
+
+Master Otenko: Looks like an exit.
+
+*Otenko summons a teleport*
+
+Master Otenko: This will do. Use this Warp Magic Square to pass through the
+Dungeon freely. Stand in the middle of the Warp Magic Square and press the A
+Button to warp. Use it as necessary.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Gate of the Dead
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*Django stands in front of a wooden box*
+
+Master Otenko: Hmm. The wooden box is in the way. Django, you could probably
+push it, no? To push these Moveable Blocks, face the blocks and hold down the
+Control Pad.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Ancient Forest
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*Standing in the second area of the dungeon*
+
+Master Otenko: Django, be careful! That's a Clay Golem, a soulless statue made
+by ancient magic. Looks like it's in the service of the Immortals now...When
+Golems spot an enemy, they roll into a ball and attack. Don't let them catch a
+glimpse of you. They'll hear you if you so much as step in a Puddle. Be very
+careful.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Catacomb
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*After entering the Catacomb*
+
+Master Otenko: Shhhh! Django, keep the noise down! These are Mummies, Undead
+servants of the Immortals. Mummies cannot see, but they have excellent hearing.
+If they hear footsteps, they'll find you immediately. Flatten against the wall
+and proceed quietly and carefully. Hold down the Control Pad in the direction of
+the wall to flatten against it. Then move along the wall with the Control Pad
+held down to stay flattened.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Road of Reunion/Sunwishing Plaza
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*Standing in front of the Dark Seal*
+
+Master Otenko: This must be an Immortal's Dark Seal. You must defeat the
+Immortal who controls it to continue onward.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Bloodrust Mansion
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*Standing in the center of a large lot*
+
+Master Otenko: I will summon the Pile Driver! Taiyohhhhhh!!
+
+*Otenko summons the Pile Driver*
+
+Master Otenko: What?
+
+*Otenko discovers the Luna Solar Gun lens*
+
+Master Otenko: This is the LUNA Solar Gun lens! That used to be the Moon
+Beauty's...She came here...No, it must be one of the Count's traps. My Solar
+Sense tells me there are Immortals around. This is an Immortal Dungeon. Stay
+alert, Django!
+
+*After entering the castle*
+
+Master Otenko: ...Dark, isn't it? Dungeons are full of dark areas, where it's
+hard to see. Enemies may lurk in the shadows. Check with the R Button. Hold down
+the R Button and use the Control Pad to look around. You can push away the
+darkness with a Skylight or a Solar Lamp but still...Be careful when moving in
+the darkness, Django!
+
+*Standing in a room of boxes*
+
+Master Otenko: Huh? Oh, this is a neat little puzzle. Django, you won't get the
+treasure unless you think before you act. Move the boxes with care - you can't
+drag those Movable Blocks. If you make a mistake, just leave the room and come
+back. When you re-enter, everything will be the way it originally was. If by
+chance you can't leave the room, use the FOOL CARD you picked up in Fog Castle.
+You can start over from the beginning. But that card is for the defeated. Use it
+as a last resort.
+
+*After entering the locked door*
+
+Master Otenko: Django, that's a Solar Lamp over there. Hit it with the Solar Gun
+to turn it on.
+
+*At the Otenko Panel*
+
+Master Otenko: Django, there's an Undead over there. A guard...Knock on the wall
+to get his attention. Press the A Button when flattened to hit wall. It's a
+useful technique. Try to master it.
+
+*At the Otenko Panel*
+
+Master Otenko: The Lattice Door over there must be some kind of contraption.
+That switch on the floor looks like a Weight Switch. Is there anything you can
+use as a weight, Django?
+
+*At the Otenko Panel*
+
+Master Otenko: A Spider...You can blast its Spider Web with sunlight or light
+from your gun. The red ones are Poison Spiders. Watch out for their poison.
+
+*At the Otenko Panel*
+
+Master Otenko: ...A Weight Switch and Lattice Door...Doesn't look like there are
+any Movable Blocks. Maybe something else...?
+
+*At the inscription*
+
+Master Otenko: What is it, a code? Is there a sum somewhere...? Maybe numbers
+can be added to find that sum? Experiment a little. Use the A Button to move the
+levers.
+
+*After Otenko gets a feeling*
+
+Master Otenko: Can you feel that, Django? The dark sensation coming from beyond
+that door....It might be...the Count! At last, Django!
+
+*At the Otenko Panel*
+
+Master Otenko: A lever...
+
+*At the Otenko Panel*
+
+Master Otenko: That Weight Switch is the key...Try putting something on it.
+
+*At the Otenko Panel*
+
+Master Otenko: I sense something...Django, that's a ghoul ghost, commonly known
+as a Vanibok! They're sensitive to sunlight. You can find them in the dark, but
+they disappear at the hint of sunlight. To light a room, you need a
+Skylight...sunlight...Light and dark...You can control light and dark by
+exposing the sensor or hiding it from sunlight. You can do it, Solar Boy Django!
+
+*After the room stops shaking*
+
+Master Otenko: That trembling...The whole room was shaking! What kind of lever
+is this?
+
+*At the Otenko Panel*
+
+Master Otenko: Otenko - and the Sun - are watching over you!
+
+*After you discover some bombs*
+
+Master Otenko: You got a BOMB Solar Gun grenade! Grenades are a type of
+sub weapon for your Solar Gun. The BOMB explodes on impact. One blast is enough
+to defeat underlings. BOMB grenades can be shot across walls that are one block
+high. You can get enemies from behind a wall. But BOMBS make a loud noise when
+they explode. Be careful not to attract unwelcome attention. Equip grenades from
+the Gun Screen and press the L Button to fire. Unlike Shots and Spreads, there's
+a limit to how many you can use.
+
+*Standing in front of the Count's door*
+
+Django: !
+
+*Snatches of conversation can be heard.*
+
+???: Moon beauty transferred without a hitch. How about you?
+
+Count: Ah, yes. The Earthly Maiden. The energy transfer is going as planned.
+
+???: Good. Next I will prepare the Guardians. The Vampire Hunter seems to have
+arrived.
+
+Count: I will take care of him. He's just a little boy.
+
+???: ... Well, it's up to you, Count...
+
+Count: ...That impudent little boy! Acting without the Queen's order...that Moon
+Child...
+
+Master Otenko: As I suspected, the Count's inside. But who...? No, there's no
+sense in worrying about it. Django! It's time to confront the Count. Are you
+ready?
+
+*Django confronts the Count*
+
+Count: So nice to see you, little Hunter! As for the woman...
+
+*Girl appears*
+
+Count: She's not dead. She's the sacrifice we need to complete our plan!
+
+*Girl disappears*
+
+Count: I can't keep a lady waiting. It's time. Won't be much of a battle, a
+young shrimp like you. Anyway, can't pass up a chance to feast on fresh Hunter
+blood! And the band beings to play...Ready for The Musical of Blood?!
+
+*After defeating the Count*
+
+Django: !
+
+Master Otenko: !
+
+*A girl appears*
+
+Master Otenko: It looks like she's alright. Hm? This is...! Moon Beauty?!
+
+Girl: You saved my life. Thank you.
+
+Master Otenko: I am Otenko, messenger of the Sun. This is Solar Boy Django, the
+Vampire Hunter. Who are you?
+
+Girl: I am the caretaker of the Solar Tree, Mother Gaea's Earthly Maiden, Lita.
+That day the Immortals attacked San Miguel...When I awoke, the Solar Tree and I
+had been captured by the City of Death.
+
+Master Otenko: The Solar Tree, infected by Istrakan...The Immortals can't be
+that strong...Somebody must be behind this...
+
+Lita: ...I almost forgot! At the Solar Plant, under the Solar Tree, the earth's
+energy is activated, and special Solar Fruits can be grown. I'm sure they will
+be of some help to you. Please come and see! Head North from here. Follow the
+road - it's not far. I will return and prepare the garden for planting! Keep the
+Sun always in your heart!
+
+*Lita exits*
+
+Master Otenko: ...Do you think she'll be fine by herself?
+
+Lita: Who wants to try me next, filth?!
+
+Django: ...
+
+Master Otenko: ...Er, well, anyway...Let's move the Count's coffin out of here.
+He is an Immortal, a being outside the living realm. The Immortals have never
+lived... and they can never die. In time, the Count will recover. Before that
+happens, use the Pile Driver to reduce him to nothing. Let's go, Django! Have we
+been to the passage on the West side of the first floor yet?
+
+*At the Otenko Panel*
+
+Master Otenko: A Weight Switch and Lattice Door...How much weight should you put
+on it, Django?
+
+*In a dark corridor*
+
+Master Otenko: This place seems free of dark contamination. Now for the Solar
+Barrier!
+
+*Otenko summons a Solar Barrier*
+
+Master Otenko: If you place the coffin inside this barrier, it will be held
+firmly by the Sun's power. Use the Solar Barrier when you need to leave the
+coffin temporarily.
+
+*After Django sets the Pile Driver up for the Count*
+
+Master Otenko: Taiyohhhhhh!!
+
+*After Django defeats the Count*
+
+Dying Count: Impossible! Me...expire!? That blood of yours belongs to a Solar
+Child! You are truly his--
+
+Master Otenko: Count! What have you done with Moon Beauty?
+
+Dying Count: Ha! That woman...That traitor...Our precious sacrifice for the
+Queen! She's in the far North, but you'll never make it there! There's no way
+you can break the Seals of the two Dark Guardians! My job is done. Soon the
+Earthly Maiden will follow...Geh...heh...I'll be waiting in the land of death,
+son of...my rival!
+
+Master Otenko: Dark Guardians?
+
+*Count perishes, scene of Dark Seal being destroyed*
+
+Master Otenko: The Dark Seal is gone. We can continue. Django, we must hurry to
+the Northlands!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Road of Reunion/Solar Tree/Hill of Departure
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Master Otenko: By the way, Django, about your lens...A Solar Gun lens is no
+ordinary plate of glass. It amplifies sunlight and converts it to various kinds
+of energy. Different types of energy affect Undead and Immortals in different
+ways. Try various lenses to find out which is most effective. Some lenses have
+properties for use outside battles. You will probably come across a few of
+these. When a lens purifies an Undead or Immortal, it records the experience and
+develops. In this way, a lens goes through a level up. If you can raise the
+level of a lens, you can get that much closer to the Sun. The highest level is
+3. It's up to you which lens to develop, Django!
+
+*In front of the Solar Tree*
+
+Lita: Good to see you, Master Otenko, Master Django! This is the Solar Tree, the
+shrine of Life that supports the whole world. The dark race of Immortals and
+their Undeadening have reduced it to this.
+
+Master Otenko: The Undeadening...The curse that uses Dark Matter to turn all
+living things to Undead!
+
+Lita: But with Master Django's efforts...I'm sure it'll be restored to its
+former glory! Spreading out underneath is the Solar Plant...Plant Solar Fruits
+in the Solar Tree's root hollows to get more fruits and nuts. You can combine
+different Solar Fruits to create new types of plants. Be sure to experiment! Try
+planting this SOLAR NUT. Press the A Button in front of a root hollow. Then pick
+a fruit to plant and press START to get things underway!
+
+*Django plants a fruit*
+
+Lita: Master Django, Excellent job! It will take some time before your Solar
+Fruit is ready to be harvested. Solar Fruits, as their name suggests, need
+sunlight to grow. The more sunlight collected by your sensor, the faster they'll
+sprout, Master Django! Some fruits need more sunlight than others to ripen, but
+they are all gifts to use from the Sun. I'll look after everything until they're
+ready. Bon voyage! Use the Solar Plant anytime you need to! ! I know! Master
+Django, take this!
+*Lita gives Solar Leaf to Django*
+
+Lita: Use that SOLAR LEAF to come see me--er, I mean, the Solar Tree, whenever
+you like. Come back when you're weary of battle!
+
+*Django is attacked by an unknown boy*
+
+Black-clothed Boy: You defeated the Count, Django...Impressive, Solar Boy.
+
+Master Otenko: Who are you!?
+
+Black-clothed Boy: I am the Dark Boy, Sabata. I am neither friend nor foe. For
+now, at least...That is unimportant. Here is my advice. Go no further. You've
+already avenged your father.
+Master Otenko: No! We cannot let the Immortals have their way! If the
+Undeadening continues, the world will-All life will perish!
+
+Sabata: 'All life will perish'? But that is the will of the Galaxy! No one can
+stop it. This solar system's time is up.
+
+Master Otenko: What do you mean?! The men and women of this solar system, the
+animals, the plants, all share the Sun's will! We must save Mani..., that is,
+Moon Beauty!
+
+Sabata: Why fight a battle you cannot win? To oppose the will of the Galaxy...is
+to deny the universe, the source of life...indeed, to deny life on this planet!
+
+Django: ...
+
+Sabata: Huh. Do what you must. You and I are destined to settle our differences.
+Be warned.
+
+*Sabata disappears*
+
+Master Otenko: Who in the world...? He looked just like you. And that scarf...It
+had the same smell as you. I don't think he is an Immortal.
+
+Django: ...
+
+Master Otenko: Hmm...Well, we have a job to do, Django! May the Sun be with you!
+
+*After discovering a Dark Loan*
+
+Master Otenko: Huh? What's that?! Wow, Dark Loans is still here...You can borrow
+solar energy at Dark Loans. But you must pay back what you borrow. Understood? I
+don't recommend it. Use Dark Loans only as a last resort. Get it? When your
+father was younger...Well, never mind. I trust you, Django! May the Sun be with
+you!
+
+*At the Otenko Panel*
+
+Django, watch your step! The Undead Steps hide in shadows, keeping away from the
+sunlight. They're fierce and you can't get them with Shots. Be alert. You can't
+miss them if you have the SEE-ALL NUT, which shows that which is hidden.
+
+*After getting the fourth life fruit*
+
+Master Otenko: Django, with 4 LIFE FRUITS, you can boost your Life Gauge. Your
+Life Gauge is shown in the upper left corner of the screen.
+
+*After discovering the Sun Bank*
+
+Master Otenko: Oh my! The Sun Bank is not gone yet...Django, you can deposit
+solar energy at this Sun Bank. Interest will be added to energy you deposit. So,
+you can increase energy. The Sun Bank is connected to the other save data. You
+can share energy with another Solar Boy. Hm? Do you not understand? May the Sun
+be with you!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Permafrost
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Django: !
+
+Master Otenko: !
+
+Sabata: ! Django...How foolish...If you'd just left when you had the
+chance...Hmf! Then I shall use your power as a Solar Boy for myself! Django,
+cross the ice floes and come to the Permafrost! I'll have a little game waiting
+there for you. Mwahahahaha!
+
+Master Otenko: Is he the Immortal of this Dungeon...? Django, the Permafrost
+lies across the sea. We're too far away to summon the Pile Driver. To cross the
+sea we'll have to cross the ice floes leading North or West. Which should we
+take?
+
+*At the Otenko Panel*
+
+Master Otenko: Ah, this. Django, are you good at arithmetic?
+
+*After discovering the Chillbok*
+
+Master Otenko: Django, the ghouls in this area are icy cool ghouls, commonly
+known as Chillboks. They attack with freezing Chillun. Undead have fixed
+elements, just like your gun lens. The fire attack should be effective here. The
+FLAME lens would probably be handy.
+
+*At the Otenko Panel*
+
+Master Otenko: = means the same, right? Do you get it yet, Django?
+
+*At the Otenko Panel*
+
+Master Otenko: Choose one of the two symbols, + or x. It's so easy, Django!
+*At the Otenko Panel*
+
+Master Otenko: Look out, Django! The floor is slippery! I doubt you can just
+walk across the floor. You need to slide. You won't make it to the other side
+unless you think before you step.
+
+*After finding a good place for a Pile Driver*
+
+Master Otenko: Just wide enough. Here's the Pile Driver! Taiyohhhhhh!!
+
+*Otenko summons the Pile Driver and Sabata appears*
+
+Django: !
+
+Sabata: Hm...Interesting...You want to use that hole for a Pile Driver? Do you
+really think that's going to work? Mwahahahaha!
+
+*At the Otenko Panel*
+
+Master Otenko: That ice plate...seems to be floating by some kind of magic
+power. A down-only elevator...?
+
+*In the Immortal Lair*
+
+Sabata: You're here. Here's a taste of the power of Dark Matter...The
+Lifefreezing Silver Wolf, Snow Wolf Garmr.
+
+*Sabata summons Garmr and disappears*
+
+*After Django defeats Garmr*
+
+Sabata: Well, well, Django! You drove off the Dark Guardian...
+
+Master Otenko: Sabata! So you really are the pawn of the Immortals!
+
+Sabata: Where light shines, shadows fall. There is no light without shadow. I am
+the shadow of light, and the light of shadow. The bearer of the Dark Gun Del
+Hell!
+
+Master Otenko: Dark Gun?!
+Sabata: We'll meet again. I'll be waiting in the East.
+
+Master Otenko: Who in the world...No, there's no sense in worrying about it now.
+Django, this Garmr seems to be a Dark Guardian. Take him to the Pile Driver and
+purify him!
+
+*Standing on the Pile Driver*
+
+Master Otenko: Alright! Set the coffin on the Pile Driver! !
+
+Django: !
+
+*Garmr howls and covers up the hole to the Pile Driver*
+
+Master Otenko: Oh no! Now we can't start the Pile Driver!...Across the ice
+floes, at the start of this Dungeon, wasn't there an open area? Looks like
+you'll have to take the coffin there. If you could take care of the ice above,
+maybe we could do it here...
+
+*At the beginning of Permafrost*
+
+Master Otenko: Just wide enough. Here's the Pile Driver! Taiyohhhhhh!!
+
+*After Garmr is on the Pile Driver*
+
+Master Otenko: Taiyohhhhhh!!
+
+*After Garmr is defeated*
+
+Master Otenko: One Dark Seal is gone. We have one more Guardian to purify. East
+Django!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Deserted Arsenal
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*At the Otenko Panel*
+
+Master Otenko: Django, that over there is a Rock Block, a Movable Block made of
+rock. Join the Rock Block to the staircase and descend.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Stairs of Trial
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*At the Otenko Panel*
+Master Otenko: Django, move the two wooden boxes and use them as stepping stones
+to get to the green treasure chest.
+
+*At the Otenko Panel*
+
+Master Otenko: Hrm...You need 2 wooden boxes to connect the stairs to the
+path...
+
+*After the discovery of the Azure Tower*
+
+Master Otenko: This...
+
+Django: ?
+
+Master Otenko: This is the Azure Sky Tower. The legend of the Moon's protector -
+- the Silvery White Knight who slayed the demons -- is said to have taken place
+here. The knight is known as the Moon Guardian, and also as the Guardian of the
+Sword...They say the sword is still here, on the top floor of the tower...Many
+knights have died in this tower in search of that legendary blade. That such a
+place should succumb to the sickness of Istrakan...The place is likely crawling
+with Undead. Still want to enter?
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Firetop Mountain
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*In the field*
+
+Master Otenko: This area should work. I'll summon the Pile Driver! Taiyohhhhhh!!
+
+*Otenko summons Pile Driver*
+
+*At the Otenko Panel*
+
+Master Otenko: Can't pass unless you come from above. Could be useful on the way
+back.
+
+*After entering the cave*
+
+Master Otenko: Django, the ghouls in this area are...fiery hot ghouls, commonly
+known as Burnboks. They attack with flaming Burrnun. Undead have specific
+elements, just like your gun lens. An ice attack should be effective. Equip the
+FROST lens, Django!
+
+*At the Otenko Panel*
+
+Master Otenko: Be careful, Django! In some places, lava is flowing on the
+ground. Watch for Lava Floors. If you step on one, you'll get hurt! Equip the
+FROST lens and use a Spread attack to freeze it.
+
+*After entering the lava filled room*
+
+Master Otenko: Look, Django. The Megarock Floor blocks the volcano mouth. It
+looks safe, but it's just an enormous rock floating on lava. It rises and falls
+with the magma underneath...if you could control the magma flow, you could use
+it as a kind of elevator. No matter what, it's going to be dangerous.
+
+*At the Otenko Panel*
+
+Master Otenko: Flames are bursting out of the walls. If you let the fire touch
+you, you'll be badly burnt. This rhythm reminds me of the Sun's
+prominence...Django, choose your moment and run all the way through!
+
+*After pulling the lever for the lava elevator*
+
+Master Otenko: Django, The Megarock Floor below is rising! This device appears
+to control the subterranean magma somehow, and it can raise or lower the lava
+level in the volcano.
+
+*Looking across lava*
+
+Master Otenko: Look, Django. We were over there earlier. The topography changes
+as the lava rises. Do you understand? Looks like the path continues over there.
+Keep going round until we get there!
+
+*After discovering the Iron Golem Giant*
+
+Django: !
+
+Master Otenko: Hm? Oh, right. This is Firetop Mountain. Django, these are the
+original golems, the ancient race of giants, the remains of the iron giants who
+mastered fire. Their majesty endures, protected through the ages by the
+Megarock.
+
+*After going into a Dark Loan*
+
+Master Otenko: Huh? What's that, Django? Hmmm...Try not to flex that plastic too
+much, Django.
+
+*At the Otenko Panel*
+
+Master Otenko: It's like a puzzle...The path continues from here. Come over here
+first, Django.
+
+*At the Otenko Panel*
+
+Master Otenko: Good, Django. Now line up two blocks here. We're almost there,
+Django!
+
+*After the block falls*
+
+Master Otenko: What was that that just fell?...
+
+*After Sabata is spotted*
+
+Django: !
+
+Master Otenko: !
+
+Sabata: Hm...Django, the next game is ready. Make your way through the Dungeon
+and come visit me. Don't keep me waiting! Mwahahahaha!
+
+*Sabata disappears*
+
+Master Otenko: What does he mean, 'game'?!...But to break the Seal and continue
+North, we may have to play along. Django, we need to get across somehow!
+
+*After the lava rises*
+
+Master Otenko: All very well raising the Megarock Floor...But we're still short
+of stepping stones to get over there. Django, look for something we can use!
+
+*At the Otenko Panel*
+
+Master Otenko: Huh?! There's a lot of lava...Maybe it's because you played with
+the controls. Hardened volcanic rock is moving over the lava. A Moving
+Floor...Watch your timing getting on the Moving Floor. I don't have to tell you
+what'll happen if you touch the lava, do I?
+
+*After the second platform falls*
+
+Master Otenko: Now I see! We can use those rocks to cross the Megarock Floor!
+These switches look like they're for removing rocks during mining. From the
+panel, it looks like there are 3 switches. One more switch. One more to go,
+Django!
+
+*After the final platform falls*
+
+Master Otenko: Alright! Three lava rocks down. That should make enough stepping
+stones to cross the Megarock Floor. Django, I have no idea what traps Sabata may
+have laid for us. Proceed carefully.
+
+*After Django crossed the platforms*
+
+Sabata: I've been waiting, Django!
+
+Django: !
+
+Sabata: So you want some more...The Iron Giant from Inferno, Iron Golem Muspell!
+
+*Sabata animates the Iron Giant and disappears*
+
+*After defeating the Golem*
+
+Sabata: Django...So you drove away both of the Guardians...Well, I would have
+been bored otherwise! Mwahahahahaha!
+
+Master Otenko: Sabata! What is it you're trying to do?
+
+Sabata: You'll find out. In time...Don't die first, OK, Django?
+
+Django: ...
+
+Sabata: I'll be waiting in Sol City...
+
+Master Otenko: Sol City...Anyway, the task at hand is to purify the Dark
+Guardian, Muspell. Let's go Django! Take him to the Pile Driver!
+
+*After the coffin is in the Pile Driver*
+
+Master Otenko: Taiyohhhhhh!!
+
+*After the Dark Seal is broken*
+
+Master Otenko: Alright! We've purified both Guardians. And both of the Seals are
+gone...Now we can go past Sealed Hill. We did it, Django!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>To Remaining Tower
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*Standing in front of Sealed Hill*
+
+Master Otenko: The Dark Seal has disappeared. Django, there's something you
+should know. The Sol City Sabata spoke of floats in the upper reaches of the
+sky. We can't walk there. But there is a certain item we can use to boost my
+Warp Magic Square and fly there. That item is to be found in the Delusion
+Forest. The Delusion Forest is...North...no, Northwest, I think...Head for the
+Delusion Forest, Django. May the Sun be with you!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Delusion Forest
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*After entering*
+
+Master Otenko: To get to Sol City, you will need a special sunflower that grows
+in the Delusion Forest, the Solflower. Sunflowers follow the path of the
+Sun...But the Solflower follows the path of Sol City. If my memory serves me
+right, that is...From here...go North once, four times East...then two times
+North to find the Solflower. But this is the Delusion Forest. As you move, you
+may lose your sense of direction. Django, watch your shadow.
+
+Django: ...
+
+Master Otenko: North = your upper right, East = your lower right, West = your
+upper left, South = your lower left. Observe carefully the way your shadow
+falls. Even if you lose your bearings, you have your shadow to fall back on.
+Alright Django?
+
+*Standing in front of the Solflower*
+
+Master Otenko: This is it! This is the Solflower! This flower will show us Sol
+City's route and current location. Alright. Now we know Sol City's route.
+Django, leave this forest and head North. Head to Skyview Plaza. From there you
+can fly to the city in the sky!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Valley of Ice
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*At the Otenko Panel*
+
+Master Otenko: Django, Sometimes you can't continue by just moving blocks.
+Destroy the blocks that stand in your way. You can melt Ice Blocks with the
+FLAME lens.
+
+*At the Otenko Panel*
+
+Master Otenko: An Ice Block...Once a block is pushed, it won't stop until it
+hits something. Keep that in mind.
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>To Skyview Plaza
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Master Otenko: Here! From here we can fly to Sol City.
+
+*Otenko summons a teleport*
+
+Master Otenko: Use this Warp Magic Square to fly to Sol City. We can go as soon
+as we're ready, Django!
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Sol City
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*After entering*
+
+Master Otenko: We made it safely. This is Sol City, the ancient capital built by
+the Solar Children. But now it is completely deserted. I don't know what Sabata
+wants, but for now this is our only lead...Stay alert, Django! May the Sun be
+with you!
+
+*After entering*
+
+Master Otenko: Be careful, Django! If you get blown off by the wind, you'll fall
+all the way to the ground. We're high in the sky...If you fell, no one could
+save you. Try to stay in the middle of the path.
+
+*At the Otenko Panel*
+
+Master Otenko: Is that a drain? An air shaft? Well, since we have no other way,
+you'll have to climb inside. But you won't fit, as big as you are...There's a
+Solar Fruit that makes you smaller. Do you have it, Django?
+
+*At the Otenko Panel*
+
+Master Otenko: The floating objects are Solar Mirrors. They move solar energy
+around Sol City. If you hit it with a Solar Shot, Your Shot's ray will be bent
+90 degrees. Press the A Button near the mirror to turn it 90 degrees. That way,
+you can control the angle of your Shot. If a mirror gets in your way, hit it
+with a Spread to break it. Remember how to use these Solar Mirrors, Django!
+
+*After finding Sabata*
+
+Django: !
+
+Master Otenko: !
+
+Sabata: Welcome to Sol City, Django.
+
+Django: ...
+
+Sabata: Can you see the tower rising above downtown? Someone is there at the
+top, waiting for you.
+
+Master Otenko: Wait just a moment, Sabata! What are you scheming?! Django!
+Attack! Let's settle things here and now!
+
+*After the fight*
+
+Sabata: My, my, Django, your friend is out for blood. We'll settle things when
+the time is right. I told you, didn't I? But for now, there are still a few
+things I'd like you to do for me. Head for the tower, if you want to save Moon
+Beauty!
+
+Master Otenko: Erm...Sorry, Django. I acted a little rashly just now.
+Unfortunately, for now, we must do what he says. I used too much energy opening
+the Warp Magic Square. I can't summon the Pile Driver quite yet. Hurry to the
+center of the city. There should be an Express Elevator to the top, at the tower
+base.
+
+*At the Otenko Panel*
+
+Master Otenko: Arithmetic...6 x ? ? 4 = 3, right? Either 3 or 2 follows x. Then
+it's either / or -. Do you get it Django?
+*At the Otenko Panel*
+
+Django, that plant over there is a Solar Root, a plant native to Sol City. It
+lives off the solar energy that showers the Earth. If it looks off-color, equip
+the EARTH lens and use the Spread. Go on...make it happy!
+
+*After Otenko discovers the statues*
+
+Master Otenko: For Cockatrice statues. They look like females. These are new
+additions. Is this the Immortals' doing? The Petrifying Rays from the males...Is
+this a trap?
+
+*After the elevator is fixed*
+
+Master Otenko: Alright. Now we can use the Express Elevator. We should be able
+to go right to the top. I have no idea what may be waiting for us up there. Stay
+alert! May the Sun be with you!
+
+*Snatches of conversation can be heard.*
+
+???: ... ... ...Please... ...The Queen will... ... ... ...terrible Dark...
+
+Sabata: ... ...Carmilla.... ...the only way... ... ...Moon Beauty... ...
+...Queen. Entrust... ...to me.
+
+???: I am Immortal.... ... ...
+
+Sabata: You think I don't know? For now I cannot... ... ...again...But when...
+...if my... ... ...life remains...... ... ...all of me...
+
+???: ... ... ...
+
+Master Otenko: ...Who is Sabata talking to?
+
+*Sabata appears*
+
+Django: !
+
+Master Otenko: !
+
+Sabata: Eavesdropping? Bad manners for someone who calls himself a messenger of
+the Sun.
+
+Master Otenko: ...
+
+Sabata: She's waiting. Go, Django!
+
+Master Otenko: ...It's probably a trap. I'll go first.
+
+*Otenko enters*
+
+Master Otenko: Aaaaaaaaaaaaa!
+
+Django: !
+
+*Django runs in*
+
+Sorrowful Girl: You're finally here. If you hadn't come...things wouldn't have
+turned out this way......Farewell, Sun...
+
+Master Otenko's voice: Django...I think...this may be it for me...With my last
+bit of energy...I'll put the Pile Driver where you fought Sabata...Defeat
+her...Save...Mani...Moon Beauty...May the Sun be with you! ...I'm
+sorry......Ringo...
+
+Django: ! MASTER!
+
+*Otenko summons the Pile Driver*
+
+Sorrowful Girl: You lost your friend, and still you would fight. Fine...Now it's
+your turn. Come to me!
+
+*Girl turns to a rattlesnake*
+
+Lady Vampire: I am Carmilla. I am...Banshee the Deathbringer. Moon Child...The
+hunter who shares Sabata's blood...You foolish, ignorant boy...Now you'll pay
+for your misdeeds!
+
+*After Django defeats Carmilla*
+
+Master Otenko's voice: Purify her in the square outside...
+
+*After Carmilla is on the Pile Driver*
+
+Master Otenko's voice: Django...Django, you cannot purify Carmilla with the
+coffin lid closed. Hide the sensor from the Sun to make her careless...
+
+*After Carmilla is destroyed*
+
+Sabata: Carmilla's done for...
+
+Django: !
+
+Sabata: At least we've seen the last of that pesky spirit. Count of the
+Earth...Fiery Muspell...Ice Garmr...and Carmilla of the Wind. Two Immortals and
+two Guardians, which have taken in the four elements...The four elemental powers
+they have gathered...are pushing the Queen's Dark Castle toward the Moon...Moon
+Beauty, Moon Child...The incredible Undeadening power of the Moon...Everything
+is going as the Queen planned...But I have something else in mind. I...... argh!
+
+???: Sabata...Come back...Your mission is complete...The castle...to the Moon...
+
+Sabata: Grr...Looks like I'll have to postpone our encounter. I am...waiting...
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Dark Castle
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+Django: !
+
+*Count appears*
+
+Count: I never thought you'd get as far as this. Solar Child, Moon Child--cross-
+breading for strength, one might say!
+
+Django: ...
+
+Count: It can't be...Geh heh heh heh...No mere human could get this far. Not
+just solar blood...but lunar, also. A Solar Child father...A moon Child
+mother...That mixed blood has made you strong. An ordinary human would turn
+Undead at the mere touch of 'folun! But enough. Your journey ends here. My three
+servants and I -- the Undead Immortals -- four Seals protect the Queen and
+propel us to the Moon! Geh heh heh heh!
+
+*After entering the Count's lair*
+
+Count: You kept me waiting, Hunter-- no, Django! You beat me once...You won't
+beat me again. Even your father, the best Vampire Hunter that ever was, could
+not defeat the flow of time. Humans...Mortals are such miserable creatures. But
+I am an undying Immortal! With this Dark Matter, I can return time after time!
+Geh heh heh heh! The Musical of Blood is ripe for a revival! Let's go, Django!
+
+*After defeating Count*
+
+Dying Count: Ridiculous! How could I... Twice! Is this blood, this soul...your
+bequest...? Is this your power, Ringo? Forgive me...Qu--, Qu-- Queeeeeen!
+
+*After encountering Muspell*
+
+Django: !
+
+*After defeating Muspell*
+
+Sabata's Thoughts: The force to drive this castle was to be gathered from four
+ends of eras, each summoned to the City of Death, Istrakan, by two Immortals and
+two Guardians. And the Earthly Maiden was to be the necessary sacrifice. But
+your arrival forced a change of plans...
+
+*After encountering Garmr*
+
+Django: !
+
+*After defeating Garmr*
+
+Sabata's Thoughts: It was then that I sacrificed the four, in order to make use
+of your power -- a power enough to destroy them -- the white-hot energy of the
+Sun! Everything went just as planned. The foolish Count never realized he was
+being used! Mwahahahaha!
+
+*After encountering Carmilla*
+
+Django: !
+
+Soulless Carmilla: ...
+
+*After defeating Carmilla*
+
+Soulless Carmilla: Sabata...
+
+*After the door closes behind Django*
+
+Django: ...
+
+Sabata: Did you break the Seals, Django?
+
+Django: !
+
+Sabata: The four towers are gone. The castle's ascent has ceased, and the Queen
+is rather angry. Mwahahahaha! The energy that did in the Queen's four servants
+should deliver the castle to the Moon...But I did not give the Dark Castle all
+of that power...I am neither human nor Immortal...I am the Chosen One of the
+Dark - the will of the Galaxy - the Dark Child!! I shall not bend to the will of
+the Queen, or any other!...Arghhh!
+
+Django: !
+
+Sabata: ...The time to settle this is near...Thanks to you, my power has reached
+its limit! Give it everything you have, Django!
+
+*After Django defeats Sabata*
+
+Sabata: Ho...How...How could this be...?! Imbued with Dark Matter, wielding the
+power of the four elements and of the Sun! And to such a sniveling mama's boy as
+you! Am I done for? No, never! Soon I will have no need to rely on borrowed
+power! Show your power, Gun Del Hell! Show them their fate! Yes! Yes! Yes! Yes!
+Yes! Here we go! Let's go, go, go, go, Django! Light and Dark! It comes down to
+this! Be afraid, Sun!
+
+*After defeating Sabata again*
+
+Sabata: Mw...Mwahahahaha! I'm done for, Django. I'm too weak to hate
+you...Moonlight holds two conflicting powers; lunacy and mercy...Moon Child
+blood is a double-edged sword...Your plans were too, ambitious, oh great will of
+the Galaxy...Save Moon Beauty...Save our mother...It's in your hands.
+
+Django: ...!
+
+Master Otenko: Hm! Looks like I'm back to my usual self. And about time! Solar
+Boy, you've done well for yourself! I must say, you're a chip off the old block,
+Django. Hm. Looks like I should explain. I am the terrestrial embodiment of Sol.
+I'm not a physical being. When Carmilla turned me into a rock in Sol City,
+Sabata took control of my consciousness. Sabata's Moon Child blood made that
+possible. Sabata's mother -- your mother -- is Mani, Moon Beauty. All that Mani
+wanted was to live a quiet life -- to live and die like any other person. That
+is the reason why she couldn't reveal her true identity, even to you, her own
+son. The sol surviving Moon Child...her kin, driven to the brink of extinction
+by the Immortals. The moon reflects sunlight. That light - moonlight- gives the
+Immortals their power. And that's what the Queen of Immortals wants -- to use
+Moon Beauty's ability to use solar energy and cover the Earth's surface with
+Dark Matter... to make the Earth itself Undead! We must stop her! Let's go,
+Django!
+
+*Standing in front of the Queen*
+
+Master Otenko: The Queen of Immortals, Hel!
+
+Hel: I've been expecting you...So, Sabata is down...To make a Dark Child from
+the flesh of the Sun and Moon...He was a reckless experiment...
+
+Master Otenko: Hel! Give us Moon Beauty! Give us Mani!
+
+Hel: Don't be silly. She, like all Moon Children, was born Immortal. What's
+wrong with taking back the sister who was stolen from me?
+
+Django: !
+
+Hel: I see. You got this far knowing nothing. You merely dance as Sol pulls your
+strings -- to the point that you would knock down your own kin; Your brother!
+
+Master Otenko: ...
+
+Hel: Think about it...All the Undead you've defeated...Who were they? Did you
+really have to defeat them?
+
+Django: ...
+
+Hel: For us, the will of the Galaxy is absolute. The will of the Galaxy is
+clear! It rejects the human ambition to spread across the universe! We Immortals
+cannot die. We have no offspring, so our numbers do not rise. The Undead that we
+Immortals create are free from the cycle of life and death. They have a
+stationary, pure existence. When species cease to evolve, they are no longer a
+threat to the universe. You see, my work is charity! All species will be allowed
+to exist only as the Undead!
+
+Master Otenko: Nonsense! How can you live without living? Laughter! Sorrow!
+Anger! Happiness! Sadness! Even when it causes pain, to live is something
+wonderful!! I don't believe your theory! Our Sun loves all life! Even if what
+you say -- Even if it is the will of the Galaxy! The Sun lights the Earth,
+lights up all life, and brightens human's hearts. It's not energy. It's a
+force... an indescribable force. The Sun is not just a star in the Galaxy...It
+is a paean to life -- Our song of thanksgiving!
+
+Hel: The Sun would resist the Galaxy? How foolish! Give your life and survive?
+Or live only to perish? Make your choice!
+
+Master Otenko: Let's go, Django! The Sun will rise tomorrow!
+
+*Master Otenko summons a Pile Driver*
+
+Master Otenko: Listen, Django. You can't beat the Queen with the Solar Gun
+alone. Use the Pile Driver to amplify solar energy and burn the Dark Matter!
+I'll summon four Generators! In the meantime...Try to hold her off!
+
+*After Otenko summons the Generators*
+
+Master Otenko: Ready! Listen up, Django! Use your Solar Gun to fire the solar
+energy amplified by the four Generators! Stand in the middle of the Pile Driver,
+and hold down the B Button to collect solar energy. When the energy spheres are
+ready, release the B Button to set off the energy sphere attack, Wild Bunch!
+
+*After shooting Hel with the Wild Bunch*
+
+Hel: You fool, Django! You are just a lowly human boy...My sister, your mother,
+Moon Beauty, is already one of us. The power of the Moon Children, which so long
+eluded me...is now in my grasp! Nothing can stop me! Behold the one who rules
+this star!
+
+*Hel turns into her true form, and tries to strike Django*
+
+Sabata: What are you waiting for, Django?!
+
+Master Otenko: Sabata!
+
+Sabata: We have Moon Child blood inside us, too. If we work together we can
+overcome each other's weaknesses...We must defeat the Queen and save our mother!
+
+Hel: You live yet...What is this...? Brotherly love?
+
+Sabata: Love? Did you say, 'love'...? Queeeeeen!! Dark Matter is the power of
+hatred! I hate it! I hate you! Gun Del Sol and Gun Del Hell! The Wild West meets
+the Wild East! Come on, Django!
+
+*After Hel is defeated*
+
+Dying Hel: Is-is this the will of the Galaxy...? It can't be...how??
+
+Master Otenko: Will is the power which strives to live -- the power inside all
+living things. You did not lose to the Sun. You lost to the will of all who
+yearn to live. Combined, their will is the power behind...
+
+Django and Sabata: Our Sun!
+
+Moon Beauty: Thank you, children! My betrayal led to despair and madness, but
+now, at last, those wounds are healed. Your father, and the days we had together
+- I do not regret any of it. And the happiness you children brought me...Our
+bodies may perish, but our spirits will be here to protect you, no matter what.
+May the light of the moon illuminate your path! Thank you, Django! Thank you,
+Sabata!
+
+Master Otenko: You did well, Solar Boy!! My job here is done. But it looks like
+I overextended myself...I took in too much Dark Matter...Soon I won't be able to
+maintain this presence. Thank you...I had so much fun...traveling with
+you...Farewell...My friend, Django...May the Sun be with you!
+
+Sabata: Django, we have to do something!
+
+*After Django saves Otenko*
+
+Master Otenko: Hmmf! That was close...You saved me again, Django!
+
+Django: ...
+
+Sabata: ...
+
+Master Otenko: Alright, time to go! Solar Boy Django! Dark Boy Sabata!
+
+THE END
+
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+>Azure Sky Tower
+~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+
+*After reaching the top of the Tower*
+
+Silvery White Knight: Well done, my young adventurer. I am the Moon Guardian, a
+spirit being, shadow of the unknown soldier, and protector of the Moon...And
+you, who have journeyed so far, have also earned the right to be called
+'warrior'. But a warrior is nothing without his sword...Test your mettle!
+
+*After defeating the Knight*
+
+Silver White Knight: ...I see... it was you who released Muspell and Garmr from
+the darkness. I want to thank you for saving my friends. In you flows the blood
+of the Moon Child. Given your lineage, it would seem that I am destined to serve
+you. My young soldier, take my sword!
+
+Master Otenko: I see...To have subdued the legendary Guardian...! Perhaps you
+have already surpassed your father, Ringo, Django. Let's get back to the ground.
+May the Sun - and the Moon - be with you!
+
+*Second time through at the top*
+
+Silvery White Knight: Django! You have returned, my liege! Ready to show me your
+swordsmanship? I will partner you in a duel, whenever you're ready!
+
+*After beating the Knight again*
+
+Silvery White Knight: Splendid! Well done, my lord Django!
+
+===============================================================================
+ Revisions
+===============================================================================
+
+Version 1.00
+  - Published
+Version 1.10
+  - Added some stuff that is revealed on the second way through the game.
+
+===============================================================================
+ Special Thanks
+===============================================================================
+
+I would like to thank the following people, groups, organizations in no
+particular order.
+
+http://www.gamefaqs.com for having a wonderful board full of players who helped
+me beat the game :)
+Konami for producing and publishing this game.
+Nintendo for manufacturing the Gameboy Advance.
+
+All trademarks and copyrights contained in this document are owned by their
+respective trademark and copyright holders.
