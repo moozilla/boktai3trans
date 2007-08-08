@@ -6913,18 +6913,27 @@ $E=====1988=====
 $E=====1989=====
 <PROC=0>
 <END>
-$J=====1990=====
-<LABEL>トリニティ</LABEL>
-「人々が太陽をわすれたってい
-う暗黒の時代・・・
-$J=====1991=====
-破壊(はかい)の獣(けもの)、ヴ
-ァナルガンドに世界はメチャク
-チャにされちまった
-$J=====1992=====
-そしてそのヴァナルガンドをあ
-やつる闇の一族(イモータル)に
-支配(しはい)された世界が、
+$E=====1990=====
+//<LABEL>トリニティ</LABEL>
+//「人々が太陽をわすれたってい
+//う暗黒の時代・・・
+<LABEL>Trinity</LABEL>:
+"The Dark Era, when people
+had forgotten the Sun...
+$E=====1991=====
+//破壊(はかい)の獣(けもの)、ヴ
+//ァナルガンドに世界はメチャク
+//チャにされちまった
+that world ended up being
+ruined by the Beast of
+Destruction, Vanargand.
+$E=====1992=====
+//そしてそのヴァナルガンドをあ
+//やつる闇の一族(イモータル)に
+//支配(しはい)された世界が、
+And then there's the world
+that the Immortals control
+using that same Vanargand,
 $E=====1993=====
 //未来世紀さ<PROC=1>
 the Future Era.<PROC=1>
@@ -12806,16 +12815,21 @@ $U=====3370=====
 $E=====3371=====
 <PROC=0>
 <END>
-$J=====3372=====
-<LABEL=COACH>コーチ</LABEL>
-「ふん・・・まあいい
-$J=====3373=====
-いずれ身をもって、この鉄馬の
-世界のきびしさを知ることにな
-る・・・
+$E=====3372=====
+//<LABEL=COACH>コーチ</LABEL>
+//「ふん・・・まあいい
+<LABEL=COACH>Coach</LABEL>:
+"Heh... fine.
+$U=====3373=====
+//いずれ身をもって、この鉄馬の
+//世界のきびしさを知ることにな
+//る・・・
+いずれ身をもって、to come to
+know the harshness of this
+鉄馬 world...
 $E=====3374=====
 //では、教習にうつるぞ!
-Well then, I'll train you!
+well then, I'll train you!
 $E=====3375=====
 //まずは、棺桶(かんおけ)バイク
 //の操作(そうさ)からだ
@@ -12827,48 +12841,78 @@ $E=====3376=====
 //ルだ
 To steer with the Handle,
 move the <WEIGHT>{＋}Control Pad</WEIGHT>.
-$J=====3377=====
-<WEIGHT>Ｒボタン</WEIGHT>は、押(お)している間
-バイクを加速させる。すなわち
-アクセルだ
-$J=====3378=====
-<WEIGHT>Ｌボタン</WEIGHT>はブーストだ
-$J=====3379=====
-一時的ではあるが、バイクを急
-激(きゅうげき)に加速させるこ
-とができる
-$J=====3380=====
-そして<WEIGHT>Ｂボタン</WEIGHT>では、フロント
-に装備(そうび)されたウエポン
-で、
-$J=====3381=====
-障害物(しょうがいぶつ)や敵(
-てき)モンスターを攻撃(こうげ
-き)することができる
-$J=====3382=====
-今はまだ持っていないかもしれ
-ないが、スペシャルを装備(そ
-うび)して、
-$J=====3383=====
-<WEIGHT>Ａボタン</WEIGHT>で発動すれば、
-$J=====3384=====
-攻撃(こうげき)のほか、回復(
-かいふく)や防御(ぼうぎょ)な
-どを行うこともできるぞ
-$J=====3385=====
-ただし、ブーストとウエポン、
-スペシャルはエナジーを消費す
-る
-$J=====3386=====
-エナジーの残量には注意しろ
-$J=====3387=====
-以上が、棺桶(かんおけ)バイク
-の基本的(きほんてき)な操作方
-法(そうさほうほう)だ
-$J=====3388=====
-さっそくサーキットに出て、鉄
-馬を走らせてみろ!」
-$J=====3389=====
+$E=====3377=====
+//<WEIGHT>Ｒボタン</WEIGHT>は、押(お)している間
+//バイクを加速させる。すなわち
+//アクセルだ
+To accelerate, hold down the
+<WEIGHT>R Button</WEIGHT>.
+$E=====3378=====
+//<WEIGHT>Ｌボタン</WEIGHT>はブーストだ
+The <WEIGHT>L Button</WEIGHT> is used for
+Boosts.
+$E=====3379=====
+//一時的ではあるが、バイクを急
+//激(きゅうげき)に加速させるこ
+//とができる
+Boosts give you a sudden,
+temporary burst of
+acceleration.
+$E=====3380=====
+//そして<WEIGHT>Ｂボタン</WEIGHT>では、フロント
+//に装備(そうび)されたウエポン
+//で、
+To attack enemy monsters and
+obstacles,
+$E=====3381=====
+//障害物(しょうがいぶつ)や敵(
+//てき)モンスターを攻撃(こうげ
+//き)することができる
+press the B Button to fire
+the weapon attached to your
+bike front.
+$E=====3382=====
+//今はまだ持っていないかもしれ
+//ないが、スペシャルを装備(そ
+//うび)して、
+You probably don't have any
+yet, but when you have a
+bike special equipped,
+$E=====3383=====
+//<WEIGHT>Ａボタン</WEIGHT>で発動すれば、
+you can press the <WEIGHT>A Button</WEIGHT>
+to activate it,
+$E=====3384=====
+//攻撃(こうげき)のほか、回復(
+//かいふく)や防御(ぼうぎょ)な
+//どを行うこともできるぞ
+providing effects like
+recovery, defense, or
+another attack.
+$E=====3385=====
+//ただし、ブーストとウエポン、
+//スペシャルはエナジーを消費す
+//る
+However, Boosts, weapons,
+and specials all require
+energy.
+$E=====3386=====
+//エナジーの残量には注意しろ
+Always keep an eye on your
+energy reserves.
+$E=====3387=====
+//以上が、棺桶(かんおけ)バイク
+//の基本的(きほんてき)な操作方
+//法(そうさほうほう)だ
+That should cover the Coffin
+Bike basics and operating
+prodecures.
+$E=====3388=====
+//さっそくサーキットに出て、鉄
+//馬を走らせてみろ!」
+Now get out there and take
+that baby for a spin!"
+$E=====3389=====
 <PROC=0>
 <END>
 $E=====3390=====
@@ -13067,231 +13111,363 @@ You've got them all."
 $E=====3429=====
 <PROC=0>
 <END>
-$J=====3430=====
-<LABEL=COACH>コーチ</LABEL>
-「念のために、もう一度説明し
-ておこう
-$J=====3431=====
-棺桶(かんおけ)バイクの基本操
-作(きほんそうさ)はこうだ
-$J=====3432=====
-<WEIGHT>{＋}ボタン</WEIGHT>はバイクの移動(いど
-う)に使用する。いわばハンド
-ルだ
-$J=====3433=====
-<WEIGHT>Ｒボタン</WEIGHT>は、押(お)している間
-バイクを加速させる。すなわち
-アクセルだ
-$J=====3434=====
-<WEIGHT>Ｌボタン</WEIGHT>はブーストだ
-$J=====3435=====
-一時的ではあるが、バイクを急
-激(きゅうげき)に加速させるこ
-とができる
-$J=====3436=====
-そして<WEIGHT>Ｂボタン</WEIGHT>では、フロント
-に装備(そうび)されたウエポン
-で、
-$J=====3437=====
-障害物(しょうがいぶつ)や敵(
-てき)モンスターを攻撃(こうげ
-き)することができる
-$J=====3438=====
-スペシャルを装備(そうび)して
-<WEIGHT>Ａボタン</WEIGHT>で発動すれば、
-$J=====3439=====
-攻撃(こうげき)のほか、回復(
-かいふく)や防御(ぼうぎょ)な
-どを行うこともできるぞ
-$J=====3440=====
-ただし、ブーストとウエポン、
-スペシャルはエナジーを消費す
-る
-$J=====3441=====
-エナジーの残量には注意しろ
-$J=====3442=====
-以上が、棺桶(かんおけ)バイク
-の基本的(きほんてき)な操作方
-法(そうさほうほう)だ」
-$J=====3443=====
+$E=====3430=====
+//<LABEL=COACH>コーチ</LABEL>
+//「念のために、もう一度説明し
+//ておこう
+<LABEL=COACH>Coach</LABEL>:
+"If you want, I'll give you
+the explanation again.
+$E=====3431=====
+//棺桶(かんおけ)バイクの基本操
+//作(きほんそうさ)はこうだ
+Here are the Coffin Bike's
+controls:
+$E=====3432=====
+//<WEIGHT>{＋}ボタン</WEIGHT>はバイクの移動(いど
+//う)に使用する。いわばハンド
+//ルだ
+To steer with the Handle,
+move the <WEIGHT>{＋}Control Pad</WEIGHT>.
+$E=====3433=====
+//<WEIGHT>Ｒボタン</WEIGHT>は、押(お)している間
+//バイクを加速させる。すなわち
+//アクセルだ
+To accelerate, hold down the
+<WEIGHT>R Button</WEIGHT>.
+$E=====3434=====
+//<WEIGHT>Ｌボタン</WEIGHT>はブーストだ
+The <WEIGHT>L Button</WEIGHT> is used for
+Boosts.
+$E=====3435=====
+//一時的ではあるが、バイクを急
+//激(きゅうげき)に加速させるこ
+//とができる
+Boosts give you a sudden,
+temporary burst of
+acceleration.
+$E=====3436=====
+//そして<WEIGHT>Ｂボタン</WEIGHT>では、フロント
+//に装備(そうび)されたウエポン
+//で、
+To attack enemy monsters and
+obstacles,
+$E=====3437=====
+//障害物(しょうがいぶつ)や敵(
+//てき)モンスターを攻撃(こうげ
+//き)することができる
+press the B Button to fire
+the weapon attached to your
+bike front.
+$E=====3438=====
+//スペシャルを装備(そうび)して
+//<WEIGHT>Ａボタン</WEIGHT>で発動すれば、
+If you have a bike special
+equipped, you can press the
+<WEIGHT>A Button</WEIGHT> to activate it,
+$E=====3439=====
+//攻撃(こうげき)のほか、回復(
+//かいふく)や防御(ぼうぎょ)な
+//どを行うこともできるぞ
+providing effects like
+recovery, defense, or other
+attacks.
+$E=====3440=====
+//ただし、ブーストとウエポン、
+//スペシャルはエナジーを消費す
+//る
+However, Boosts, weapons,
+and specials all require
+energy.
+$E=====3441=====
+//エナジーの残量には注意しろ
+Always keep an eye on your
+energy reserves.
+$E=====3442=====
+//以上が、棺桶(かんおけ)バイク
+//の基本的(きほんてき)な操作方
+//法(そうさほうほう)だ」
+That should cover the Coffin
+Bike basics and operating
+prodecures.
+$E=====3443=====
 <PROC=0>
 <END>
-$J=====3444=====
-<LABEL=COACH>コーチ</LABEL>
-「コースの上に置かれた障害物
-(しょうがいぶつ)に、
-$J=====3445=====
-対処(たいしょ)する方法は2つ
-$J=====3446=====
-1つはよけること、もう1つは破
-壊(はかい)することだ
-$J=====3447=====
-装備(そうび)しているパーツや
-残りエナジー、敵(てき)モンス
-ターの位置など、
-$J=====3448=====
-ときどきの状況(じょうきょう)
-に合わせて、ベストな行動を選
-択(せんたく)をするんだ」
-$J=====3449=====
+$E=====3444=====
+//<LABEL=COACH>コーチ</LABEL>
+//「コースの上に置かれた障害物
+//(しょうがいぶつ)に、
+<LABEL=COACH>Coach</LABEL>:
+"When faced with obstacles
+on a course,
+$E=====3445=====
+//対処(たいしょ)する方法は2つ
+there are two ways to deal
+with them:
+$E=====3446=====
+//1つはよけること、もう1つは破
+//壊(はかい)することだ
+You can try to dodge them,
+or you can destroy them.
+$E=====3447=====
+//装備(そうび)しているパーツや
+//残りエナジー、敵(てき)モンス
+//ターの位置など、
+Depending on your equipped
+parts, your energy reserves,
+and monster locations,
+$E=====3448=====
+//ときどきの状況(じょうきょう)
+//に合わせて、ベストな行動を選
+//択(せんたく)をするんだ」
+sometimes you'll have to
+pick the best method for
+the situation you're in."
+$E=====3449=====
 <PROC=0>
 <END>
-$J=====3450=====
-<LABEL=COACH>コーチ</LABEL>
-「コースの上に置かれたグリー
-ンとオレンジのポットは、
-$J=====3451=====
-回復(かいふく)ポットだ
-$J=====3452=====
-バイクを接触(せっしょく)させ
-ることで回収(かいしゅう)でき
-$J=====3453=====
-グリーンはバイクのHPを、オレ
-ンジはエナジーを回復(かいふ
-く)するぞ」
-$J=====3454=====
+$E=====3450=====
+//<LABEL=COACH>コーチ</LABEL>
+//「コースの上に置かれたグリー
+//ンとオレンジのポットは、
+<LABEL=COACH>Coach</LABEL>:
+"You may encounter green and
+orange pots on a course,
+$E=====3451=====
+//回復(かいふく)ポットだ
+which are recovery potions.
+$E=====3452=====
+//バイクを接触(せっしょく)させ
+//ることで回収(かいしゅう)でき
+Run over them with your bike
+to pick them up.
+$E=====3453=====
+//グリーンはバイクのHPを、オレ
+//ンジはエナジーを回復(かいふ
+//く)するぞ」
+Green potions recover your
+bike's HP, while orange ones
+recover its energy."
+$E=====3454=====
 <PROC=0>
 <END>
-$J=====3455=====
-<LABEL=COACH>コーチ</LABEL>
-「コース上には、2つの特徴(と
-くちょう)ある路面がある
-$J=====3456=====
-1つはスピードをうばうダート
-もう1つは、ハンドルの自由を
-うばうアイスだ
-$J=====3457=====
-いずれの路面でも、専用(せん
-よう)のタイヤさえ装備(そうび
-)すれば、
-$J=====3458=====
-その影響(えいきょう)をまぬが
-れることができる
-$J=====3459=====
-ダートの場合は、ブーストで駆
-(か)けぬけるという手もあるな
-」
-$J=====3460=====
+$E=====3455=====
+//<LABEL=COACH>コーチ</LABEL>
+//「コース上には、2つの特徴(と
+//くちょう)ある路面がある
+<LABEL=COACH>Coach</LABEL>:
+"On a course, there are two
+special types of surfaces.
+$E=====3456=====
+//1つはスピードをうばうダート
+//もう1つは、ハンドルの自由を
+//うばうアイスだ
+Dirt lowers your speed,
+while Ice reduces your
+handling ability.
+$E=====3457=====
+//いずれの路面でも、専用(せん
+//よう)のタイヤさえ装備(そうび
+//)すれば、
+For each of those surfaces,
+$E=====3458=====
+//その影響(えいきょう)をまぬが
+//れることができる
+there's a type of tire that
+negates the effects.
+$E=====3459=====
+//ダートの場合は、ブーストで駆
+//(か)けぬけるという手もあるな
+//」
+Also, you can use a Boost to
+quickly get through a Dirt
+patch."
+$E=====3460=====
 <PROC=0>
 <END>
-$J=====3461=====
-<LABEL=COACH>コーチ</LABEL>
-「マネージャーからの報告(ほ
-うこく)によると、
-$J=====3462=====
-バイクポイントとの交換(こう
-かん)によって、手に入れるこ
-とのできるバイクのパーツは、
-$J=====3463=====
-300ポイントのコースで、残り
-<VAR=0>コ、
-$J=====3464=====
-600ポイントのコースで、残り
-<VAR=1>コ、
-$J=====3465=====
-1200ポイントのコースで、残り
-<VAR=2>コだ」
-$J=====3466=====
+$E=====3461=====
+//<LABEL=COACH>コーチ</LABEL>
+//「マネージャーからの報告(ほ
+//うこく)によると、
+"According to the manager's
+info,
+$E=====3462=====
+//バイクポイントとの交換(こう
+//かん)によって、手に入れるこ
+//とのできるバイクのパーツは、
+<LABEL=COACH></LABEL>the number of bike parts
+you can still get from each
+exchange course are:
+$E=====3463=====
+//300ポイントのコースで、残り
+//<VAR=0>コ、
+300 points: <VAR=0> left,
+$E=====3464=====
+//600ポイントのコースで、残り
+//<VAR=1>コ、
+600 points: <VAR=1> left,
+$E=====3465=====
+//1200ポイントのコースで、残り
+//<VAR=2>コだ」
+1200 points: <VAR=2> left."
+$E=====3466=====
 <PROC=0>
 <END>
-$J=====3467=====
-<LABEL=COACH></LABEL>バイクポイントとの交換(こう
-かん)によって、手に入れるこ
-とのできるバイクのパーツは、
-$J=====3468=====
-もうない」
-$J=====3469=====
+$E=====3467=====
+//<LABEL=COACH></LABEL>バイクポイントとの交換(こう
+//かん)によって、手に入れるこ
+//とのできるバイクのパーツは、
+<LABEL=COACH></LABEL>there aren't any bike parts
+left to be exchanged for
+points.
+$E=====3468=====
+//もうない」
+You've got them all."
+$E=====3469=====
 <PROC=0>
 <END>
-$J=====3470=====
-<LABEL=COACH>コーチ</LABEL>
-「コース上にあらわれる敵(て
-き)モンスターは、
-$J=====3471=====
-おまえと同様にバイクに乗り、
-体当たりや爆弾(ばくだん)で攻
-撃(こうげき)をしかけてくる
-$J=====3472=====
-ウエポンやスペシャルによる攻
-撃(こうげき)でもたおせるが、
-$J=====3473=====
-エナジーがない場合は、
-$J=====3474=====
-体当たりなどで、障害物(しょ
-うがいぶつ)にぶつけてたおす
-こともできるぞ
-$J=====3475=====
-十分なエナジーが確保(かくほ)
-できるなら、ブーストで一気に
-引きはなすのも手だ」
-$J=====3476=====
+$E=====3470=====
+//<LABEL=COACH>コーチ</LABEL>
+//「コース上にあらわれる敵(て
+//き)モンスターは、
+<LABEL=COACH>Coach</LABEL>:
+"At various points on a
+course you'll find monsters,
+$E=====3471=====
+//おまえと同様にバイクに乗り、
+//体当たりや爆弾(ばくだん)で攻
+//撃(こうげき)をしかけてくる
+riding a bike just like you
+and attacking with bombs or
+by ramming.
+$E=====3472=====
+//ウエポンやスペシャルによる攻
+//撃(こうげき)でもたおせるが、
+You can attack them with
+your weapon and specials to
+defeat them,
+$E=====3473=====
+//エナジーがない場合は、
+but when you're out of
+energy,
+$E=====3474=====
+//体当たりなどで、障害物(しょ
+//うがいぶつ)にぶつけてたおす
+//こともできるぞ
+you can also defeat them
+by ramming them into
+obstacles.
+$E=====3475=====
+//十分なエナジーが確保(かくほ)
+//できるなら、ブーストで一気に
+//引きはなすのも手だ」
+If you've saved enough
+energy, you can also evade
+them with a quick Boost."
+$E=====3476=====
 <PROC=0>
 <END>
-$J=====3477=====
-<LABEL=COACH>コーチ</LABEL>
-「棺桶(かんおけ)バイクのブレ
-ーキは、
-$J=====3478=====
-<WEIGHT>Ｒボタン</WEIGHT>、すなわちアクセルを
-はなすことで行う
-$J=====3479=====
-ブレーキ性能(せいのう)を高め
-れば、
-$J=====3480=====
-障害物(しょうがいぶつ)や敵(
-てき)モンスターにぶつかった
-ときの反動も少なくできるぞ」
-$J=====3481=====
+$E=====3477=====
+//<LABEL=COACH>コーチ</LABEL>
+//「棺桶(かんおけ)バイクのブレ
+//ーキは、
+<LABEL=COACH>Coach</LABEL>:
+"To use the brakes on your
+bike,
+$E=====3478=====
+//<WEIGHT>Ｒボタン</WEIGHT>、すなわちアクセルを
+//はなすことで行う
+hold the <WEIGHT>R Button</WEIGHT> and you
+will decelerate.
+$E=====3479=====
+//ブレーキ性能(せいのう)を高め
+//れば、
+If you raise your brake
+efficiency,
+$E=====3480=====
+//障害物(しょうがいぶつ)や敵(
+//てき)モンスターにぶつかった
+//ときの反動も少なくできるぞ」
+it will also reduce the
+recoil from collisions with
+monsters and obstacles."
+$E=====3481=====
 <PROC=0>
 <END>
-$J=====3482=====
-<LABEL=COACH>コーチ</LABEL>
-「バイクバトルは、
-$J=====3483=====
-棺桶(かんおけ)バイクによる、
-2人用通信対戦だ
-$J=====3484=====
-1人用のバイクアクションとは
-またちがった、高度な駆(か)け
-引きを楽しむことができるぞ
-$J=====3485=====
-オプションの中には、このバイ
-クバトル専用(せんよう)のもの
-もあるからな
-$J=====3486=====
-得られるバイクポイントも多い
-から、チャンスがあったら積極
-的に戦うといい」
-$J=====3487=====
+$E=====3482=====
+//<LABEL=COACH>コーチ</LABEL>
+//「バイクバトルは、
+<LABEL=COACH>Coach</LABEL>:
+"Bike Battle is a 2-player
+link battle,
+$E=====3483=====
+//棺桶(かんおけ)バイクによる、
+//2人用通信対戦だ
+using Coffin Bikes.
+$E=====3484=====
+//1人用のバイクアクションとは
+//またちがった、高度な駆(か)け
+//引きを楽しむことができるぞ
+Unlike single-player Bike
+Action, you'll enjoy using
+more advanced tactics.
+$E=====3485=====
+//オプションの中には、このバイ
+//クバトル専用(せんよう)のもの
+//もあるからな
+There are also bike options
+that work exclusively with
+Bike Battle.
+$E=====3486=====
+//得られるバイクポイントも多い
+//から、チャンスがあったら積極
+//的に戦うといい」
+On top of that, you earn a
+lot of bike points, so try
+it when you get a chance."
+$E=====3487=====
 <PROC=0>
 <END>
-$J=====3488=====
-<LABEL=COACH>コーチ</LABEL>
-「マネージャーからの報告(ほ
-うこく)によると、
-$J=====3489=====
-バイクポイントとの交換(こう
-かん)によって、手に入れるこ
-とのできるバイクのパーツは、
-$J=====3490=====
-300ポイントのコースで、残り
-<VAR=0>コ、
-$J=====3491=====
-600ポイントのコースで、残り
-<VAR=1>コ、
-$J=====3492=====
-1200ポイントのコースで、残り
-<VAR=2>コだ」
-$J=====3493=====
+$E=====3488=====
+//<LABEL=COACH>コーチ</LABEL>
+//「マネージャーからの報告(ほ
+//うこく)によると、
+<LABEL=COACH>Coach</LABEL>:
+"According to the manager's
+info,
+$E=====3489=====
+//バイクポイントとの交換(こう
+//かん)によって、手に入れるこ
+//とのできるバイクのパーツは、
+<LABEL=COACH></LABEL>the number of bike parts
+you can still get from each
+exchange course are:
+$E=====3490=====
+//300ポイントのコースで、残り
+//<VAR=0>コ、
+300 points: <VAR=0> left,
+$E=====3491=====
+//600ポイントのコースで、残り
+//<VAR=1>コ、
+600 points: <VAR=1> left,
+$E=====3492=====
+//1200ポイントのコースで、残り
+//<VAR=2>コだ」
+1200 points: <VAR=2> left."
+$E=====3493=====
 <PROC=0>
 <END>
-$J=====3494=====
-<LABEL=COACH></LABEL>バイクポイントとの交換(こう
-かん)によって、手に入れるこ
-とのできるバイクのパーツは、
-$J=====3495=====
-もうない」
-$J=====3496=====
+$E=====3494=====
+//<LABEL=COACH></LABEL>バイクポイントとの交換(こう
+//かん)によって、手に入れるこ
+//とのできるバイクのパーツは、
+<LABEL=COACH></LABEL>there aren't any bike parts
+left to be exchanged for
+points.
+$E=====3495=====
+//もうない」
+You've got them all."
+$E=====3496=====
 <PROC=0>
 <END>
 $E=====3497=====
@@ -15179,28 +15355,43 @@ have, awright?"
 $E=====3863=====
 <PROC=0>
 <END>
-$J=====3864=====
-<LABEL=ZAJI>ザジ</LABEL>
-「あんたら兄弟は太陽と月、2
-つの血を受けついどる
-$J=====3865=====
-せやけど、2人の力は同じとい
-うわけやない
-$J=====3866=====
-あんたには太陽の血が、サバタ
-には月の血がより強く受けつが
-れとる
-$J=====3867=====
-その上、暗黒少年として育てら
-れたサバタは、その身に宿した
-暗黒物質(ダークマター)から、
-$J=====3868=====
-強大な暗黒の力を得ている
-$J=====3869=====
-あんたらはおたがいに、まった
-く反対の力を持っとるというわ
-けや」
-$J=====3870=====
+$E=====3864=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「あんたら兄弟は太陽と月、2
+//つの血を受けついどる
+<LABEL=ZAJI>Zazie</LABEL>:
+"You two brothers have both
+Solar and Lunar blood,
+$E=====3865=====
+//せやけど、2人の力は同じとい
+//うわけやない
+but yer don't have the same
+powers.
+$E=====3866=====
+//あんたには太陽の血が、サバタ
+//には月の血がより強く受けつが
+//れとる
+The Solar blood is stronger
+in yer, and the Lunar blood
+is stronger in Sabata.
+$E=====3867=====
+//その上、暗黒少年として育てら
+//れたサバタは、その身に宿した
+//暗黒物質(ダークマター)から、
+On top of that, Sabata was
+raised as the Dark Boy and
+carries Dark Matter,
+$E=====3868=====
+//強大な暗黒の力を得ている
+so he obtained a lot of Dark
+power.
+$E=====3869=====
+//あんたらはおたがいに、まった
+//く反対の力を持っとるというわ
+//けや」
+That's why you two have such
+completely opposite powers."
+$E=====3870=====
 <PROC=0>
 <END>
 $E=====3871=====
@@ -15417,22 +15608,31 @@ a jerk!"
 $E=====3910=====
 <PROC=4><PROC=0>
 <END>
-$J=====3911=====
-<LABEL=ZAJI>ザジ</LABEL>
-「敵(てき)モンスターの苦手属
-性(にがてぞくせい)を知るには
-$J=====3912=====
-攻撃(こうげき)を受けたときの
-モンスターの反応(はんのう)を
-見ればええねん
-$J=====3913=====
-苦手属性(にがてぞくせい)での
-攻撃(こうげき)を受けたモンス
-ターは、
-$J=====3914=====
-身体から黒煙(こくえん)を出す
-からな」
-$J=====3915=====
+$E=====3911=====
+//<LABEL=ZAJI>ザジ</LABEL>
+//「敵(てき)モンスターの苦手属
+//性(にがてぞくせい)を知るには
+<LABEL=ZAJI>Zazie</LABEL>:
+"To figure out an enemy
+monster's weak element,
+$E=====3912=====
+//攻撃(こうげき)を受けたときの
+//モンスターの反応(はんのう)を
+//見ればええねん
+watch it when it gets hit by
+an attack.
+$E=====3913=====
+//苦手属性(にがてぞくせい)での
+//攻撃(こうげき)を受けたモンス
+//ターは、
+When a monster gets hit by
+the element it's weak to,
+$E=====3914=====
+//身体から黒煙(こくえん)を出す
+//からな」
+black smoke will come out of
+its body."
+$E=====3915=====
 <PROC=0>
 <END>
 $E=====3916=====
@@ -16622,59 +16822,93 @@ learned!<LOCK=96>
 $E=====4167=====
 <PROC=0>
 <END>
-$J=====4168=====
-<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
-「いいかい、<NAME>くん
-$J=====4169=====
-パイルトラップは、
-$J=====4170=====
-あらかじめ仕掛(しか)けておい
-たトラップに、敵(てき)モンス
-ターをさそいこむことで、
-$J=====4171=====
-はなれた場所からの攻撃(こう
-げき)を可能(かのう)とする、
-スペシャルアクションだ
-$J=====4172=====
-パイルトラップを仕掛(しか)け
-るには、
-$J=====4173=====
-クイックチェンジで(<WEIGHT>SELECTボ
-タン</WEIGHT>を押しながら<WEIGHT>Ｌボタン</WEIGHT>を押
-して)、
-$J=====4174=====
-スペシャルアクションにパイル
-トラップを選んだ状態(じょう
-たい)で、
-$J=====4175=====
-<WEIGHT>Ｌボタン</WEIGHT>を押(お)せばいい
-$J=====4176=====
-トラップを仕掛(しか)けた状態
-(じょうたい)で<WEIGHT>Ａボタン</WEIGHT>を押(
-お)せば、
-$J=====4177=====
-太陽パイルが放出されるんだ
-$J=====4178=====
-この太陽パイルは、敵(てき)モ
-ンスターにダメージをあたえる
-だけでなく、
-$J=====4179=====
-たおしたモンスターから、確実
-(かくじつ)にアイテムを手に入
-れられるというすぐれものだ
-$J=====4180=====
-ただし太陽パイルは、太陽スタ
-ンドのエナジーを消費して放出
-される
-$J=====4181=====
-調子に乗って使いすぎると、す
-ぐにスタンドが空になってしま
-うぞ?
-$J=====4182=====
-仕掛(しか)けたトラップは、も
-う一度<WEIGHT>Ｌボタン</WEIGHT>を押(お)せば解
-除(かいじょ)できるからね」
-$J=====4183=====
+$E=====4168=====
+//<LABEL=COFFIN>棺桶屋(かんおけや)</LABEL>
+//「いいかい、<NAME>くん
+<LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
+"Listen up, <NAME>.
+$E=====4169=====
+//パイルトラップは、
+You can set up Pile Traps in
+advance,
+$E=====4170=====
+//あらかじめ仕掛(しか)けておい
+//たトラップに、敵(てき)モンス
+//ターをさそいこむことで、
+then try to lure enemy
+monsters into them,
+$E=====4171=====
+//はなれた場所からの攻撃(こう
+//げき)を可能(かのう)とする、
+//スペシャルアクションだ
+triggering the trap with a
+Special Action.
+$E=====4172=====
+//パイルトラップを仕掛(しか)け
+//るには、
+To set up a Pile Trap,
+$E=====4173=====
+//クイックチェンジで(<WEIGHT>SELECTボ
+//タン</WEIGHT>を押しながら<WEIGHT>Ｌボタン</WEIGHT>を押
+//して)、
+select it using Quick Change
+(hold <WEIGHT>SELECT</WEIGHT> and press the
+<WEIGHT>L Button</WEIGHT>),
+$E=====4174=====
+//スペシャルアクションにパイル
+//トラップを選んだ状態(じょう
+//たい)で、
+then once you have it
+selected as your Special
+Action,
+$E=====4175=====
+//<WEIGHT>Ｌボタン</WEIGHT>を押(お)せばいい
+press the <WEIGHT>L Button</WEIGHT> to place
+a trap.
+$E=====4176=====
+//トラップを仕掛(しか)けた状態
+//(じょうたい)で<WEIGHT>Ａボタン</WEIGHT>を押(
+//お)せば、
+After you've placed the
+trap,
+$E=====4177=====
+//太陽パイルが放出されるんだ
+press the <WEIGHT>A Button</WEIGHT> to have
+it release a Solar Pile.
+$E=====4178=====
+//この太陽パイルは、敵(てき)モ
+//ンスターにダメージをあたえる
+//だけでなく、
+The Solar Pile doesn't only
+damage enemy monsters,
+$E=====4179=====
+//たおしたモンスターから、確実
+//(かくじつ)にアイテムを手に入
+//れられるというすぐれものだ
+it's an excellent way to
+make them drop items.
+$E=====4180=====
+//ただし太陽パイルは、太陽スタ
+//ンドのエナジーを消費して放出
+//される
+However, Solar Piles consume
+enemy from the Solar
+Station.
+$E=====4181=====
+//調子に乗って使いすぎると、す
+//ぐにスタンドが空になってしま
+//うぞ?
+If you use it too much, the
+Solar Station will end up
+running out of energy, see?
+$E=====4182=====
+//仕掛(しか)けたトラップは、も
+//う一度<WEIGHT>Ｌボタン</WEIGHT>を押(お)せば解
+//除(かいじょ)できるからね」
+Oh yeah, you can also cancel
+a trap by pressing the
+<WEIGHT>L Button</WEIGHT> again."
+$E=====4183=====
 <PROC=0>
 <END>
 $E=====4184=====
@@ -16723,7 +16957,7 @@ $E=====4192=====
 The 3 fundamental parts are
 the front, the body, and
 the tires.
-$J=====4193=====
+$E=====4193=====
 //フロントは攻撃方法(こうげき
 //ほうほう)、すなわちウエポン
 //を決めるパーツで、
@@ -17165,27 +17399,39 @@ $E=====4286=====
 Title
 "Story Teller"
 obtained!<LOCK=176>
-$J=====4287=====
+$E=====4287=====
 <PROC=0>
 <END>
-$J=====4288=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「命とは、子によってこそ未来
-に伝えられるもの・・・
-$J=====4289=====
-人の想いもまた同じだ
-$J=====4290=====
-おまえがおまえのこの物語を子
-に伝え、未来へと伝えることが
-できれば、
-$J=====4291=====
-その想いは、いつかこの世紀末
-世界そのものをも変えていく
-$J=====4292=====
-未来を守ることとは、目の前の
-敵(てき)と戦うことばかりでは
-ないのだ・・・」
-$J=====4293=====
+$E=====4288=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「命とは、子によってこそ未来
+//に伝えられるもの・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Life is passed on into the
+future through children...
+$E=====4289=====
+//人の想いもまた同じだ
+human feelings are the same.
+$E=====4290=====
+//おまえがおまえのこの物語を子
+//に伝え、未来へと伝えることが
+//できれば、
+By telling your story to the
+children, it can be passed
+on to the future,
+$E=====4291=====
+//その想いは、いつかこの世紀末
+//世界そのものをも変えていく
+and those feelings will
+someday change the world.
+$E=====4292=====
+//未来を守ることとは、目の前の
+//敵(てき)と戦うことばかりでは
+//ないのだ・・・」
+Defeating the enemies before
+you isn't the only way to
+protect the future..."
+$E=====4293=====
 <PROC=0>
 <END>
 $E=====4294=====
@@ -17371,33 +17617,51 @@ $E=====4328=====
 //「トランス・ソル・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Sol Trance...
-$J=====4329=====
-古(いにしえ)の大樹(たいじゅ)
-があたえてくれた大いなる力、
-$J=====4330=====
-われわれが得た新たなる力
-$J=====4331=====
-だが、この力は決してわれわれ
-だけのものではない
-$J=====4332=====
-太陽と大地の恩恵(おんけい)に
-より生まれたこの力は、
-$J=====4333=====
-この星に生きるすべての生命種
-それらを守るためにこそ、使う
-べきものなのだ
-$J=====4334=====
-心なき力は、ただの破壊(はか
-い)でしかない
-$J=====4335=====
-サバタにも・・・
-$J=====4336=====
-そのことは分かっていたはずだ
-$J=====4337=====
-<NAME>・・・
-おまえの心はもう、決まってい
-るのか?」
-$J=====4338=====
+$E=====4329=====
+//古(いにしえ)の大樹(たいじゅ)
+//があたえてくれた大いなる力、
+from the great power the
+Ancient Tree gave you,
+$E=====4330=====
+//われわれが得た新たなる力
+we obtained a new power.
+$E=====4331=====
+//だが、この力は決してわれわれ
+//だけのものではない
+However, that power is by no
+means ours alone.
+$E=====4332=====
+//太陽と大地の恩恵(おんけい)に
+//より生まれたこの力は、
+Born from the blessings of
+the Sun and the Earth,
+$E=====4333=====
+//この星に生きるすべての生命種
+//それらを守るためにこそ、使う
+//べきものなのだ
+it must be used to protect
+all the varieties of life on
+this star.
+$E=====4334=====
+//心なき力は、ただの破壊(はか
+//い)でしかない
+Using power thoughtlessly
+will only lead to
+destruction.
+$E=====4335=====
+//サバタにも・・・
+Sabata...
+$E=====4336=====
+//そのことは分かっていたはずだ
+he should have known that.
+$E=====4337=====
+//<NAME>・・・
+//おまえの心はもう、決まってい
+//るのか?」
+<NAME>...
+have you made up your mind
+yet?
+$E=====4338=====
 <PROC=0>
 <END>
 $J=====4339=====
@@ -17440,18 +17704,25 @@ $J=====4349=====
 $J=====4350=====
 <PROC=0>
 <END>
-$J=====4351=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「人形使い、ラタトスク・・・
-$J=====4352=====
-おまえとの戦いを望むサバタの
-心を利用し、
-$J=====4353=====
-あえて、おまえに浄化(じょう
-か)させることで、
-$J=====4354=====
-サバタから力をうばおうとした
-のか?
+$E=====4351=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「人形使い、ラタトスク・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"The Puppeteer, Ratatosk...
+$E=====4352=====
+//おまえとの戦いを望むサバタの
+//心を利用し、
+using Sabata's desire to
+fight with you,
+$U=====4353=====
+//あえて、おまえに浄化(じょう
+//か)させることで、
+meeting, purified by you,
+$E=====4354=====
+//サバタから力をうばおうとした
+//のか?
+did he draw power from
+Sabata?
 $E=====4355=====
 //・・・
 ...
@@ -17475,27 +17746,42 @@ depart!"
 $E=====4359=====
 <PROC=0>
 <END>
-$J=====4360=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「レベルアップによって、
-$J=====4361=====
-強化することができる能力(の
-うりょく)、ココロとチカラは
-$J=====4362=====
-それぞれ、おまえのエナジーの
-最大値と、ソードによる攻撃力
-(こうげきりょく)を決定する
-$J=====4363=====
-ステータスポイントのわりふり
-では、
-$J=====4364=====
-太陽銃(ガン・デル・ソル)をメ
-インに戦うのならココロを、
-$J=====4365=====
-ソードをメインに戦うのなら、
-チカラを中心に強化するといい
-」
-$J=====4366=====
+$E=====4360=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「レベルアップによって、
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"When you level up,
+$E=====4361=====
+//強化することができる能力(の
+//うりょく)、ココロとチカラは
+the other abilities you can
+strengthen are Spirit and
+Strength,
+$E=====4362=====
+//それぞれ、おまえのエナジーの
+//最大値と、ソードによる攻撃力
+//(こうげきりょく)を決定する
+which affect your maximum
+energy and the damage your
+sword deals, respectively.
+$E=====4363=====
+//ステータスポイントのわりふり
+//では、
+When allocating your Status
+Points,
+$E=====4364=====
+//太陽銃(ガン・デル・ソル)をメ
+//インに戦うのならココロを、
+concentrate on Spirit if
+you mainly use the Gun Del
+Soll,
+$E=====4365=====
+//ソードをメインに戦うのなら、
+//チカラを中心に強化するといい
+//」
+or Strength if you prefer to
+use swords.
+$E=====4366=====
 <PROC=0>
 <END>
 $J=====4367=====
@@ -24353,9 +24639,9 @@ training to do!"
 $E=====5932=====
 <PROC=0>
 <END>
-$U=====5933=====
+$E=====5933=====
 //ミッション失敗(ホントはビジュアル)
-Mission Failed (reality is visible)
+Mission Failed (actually displays the graphic here)
 $E=====5934=====
 <PROC=0>
 <END>
@@ -24382,9 +24668,8 @@ this room too?
 $U=====5939=====
 //さすがはオイラの弟子、
 //と言いたいところだが・・・
-I'd congratulate you on your
-awareness, but now's not the
-time...
+I'd praise your keen senses,
+but now's not the time...
 $E=====5940=====
 //ここだけはあきらめるしかない
 //ぜ
@@ -24403,8 +24688,8 @@ it.
 $E=====5943=====
 //引きぎわだな。とっととずらか
 //ったほうがいいぜ?
-Yeah, maybe we'd better pull
-back for now.
+Yeah, maybe we'd better get
+the heck out of here.
 $E=====5944=====
 //なに!?
 //伯爵(はくしゃく)をたおす?　
@@ -24614,7 +24899,7 @@ $E=====5985=====
 //「否定(ひてい)するとでもいう
 //のか、わたしの戦いを?
 <LABEL=HAKUSYAKU>Count</LABEL>:
-"Do you disavow my struggle?
+"Do you deny my struggle?
 $E=====5986=====
 //ヴァンパイア・ロードであるこ
 //のわたしの存在(そんざい)を?
