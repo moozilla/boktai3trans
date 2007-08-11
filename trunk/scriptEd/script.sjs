@@ -61,7 +61,8 @@ $E=====16=====
 <PROC=0>
 <END>
 $U=====17=====
-なんかしろ
+//なんかしろ
+Something like that.
 $E=====18=====
 <PROC=0>
 <END>
@@ -490,13 +491,14 @@ Old Woman:
 $E=====110=====
 //もう、闇の一族(イモータル)は
 //いない?
-The Immortals are gone now?
-$U=====111=====
-まあ、何ということでしょう!!
+The Immortal is gone now?
+$E=====111=====
+//まあ、何ということでしょう!!
+Well, I'll be darned!
 $E=====112=====
 //それじゃあワタシたち、助かる
 //のね?
-Then we're all saved?
+That means we're all saved?
 $E=====113=====
 //ああ、良かった・・・
 Ahhh, thank goodness...
@@ -10791,11 +10793,11 @@ $E=====2975=====
 //「そんなものを買われるなんて
 //・・・
 <LABEL=RITA>Lita</LABEL>:
-"Buying such a thing...
+"Buying something like
+that...
 $E=====2976=====
 //<NAME>さまもやっぱり、男の子なんですね{note}」
-You're still just a boy
-after all,
+you're such a boy,
 Master <NAME>.{note}"
 $E=====2977=====
 <PROC=0>
@@ -30369,7 +30371,7 @@ $E=====7141=====
 //でも人形使いは、あの人のすべ
 //てを支配(しはい)できたわけで
 //はなかった
-But the Puppeteer wasn't
+but the Puppeteer wasn't
 able to take complete
 control over him.
 $E=====7142=====
@@ -37760,7 +37762,7 @@ $E=====9154=====
 //「今度の船は動いてくれるとい
 //いが・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"this boat looks seaworthy,
+"This boat looks seaworthy,
 but...
 $E=====9155=====
 //ともかく調べてみよう。
