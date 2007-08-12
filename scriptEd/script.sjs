@@ -14923,7 +14923,7 @@ this city...
 $E=====3779=====
 //その先にある街から、あんたの
 //ことをよぶ声が聞こえるで」
-beyond the town there, a
+Beyond the town there, a
 voice is callin' you."
 $E=====3780=====
 <PROC=0>
@@ -14945,7 +14945,7 @@ $E=====3783=====
 //その中の一本の樹(き)に、あん
 //たの追うべき相手が向かっとる
 //みたいやで」
-in front of a tree there,
+In front of a tree there,
 you'll face yer enemy."
 $E=====3784=====
 <PROC=0>
@@ -15034,7 +15034,7 @@ star...
 $E=====3800=====
 //そのどこかで、あいつがあんた
 //を待っとるはずや
-he should be waitin' for you
+He should be waitin' for you
 up there.
 $E=====3801=====
 //あいつのこと・・・
@@ -15614,7 +15614,7 @@ $E=====3908=====
 $U=====3909=====
 //<PROC=2>そないなヤツに、絶対(ぜった
 //い)負けるんやないで!!」
-<PROC=2>yer better not lose to such
+<PROC=2>Yer better not lose to such
 a jerk!"
 $E=====3910=====
 <PROC=4><PROC=0>
