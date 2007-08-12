@@ -24865,7 +24865,7 @@ $E=====5932=====
 <END>
 $E=====5933=====
 //ミッション失敗(ホントはビジュアル)
-Mission Failed (actually displays the graphic here)
+Mission Failed (will actually display graphic here)
 $E=====5934=====
 <PROC=0>
 <END>
