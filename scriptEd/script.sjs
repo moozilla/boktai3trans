@@ -86,7 +86,7 @@ $E=====23=====
 //
 //　　　 カギ扉を開けろ
 
-    Open the locked door
+    Open the locked door.
 $E=====24=====
 <PROC=0>
 <END>
@@ -5612,12 +5612,13 @@ $E=====1708=====
 //自動装填式大砲(じどうそうて
 //んしきたいほう)を撃(う)つに
 //は、
-To fight automatic reload
-artillery,
+To fire automatically
+reloading artillery,
 $E=====1709=====
 //大砲(たいほう)自体を攻撃(こ
 //うげき)すればいい
-attack the cannon itself.
+simply attack the cannon
+itself.
 $E=====1710=====
 //ただし次の砲弾(ほうだん)が装
 //填(そうてん)されるまでに、
@@ -5634,7 +5635,8 @@ $E=====1712=====
 //仕掛(しか)けは有効(ゆうこう)
 //に活用せよ
 A true adventurer uses
-devices effectively.
+available devices
+effectively.
 $E=====1713=====
 <PROC=0>
 <END>
@@ -5764,7 +5766,7 @@ $E=====1740=====
 $E=====1741=====
 //[冬は命こおる季節。
 //それは死のおとずれ]
-[In Autumn, life freezes
+[In Winter, life freezes
 over. That is death's
 arrival.]
 $E=====1742=====
@@ -26194,8 +26196,8 @@ $U=====6209=====
 //師匠(ししょう)だの弟子だの、
 //あんなのジョークに決まってん
 //だろ?
-We're master and pupil. Sure
-you're not just in shock?
+Is that some kind of joke?
+We're master and pupil.
 $E=====6210=====
 <PROC=0>
 <END>
@@ -26205,8 +26207,8 @@ $E=====6211=====
 $U=====6212=====
 //そんなあまい考えじゃあ、これ
 //から先・・・
-Such a naive thought, from
-now on...
+that's just foolish.
+From now on...
 $E=====6213=====
 <PROC=0>
 <END>
@@ -27147,12 +27149,11 @@ $E=====6419=====
 //「そうだ・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Right...
-$U=====6420=====
+$E=====6420=====
 //重要なのは目の前にある結果じ
 //ゃあない
-The important thing isn't
-the consequences ahead of
-you.
+The immediate consequences
+aren't important.
 $E=====6421=====
 //どう生きるのか?
 //何を成そうとするのか?
@@ -30579,7 +30580,7 @@ $E=====7184=====
 //何とかして対岸の敵(てき)モン
 //スターをたおすんだ!!」
 Find a way to defeat the
-monsters on the opposite
+monster on the opposite
 bank!"
 $E=====7185=====
 <PROC=0>
@@ -30654,22 +30655,27 @@ $E=====7199=====
 "Hey, Trinity!
 $E=====7200=====
 //その(予定)というのは何だ!?」
-What was THAT!?"
+What are you trying to do!?"
 $E=====7201=====
 <PROC=0>
 <END>
-$U=====7202=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ぬぬぬぬぬ・・・
+$E=====7202=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ぬぬぬぬぬ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Oh dear...
 $U=====7203=====
-われわれの足を引っぱるなと、
-あれほど注意しておいたのに!
+//われわれの足を引っぱるなと、
+//あれほど注意しておいたのに!
+you can't drag your feet, or
+something like that might
+happen again!
 $E=====7204=====
 //<NAME>・・・
 <NAME>...
 $E=====7205=====
 //止めるなよ?」
-don't stop, okay?"
+don't give up, okay?"
 $E=====7206=====
 <PROC=0>
 <END>
@@ -32672,7 +32678,7 @@ $E=====7645=====
 "What!?
 $E=====7646=====
 //その姿(すがた)は・・・!!」
-That figure...!"
+That form...!"
 $E=====7647=====
 <PROC=0>
 <END>
@@ -32699,7 +32705,7 @@ $E=====7653=====
 //先ほどのチャクラム・・・
 //しびれ薬か!?」
 That chakram...
-paralyzing medicine!?"
+paralyzing serum!?"
 $E=====7654=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //<PROC=1><LOCK=10>「ウフフフフ・・・
