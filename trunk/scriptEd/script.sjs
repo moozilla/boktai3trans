@@ -6427,8 +6427,8 @@ out!
 $E=====1877=====
 //またチャクラムには、しびれ薬
 //がぬられている
-It's also soaked in sleeping
-medicine.
+It's also soaked in a
+paralyzing medicine.
 $E=====1878=====
 //よけきれずマヒしてしまったと
 //きは、<WEIGHT>{＋}ボタン</WEIGHT>の連打でただち
@@ -18770,20 +18770,30 @@ $E=====4556=====
 $E=====4557=====
 <PROC=0>
 <END>
-$J=====4558=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「知ってっか?
-$J=====4559=====
-太陽の光を浴びすぎっと溶(と)
-けちまうガリガリ君ソーダだけ
-ど、
-$J=====4560=====
-倉庫にあずけておけば、溶(と
-)けねぇぞ?
-$J=====4561=====
-食べきれないときは、-18度以
-下で保存(ほぞん)だ!」
-$J=====4562=====
+$E=====4558=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「知ってっか?
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
+"Didya know?
+$E=====4559=====
+//太陽の光を浴びすぎっと溶(と)
+//けちまうガリガリ君ソーダだけ
+//ど、
+If you leave GariGari Soda
+in the sun too long, it'll
+melt,
+$E=====4560=====
+//倉庫にあずけておけば、溶(と
+//)けねぇぞ?
+but it won't melt if you put
+it in the Warehouse.
+$E=====4561=====
+//食べきれないときは、-18度以
+//下で保存(ほぞん)だ!」
+If you aren't gonna eat it
+right away, store it at or
+below 0 degrees!"
+$E=====4562=====
 <PROC=0>
 <END>
 $U=====4563=====
@@ -18829,13 +18839,18 @@ $E=====4571=====
 $E=====4572=====
 <PROC=0>
 <END>
-$J=====4573=====
-<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
-「あんまりあわてて食べっと、
-口にはりつくかんな
-$J=====4574=====
-注意すんだぞ?」
-$J=====4575=====
+$E=====4573=====
+//<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
+//「あんまりあわてて食べっと、
+//口にはりつくかんな
+<LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
+"If you're not careful when
+eating these,
+$E=====4574=====
+//注意すんだぞ?」
+they might just get stuck to
+your tongue."
+$E=====4575=====
 <PROC=0>
 <END>
 $U=====4576=====
@@ -30545,56 +30560,78 @@ Trinity is in danger!
 $E=====7180=====
 <PROC=0>
 <END>
-$J=====7181=====
-<LABEL=OTENKO></LABEL>わたしの姿(すがた)を見て、移
-動床(いどうゆか)のスイッチを
-切ってしまったんだ
-$J=====7182=====
-まったくこまったやつだ。
-だが・・・
-$J=====7183=====
+$U=====7181=====
+//<LABEL=OTENKO></LABEL>わたしの姿(すがた)を見て、移
+//動床(いどうゆか)のスイッチを
+//切ってしまったんだ
+<LABEL=OTENKO></LABEL>He ended up switching off
+the moving floor when he saw
+me.
+$E=====7182=====
+//まったくこまったやつだ。
+//だが・・・
+He is such a pain.
+However...
+$U=====7183=====
 あんなやつでも、ほおってはお
 けない!
-$J=====7184=====
-何とかして対岸の敵(てき)モン
-スターをたおすんだ!!」
-$J=====7185=====
+$E=====7184=====
+//何とかして対岸の敵(てき)モン
+//スターをたおすんだ!!」
+Find a way to defeat the
+monsters on the opposite
+bank!"
+$E=====7185=====
 <PROC=0>
 <END>
-$J=====7186=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「どこへ行くんだ、
-<NAME>!!
-$J=====7187=====
-トリニティを見すてるというの
-か!?」
-$J=====7188=====
+$E=====7186=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「どこへ行くんだ、
+//<NAME>!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Where are you going,
+<NAME>!
+$E=====7187=====
+//トリニティを見すてるというの
+//か!?」
+Are you just going to
+abandon Trinity!?"
+$E=====7188=====
 <PROC=0>
 <END>
-$J=====7189=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「よう、<NAME>!!
-おそかったじゃねぇか?
-$J=====7190=====
-そんじゃあ出発と行くぜ!
-準備(じゅんび)はいいな?」
-$J=====7191=====
+$E=====7189=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「よう、<NAME>!!
+//おそかったじゃねぇか?
+<LABEL=TRINITY>Trinity</LABEL>:
+"Yo, <NAME>!
+I ain't late, am I?
+$E=====7190=====
+//そんじゃあ出発と行くぜ!
+//準備(じゅんび)はいいな?」
+Then let's get goin'!
+Are ya ready?"
+$E=====7191=====
 <PROC=0>
 <END>
-$J=====7192=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ちょっと待て、トリニティ!!
-$J=====7193=====
-おまえ、船なんて動かしたこと
-があるのか?」
-$J=====7194=====
+$E=====7192=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ちょっと待て、トリニティ!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Just a second, Trinity!
+$E=====7193=====
+//おまえ、船なんて動かしたこと
+//があるのか?」
+Do you even know how to
+pilot a ship?"
+$E=====7194=====
 <PROC=0>
 <END>
 $E=====7195=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「なぁに、心配いらねぇよ
 <LABEL=TRINITY>Trinity</LABEL>:
-"Whaaat, don't sweat it.
+"Heeeyyy, don't sweat it.
 $E=====7196=====
 //お宝(たから)を求めて、七つの
 //海を大冒険(だいぼうけん)する
@@ -30604,9 +30641,9 @@ searchin' for treasure.
 $E=====7197=====
 //船の1隻(せき)や2隻(せき)、動
 //かせなくてどーするよ?」
-What would I do if I
-couldn't move a ship or
-two?"
+What kinda shape would I be
+in if I couldn't pilot a
+ship or two?"
 $E=====7198=====
 <PROC=0>
 <END>
@@ -30615,15 +30652,16 @@ $E=====7199=====
 //「おい、トリニティ!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Hey, Trinity!
-$J=====7200=====
-その(予定)というのは何だ!?」
-$J=====7201=====
+$E=====7200=====
+//その(予定)というのは何だ!?」
+What was THAT!?"
+$E=====7201=====
 <PROC=0>
 <END>
-$J=====7202=====
+$U=====7202=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「ぬぬぬぬぬ・・・
-$J=====7203=====
+$U=====7203=====
 われわれの足を引っぱるなと、
 あれほど注意しておいたのに!
 $E=====7204=====
@@ -30643,34 +30681,37 @@ $E=====7207=====
 $E=====7208=====
 <PROC=0>
 <END>
-$J=====7209=====
+$U=====7209=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「船長しつでのい頼イベント開始」
-$J=====7210=====
+$E=====7210=====
 <PROC=0>
 <END>
-$J=====7211=====
+$U=====7211=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「船長しつでのい頼イベント終了」
-$J=====7212=====
+$E=====7212=====
 <PROC=0>
 <END>
-$J=====7213=====
+$U=====7213=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「行けそうだな・・・」
-$J=====7214=====
+$E=====7214=====
 <PROC=0>
 <END>
-$J=====7215=====
+$U=====7215=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「さしものトリニティも少しは
 こりたか・・・
-$J=====7216=====
+$E=====7216=====
 <PROC=0>
 <END>
-$J=====7217=====
-<LABEL=OTENKO></LABEL>いらぬジャマが入らないうちに
-出発しよう
+$E=====7217=====
+//<LABEL=OTENKO></LABEL>いらぬジャマが入らないうちに
+//出発しよう
+<LABEL=OTENKO></LABEL>Let us depart before any
+more needless distractions
+show up.
 $E=====7218=====
 //さあ、<NAME>!!
 //このままこの船で魔砲(まほう)
@@ -30759,8 +30800,8 @@ $E=====7235=====
 $E=====7236=====
 //フレスベルグの二の舞(ま)いは
 //ふまないでくださいね」
-Please do not make the same
-mistake Hresvelgr did."
+Please do not fail me like
+Hresvelgr did."
 $E=====7237=====
 <PROC=0>
 <END>
@@ -30786,7 +30827,7 @@ $E=====7242=====
 //これが船酔(ふなよ)いってやつ
 //なのか?
 Is this seasickness?
-$J=====7243=====
+$E=====7243=====
 //やっぱ地面の上じゃねぇと、落
 //ち着かねぇぜ・・・
 Guess I'm only comfortable
@@ -31506,441 +31547,665 @@ the camera."
 $E=====7389=====
 <PROC=0>
 <END>
-$J=====7390=====
+$U=====7390=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「行けそうだな・・・」
-$J=====7391=====
+$E=====7391=====
 <PROC=0>
 <END>
-$J=====7392=====
+$U=====7392=====
 <LABEL=OTENKO>おてんこさま</LABEL>
 「さしものトリニティも少しは
 こりたか・・・
-$J=====7393=====
+$E=====7393=====
 <PROC=0>
 <END>
-$J=====7394=====
-<LABEL=OTENKO></LABEL>いらぬジャマが入らないうちに
-出発しよう
-$J=====7395=====
-さあ、<NAME>!!
-このままこの船で魔砲(まほう)
-の小島に向かうんだ!」
-$J=====7396=====
+$E=====7394=====
+//<LABEL=OTENKO></LABEL>いらぬジャマが入らないうちに
+//出発しよう
+<LABEL=OTENKO></LABEL>Let us depart before any
+more needless distractions
+show up.
+$E=====7395=====
+//さあ、<NAME>!!
+//このままこの船で魔砲(まほう)
+//の小島に向かうんだ!」
+Okay, <NAME>!
+Steer this ship toward the
+magic islet!"
+$E=====7396=====
 <PROC=0>
 <END>
-$J=====7397=====
-<LABEL=TRINITY>トリニティ</LABEL>
-(へへ・・・
-$J=====7398=====
-オイラがあんなことくらいでへ
-こむかよ!
-$J=====7399=====
-言いたいほうだい言いやがって
-・・・
-$J=====7400=====
-今に見てろよ!!)
-$J=====7401=====
+$E=====7397=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//(へへ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+(Hehe...
+$E=====7398=====
+//オイラがあんなことくらいでへ
+//こむかよ!
+as if I'd give in after that
+much!
+$E=====7399=====
+//言いたいほうだい言いやがって
+//・・・
+you can say it as much as
+you want...
+$E=====7400=====
+//今に見てろよ!!)
+but watch this!)
+$E=====7401=====
 <PROC=0>
 <END>
-$J=====7402=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ラタトスク!!
-$J=====7403=====
-やはりこの島の魔砲(まほう)が
-月への扉(とびら)か!」
-$J=====7404=====
-<LABEL=RATA>ラタトスク</LABEL>
-「言いませんでしたか?
-ジャマをしないで下さいと
-$J=====7405=====
-まったく、こまった人たちです
-・・・」
-$J=====7406=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタをどこにやった!!」
-$J=====7407=====
+$E=====7402=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ラタトスク!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Ratatosk!
+$E=====7403=====
+//やはりこの島の魔砲(まほう)が
+//月への扉(とびら)か!」
+So this island's magic is
+the door to the moon after
+all!"
+$E=====7404=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「言いませんでしたか?
+//ジャマをしないで下さいと
+<LABEL=RATA>Ratatosk</LABEL>:
+"Did I not tell you before?
+Please do not interfere.
+$E=====7405=====
+//まったく、こまった人たちです
+//・・・」
+Really, such troublesome
+people..."
+$E=====7406=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタをどこにやった!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Where did you send
+Sabata!?"
+$E=====7407=====
 <PROC=0>
 <END>
-$J=====7408=====
-<LABEL=RATA>ラタトスク</LABEL>
-「おまけに転移魔砲(てんいま
-ほう)の存在(そんざい)にまで
-$J=====7409=====
-気づくとは・・・
-$J=====7410=====
-やはり、あなた方をこのまま放
-っておくわけにはいきませんね
-$J=====7411=====
+$E=====7408=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「おまけに転移魔砲(てんいま
+//ほう)の存在(そんざい)にまで
+<LABEL=RATA>Ratatosk</LABEL>:
+"And to make matters worse,
+$E=====7409=====
+//気づくとは・・・
+you found out about the
+teleportation magic...
+$E=====7410=====
+//やはり、あなた方をこのまま放
+//っておくわけにはいきませんね
+clearly I cannot ignore you
+two any longer.
+$E=====7411=====
 <PROC=0>
 <END>
-$J=====7412=====
-たのみましたよ、ホッグさん
-$J=====7413=====
-フレスベルグの二の舞(ま)いは
-ふまないでくださいね」
-$J=====7414=====
+$E=====7412=====
+//たのみましたよ、ホッグさん
+I'm counting on you, 'hoggr.
+$E=====7413=====
+//フレスベルグの二の舞(ま)いは
+//ふまないでくださいね」
+Please do not fail me like
+Hresvelgr did."
+$E=====7414=====
 <PROC=0>
 <END>
-$J=====7415=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「気をつけろ、<NAME>!!
-$J=====7416=====
-何か来るぞ!」
-$J=====7417=====
+$E=====7415=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「気をつけろ、<NAME>!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Look out, <NAME>!
+$E=====7416=====
+//何か来るぞ!」
+Something's coming!"
+$E=====7417=====
 <PROC=0>
 <END>
-$J=====7418=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ここは・・・」
-$J=====7419=====
+$E=====7418=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ここは・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Where...?"
+$E=====7419=====
 <PROC=0>
 <END>
-$J=====7420=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「月ではないようだな・・・
-$J=====7421=====
+$E=====7420=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「月ではないようだな・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This doesn't look like the
+moon..."
+$E=====7421=====
 <PROC=0>
 <END>
-$J=====7422=====
-<LABEL=OTENKO></LABEL>おまえも気づいたか、
+$E=====7422=====
+//<LABEL=OTENKO></LABEL>おまえも気づいたか、
+//<NAME>?
+<LABEL=OTENKO></LABEL>Have you noticed as well,
 <NAME>?
-$J=====7423=====
-ここは今はなき闇の女王(クイ
-ーン)の居城(きょじょう)、暗
-黒城(あんこくじょう)だ
-$J=====7424=====
-だが闇の女王(クイーン)なき今
-$J=====7425=====
-衛星軌道上(えいせいきどうじ
-ょう)に放棄(ほうき)されてい
-たはずのこの城(しろ)がなぜ?
-$J=====7426=====
-サバタが・・・いや、ラタトス
-クが復活(ふっかつ)させたのか
-?」
-$J=====7427=====
+$E=====7423=====
+//ここは今はなき闇の女王(クイ
+//ーン)の居城(きょじょう)、暗
+//黒城(あんこくじょう)だ
+This is the citadel of the
+late Queen, the Dark Castle.
+$E=====7424=====
+//だが闇の女王(クイーン)なき今
+But the Queen is no more.
+$E=====7425=====
+//衛星軌道上(えいせいきどうじ
+//ょう)に放棄(ほうき)されてい
+//たはずのこの城(しろ)がなぜ?
+This castle should be
+abandoned above satellite
+orbit. Why...?
+$E=====7426=====
+//サバタが・・・いや、ラタトス
+//クが復活(ふっかつ)させたのか
+//?」
+Sabata... no, Ratatosk must
+have restored it."
+$E=====7427=====
 <PROC=0>
 <END>
-$J=====7428=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「察するに、ここは城(しろ)の
-最下層(さいかそう)・・・
-$J=====7429=====
-<NAME>、
-上層部(じょうそうぶ)、王の間
-を目指すんだ
-$J=====7430=====
-おそらくラタトスクはそこにい
-る
-$J=====7431=====
-やつとの決着をつけ、サバタを
-取りもどすんだ!!
-$J=====7432=====
-<PROC=1><LOCK=70>太陽と共にあらんことを!」
-$J=====7433=====
+$E=====7428=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「察するに、ここは城(しろ)の
+//最下層(さいかそう)・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"I'm guessing we're on the
+bottom floor...
+$E=====7429=====
+//<NAME>、
+//上層部(じょうそうぶ)、王の間
+//を目指すんだ
+Head for the top, <NAME>,
+to the throne room.
+$E=====7430=====
+//おそらくラタトスクはそこにい
+//る
+Perhaps Ratatosk will be
+there.
+$E=====7431=====
+//やつとの決着をつけ、サバタを
+//取りもどすんだ!!
+Finish things with him and
+return Sabata to normal!
+$E=====7432=====
+//<PROC=1><LOCK=70>太陽と共にあらんことを!」
+<PROC=1><LOCK=70>May the Sun be with you!"
+$E=====7433=====
 <PROC=0>
 <END>
-$J=====7434=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「なんだ、ここは?
-$J=====7435=====
-本当にここが・・・
-月なのか?」
-$J=====7436=====
+$E=====7434=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「なんだ、ここは?
+<LABEL=TRINITY>Trinity</LABEL>:
+"Huh? Where am I?
+$E=====7435=====
+//本当にここが・・・
+//月なのか?」
+Is this really...
+the moon?"
+$E=====7436=====
 <PROC=0>
 <END>
-$J=====7437=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「どうやらちがうみてぇだな
-$J=====7438=====
+$E=====7437=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「どうやらちがうみてぇだな
+<LABEL=TRINITY>Trinity</LABEL>:
+"Doesn't look like it.
+$E=====7438=====
 <PROC=0>
 <END>
-$J=====7439=====
-<LABEL=TRINITY></LABEL>どっちにせよ、こんなところに
-までノコノコついて来ちまうな
-んて、
-$J=====7440=====
+$E=====7439=====
+//<LABEL=TRINITY></LABEL>どっちにせよ、こんなところに
+//までノコノコついて来ちまうな
+//んて、
+<LABEL=TRINITY></LABEL>Either way, bringin' me to
+places like these without a
+second thought...
+$E=====7440=====
 <PROC=0>
 <END>
-$J=====7441=====
-<LABEL=TRINITY></LABEL>オイラも焼きが回ったもんだぜ
-$J=====7442=====
+$E=====7441=====
+//<LABEL=TRINITY></LABEL>オイラも焼きが回ったもんだぜ
+<LABEL=TRINITY></LABEL>they're makin' me feel like
+a roast turnin' on a spit.
+$E=====7442=====
 <PROC=0>
 <END>
-$J=====7443=====
-<LABEL=TRINITY></LABEL>だが破壊(はかい)の王、ラタト
-スク・・・
-$J=====7444=====
-ヤツの本当のおそろしさを、ア
-イツらは知らねぇ
-$J=====7445=====
-それをアイツらに伝えるんだ
-$J=====7446=====
-それに母ちゃんの言葉も・・・
-$J=====7447=====
+$E=====7443=====
+//<LABEL=TRINITY></LABEL>だが破壊(はかい)の王、ラタト
+//スク・・・
+<LABEL=TRINITY></LABEL>But they've got no idea...
+$E=====7444=====
+//ヤツの本当のおそろしさを、ア
+//イツらは知らねぇ
+just how terrible the Lord
+of Destruction, Ratatosk,
+is.
+$E=====7445=====
+//それをアイツらに伝えるんだ
+I should tell them.
+$E=====7446=====
+//それに母ちゃんの言葉も・・・
+And give them mom's words...
+$E=====7447=====
 <PROC=0>
 <END>
-$J=====7448=====
-<LABEL=TRINITY></LABEL>それでいいんだよな、
-母ちゃん!!」
-$J=====7449=====
+$E=====7448=====
+//<LABEL=TRINITY></LABEL>それでいいんだよな、
+//母ちゃん!!」
+<LABEL=TRINITY></LABEL>That should be enough,
+right, mom!?"
+$E=====7449=====
 <PROC=0>
 <END>
-$J=====7450=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ふむ・・・
-$J=====7451=====
-この重量スイッチは、紋章(も
-んしょう)ブロックにのみ反応
-(はんのう)するようだな
-$J=====7452=====
-その上、乗せた紋章(もんしょ
-う)ブロックから力を引き出す
-ようだ
-$J=====7453=====
-だが、引き出されたその力は何
-に使われるのだ?
-$J=====7454=====
+$E=====7450=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ふむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hmm...
+$E=====7451=====
+//この重量スイッチは、紋章(も
+//んしょう)ブロックにのみ反応
+//(はんのう)するようだな
+Looks like this weight
+switch will only respond to
+a crest block.
+$E=====7452=====
+//その上、乗せた紋章(もんしょ
+//う)ブロックから力を引き出す
+//ようだ
+Furthermore, it draws out
+power from the block on top
+of it.
+$E=====7453=====
+//だが、引き出されたその力は何
+//に使われるのだ?
+But just what does it use
+that drawn-out power for?
+$E=====7454=====
 <PROC=0>
 <END>
-$J=====7455=====
-<LABEL=OTENKO></LABEL><NAME>、
-ものは試しだ
-$J=====7456=====
-この重量スイッチにフロストの
-紋章(もんしょう)ブロックを乗
-せてみろ」
-$J=====7457=====
+$E=====7455=====
+//<LABEL=OTENKO></LABEL><NAME>、
+//ものは試しだ
+<LABEL=OTENKO></LABEL><NAME>,
+let's test it.
+$E=====7456=====
+//この重量スイッチにフロストの
+//紋章(もんしょう)ブロックを乗
+//せてみろ」
+Try pushing a Frost block on
+top of the weight switch."
+$E=====7457=====
 <PROC=0>
 <END>
-$J=====7458=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ん?
-この雰囲気(ふんいき)は・・・
-$J=====7459=====
-暗黒城(あんこくじょう)の内部
-であることはまちがいないが、
-$J=====7460=====
-どことなく海賊島(かいぞくじ
-ま)の船内を思い出させるな
-$J=====7461=====
+$E=====7458=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ん?
+//この雰囲気(ふんいき)は・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hmm?
+This atmosphere...
+$E=====7459=====
+//暗黒城(あんこくじょう)の内部
+//であることはまちがいないが、
+I'm certain we're inside the
+Dark Castle,
+$E=====7460=====
+//どことなく海賊島(かいぞくじ
+//ま)の船内を思い出させるな
+but it reminds me of
+Pirate Island somehow...
+$E=====7461=====
 <PROC=0>
 <END>
-$J=====7462=====
-<LABEL=OTENKO></LABEL>覚えているか?
-$J=====7463=====
-舵輪(だりん)に大砲(たいほう)
-スケルトンフェンサーにアーチ
-ャー、
-$J=====7464=====
-そして機械王(きかいおう)、ニ
-ーズホッグ・・・
-$J=====7465=====
-トリニティのやんちゃぶりには
-苦労させられたな」
-$J=====7466=====
-<LABEL=NONE>亡霊(ぼうれい)</LABEL>
-「おい・・・」
-$J=====7467=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「今ごろ何をしていることやら
-$J=====7468=====
-まさかこの暗黒城(あんこくじ
-ょう)にまで、追いかけてくる
-ことはないだろうが・・・」
-$J=====7469=====
-<LABEL=NONE>亡霊(ぼうれい)</LABEL>
-「おーい・・・」
-$J=====7470=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「やはり心配だな
-$J=====7471=====
+$E=====7462=====
+//<LABEL=OTENKO></LABEL>覚えているか?
+<LABEL=OTENKO></LABEL>Do you remember?
+$E=====7463=====
+//舵輪(だりん)に大砲(たいほう)
+//スケルトンフェンサーにアーチ
+//ャー、
+Ships with cannons around
+the helm, Skeleton Fencers
+and Archers,
+$E=====7464=====
+//そして機械王(きかいおう)、ニ
+//ーズホッグ・・・
+and the Machine King,
+Nidhoggr...
+$E=====7465=====
+//トリニティのやんちゃぶりには
+//苦労させられたな」
+Trinity's mischief got him
+into all sorts of trouble."
+$E=====7466=====
+//<LABEL=NONE>亡霊(ぼうれい)</LABEL>
+//「おい・・・」
+<LABEL=NONE>Ghost</LABEL>:
+"Hey..."
+$E=====7467=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「今ごろ何をしていることやら
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"What are we doing now,
+anyway?
+$E=====7468=====
+//まさかこの暗黒城(あんこくじ
+//ょう)にまで、追いかけてくる
+//ことはないだろうが・・・」
+We aren't even going to
+catch up with him in this
+Dark Castle, are we..."
+$E=====7469=====
+//<LABEL=NONE>亡霊(ぼうれい)</LABEL>
+//「おーい・・・」
+<LABEL=NONE>Ghost</LABEL>:
+"Heeyyy..."
+$E=====7470=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「やはり心配だな
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This is quite a problem.
+$U=====7471=====
 スミスにでも、あずけておくべ
 きだったか・・・」
 $J=====7472=====
 <PROC=0>
 <END>
-$J=====7473=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ん?
-何だ、おまえは?
-$J=====7474=====
-いつからそこに?」
-$J=====7475=====
-<LABEL=NONE>亡霊(ぼうれい)</LABEL>
-「いつからって・・・
-$J=====7476=====
+$E=====7473=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ん?
+//何だ、おまえは?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Huh?
+What is it?
+$E=====7474=====
+//いつからそこに?」
+How long have you been
+there?"
+$E=====7475=====
+//<LABEL=NONE>亡霊(ぼうれい)</LABEL>
+//「いつからって・・・
+<LABEL=NONE>Ghost</LABEL>:
+"How long...?
+$E=====7476=====
 <PROC=0>
 <END>
-$J=====7477=====
-<LABEL=NONE></LABEL>最初からだよっ!!
-$J=====7478=====
-長々と無視(むし)しやがって!
-$J=====7479=====
-オレさまの名を聞いて、おどろ
-くなよ?
-$J=====7480=====
-オレさまはジョニー!!
-大海賊(だいかいぞく)、黒ひげ
-の三兄弟一の子分だ!」
-$J=====7481=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「知ってるか、<NAME>?」
-$J=====7482=====
+$E=====7477=====
+//<LABEL=NONE></LABEL>最初からだよっ!!
+<LABEL=NONE></LABEL>The whole time!
+$E=====7478=====
+//長々と無視(むし)しやがって!
+And you kept ignoring me!
+$E=====7479=====
+//オレさまの名を聞いて、おどろ
+//くなよ?
+Don't be frightened when you
+hear my name, okay?
+$E=====7480=====
+//オレさまはジョニー!!
+//大海賊(だいかいぞく)、黒ひげ
+//の三兄弟一の子分だ!」
+I'm Johnny! I'm a henchman
+of the great pirates, the
+3 Blackbeard Brothers!"
+$E=====7481=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「知ってるか、<NAME>?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Do you know him, <NAME>?"
+$E=====7482=====
 <PROC=0>
 <END>
-$J=====7483=====
-<LABEL=NONE>ジョニー</LABEL>
-「かーっ!!
-$J=====7484=====
-これだからガキはきらいなんだ
-よ!
-$J=====7485=====
-まあいい・・・
-へらず口をたたけるのも今の内
-だけだ
-$J=====7486=====
-どうせオマエらのようなガキの
-頭じゃあ、
-$J=====7487=====
-オレさまの迷宮(めいきゅう)を
-クリアできるはずねぇからな!
-$J=====7488=====
-ヒヒヒヒヒッ!!」
-$J=====7489=====
+$E=====7483=====
+//<LABEL=NONE>ジョニー</LABEL>
+//「かーっ!!
+<LABEL=NONE>Johnny</LABEL>:
+"Gah!
+$E=====7484=====
+//これだからガキはきらいなんだ
+//よ!
+This is why I hate kids!
+$E=====7485=====
+//まあいい・・・
+//へらず口をたたけるのも今の内
+//だけだ
+Oh well...
+I'll forgive your impudence
+this time.
+$E=====7486=====
+//どうせオマエらのようなガキの
+//頭じゃあ、
+You guys have the brains of
+a child,
+$E=====7487=====
+//オレさまの迷宮(めいきゅう)を
+//クリアできるはずねぇからな!
+so you won't be able to get
+through my labyrinth anyway!
+$E=====7488=====
+//ヒヒヒヒヒッ!!」
+Hee hee hee hee hee!"
+$E=====7489=====
 <PROC=0>
 <END>
-$J=====7490=====
-<LABEL=NONE>ジョニー</LABEL>
-「気になるか?
-気になるだろ?
-$J=====7491=====
-ならしょうがねぇ・・・
-オマエらには特別に教えてやる
-よ
-$J=====7492=====
-このフロアの各小部屋には、1
-つずつレバースイッチがあり、
-$J=====7493=====
-すべてのスイッチを入れれば、
-オレさまの後ろにある、かくし
-部屋へのカギが手に入る
-$J=====7494=====
-ただしっ!!
-$J=====7495=====
-各小部屋の出入口は、それぞれ
-一度しか通れねぇ
-$J=====7496=====
-入ったら最後、次の小部屋に進
-むしかねぇってわけだ
-$J=====7497=====
-進むべき順番を考えないと、す
-べての小部屋を回ることはでき
-ねぇぜ?
-$J=====7498=====
-まあ、オマエらなんぞには無理
-だと思うが・・・
-$J=====7499=====
-せいぜいがんばるんだな!
-ヒヒッ!!」
-$J=====7500=====
+$E=====7490=====
+//<LABEL=NONE>ジョニー</LABEL>
+//「気になるか?
+//気になるだろ?
+<LABEL=NONE>Johnny</LABEL>:
+"Are you worried?
+You're worried, huh?"
+$E=====7491=====
+//ならしょうがねぇ・・・
+//オマエらには特別に教えてやる
+//よ
+Guess it can't be helped...
+I'll give you a special
+lesson.
+$E=====7492=====
+//このフロアの各小部屋には、1
+//つずつレバースイッチがあり、
+There's a lever switch in
+every small room on this
+floor,
+$E=====7493=====
+//すべてのスイッチを入れれば、
+//オレさまの後ろにある、かくし
+//部屋へのカギが手に入る
+Flip every switch and you'll
+get a key to the hidden room
+behind me.
+$E=====7494=====
+//ただしっ!!
+However!
+$E=====7495=====
+//各小部屋の出入口は、それぞれ
+//一度しか通れねぇ
+You can only pass through
+each door a single time.
+$E=====7496=====
+//入ったら最後、次の小部屋に進
+//むしかねぇってわけだ
+If you use the last one to
+enter a room, you won't be
+able to reach the next room.
+$E=====7497=====
+//進むべき順番を考えないと、す
+//べての小部屋を回ることはでき
+//ねぇぜ?
+You have to figure out a
+path that'll let you visit
+every room, got it?
+$E=====7498=====
+//まあ、オマエらなんぞには無理
+//だと思うが・・・
+Yeah, I bet that's too tough
+for guys like you, but...
+$E=====7499=====
+//せいぜいがんばるんだな!
+//ヒヒッ!!」
+do the best you can!
+Hee hee!"
+$E=====7500=====
 <PROC=0>
 <END>
-$J=====7501=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ハマった!?」
-$J=====7502=====
+$E=====7501=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ハマった!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"You made it!?"
+$E=====7502=====
 <PROC=0>
 <END>
-$J=====7503=====
-<LABEL=NONE>ジョニー</LABEL>
-「うぬぬぬぬ・・・
-$J=====7504=====
-まさかオマエのようなガキに、
-オレさまの迷宮(めいきゅう)が
-やぶられるとは
-$J=====7505=====
-こんなことがバレたら・・・
-$J=====7506=====
+$U=====7503=====
+//<LABEL=NONE>ジョニー</LABEL>
+//「うぬぬぬぬ・・・
+<LABEL=NONE>Johnny</LABEL>:
+"No no no no no...
+$E=====7504=====
+//まさかオマエのようなガキに、
+//オレさまの迷宮(めいきゅう)が
+//やぶられるとは
+Don't tell me some brats
+like you defeated my
+labyrinth.
+$E=====7505=====
+//こんなことがバレたら・・・
+If word of this gets out...
+$E=====7506=====
 <PROC=0>
 <END>
-$J=====7507=====
-<LABEL=NONE></LABEL>黒ひげのアニキに殺されちまう
-!!」
-$J=====7508=====
+$E=====7507=====
+//<LABEL=NONE></LABEL>黒ひげのアニキに殺されちまう
+//!!」
+<LABEL=NONE></LABEL>The Blackbeard Brothers will
+kill me for sure!"
+$E=====7508=====
 <PROC=0>
 <END>
-$J=====7509=====
-<LABEL=NONE>ジョニー</LABEL>
-「もう死んでる?
-$J=====7510=====
-んなこたぁ、わかってんだよ!
-$J=====7511=====
-まったくいけすかねぇガキだぜ
-・・・
-$J=====7512=====
+$E=====7509=====
+//<LABEL=NONE>ジョニー</LABEL>
+//「もう死んでる?
+<LABEL=NONE>Johnny</LABEL>:
+"I'm already dead?
+$E=====7510=====
+//んなこたぁ、わかってんだよ!
+I-I knew that!
+$E=====7511=====
+//まったくいけすかねぇガキだぜ
+//・・・
+Jeez, you brats are are so
+nasty...
+$E=====7512=====
 <PROC=0>
 <END>
-$J=====7513=====
-<LABEL=NONE></LABEL>オレさまの迷宮(めいきゅう)を
-クリアした、その頭だけはみと
-めてやるがな!
-$J=====7514=====
-だが覚悟(かくご)しておけよ?
-$J=====7515=====
-アニキたちのおそろしさは、こ
-んなもんじゃあねぇ・・・
-$J=====7516=====
-ヒヒヒヒヒッ!!」
-$J=====7517=====
+$E=====7513=====
+//<LABEL=NONE></LABEL>オレさまの迷宮(めいきゅう)を
+//クリアした、その頭だけはみと
+//めてやるがな!
+<LABEL=NONE></LABEL>You managed to clear my
+labyrinth, I'll give you
+that much credit!
+$E=====7514=====
+//だが覚悟(かくご)しておけよ?
+But are you prepared?
+$E=====7515=====
+//アニキたちのおそろしさは、こ
+//んなもんじゃあねぇ・・・
+This was nothing compared to
+how terrible the Blackbeard
+Brothers are...
+$E=====7516=====
+//ヒヒヒヒヒッ!!」
+Hee hee hee hee hee!"
+$E=====7517=====
 <PROC=0>
 <END>
-$J=====7518=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「どうやら、このフロアでやる
-べきことは果たしたようだな
-$J=====7519=====
-ワープ魔方陣(まほうじん)でつ
-ながれた4つのフロア・・・
-$J=====7520=====
-そのすべてにおいてスイッチを
-入れなければ、あの部屋の足場
-は完成しないというわけか
-$J=====7521=====
-残るフロアはあと3つ・・・
-$J=====7522=====
-先を急ごう、<NAME>!!」
-$J=====7523=====
+$E=====7518=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「どうやら、このフロアでやる
+//べきことは果たしたようだな
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Well, that takes care of
+this floor.
+$E=====7519=====
+//ワープ魔方陣(まほうじん)でつ
+//ながれた4つのフロア・・・
+The Warp Magic Square is
+connected to 4 floors...
+$E=====7520=====
+//そのすべてにおいてスイッチを
+//入れなければ、あの部屋の足場
+//は完成しないというわけか
+The foothold in that room
+won't be complete until you
+flip the switch in each one.
+$E=====7521=====
+//残るフロアはあと3つ・・・
+There are 3 floors left...
+$E=====7522=====
+//先を急ごう、<NAME>!!」
+Hurry onward, <NAME>!"
+$E=====7523=====
 <PROC=0>
 <END>
-$J=====7524=====
-<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
-「われらは黒ひげの三兄弟!!
-$J=====7525=====
-われらをしりぞけ、扉(とびら)
-を通りたくば、われらの問いに
-答えるが良い
-$J=====7526=====
-ただしっ!!
-$J=====7527=====
-答えをまちがえた場合は、地獄
-(じごく)のせめ苦を味わっても
-らう
-$J=====7528=====
-おまえにはその覚悟(かくご)が
-あるか?」
-$J=====7529=====
+$E=====7524=====
+//<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
+//「われらは黒ひげの三兄弟!!
+<LABEL=NONE>3 Ghosts</LABEL>:
+"We are the Blackbeard
+Brothers!
+$E=====7525=====
+//われらをしりぞけ、扉(とびら)
+//を通りたくば、われらの問いに
+//答えるが良い
+You have to answer our
+questions before we'll let
+you through the door.
+$E=====7526=====
+//ただしっ!!
+However!
+$E=====7527=====
+//答えをまちがえた場合は、地獄
+//(じごく)のせめ苦を味わっても
+//らう
+If you get one wrong, we'll
+give you a taste of the
+bitter pain of hell!
+$E=====7528=====
+//おまえにはその覚悟(かくご)が
+//あるか?」
+Are you prepared for that?"
+$E=====7529=====
 <PROC=0>
 <END>
-$J=====7530=====
-<LABEL=NONE>赤の亡霊(ぼうれい)</LABEL>
-「ほう・・・
-少しはやるようだな?
-$J=====7531=====
-だがジョージアニキの問題は、
-さらにむずかしいぞ?」
-$J=====7532=====
+$E=====7530=====
+//<LABEL=NONE>赤の亡霊(ぼうれい)</LABEL>
+//「ほう・・・
+//少しはやるようだな?
+<LABEL=NONE>Red Ghost</LABEL>:
+"Oh? You seem a little
+pleased.
+$E=====7531=====
+//だがジョージアニキの問題は、
+//さらにむずかしいぞ?」
+But George's problem is even
+harder."
+$E=====7532=====
 <PROC=0>
 <END>
 $J=====7533=====
@@ -31953,16 +32218,23 @@ $J=====7534=====
 $J=====7535=====
 <PROC=0>
 <END>
-$J=====7536=====
-<LABEL=NONE>紫(むらさき)の亡霊(ぼうれい)</LABEL>
-「フッフッフッ・・・
-$J=====7537=====
-移動(いどう)ブロックを1つも
-落とさないとは・・・
-$J=====7538=====
-だが魂(たましい)の重さなど、
-何者にも量ることはできない
-$J=====7539=====
+$E=====7536=====
+//<LABEL=NONE>紫(むらさき)の亡霊(ぼうれい)</LABEL>
+//「フッフッフッ・・・
+<LABEL=NONE>Purple Ghost</LABEL>:
+"Heh heh heh...
+$E=====7537=====
+//移動(いどう)ブロックを1つも
+//落とさないとは・・・
+You didn't push down a
+single moving block...
+$E=====7538=====
+//だが魂(たましい)の重さなど、
+//何者にも量ることはできない
+but then, nobody can measure
+the weight of something like
+a soul.
+$E=====7539=====
 おまえはそれを知ってなお、戦
 おうというのだな?
 $J=====7540=====
@@ -32029,13 +32301,18 @@ $J=====7558=====
 $J=====7559=====
 すべての移動(いどう)ブロック
 を落としたか・・・
-$J=====7560=====
-己(おのれ)の罪(つみ)の重さ、
-自覚してはいるようだな?
-$J=====7561=====
-いやむしろ・・・
-その自覚があればこそ、今のお
-まえがあるのだろう
+$E=====7560=====
+//己(おのれ)の罪(つみ)の重さ、
+//自覚してはいるようだな?
+Guess you're self-conscious
+about the weight of your
+sins?
+$E=====7561=====
+//いやむしろ・・・
+//その自覚があればこそ、今のお
+//まえがあるのだろう
+Or rather... those sins make
+you who you are now, hmm?
 $J=====7562=====
 さすがは、われらが闇の女王(
 クイーン)が気にかけるほどの
@@ -32060,509 +32337,755 @@ $J=====7567=====
 $J=====7568=====
 <PROC=0>
 <END>
-$J=====7569=====
-<LABEL=NONE>ジョニー</LABEL>
-「ヒヒッ!!
-$J=====7570=====
-残念ながらオマエの答えは不正
-解(ふせいかい)・・・
-軽すぎたようだな?
-$J=====7571=====
-かわいそうだが、ここでお別れ
-だ。うらむなら自分のおろかさ
-をうらめよ?
-$J=====7572=====
+$E=====7569=====
+//<LABEL=NONE>ジョニー</LABEL>
+//「ヒヒッ!!
+<LABEL=NONE>Johnny</LABEL>:
+"Hee hee!
+$E=====7570=====
+//残念ながらオマエの答えは不正
+//解(ふせいかい)・・・
+//軽すぎたようだな?
+Sorry, but that's incorrect.
+Seems a bit too light,
+doesn't it?
+$E=====7571=====
+//かわいそうだが、ここでお別れ
+//だ。うらむなら自分のおろかさ
+//をうらめよ?
+It's a pity, but we part
+here. You've got nothing to
+blame but your own folly.
+$E=====7572=====
 <PROC=0>
 <END>
-$J=====7573=====
-生きてもどれたら、また会おう
-・・・
-$J=====7574=====
-ヒヒヒヒヒッ!!」
-$J=====7575=====
+$E=====7573=====
+//生きてもどれたら、また会おう
+//・・・
+See you again, if you come
+back alive...
+$E=====7574=====
+//ヒヒヒヒヒッ!!」
+Hee hee hee hee hee!"
+$E=====7575=====
 <PROC=0>
 <END>
-$J=====7576=====
-<LABEL=NONE>ジョニー</LABEL>
-「ヒヒッ!!
-$J=====7577=====
-残念ながらオマエの答えは不正
-解(ふせいかい)・・・
-重すぎたようだな?
-$J=====7578=====
-かわいそうだが、ここでお別れ
-だ。うらむなら自分のおろかさ
-をうらめよ?
-$J=====7579=====
+$E=====7576=====
+//<LABEL=NONE>ジョニー</LABEL>
+//「ヒヒッ!!
+<LABEL=NONE>Johnny</LABEL>:
+"Hee hee!
+$E=====7577=====
+//残念ながらオマエの答えは不正
+//解(ふせいかい)・・・
+//重すぎたようだな?
+Sorry, but that's incorrect.
+Seems a bit too heavy,
+doesn't it?
+$E=====7578=====
+//かわいそうだが、ここでお別れ
+//だ。うらむなら自分のおろかさ
+//をうらめよ?
+It's a pity, but we part
+here. You've got nothing to
+blame but your own folly.
+$E=====7579=====
 <PROC=0>
 <END>
-$J=====7580=====
-生きてもどれたら、また会おう
-・・・
-$J=====7581=====
-ヒヒヒヒヒッ!!」
-$J=====7582=====
+$E=====7580=====
+//生きてもどれたら、また会おう
+//・・・
+See you again, if you come
+back alive...
+$E=====7581=====
+//ヒヒヒヒヒッ!!」
+Hee hee hee hee hee!"
+$E=====7582=====
 <PROC=0>
 <END>
-$J=====7583=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ここは・・・
-$J=====7584=====
-かつてサバタとの死闘(しとう)
-をえんじた戦士の間
-$J=====7585=====
-王の間は・・・
-ラタトスクは近い!!
-$J=====7586=====
-ん?」
-$J=====7587=====
+$E=====7583=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ここは・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This is...
+$E=====7584=====
+//かつてサバタとの死闘(しとう)
+//をえんじた戦士の間
+the warrior room, where you
+once held a life and death
+battle with Sabata.
+$E=====7585=====
+//王の間は・・・
+//ラタトスクは近い!!
+The throne room...
+Ratatosk is nearby!
+$E=====7586=====
+//ん?」
+Huh?"
+$E=====7587=====
 <PROC=0>
 <END>
-$J=====7588=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタ!!
-$J=====7589=====
-無事だったのか!?」
-$J=====7590=====
+$E=====7588=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタ!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata!
+$E=====7589=====
+//無事だったのか!?」
+You're alright!?"
+$E=====7590=====
 <PROC=0>
 <END>
-$J=====7591=====
-<LABEL=SABATA>サバタ</LABEL>
-<PROC=1><LOCK=6>「フッ・・・
-$J=====7592=====
-月は太陽の光を映し出す。
-だがそれはただの鏡ではない
-$J=====7593=====
-その光は万物の慈愛(じあい)と
-狂気(きょうき)を宿し、
-$J=====7594=====
-太陽と暗黒、火水風土の4大元
-素、そのすべてをあやつりみち
-びく
-$J=====7595=====
-みちびきの力・・・
-それが月の巫女(月下美人)の力
-$J=====7596=====
-その力を持つおれが、人形使い
-ごときに負けるはずはあるまい
-?」
-$J=====7597=====
-<LABEL=PLAYER><NAME></LABEL>
-「それじゃあラタトスクは!?」
-$J=====7598=====
-<LABEL=SABATA>サバタ</LABEL>
-「すでに棺桶(かんおけ)の中だ
-$J=====7599=====
-あとはおまえが始末してくれれ
-ばいい
-$J=====7600=====
-それでヴァナルガンドの復活(
-ふっかつ)は止められる
-$J=====7601=====
-時間がない・・・
-急ぐんだ、<NAME>!!」
-$J=====7602=====
+$E=====7591=====
+//<LABEL=SABATA>サバタ</LABEL>
+//<PROC=1><LOCK=6>「フッ・・・
+<LABEL=SABATA>Sabata</LABEL>:
+<PROC=1><LOCK=6>"Heh...
+$E=====7592=====
+//月は太陽の光を映し出す。
+//だがそれはただの鏡ではない
+The moon is like a mirror
+that reflects the sun. But
+it's not an ordinary mirror.
+$E=====7593=====
+//その光は万物の慈愛(じあい)と
+//狂気(きょうき)を宿し、
+That light carries love and
+madness for all things,
+$E=====7594=====
+//太陽と暗黒、火水風土の4大元
+//素、そのすべてをあやつりみち
+//びく
+Solar and Darkness, the 4
+great elements, the way to
+control all of them.
+$E=====7595=====
+//みちびきの力・・・
+//それが月の巫女(月下美人)の力
+The power to lead...
+that is the Moon Beauty
+power.
+$E=====7596=====
+//その力を持つおれが、人形使い
+//ごときに負けるはずはあるまい
+//?」
+With that power, how could I
+lose to someone like the
+Puppeteer?"
+$E=====7597=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「それじゃあラタトスクは!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"Then Ratatosk is...!?"
+$E=====7598=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「すでに棺桶(かんおけ)の中だ
+<LABEL=SABATA>Sabata</LABEL>:
+"Already inside the coffin.
+$E=====7599=====
+//あとはおまえが始末してくれれ
+//ばいい
+I'll leave the rest to you.
+$E=====7600=====
+//それでヴァナルガンドの復活(
+//ふっかつ)は止められる
+After that, Vanargand's
+revival will be stopped.
+$E=====7601=====
+//時間がない・・・
+//急ぐんだ、<NAME>!!」
+There's no time...
+hurry, <NAME>!"
+$E=====7602=====
 <PROC=0>
 <END>
-$J=====7603=====
-???
-「待て、<NAME>!!
-$J=====7604=====
-そいつはサバタじゃない!」
-$J=====7605=====
+$E=====7603=====
+//???
+//「待て、<NAME>!!
+???:
+"Wait, <NAME>!
+$E=====7604=====
+//そいつはサバタじゃない!」
+That's not Sabata!"
+$E=====7605=====
 <PROC=0>
 <END>
-$J=====7606=====
-<LABEL=SABATA>サバタ</LABEL>
-「ちぃっ!!」
-$J=====7607=====
+$E=====7606=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「ちぃっ!!」
+<LABEL=SABATA>Sabata</LABEL>:
+"Tch!
+$E=====7607=====
 <PROC=0>
 <END>
-$J=====7608=====
-<LABEL=RATA>ラタトスク</LABEL>
-「わたくしの人形写しを見破(
-みやぶ)るとは・・・
-$J=====7609=====
-あなたはいったい!?」
-$J=====7610=====
-<LABEL=TRINITY>トリニティ</LABEL>
-<PROC=1><LOCK=6>「へへっ・・・
-$J=====7611=====
-テメェの手口はお見通しだぜ!!
-$J=====7612=====
-それに・・・
-$J=====7613=====
-におうんだよ、テメェは!
-$J=====7614=====
-ドス黒いゲス野郎(やろう)のに
-おいがな!!」
-$J=====7615=====
-<LABEL=RATA>ラタトスク</LABEL>
-「このわたしを侮辱(ぶじょく)
-するとは・・・
-$J=====7616=====
-そんなに死にたいのですか?」
-$J=====7617=====
+$E=====7608=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「わたくしの人形写しを見破(
+//みやぶ)るとは・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+"You saw through my puppet
+clone...
+$E=====7609=====
+//あなたはいったい!?」
+who in the world are you!?"
+$E=====7610=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//<PROC=1><LOCK=6>「へへっ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+<PROC=1><LOCK=6>"Hehe...
+$E=====7611=====
+//テメェの手口はお見通しだぜ!!
+I see through your tricks!
+$E=====7612=====
+//それに・・・
+And...
+$E=====7613=====
+//におうんだよ、テメェは!
+I can smell you, you
+bastard!
+$E=====7614=====
+//ドス黒いゲス野郎(やろう)のに
+//おいがな!!」
+you stink like a dirty
+rotten criminal!"
+$E=====7615=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「このわたしを侮辱(ぶじょく)
+//するとは・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+"You dare insult me...
+$E=====7616=====
+//そんなに死にたいのですか?」
+do you wish to die that
+much?"
+$E=====7617=====
 <PROC=0>
 <END>
-$J=====7618=====
+$U=====7618=====
 <LABEL=TRINITY>トリニティ</LABEL>
 「なんだよ・・・そりゃあ?
-$J=====7619=====
+$E=====7619=====
 <PROC=0>
 <END>
-$J=====7620=====
+$U=====7620=====
 <LABEL=TRINITY></LABEL>そんなもんじゃあ、人間さまは
 死なねぇぜ!!」
-$J=====7621=====
+$E=====7621=====
 <PROC=0>
 <END>
-$J=====7622=====
-<LABEL=PLAYER><NAME></LABEL>
-「やめろ、トリニティ!!」
-$J=====7623=====
+$E=====7622=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「やめろ、トリニティ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Stop, Trinity!"
+$E=====7623=====
 <PROC=0>
 <END>
-$J=====7624=====
-<LABEL=RATA>ラタトスク</LABEL>
-「きさまぁ・・・!!」
-$J=====7625=====
+$E=====7624=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「きさまぁ・・・!!」
+<LABEL=RATA>Ratatosk</LABEL>:
+"Why you...!"
+$E=====7625=====
 <PROC=0>
 <END>
-$J=====7626=====
-<LABEL=RATA>ラタトスク</LABEL>
-「人間ごときがっ!!」
-$J=====7627=====
+$E=====7626=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「人間ごときがっ!!」
+<LABEL=RATA>Ratatosk</LABEL>:
+"A mere human!"
+$E=====7627=====
 <PROC=0>
 <END>
-$J=====7628=====
-<LABEL=RATA>ラタトスク</LABEL>
-「よくもこのわたしにっ!!」
-$J=====7629=====
+$E=====7628=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「よくもこのわたしにっ!!」
+<LABEL=RATA>Ratatosk</LABEL>:
+"How dare you... to me!"
+$E=====7629=====
 <PROC=0>
 <END>
-$J=====7630=====
-<LABEL=RATA>ラタトスク</LABEL>
-「身のほどを知れっ!!」
-$J=====7631=====
+$E=====7630=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「身のほどを知れっ!!」
+<LABEL=RATA>Ratatosk</LABEL>:
+"Know your body's limits!"
+$E=====7631=====
 <PROC=0>
 <END>
-$J=====7632=====
-<LABEL=RATA>ラタトスク</LABEL>
-「はぁ、はぁ、はぁ・・・
-$J=====7633=====
-・・・トドメです
-$J=====7634=====
-お望みどおり、死になさい!!」
-$J=====7635=====
+$E=====7632=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「はぁ、はぁ、はぁ・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+"(pant, pant, pant)...
+$E=====7633=====
+//・・・トドメです
+...it ends here.
+$E=====7634=====
+//お望みどおり、死になさい!!」
+You've chosen your path.
+Die!"
+$E=====7635=====
 <PROC=0>
 <END>
-$J=====7636=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「そうはさせんっ!!」
-$J=====7637=====
+$E=====7636=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「そうはさせんっ!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"I won't let you!"
+$E=====7637=====
 <PROC=0>
 <END>
-$J=====7638=====
-<LABEL=PLAYER><NAME></LABEL>
-「おてんこさま!!」
-$J=====7639=====
+$E=====7638=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「おてんこさま!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Master Otenko!"
+$E=====7639=====
 <PROC=0>
 <END>
-$J=====7640=====
-<LABEL=PLAYER><NAME></LABEL>
-「ラタトスク!!
-よくも2人を!」
-$J=====7641=====
+$E=====7640=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「ラタトスク!!
+//よくも2人を!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Ratatosk! 
+How dare you hurt them!"
+$E=====7641=====
 <PROC=0>
 <END>
-$J=====7642=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「わたしならだいじょうぶだ!
-$J=====7643=====
-行くぞ、<NAME>!!」
-$J=====7644=====
+$E=====7642=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「わたしならだいじょうぶだ!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"I'll be fine!
+$E=====7643=====
+//行くぞ、<NAME>!!」
+Let's go, <NAME>!"
+$E=====7644=====
 <PROC=0>
 <END>
-$J=====7645=====
-<LABEL=RATA>ラタトスク</LABEL>
-「なにっ!?
-$J=====7646=====
-その姿(すがた)は・・・!!」
-$J=====7647=====
+$E=====7645=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「なにっ!?
+<LABEL=RATA>Ratatosk</LABEL>:
+"What!?
+$E=====7646=====
+//その姿(すがた)は・・・!!」
+That figure...!"
+$E=====7647=====
 <PROC=0>
 <END>
-$J=====7648=====
-<LABEL=RATA>ラタトスク</LABEL>
-「くっ!!
-$J=====7649=====
-遊びすぎたか・・・!?
-$J=====7650=====
-だがっ!!」
-$J=====7651=====
+$E=====7648=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「くっ!!
+<LABEL=RATA>Ratatosk</LABEL>:
+"Tch!
+$E=====7649=====
+//遊びすぎたか・・・!?
+Was I too careless...!?
+$E=====7650=====
+//だがっ!!」
+But!"
+$E=====7651=====
 <PROC=0>
 <END>
-$J=====7652=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「くっ・・・
-$J=====7653=====
-先ほどのチャクラム・・・
-しびれ薬か!?」
-$J=====7654=====
-<LABEL=RATA>ラタトスク</LABEL>
-<PROC=1><LOCK=10>「ウフフフフ・・・
-$J=====7655=====
-うすぎたない人間の分際(ぶん
-ざい)で、このわたしに刃向(は
-む)かった罰(ばつ)です
-$J=====7656=====
-果てしなき異次元空間(いじげ
-んくうかん)の中を・・・
-$J=====7657=====
-未来永劫(みらいえいごう)にさ
-まようがいい!!」
-$J=====7658=====
+$E=====7652=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「くっ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Tch...
+$E=====7653=====
+//先ほどのチャクラム・・・
+//しびれ薬か!?」
+That chakram...
+paralyzing medicine!?"
+$E=====7654=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//<PROC=1><LOCK=10>「ウフフフフ・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+<PROC=1><LOCK=10>"Hehehehehe...
+$E=====7655=====
+//うすぎたない人間の分際(ぶん
+//ざい)で、このわたしに刃向(は
+//む)かった罰(ばつ)です
+Know your place, filthy
+human. I'll punish you for
+opposing me!
+$U=====7656=====
+//果てしなき異次元空間(いじげ
+//んくうかん)の中を・・・
+Wander the endless strange
+dimensional space...
+$E=====7657=====
+//未来永劫(みらいえいごう)にさ
+//まようがいい!!」
+for eternity!"
+$E=====7658=====
 <PROC=0>
 <END>
-$J=====7659=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティ!!」
-$J=====7660=====
+$E=====7659=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity!"
+$E=====7660=====
 <PROC=0>
 <END>
-$J=====7661=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「へへっ・・・
-$J=====7662=====
-すっげぇこわかったけど・・・
-一撃(いちげき)入れてやったぜ
-$J=====7663=====
-オメェらにもこれで、借りを返
-せたな・・・」
-$J=====7664=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「トリニティ・・・
-どうしてここに!!
-$J=====7665=====
-ここにはお宝(たから)などない
-$J=====7666=====
-あるのは、闇の一族(イモータ
-ル)の罠(わな)だけだ・・・
-$J=====7667=====
-なぜこんな無茶をしたんだ!!」
-$J=====7668=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「思い出しちまったんだよ
-$J=====7669=====
-母ちゃんの・・・
-最後の言葉をよ
-$J=====7670=====
-オイラと母ちゃんは、伝説の
-戦士をさがして旅を続けた
-$J=====7671=====
-でも結局、伝説の戦士を見つけ
-ることなんてできなかった
-$J=====7672=====
-オイラたちには、未来を変える
-ことなんてできなかったんだ
-$J=====7673=====
-長い旅の生活で身体の弱ってい
-た母ちゃんは、
-$J=====7674=====
-ラタトスクの罠(わな)にはめら
-れて、死んだ・・・
-$J=====7675=====
-それでも最後に・・・
-母ちゃんは言ったんだ
-$J=====7676=====
+$E=====7661=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「へへっ・・・
+<LABEL=TRINITY>Trinity</LABEL>:
+"Hehe...
+$E=====7662=====
+//すっげぇこわかったけど・・・
+//一撃(いちげき)入れてやったぜ
+I was really scared...
+but I got in a hit.
+$E=====7663=====
+//オメェらにもこれで、借りを返
+//せたな・・・」
+Now I've repaid my debt to
+you..."
+$E=====7664=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「トリニティ・・・
+//どうしてここに!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Trinity...
+why are you here!?
+$E=====7665=====
+//ここにはお宝(たから)などない
+There's nothing like
+treasure here.
+$E=====7666=====
+//あるのは、闇の一族(イモータ
+//ル)の罠(わな)だけだ・・・
+The only thing here is the
+Immortal's trap...
+$E=====7667=====
+//なぜこんな無茶をしたんだ!!」
+Don't be so unreasonable!"
+$E=====7668=====
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「思い出しちまったんだよ
+<LABEL=TRINITY>Trinity</LABEL>:
+"I remembered.
+$E=====7669=====
+//母ちゃんの・・・
+//最後の言葉をよ
+"My mom's...
+last words.
+$E=====7670=====
+//オイラと母ちゃんは、伝説の
+//戦士をさがして旅を続けた
+We kept traveling in search
+of the Legendary Warrior.
+$E=====7671=====
+//でも結局、伝説の戦士を見つけ
+//ることなんてできなかった
+But we were never able to
+find him after all.
+$E=====7672=====
+//オイラたちには、未来を変える
+//ことなんてできなかったんだ
+We couldn't change the
+future.
+$E=====7673=====
+//長い旅の生活で身体の弱ってい
+//た母ちゃんは、
+My mom, her body weak after
+a life of long journeys,
+$E=====7674=====
+//ラタトスクの罠(わな)にはめら
+//れて、死んだ・・・
+got caught in one of
+Ratatosk's traps, and
+died...
+$E=====7675=====
+//それでも最後に・・・
+//母ちゃんは言ったんだ
+Even so, at the very end...
+she spoke.
+$E=====7676=====
 <PROC=0>
 <END>
-$J=====7677=====
-[笑って、トリニティ
-$J=====7678=====
-わたしには、あの人を助け出す
-ことはできなかったけれど、
-$J=====7679=====
-それでも、笑うわ
-$J=====7680=====
-だからあなたも・・・
-ねぇ、笑って?
-$J=====7681=====
-そうすればいつかきっと・・・
-$J=====7682=====
-あなたにも、だれかを笑わせる
-ことができる
-$J=====7683=====
-わたしの笑顔を・・・
-$J=====7684=====
-あの人に、とどけて・・・]
-$J=====7685=====
+$E=====7677=====
+//[笑って、トリニティ
+'Smile, Trinity.
+$E=====7678=====
+//わたしには、あの人を助け出す
+//ことはできなかったけれど、
+I wasn't able to help him
+out,
+$E=====7679=====
+//それでも、笑うわ
+but I still smile.
+$E=====7680=====
+//だからあなたも・・・
+//ねぇ、笑って?
+So you, too...
+smile, okay?
+$E=====7681=====
+//そうすればいつかきっと・・・
+If you do, then surely
+someday...
+$E=====7682=====
+//あなたにも、だれかを笑わせる
+//ことができる
+you'll be able to make
+others smile too.
+$E=====7683=====
+//わたしの笑顔を・・・
+Send him...
+$E=====7684=====
+//あの人に、とどけて・・・]
+send him my smile...'
+$E=====7685=====
 <PROC=0>
 <END>
-$J=====7686=====
-あのときは母ちゃんの言ってい
-ることの意味が・・・
-オイラにはわからなかった
-$J=====7687=====
-でも今なら・・・
-少しは分かるような気がするん
-だ
-$J=====7688=====
-伝説の戦士・・・
-そんなヤツが本当にいたのか?
-$J=====7689=====
-それはオイラにもわからない
-$J=====7690=====
-それでもオイラは思ったんだ。
-オメェたちに伝えなきゃあって
-$J=====7691=====
-ラタトスクの罠(わな)と、
-$J=====7692=====
-母ちゃんの笑顔を・・・」
-$J=====7693=====
+$E=====7686=====
+//あのときは母ちゃんの言ってい
+//ることの意味が・・・
+//オイラにはわからなかった
+Back then, I didn't
+understand what she was
+saying.
+$E=====7687=====
+//でも今なら・・・
+//少しは分かるような気がするん
+//だ
+But now...
+I think I understand a
+little.
+$E=====7688=====
+//伝説の戦士・・・
+//そんなヤツが本当にいたのか?
+The Legendary Warrior...
+did someone like that really
+exist?
+$E=====7689=====
+//それはオイラにもわからない
+I don't know that either.
+$E=====7690=====
+//それでもオイラは思ったんだ。
+//オメェたちに伝えなきゃあって
+But I think there was.
+I had to tell you.
+$E=====7691=====
+//ラタトスクの罠(わな)と、
+About Ratatosk's trap,
+$E=====7692=====
+//母ちゃんの笑顔を・・・」
+and mom's smile..."
+$E=====7693=====
 <PROC=0>
 <END>
-$J=====7694=====
-<LABEL=PLAYER><NAME></LABEL>
-「トリニティーーーッ!!」
-$J=====7695=====
+$E=====7694=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「トリニティーーーッ!!」
+<LABEL=PLAYER><NAME></LABEL>:
+"Trinity!!!!!"
+$E=====7695=====
 <PROC=0>
 <END>
-$J=====7696=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「散々われわれのジャマをして
-おいて・・・
-$J=====7697=====
+$E=====7696=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「散々われわれのジャマをして
+//おいて・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"I'm terribly sorry to
+interrupt...
+$U=====7697=====
 なれないことをするんじゃない
 !!
-$J=====7698=====
-トリニティ・・・
-$J=====7699=====
+$E=====7698=====
+//トリニティ・・・
+Trinity...
+$U=====7699=====
 おまえのことくらい、いくらで
 も笑ってやったものを!!」
-$J=====7700=====
+$E=====7700=====
 <PROC=0>
 <END>
-$J=====7701=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「行くぞ、<NAME>
-$J=====7702=====
-ラタトスクをたおし、ヴァナル
-ガンドの復活(ふっかつ)を止め
-るんだ!!
-$J=====7703=====
-今はまだ笑えなくとも・・・
-$J=====7704=====
-明日をまた笑うために!
-$J=====7705=====
-トリニティの死を・・・
-$J=====7706=====
-その想いをムダにするわけには
-いかない!!」
-$J=====7707=====
+$E=====7701=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「行くぞ、<NAME>
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Go, <NAME>.
+$E=====7702=====
+//ラタトスクをたおし、ヴァナル
+//ガンドの復活(ふっかつ)を止め
+//るんだ!!
+Defeat Ratatosk, and stop
+Vanargand's revival!
+$E=====7703=====
+//今はまだ笑えなくとも・・・
+We're certainly not smiling
+now...
+$E=====7704=====
+//明日をまた笑うために!
+but for the sake of smiling
+tomorrow!
+$E=====7705=====
+//トリニティの死を・・・
+Trinity's death...
+$E=====7706=====
+//その想いをムダにするわけには
+//いかない!!」
+We can't let those feelings
+be in vain!"
+$E=====7707=====
 <PROC=0>
 <END>
-$J=====7708=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「人形使い、ラタトスク!!
-とうとう追いつめたぞ!」
-$J=====7709=====
-<LABEL=RATA>ラタトスク</LABEL>
-「お待ちしていましたよ。
-おてんこさまに<NAME>さん
-$J=====7710=====
-おや?
-$J=====7711=====
-もう1人の少年はどうしました?
+$U=====7708=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「人形使い、ラタトスク!!
+//とうとう追いつめたぞ!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Ratatosk the Puppeteer!
+Finally 追いつめたぞ!"
+$E=====7709=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「お待ちしていましたよ。
+//おてんこさまに<NAME>さん
+<LABEL=RATA>Ratatosk</LABEL>:
+"I've been waiting.
+Master Otenko and <NAME>.
+$E=====7710=====
+//おや?
+Hmm?
+$E=====7711=====
+//もう1人の少年はどうしました?
+What happened to the other
+boy?
 $J=====7712=====
-人の身では決して帰ることので
-きない、
-$J=====7713=====
-異次元空間(いじげんくうかん)
-にでも、まよいこんだのでしょ
-うか?
-$J=====7714=====
+//人の身では決して帰ることので
+//きない、
+Never able to return to a
+human body,
+$E=====7713=====
+//異次元空間(いじげんくうかん)
+//にでも、まよいこんだのでしょ
+//うか?
+perhaps he lost his way in
+the other dimension?
+$E=====7714=====
 <PROC=0>
 <END>
-$J=====7715=====
-<PROC=1><LOCK=10><LABEL=RATA></LABEL>ウフフフフ・・・」
-$J=====7716=====
+$E=====7715=====
+//<PROC=1><LOCK=10><LABEL=RATA></LABEL>ウフフフフ・・・」
+<PROC=1><LOCK=10><LABEL=RATA></LABEL>Heheheheheh..."
+$E=====7716=====
 <PROC=0>
 <END>
-$J=====7717=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「きさま・・・!!」
-$J=====7718=====
+$E=====7717=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「きさま・・・!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Why you...!"
+$E=====7718=====
 <PROC=0>
 <END>
-$J=====7719=====
+$E=====7719=====
 <LABEL=RATA>ラタトスク</LABEL>
 「おいかりのようですね?
 $J=====7720=====
-ですがそれは、こちらとて同じ
-こと
-$J=====7721=====
-しょせんはよそ者である伯爵(
-はくしゃく)はともかく・・・
-$J=====7722=====
-フレスベルグにニーズホッグ、
-$J=====7723=====
-優秀(ゆうしゅう)な手駒(てご
-ま)を2つもうばわれたのです
-から
-$J=====7724=====
-ですが、それももういいでしょ
-う
-$J=====7725=====
-月の封印(ふういん)をとくため
-の2つのカギは・・・
-$J=====7726=====
+//ですがそれは、こちらとて同じ
+//こと
+But you've done the same
+thing.
+$E=====7721=====
+//しょせんはよそ者である伯爵(
+//はくしゃく)はともかく・・・
+At the beginning, the
+Count...
+$E=====7722=====
+//フレスベルグにニーズホッグ、
+and furthermore, Hresvelgr
+and Nidhoggr,
+$E=====7723=====
+//優秀(ゆうしゅう)な手駒(てご
+//ま)を2つもうばわれたのです
+//から
+two of my superior pawns.
+$E=====7724=====
+//ですが、それももういいでしょ
+//う
+But that, too, is just as
+well.
+$E=====7725=====
+//月の封印(ふういん)をとくため
+//の2つのカギは・・・
+The 2 keys to open the Lunar
+seal...
+$E=====7726=====
 <PROC=0>
 <END>
-$J=====7727=====
-<LABEL=RATA></LABEL>すでに鍵穴(かぎあな)に差しこ
-まれたのですから!
-$J=====7728=====
+$E=====7727=====
+//<LABEL=RATA></LABEL>すでに鍵穴(かぎあな)に差しこ
+//まれたのですから!
+<LABEL=RATA></LABEL>are already in place!
+$E=====7728=====
 <PROC=0>
 <END>
-$J=====7729=====
-<LABEL=RATA></LABEL>ごらんなさい、あの月を・・・」
-$J=====7730=====
+$E=====7729=====
+//<LABEL=RATA></LABEL>ごらんなさい、あの月を・・・」
+<LABEL=RATA></LABEL>Take a look at the moon,
+if you please..."
+$E=====7730=====
 <PROC=0>
 <END>
-$J=====7731=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「この赤き光は・・・
-皆既月蝕(かいきげっしょく)!?
-$J=====7732=====
-これが2つ目のカギか」
-$J=====7733=====
+$E=====7731=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「この赤き光は・・・
+//皆既月蝕(かいきげっしょく)!?
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This red light...
+a Lunar eclipse!?
+$E=====7732=====
+//これが2つ目のカギか」
+So that's the second key..."
+$E=====7733=====
 <PROC=0>
 <END>
-$J=====7734=====
-<LABEL=RATA>ラタトスク</LABEL>
-「その通り
-$J=====7735=====
-まもなく月は大地の影(かげ)に
-おおわれ・・・赤くそまる
-$J=====7736=====
-血と大地によって月がそまる時
-破壊(はかい)の獣(けもの)はと
-き放たれる
-$J=====7737=====
+$E=====7734=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「その通り
+<LABEL=RATA>Ratatosk</LABEL>:
+"Precisely.
+$E=====7735=====
+//まもなく月は大地の影(かげ)に
+//おおわれ・・・赤くそまる
+Soon the moon will be fully
+covered by the earth's
+shadow... dyed red.
+$E=====7736=====
+//血と大地によって月がそまる時
+//破壊(はかい)の獣(けもの)はと
+//き放たれる
+When blood and earth dye
+the moon, the Beast of
+Destruction will be freed.
+$E=====7737=====
 <PROC=0>
 <END>
-$J=====7738=====
-<PROC=1><LOCK=10><LABEL=RATA></LABEL>ウフフフフ・・・」
-$J=====7739=====
+$E=====7738=====
+//<PROC=1><LOCK=10><LABEL=RATA></LABEL>ウフフフフ・・・」
+<PROC=1><LOCK=10><LABEL=RATA></LABEL>Heheheheheh..."
+$E=====7739=====
 <PROC=0>
 <END>
-$J=====7740=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「それではサバタは!?」
-$J=====7741=====
-<LABEL=RATA>ラタトスク</LABEL>
-「すでにここにはいません
+$E=====7740=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「それではサバタは!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Then Sabata is...!?"
+$E=====7741=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「すでにここにはいません
+<LABEL=RATA>Ratatosk</LABEL>:
+"He is no longer here.
 $J=====7742=====
 かれはわたくしのあやつり人形
 として、旅立ちました
@@ -32858,18 +33381,23 @@ $J=====7837=====
 $J=====7838=====
 サバタへの呪縛(じゅばく)は取
 りのぞかれたはず
-$J=====7839=====
-<NAME>、
-とにかくサバタをさがすんだ!!
-$J=====7840=====
-<PROC=1><LOCK=70>太陽と共にあらんことを!」
-$J=====7841=====
+$E=====7839=====
+//<NAME>、
+//とにかくサバタをさがすんだ!!
+<NAME>,
+find Sabata somehow!
+$E=====7840=====
+//<PROC=1><LOCK=70>太陽と共にあらんことを!」
+<PROC=1><LOCK=70>May the Sun be with you!"
+$E=====7841=====
 <PROC=0>
 <END>
-$J=====7842=====
-<LABEL=PLAYER><NAME></LABEL>
-「サバタ!?」
-$J=====7843=====
+$E=====7842=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「サバタ!?」
+<LABEL=PLAYER><NAME></LABEL>:
+"Sabata!?"
+$E=====7843=====
 <PROC=0>
 <END>
 $J=====7844=====
@@ -33180,11 +33708,10 @@ $J=====7936=====
 $J=====7937=====
 すべてを・・・
 everything...
-$J=====7938=====
-そう、すべテヲ・・・
-1234567890123456789012345678
+$E=====7938=====
+//そう、すべテヲ・・・
 yes, evErYthInG...
-$J=====7939=====
+$E=====7939=====
 <PROC=0>
 <END>
 $E=====7940=====
@@ -38077,80 +38604,123 @@ $J=====9223=====
 $J=====9224=====
 <PROC=0>
 <END>
-$J=====9225=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「なるほど・・・
-$J=====9226=====
-あの部屋の紋章(もんしょう)ブ
-ロックがこのフロア全体の属性
-(ぞくせい)、
-$J=====9227=====
-地形までをも変化させるという
-わけか
-$J=====9228=====
-つまりは地形の変化を利用しな
-ければ、
-$J=====9229=====
-このフロアの攻略(こうりゃく)
-はかなわないというわけだ
-$J=====9230=====
+$E=====9225=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「なるほど・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"I see...
+$E=====9226=====
+//あの部屋の紋章(もんしょう)ブ
+//ロックがこのフロア全体の属性
+//(ぞくせい)、
+the crest block in that
+room controls the element
+of everything here,
+$E=====9227=====
+//地形までをも変化させるという
+//わけか
+even the terrain.
+$E=====9228=====
+//つまりは地形の変化を利用しな
+//ければ、
+In other words, in order
+to conquer this floor,
+$E=====9229=====
+//このフロアの攻略(こうりゃく)
+//はかなわないというわけだ
+you'll have to utilize
+the changeable terrain.
+$E=====9230=====
 <PROC=0>
 <END>
-$J=====9231=====
-<LABEL=OTENKO></LABEL>わかるな、<NAME>?」
-$J=====9232=====
+$E=====9231=====
+//<LABEL=OTENKO></LABEL>わかるな、<NAME>?」
+<LABEL=OTENKO></LABEL>Got it, <NAME>?"
+$E=====9232=====
 <PROC=0>
 <END>
 $J=====9233=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし・・・
-$J=====9234=====
-これでようやく、あの通路の先
-に進むことができる
-$J=====9235=====
-だがこの闇(やみ)の気配・・・
-$J=====9236=====
-昇降機(エレベーター)の封印(
-ふういん)を守るガーディアン
-か?
-$J=====9237=====
-心してかかれよ、<NAME>!!」
-$J=====9238=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"All right...
+$E=====9234=====
+//これでようやく、あの通路の先
+//に進むことができる
+now we can finally
+continue down that
+passage.
+$E=====9235=====
+//だがこの闇(やみ)の気配・・・
+But this dark presence...
+$E=====9236=====
+//昇降機(エレベーター)の封印(
+//ふういん)を守るガーディアン
+//か?
+Is it a guardian
+protecting the seal on
+the elevator?
+$E=====9237=====
+//心してかかれよ、<NAME>!!」
+Stay on guard, <NAME>!"
+$E=====9238=====
 <PROC=0>
 <END>
-$J=====9239=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「ううむ・・・
-$J=====9240=====
-たしかに昇降機(エレベーター)
-の封印(ふういん)は解除(かい
-じょ)されたようだが、
-$J=====9241=====
-地下12階へのスイッチ、1つだ
-けか・・・
-$J=====9242=====
-王の間に向かうには、昇降機(
-エレベーター)でつながれた各
-フロアを、
-$J=====9243=====
-1つ1つ攻略(こうりゃく)してい
-くしかないようだ
-$J=====9244=====
+$E=====9239=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「ううむ・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Hmmmm...
+$E=====9240=====
+//たしかに昇降機(エレベーター)
+//の封印(ふういん)は解除(かい
+//じょ)されたようだが、
+We definitely broke the
+seal on the elevator,
+$E=====9241=====
+//地下12階へのスイッチ、1つだ
+//けか・・・
+but the switch will only
+bring us to basement
+floor 12...
+$E=====9242=====
+//王の間に向かうには、昇降機(
+//エレベーター)でつながれた各
+//フロアを、
+It looks like if we're
+going to get to the
+throne room,
+$E=====9243=====
+//1つ1つ攻略(こうりゃく)してい
+//くしかないようだ
+we'll have to clear every
+floor that's connected to
+the elevator, one by one.
+$E=====9244=====
 <PROC=0>
 <END>
-$J=====9245=====
-<LABEL=OTENKO></LABEL>まだまだ先は長い
-$J=====9246=====
-必要とあらば、サン・ミゲルに
-もどって装備(そうび)を整える
-んだ
-$J=====9247=====
-あせったところで、事態(じた
-い)が好転するわけではないか
-らな
-$J=====9248=====
-無理はするなよ、<NAME>?」
-$J=====9249=====
+$E=====9245=====
+//<LABEL=OTENKO></LABEL>まだまだ先は長い
+<LABEL=OTENKO></LABEL>We have a long way to go.
+$E=====9246=====
+//必要とあらば、サン・ミゲルに
+//もどって装備(そうび)を整える
+//んだ
+If you need to, return to
+San Miguel and make your
+preparations.
+$E=====9247=====
+//あせったところで、事態(じた
+//い)が好転するわけではないか
+//らな
+If you just rush through,
+you won't improve your
+situation.
+$E=====9248=====
+//無理はするなよ、<NAME>?」
+Don't push yourself,
+okay, <NAME>?"
+$E=====9249=====
 <PROC=0>
 <END>
 $E=====9250=====
