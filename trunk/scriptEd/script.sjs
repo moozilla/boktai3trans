@@ -22473,13 +22473,13 @@ $E=====5417=====
 //うかん)し、ラタトスクを浄化
 //じょうか)するんだ!
 Once we summon the
-Piledriver, we'll seal
+Pile Driver, we'll seal
 Ratatosk!
 $E=====5418=====
 //パイルドライバーの起動には太
 //陽の光が必要だ
 Sunlight is necessary to
-start the Piledriver.
+start the Pile Driver.
 $E=====5419=====
 <PROC=1><PROC=0>
 <END>
@@ -22497,7 +22497,7 @@ $E=====5422=====
 //喚(しょうかん)する!!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Very well, I summon the
-Piledriver!"
+Pile Driver!"
 $E=====5423=====
 <PROC=1><PROC=0>
 <END>
@@ -22507,7 +22507,7 @@ $E=====5424=====
 //起動することができない!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Well then we can't start
-the Piledriver!
+the Pile Driver!
 $E=====5425=====
 //太陽が出るのを待つしかないか
 //・・・」
@@ -30412,7 +30412,8 @@ $E=====7146=====
 //「パイルドライバーによって浄
 //化(じょうか)され、
 <LABEL=KARMIRA>Carmilla</LABEL>:
-"Purified by the Piledriver,
+"Purified by the Pile
+Driver,
 $E=====7147=====
 //暗黒物質(ダークマター)を失っ
 //たことで、
@@ -31928,7 +31929,7 @@ $E=====7470=====
 $U=====7471=====
 スミスにでも、あずけておくべ
 きだったか・・・」
-$J=====7472=====
+$E=====7472=====
 <PROC=0>
 <END>
 $E=====7473=====
@@ -32214,14 +32215,18 @@ harder."
 $E=====7532=====
 <PROC=0>
 <END>
-$J=====7533=====
-<LABEL=NONE>青の亡霊(ぼうれい)</LABEL>
-「ほう・・・
-なかなかやるな?
-$J=====7534=====
-だがジョンアニキの問題は、さ
-らにむずかしいぞ?」
-$J=====7535=====
+$E=====7533=====
+//<LABEL=NONE>青の亡霊(ぼうれい)</LABEL>
+//「ほう・・・
+//なかなかやるな?
+<LABEL=NONE>Blue Ghost</LABEL>:
+"Oh? Not bad.
+$E=====7534=====
+//だがジョンアニキの問題は、さ
+//らにむずかしいぞ?」
+But John's problem is even
+harder."
+$E=====7535=====
 <PROC=0>
 <END>
 $E=====7536=====
@@ -32241,72 +32246,108 @@ but then, nobody can measure
 the weight of something like
 a soul.
 $E=====7539=====
-おまえはそれを知ってなお、戦
-おうというのだな?
-$J=====7540=====
+//おまえはそれを知ってなお、戦
+//おうというのだな?
+You know that, and you still
+fight?
+$U=====7540=====
 さすがは、われらが闇の女王(
 クイーン)が気にかけるほどの
 男・・・」
-$J=====7541=====
+$E=====7541=====
 <PROC=0>
 <END>
-$J=====7542=====
-<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
-「われらは黒ひげの三兄弟
-$J=====7543=====
-同じ闇の一族(イモータル)とい
-えども、われらが仕えるべきは
-人形使いなどではない
-$J=====7544=====
-太陽少年よ・・・
-サバタさまをたのむぞ?
-$J=====7545=====
-われらは、われらが魂(たまし
-い)の主(あるじ)の下へ帰ると
-しよう・・・」
-$J=====7546=====
+$E=====7542=====
+//<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
+//「われらは黒ひげの三兄弟
+<LABEL=NONE>3 Ghosts</LABEL>:
+"We are the Blackbeard
+Brothers.
+$E=====7543=====
+//同じ闇の一族(イモータル)とい
+//えども、われらが仕えるべきは
+//人形使いなどではない
+They may be Immortals too,
+but we have no obligation to
+serve Ratatosk and his ilk.
+$E=====7544=====
+//太陽少年よ・・・
+//サバタさまをたのむぞ?
+Solar Boy...
+please help Sabata.
+$E=====7545=====
+//われらは、われらが魂(たまし
+//い)の主(あるじ)の下へ帰ると
+//しよう・・・」
+We wish to return to serving
+our true master..."
+$E=====7546=====
 <PROC=0>
 <END>
-$J=====7547=====
-<LABEL=NONE>紫(むらさき)の亡霊(ぼうれい)</LABEL>
-「フッフッフッ・・・
-$J=====7548=====
-あれがおまえの出した答えか?
-$J=====7549=====
-魂(たましい)の重さを量るなど
-思い上がりだとは思わぬか?
-$J=====7550=====
-だがそれも良かろう
-$J=====7551=====
-その思い上がりがなければ、人
-の身で闇の一族(イモータル)に
-立ち向かえはしまい・・・」
-$J=====7552=====
+$E=====7547=====
+//<LABEL=NONE>紫(むらさき)の亡霊(ぼうれい)</LABEL>
+//「フッフッフッ・・・
+<LABEL=NONE>Purple Ghost</LABEL>:
+"Heh heh heh...
+$E=====7548=====
+//あれがおまえの出した答えか?
+That's your answer?
+$E=====7549=====
+//(たましい)の重さを量るなど
+//思い上がりだとは思わぬか?
+Isn't it a little conceited
+to think you can measure the
+weight of a soul?
+$E=====7550=====
+//だがそれも良かろう
+But that's just as well.
+$E=====7551=====
+//その思い上がりがなければ、人
+//の身で闇の一族(イモータル)に
+//立ち向かえはしまい・・・」
+That pride allows you to
+face the Immortals despite
+your frail human body..."
+$E=====7552=====
 <PROC=0>
 <END>
-$J=====7553=====
-<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
-「われらは黒ひげの三兄弟
-$J=====7554=====
-同じ闇の一族(イモータル)とい
-えども、われらが仕えるべきは
-人形使いなどではない
-$J=====7555=====
-太陽少年よ・・・
-サバタさまをたのむぞ?
-$J=====7556=====
-われらは、われらが魂(たまし
-い)の主(あるじ)の下に帰ると
-しよう・・・」
-$J=====7557=====
+$E=====7553=====
+//<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
+//「われらは黒ひげの三兄弟
+<LABEL=NONE>3 Ghosts</LABEL>:
+"We are the Blackbeard
+Brothers.
+$E=====7554=====
+//同じ闇の一族(イモータル)とい
+//えども、われらが仕えるべきは
+//人形使いなどではない
+They may be Immortals too,
+but we have no obligation to
+serve Ratatosk and his ilk.
+$E=====7555=====
+//太陽少年よ・・・
+//サバタさまをたのむぞ?
+Solar Boy...
+please help Sabata.
+$E=====7556=====
+//われらは、われらが魂(たまし
+//い)の主(あるじ)の下に帰ると
+//しよう・・・」
+We wish to return to serving
+our true master..."
+$E=====7557=====
 <PROC=0>
 <END>
-$J=====7558=====
-<LABEL=NONE>紫(むらさき)の亡霊(ぼうれい)</LABEL>
-「フッフッフッ・・・
-$J=====7559=====
-すべての移動(いどう)ブロック
-を落としたか・・・
+$E=====7558=====
+//<LABEL=NONE>紫(むらさき)の亡霊(ぼうれい)</LABEL>
+//「フッフッフッ・・・
+<LABEL=NONE>Purple Ghost</LABEL>:
+"Heh heh heh...
+$E=====7559=====
+//すべての移動(いどう)ブロック
+//を落としたか・・・
+You pushed down every
+moving block...
 $E=====7560=====
 //己(おのれ)の罪(つみ)の重さ、
 //自覚してはいるようだな?
@@ -32319,28 +32360,38 @@ $E=====7561=====
 //まえがあるのだろう
 Or rather... those sins make
 you who you are now, hmm?
-$J=====7562=====
+$U=====7562=====
 さすがは、われらが闇の女王(
 クイーン)が気にかけるほどの
 男・・・」
-$J=====7563=====
+$E=====7563=====
 <PROC=0>
 <END>
-$J=====7564=====
-<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
-「われらは黒ひげの三兄弟
-$J=====7565=====
-同じ闇の一族(イモータル)とい
-えども、われらが仕えるべきは
-人形使いなどではない
-$J=====7566=====
-太陽少年よ・・・
-サバタさまをたのむぞ?
-$J=====7567=====
-われらは、われらが魂(たまし
-い)の主(あるじ)の下へ帰ると
-しよう・・・」
-$J=====7568=====
+$E=====7564=====
+//<LABEL=NONE>3体の亡霊(ぼうれい)</LABEL>
+//「われらは黒ひげの三兄弟
+<LABEL=NONE>3 Ghosts</LABEL>:
+"We are the Blackbeard
+Brothers.
+$E=====7565=====
+//同じ闇の一族(イモータル)とい
+//えども、われらが仕えるべきは
+//人形使いなどではない
+They may be Immortals too,
+but we have no obligation to
+serve Ratatosk and his ilk.
+$E=====7566=====
+//太陽少年よ・・・
+//サバタさまをたのむぞ?
+Solar Boy...
+please help Sabata.
+$E=====7567=====
+//われらは、われらが魂(たまし
+//い)の主(あるじ)の下へ帰ると
+//しよう・・・」
+We wish to return to serving
+our true master..."
+$E=====7568=====
 <PROC=0>
 <END>
 $E=====7569=====
@@ -32965,7 +33016,7 @@ $E=====7711=====
 //もう1人の少年はどうしました?
 What happened to the other
 boy?
-$J=====7712=====
+$U=====7712=====
 //人の身では決して帰ることので
 //きない、
 Never able to return to a
@@ -32993,10 +33044,10 @@ $E=====7717=====
 $E=====7718=====
 <PROC=0>
 <END>
-$E=====7719=====
+$U=====7719=====
 <LABEL=RATA>ラタトスク</LABEL>
 「おいかりのようですね?
-$J=====7720=====
+$E=====7720=====
 //ですがそれは、こちらとて同じ
 //こと
 But you've done the same
@@ -33092,306 +33143,449 @@ $E=====7741=====
 //「すでにここにはいません
 <LABEL=RATA>Ratatosk</LABEL>:
 "He is no longer here.
-$J=====7742=====
-かれはわたくしのあやつり人形
-として、旅立ちました
-$J=====7743=====
-1つ目のカギ、ヴァナルガンド
-への生贄(いけにえ)として、
-$J=====7744=====
-月をその血で、そめるために」
-$J=====7745=====
+$E=====7742=====
+//かれはわたくしのあやつり人形
+//として、旅立ちました
+I made him into my puppet
+and sent him on a journey.
+$E=====7743=====
+//1つ目のカギ、ヴァナルガンド
+//への生贄(いけにえ)として、
+To serve as the first key,
+a living sacrifice to
+Vanargand,
+$E=====7744=====
+//月をその血で、そめるために」
+and dye the moon with
+blood."
+$E=====7745=====
 <PROC=0>
 <END>
-$J=====7746=====
-<LABEL=RATA>ラタトスク</LABEL>
-「生贄(いけにえ)を殺してしま
-うわけにはいきません
-$J=====7747=====
-かれの強情(ごうじょう)さには
-苦労しました
-$J=====7748=====
-ですがそれも・・・
-$J=====7749=====
-あなた方のおがけで無事、解決
-(かいけつ)したというわけです
-$J=====7750=====
+$E=====7746=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「生贄(いけにえ)を殺してしま
+//うわけにはいきません
+<LABEL=RATA>Ratatosk</LABEL>:
+"He wouldn't submit to
+becoming a living sacrifice.
+$E=====7747=====
+//かれの強情(ごうじょう)さには
+//苦労しました
+His stubbornness caused me a
+great deal of trouble.
+$E=====7748=====
+//ですがそれも・・・
+But that...
+$E=====7749=====
+//あなた方のおがけで無事、解決
+//(かいけつ)したというわけです
+that was safely resolved,
+all thanks to you two.
+$E=====7750=====
 <PROC=0>
 <END>
-$J=====7751=====
-<LABEL=RATA></LABEL>わたくしの力を持ってしても、
-$J=====7752=====
-絶対存在(エターナル)であるヴ
-ァナルガンドをあやつることな
-ど、できはしない
-$J=====7753=====
-とはいえ、人形使いの名も伊達
-(だて)ではありません
-$J=====7754=====
-それが自らの意思を持たぬモノ
-であれば、
-$J=====7755=====
-暗黒物質(ダークマター)を使う
-までもなく、
-$J=====7756=====
-あやつり人形として、支配(し
-はい)することができるのです
-$J=====7757=====
-つまり・・・
-$J=====7758=====
-半死半生のサバタをあやつるこ
-となど、ぞうさもないというわ
-けです
-$J=====7759=====
-そのかれがヴァナルガンドと1
-つになれば・・・
-$J=====7760=====
-お分かりですね?
-$J=====7761=====
-その大いなる力の前には生者も
-死者もなく、
-$J=====7762=====
-すべてがわたくしにひざまずく
-ことでしょう!
-$J=====7763=====
-人形使い、いえ・・・
-$J=====7764=====
+$E=====7751=====
+//<LABEL=RATA></LABEL>わたくしの力を持ってしても、
+<LABEL=RATA></LABEL>Even with my power,
+$E=====7752=====
+//絶対存在(エターナル)であるヴ
+//ァナルガンドをあやつることな
+//ど、できはしない
+controlling an Eternal like
+Vanargand would not be
+possible.
+$E=====7753=====
+//とはいえ、人形使いの名も伊達
+//(だて)ではありません
+But my title, the Puppeteer,
+is not just for show.
+$E=====7754=====
+//それが自らの意思を持たぬモノ
+//であれば、
+I can take things that do
+not share my will,
+$E=====7755=====
+//暗黒物質(ダークマター)を使う
+//までもなく、
+as long as they cannot use
+Dark Matter,
+$E=====7756=====
+//あやつり人形として、支配(し
+//はい)することができるのです
+make them my puppets, and
+control them.
+$E=====7757=====
+//つまり・・・
+In other words...
+$E=====7758=====
+//半死半生のサバタをあやつるこ
+//となど、ぞうさもないというわ
+//けです
+I can control the half-dead
+Sabata with no trouble at
+all.
+$E=====7759=====
+//そのかれがヴァナルガンドと1
+//つになれば・・・
+That boy will become one
+with Vanargand...
+$E=====7760=====
+//お分かりですね?
+do you comprehend now?
+$E=====7761=====
+//その大いなる力の前には生者も
+//死者もなく、
+Before such great power,
+all things living and
+dead...
+$E=====7762=====
+//すべてがわたくしにひざまずく
+//ことでしょう!
+they will all kneel before
+me!
+$E=====7763=====
+//人形使い、いえ・・・
+The Puppeteer... no,
+$E=====7764=====
 <PROC=0>
 <END>
-$J=====7765=====
-<LABEL=RATA></LABEL>破壊(はかい)の王たるわたくし
-の前にね!!」
-$J=====7766=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「そんなことは・・・
-$J=====7767=====
-そんなことは絶対(ぜったい)に
-させないぞ、ラタトスク!!」
-$J=====7768=====
+$E=====7765=====
+//<LABEL=RATA></LABEL>破壊(はかい)の王たるわたくし
+//の前にね!!」
+<LABEL=RATA></LABEL>the Lord of Destruction!"
+$E=====7766=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「そんなことは・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Something like that...
+$E=====7767=====
+//そんなことは絶対(ぜったい)に
+//させないぞ、ラタトスク!!」
+We will never allow that to
+happen, Ratatosk!"
+$E=====7768=====
 <PROC=0>
 <END>
-$J=====7769=====
-<LABEL=RATA>ラタトスク</LABEL>
-「本当に・・・
-$J=====7770=====
+$E=====7769=====
+//<LABEL=RATA>ラタトスク</LABEL>
+//「本当に・・・
+<LABEL=RATA>Ratatosk</LABEL>:
+"Indeed...?
+$E=====7770=====
 <PROC=0>
 <END>
-$J=====7771=====
-<LABEL=RATA></LABEL>こまった人たちです
-$J=====7772=====
+$E=====7771=====
+//<LABEL=RATA></LABEL>こまった人たちです
+<LABEL=RATA></LABEL>Bothersome people.
+$E=====7772=====
 <PROC=0>
 <END>
 $E=====7773=====
 //<LABEL=RATA></LABEL>バカにつける薬はない、という
 //わけですか・・・
-<LABEL=RATA></LABEL>There's no cure for
-stupid...
-$J=====7774=====
-仕方がありません。
-あなた方にも加わっていただき
-ましょう
-$J=====7775=====
+<LABEL=RATA></LABEL>I suppose there is no cure
+for stupidity...
+$E=====7774=====
+//仕方がありません。
+//あなた方にも加わっていただき
+//ましょう
+I've no choice, then.
+I shall add you...
+$E=====7775=====
 <PROC=0>
 <END>
-$J=====7776=====
-<LABEL=RATA></LABEL>わたくしの・・・
-人形コレクションにね!!」
-$J=====7777=====
+$E=====7776=====
+//<LABEL=RATA></LABEL>わたくしの・・・
+//人形コレクションにね!!」
+<LABEL=RATA></LABEL>to my...
+puppet collection!"
+$E=====7777=====
 <PROC=0>
 <END>
-$J=====7778=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「よし、ラタトスクを封印(ふ
-ういん)したな
-$J=====7779=====
-パイルドライバーを召喚(しょ
-うかん)し、やつを浄化(じょう
-か)するぞ!
-$J=====7780=====
-パイルドライバーの起動には太
-陽の光が必要だ
-$J=====7781=====
+$E=====7778=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「よし、ラタトスクを封印(ふ
+//ういん)したな
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Good, Ratatosk is sealed.
+$E=====7779=====
+//パイルドライバーを召喚(しょ
+//うかん)し、やつを浄化(じょう
+//か)するぞ!
+Now to summon the Pile
+Driver, and purify him!"
+$E=====7780=====
+//パイルドライバーの起動には太
+//陽の光が必要だ
+You need sunlight to start
+the Pile Driver.
+$E=====7781=====
 <PROC=0>
 <END>
-$J=====7782=====
-<LABEL=OTENKO></LABEL>太陽は出ているな?」
- <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
-$J=====7783=====
+$E=====7782=====
+//<LABEL=OTENKO></LABEL>太陽は出ているな?」
+// <ALTER>出ている</ALTER>  <ALTER>出ていない</ALTER>
+<LABEL=OTENKO></LABEL>The sun's out, right?"
+ <ALTER>It's out</ALTER>  <ALTER>It's not out</ALTER>
+$E=====7783=====
 <PROC=0>
 <END>
-$J=====7784=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「では、パイルドライバーを召
-喚(しょうかん)する!!」
-$J=====7785=====
+$E=====7784=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「では、パイルドライバーを召
+//喚(しょうかん)する!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Okay, I summon the Pile
+Driver!"
+$E=====7785=====
 <PROC=0>
 <END>
-$J=====7786=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「それではパイルドライバーを
-起動することができない!!
-$J=====7787=====
-太陽が出るのを待つしかないか
-・・・」
-$J=====7788=====
+$E=====7786=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「それではパイルドライバーを
+//起動することができない!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Then we won't be able to
+start the Pile Driver!
+$E=====7787=====
+//太陽が出るのを待つしかないか
+//・・・」
+Guess we'll have to wait for
+the Sun to come out..."
+$E=====7788=====
 <PROC=0>
 <END>
-$J=====7789=====
-<LABEL=PLAYER><NAME></LABEL>
-「ありがとう、
-トリニティ・・・
-$J=====7790=====
-戦いはまだ、終わっていないけ
-れど・・・
-$J=====7791=====
-おまえとおまえのお母さん、
-$J=====7792=====
+$E=====7789=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「ありがとう、
+//トリニティ・・・
+<LABEL=PLAYER><NAME></LABEL>:
+"Thank you,
+Trinity...
+$E=====7790=====
+//戦いはまだ、終わっていないけ
+//れど・・・
+the battle isn't over yet,
+but...
+$E=====7791=====
+//おまえとおまえのお母さん、
+You and your mother...
+$E=====7792=====
 <PROC=0>
 <END>
-$J=====7793=====
-<LABEL=PLAYER></LABEL>2人の仇(かたき)は取ったから
-な・・・!!」
-$J=====7794=====
+$E=====7793=====
+//<LABEL=PLAYER></LABEL>2人の仇(かたき)は取ったから
+//な・・・!!」
+<LABEL=PLAYER></LABEL>I'll avenge you both...!"
+$E=====7794=====
 <PROC=0>
 <END>
-$J=====7795=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「<NAME>!!」
-$J=====7796=====
+$E=====7795=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「<NAME>!!」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"<NAME>!"
+$E=====7796=====
 <PROC=0>
 <END>
-$J=====7797=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「これは・・・
-月へのワープ魔方陣か?」
-$J=====7798=====
+$E=====7797=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「これは・・・
+//月へのワープ魔方陣か?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Is that... a Warp Magic
+Square to the moon?"
+$E=====7798=====
 <PROC=0>
 <END>
-$J=====7799=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「時間がない・・・
-$J=====7800=====
+$E=====7799=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「時間がない・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"There's no time...
+$E=====7800=====
 <PROC=0>
 <END>
-$J=====7801=====
-<LABEL=OTENKO></LABEL>覚悟(かくご)はいいな、
-<NAME>?」
-$J=====7802=====
+$E=====7801=====
+//<LABEL=OTENKO></LABEL>覚悟(かくご)はいいな、
+//<NAME>?」
+<LABEL=OTENKO></LABEL>Are you ready, <NAME>?"
+$E=====7802=====
 <PROC=0>
 <END>
-$J=====7803=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「トリニティが語った未来世紀
-の伝説・・・
-$J=====7804=====
-伝説の戦士は、ヴァナルガンド
-と戦うことなく死んだという
-$J=====7805=====
-だが今、おまえは生きている
-$J=====7806=====
-それはおまえが伝説の戦士では
-ないからか?
-$J=====7807=====
-それとも・・・
-未来が変わったからなのか?
-$J=====7808=====
-少なくともラタトスクをたおし
-た今、やつが支配(しはい)する
-未来はないはずだ・・・」
-$J=====7809=====
+$E=====7803=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「トリニティが語った未来世紀
+//の伝説・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"The Future Era legend that
+Trinity told us about...
+$E=====7804=====
+//伝説の戦士は、ヴァナルガンド
+//と戦うことなく死んだという
+it said that the Legendary
+Warrior died uneventfully
+fighting Vanargand.
+$E=====7805=====
+//だが今、おまえは生きている
+But right now, you are
+alive.
+$E=====7806=====
+//それはおまえが伝説の戦士では
+//ないからか?
+So you're not the Legendary
+Warrior, are you?
+$E=====7807=====
+//それとも・・・
+//未来が変わったからなのか?
+Or perhaps...
+the future has changed.
+$E=====7808=====
+//少なくともラタトスクをたおし
+//た今、やつが支配(しはい)する
+//未来はないはずだ・・・」
+At least now that Ratatosk
+is dead, he cannot rule over
+the future..."
+$E=====7809=====
 <PROC=0>
 <END>
-$J=====7810=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「だが・・・
-$J=====7811=====
-サバタが今、どのような状況(
-じょうきょう)にあるのか?
-$J=====7812=====
-ヴァナルガンドがどうなったの
-か?
-$J=====7813=====
-われわれには何もわからない
-$J=====7814=====
-一歩先の未来でさえ、われわれ
-は知ることができない
-$J=====7815=====
-それでも・・・
-$J=====7816=====
-だからこそ、われわれは前に進
-まなければならない
-$J=====7817=====
+$E=====7810=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「だが・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"But...
+$E=====7811=====
+//サバタが今、どのような状況(
+//じょうきょう)にあるのか?
+what kind of shape is Sabata
+in now?
+$E=====7812=====
+//ヴァナルガンドがどうなったの
+//か?
+What has become of
+Vanargand?
+$E=====7813=====
+//われわれには何もわからない
+We don't know anything.
+$E=====7814=====
+//一歩先の未来でさえ、われわれ
+//は知ることができない
+We can't even know what will
+happen after taking a single
+step.
+$E=====7815=====
+//それでも・・・
+Even so...
+$E=====7816=====
+//だからこそ、われわれは前に進
+//まなければならない
+that's exactly why we must
+continue forward.
+$E=====7817=====
 <PROC=0>
 <END>
-$J=====7818=====
-<LABEL=OTENKO></LABEL>さあ行こう、<NAME>!!
-$J=====7819=====
-サバタやトリニティが送りだし
-てくれた・・・この道を!」
-$J=====7820=====
+$E=====7818=====
+//<LABEL=OTENKO></LABEL>さあ行こう、<NAME>!!
+<LABEL=OTENKO></LABEL>Let's go, <NAME>!
+$E=====7819=====
+//サバタやトリニティが送りだし
+//てくれた・・・この道を!」
+Down the road that Sabata
+and Trinity have pushed us
+onto!"
+$E=====7820=====
 <PROC=0>
 <END>
-$J=====7821=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「すべての石ゾウが正しい配置に」
-$J=====7822=====
+$E=====7821=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「すべての石ゾウが正しい配置に」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Set the statues correctly."
+$E=====7822=====
 <PROC=0>
 <END>
-$J=====7823=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「属性選択正解!1」
-$J=====7824=====
+$E=====7823=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「属性選択正解!1」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"1 element correct!"
+$E=====7824=====
 <PROC=0>
 <END>
-$J=====7825=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「属性選択正解!2」
-$J=====7826=====
+$E=====7825=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「属性選択正解!2」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"2 elements correct!"
+$E=====7826=====
 <PROC=0>
 <END>
-$J=====7827=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「属性選択正解!3」
-$J=====7828=====
+$E=====7827=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「属性選択正解!3」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"3 elements correct!"
+$E=====7828=====
 <PROC=0>
 <END>
-$J=====7829=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「属性選択不正解・・・」
-$J=====7830=====
+$E=====7829=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「属性選択不正解・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"No elements correct..."
+$E=====7830=====
 <PROC=0>
 <END>
-$J=====7831=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「とうとう来たな・・・
-$J=====7832=====
-ここはかつて月の一族がくらし
-た月面都市、
-$J=====7833=====
-まほろばとよばれた天上の楽園
-だ
-$J=====7834=====
-月の一族によって封印(ふうい
-ん)された破壊(はかい)の獣(け
-もの)、ヴァナルガンド
-$J=====7835=====
-その封印(ふういん)をとくため
-の2つのカギ、
-$J=====7836=====
-月の巫女(月下美人)の赤き血と
-皆既月食(かいきげっしょく)に
-よる赤き光・・・
-$J=====7837=====
-すべての条件(じょうけん)はそ
-ろってしまったが、
-$J=====7838=====
-サバタへの呪縛(じゅばく)は取
-りのぞかれたはず
+$E=====7831=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「とうとう来たな・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"We finally made it...
+$E=====7832=====
+//ここはかつて月の一族がくらし
+//た月面都市、
+This was once the Lunar
+Children's moon city,
+$E=====7833=====
+//まほろばとよばれた天上の楽園
+//だ
+The heavenly paradise,
+called Mahoroba.
+$E=====7834=====
+//月の一族によって封印(ふうい
+//ん)された破壊(はかい)の獣(け
+//もの)、ヴァナルガンド
+The Beast of Destruction,
+Vanargand, sealed by the
+Lunar Children.
+$E=====7835=====
+//その封印(ふういん)をとくため
+//の2つのカギ、
+The 2 keys needed to break
+that seal,
+$E=====7836=====
+//月の巫女(月下美人)の赤き血と
+//皆既月食(かいきげっしょく)に
+//よる赤き光・・・
+the red blood of a Moon
+Beauty and the red light of
+a lunar eclipse...
+$E=====7837=====
+//すべての条件(じょうけん)はそ
+//ろってしまったが、
+All the conditions are in
+place,
+$E=====7838=====
+//サバタへの呪縛(じゅばく)は取
+//りのぞかれたはず
+but the spell on Sabata
+should be lifted now.
 $E=====7839=====
 //<NAME>、
 //とにかくサバタをさがすんだ!!
-<NAME>,
-find Sabata somehow!
+In any case, <NAME>,
+find Sabata!
 $E=====7840=====
 //<PROC=1><LOCK=70>太陽と共にあらんことを!」
 <PROC=1><LOCK=70>May the Sun be with you!"
@@ -33406,239 +33600,377 @@ $E=====7842=====
 $E=====7843=====
 <PROC=0>
 <END>
-$J=====7844=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「死の都イストラカン・・・
-$J=====7845=====
-父の仇(かたき)である伯爵(は
-くしゃく)と、とらわれの母を
-求め、
-$J=====7846=====
-おまえはあの、呪(のろ)われた
-大地にいどんだ
-$J=====7847=====
-闇の一族(イモータル)の敵(て
-き)、
-$J=====7848=====
-太陽の血と、太陽銃(ガン・デ
-ル・ソル)の継承者(けいしょう
-しゃ)、太陽少年<NAME>
-$J=====7849=====
-そしてこのおれは、おまえに対
-するカウンター・・・
-$J=====7850=====
-光の戦士をたおすために用意さ
-れた闇(やみ)の戦士、暗黒少年
-$J=====7851=====
-おれたちの出会い、そして戦い
-・・・
-$J=====7852=====
-すべては銀河宇宙(ぎんがうち
-ゅう)の意思によって仕組まれ
-たものだった
-$J=====7853=====
+$E=====7844=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「死の都イストラカン・・・
+<LABEL=NONE>Phantom Sabata</LABEL>:
+"The City of Death,
+Istrakan...
+$E=====7845=====
+//父の仇(かたき)である伯爵(は
+//くしゃく)と、とらわれの母を
+//求め、
+You challenged father's
+enemy, the Count, over that
+cursed ground,
+$E=====7846=====
+//おまえはあの、呪(のろ)われた
+//大地にいどんだ
+seeking to free your captive
+mother.
+$E=====7847=====
+//闇の一族(イモータル)の敵(て
+//き)、
+Enemy of the Immortals,
+$E=====7848=====
+//太陽の血と、太陽銃(ガン・デ
+//ル・ソル)の継承者(けいしょう
+//しゃ)、太陽少年<NAME>
+The successor to the Gun Del
+Sol, with Solar Child blood,
+Solar Boy <NAME>.
+$U=====7849=====
+//そしてこのおれは、おまえに対
+//するカウンター・・・
+And facing you was none
+other but me...
+$E=====7850=====
+//光の戦士をたおすために用意さ
+//れた闇(やみ)の戦士、暗黒少年
+The Warrior of Darkness, the
+Dark Boy, prepared to defeat
+the Warrior of Light.
+$E=====7851=====
+//おれたちの出会い、そして戦い
+//・・・
+Our meeting, and our
+battle...
+$E=====7852=====
+//すべては銀河宇宙(ぎんがうち
+//ゅう)の意思によって仕組まれ
+//たものだった
+everything went according to
+Dark's will.
+$E=====7853=====
 <PROC=0>
 <END>
-$J=====7854=====
-<LABEL=NONE></LABEL>年老いた太陽系からの生命種の
-拡散(かくさん)により、
-$J=====7855=====
-銀河系(ぎんがけい)そのものの
-死が早まることをおそれた銀河
-意志(ダーク)は、
-$J=====7856=====
-反生命種である闇の一族(イモ
-ータル)と、その下僕、アンデ
-ッドの介入(かいにゅう)により
-$J=====7857=====
-生命種の進化と、その拡散(か
-くさん)を止めようとしたのだ
-・・・」
-$J=====7858=====
+$E=====7854=====
+//<LABEL=NONE></LABEL>年老いた太陽系からの生命種の
+//拡散(かくさん)により、
+<LABEL=NONE></LABEL>As the Solar System grew
+old, living beings spread
+out and dispersed from it.
+$E=====7855=====
+//銀河系(ぎんがけい)そのものの
+//死が早まることをおそれた銀河
+//意志(ダーク)は、
+Concerned that they would
+speed up the death of the
+galaxy, Dark intervened,
+$E=====7856=====
+//反生命種である闇の一族(イモ
+//ータル)と、その下僕、アンデ
+//ッドの介入(かいにゅう)により
+introducing the non-living
+Immortals and their
+servants, the Undead,
+$E=====7857=====
+//生命種の進化と、その拡散(か
+//くさん)を止めようとしたのだ
+//・・・」
+in an attempt to stop the
+evolution and proliferation
+of living beings..."
+$E=====7858=====
 <PROC=0>
 <END>
-$J=====7859=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「今のは・・・
-$J=====7860=====
-サバタの魂(たましい)が幻影(
-げんえい)となってさまよって
-いるのか?
-$J=====7861=====
-あいつの身に、いったい何が起
-こっているんだ?」
-$J=====7862=====
+$E=====7859=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「今のは・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Just now...
+$E=====7860=====
+//サバタの魂(たましい)が幻影(
+//げんえい)となってさまよって
+//いるのか?
+was Sabata's soul wandering
+around as a phantom?
+$E=====7861=====
+//あいつの身に、いったい何が起
+//こっているんだ?」
+Just what is happening to
+his body?"
+$E=====7862=====
 <PROC=0>
 <END>
-$J=====7863=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「おれは・・・
-$J=====7864=====
-いつわりの母である闇の女王(
-クイーン・オブ・イモータル)
-ヘルの下で、
-$J=====7865=====
-暗黒銃(ガン・デル・ヘル)の使
-い手として・・・
-暗黒少年として育てられた
-$J=====7866=====
-おれの身体に宿った暗黒物質(
-ダークマター)・・・
-$J=====7867=====
-それはおれに暗黒の力をあたえ
-はしたが・・・
-$J=====7868=====
-同時におれの身体と・・・
-・・・心を蝕(むしば)んだ
-$J=====7869=====
+$E=====7863=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「おれは・・・
+<LABEL=NONE>Phantom Sabata</LABEL>
+"Under my false mother, the
+Queen of Immortals, Hel,
+$E=====7864=====
+//いつわりの母である闇の女王(
+//クイーン・オブ・イモータル)
+//ヘルの下で、
+I was raised as the Dark
+Boy...
+$E=====7865=====
+//暗黒銃(ガン・デル・ヘル)の使
+//い手として・・・
+//暗黒少年として育てられた
+I was given the Gun Del Hell
+to use,
+$E=====7866=====
+//おれの身体に宿った暗黒物質(
+//ダークマター)・・・
+and imbued with Dark
+Matter...
+$E=====7867=====
+//それはおれに暗黒の力をあたえ
+//はしたが・・・
+It gave me dark powers...
+$E=====7868=====
+//同時におれの身体と・・・
+//・・・心を蝕(むしば)んだ
+but at the same time it
+corrupted my body...
+and my mind.
+$E=====7869=====
 <PROC=0>
 <END>
-$J=====7870=====
-<LABEL=NONE></LABEL>月の血のおかげで・・・
-吸血変異(アンデッド化)こそし
-なかったがな・・・」
-$J=====7871=====
+$E=====7870=====
+//<LABEL=NONE></LABEL>月の血のおかげで・・・
+//吸血変異(アンデッド化)こそし
+//なかったがな・・・」
+<LABEL=NONE></LABEL>Thanks to my Lunar Child
+blood, I won't turn undead,
+but..."
+$E=====7871=====
 <PROC=0>
 <END>
-$J=====7872=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「暗黒物質(ダークマター)を使
-うたび、
-$J=====7873=====
-おれの身体と心は闇(やみ)に飲
-みこまれていった・・・
-$J=====7874=====
-闇の女王(クイーン)にとらわれ
-たその妹、月下美人マーニ
-$J=====7875=====
-真実の母からおのれの正体を知
-らされてなお、おれはおまえと
-の戦いを止めはしなかった
-$J=====7876=====
+$E=====7872=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「暗黒物質(ダークマター)を使
+//うたび、
+<LABEL=NONE>Phantom Sabata</LABEL>:
+"The more I used Dark
+Matter,
+$E=====7873=====
+//おれの身体と心は闇(やみ)に飲
+//みこまれていった・・・
+the more my body and mind
+became engulfed in
+darkness...
+$E=====7874=====
+//闇の女王(クイーン)にとらわれ
+//たその妹、月下美人マーニ
+The Queen's captive younger
+sister, Moon Beauty Mani,
+was my real mother.
+$E=====7875=====
+//真実の母からおのれの正体を知
+//らされてなお、おれはおまえと
+//の戦いを止めはしなかった
+But even after I learned my
+true identity, I didn't stop
+fighting with you.
+$E=====7876=====
 <PROC=0>
 <END>
-$J=====7877=====
-<LABEL=NONE></LABEL>だが・・・
-$J=====7878=====
-古の精霊(せいれい)、ムスペル
-とガルム、そして嘆(なげ)きの
-魔女、カーミラ・・・
-$J=====7879=====
-すべてを犠牲(ぎせい)にして得
-た力をもってしても、
-$J=====7880=====
-おまえには勝てなかった・・・
-」
-$J=====7881=====
+$E=====7877=====
+//<LABEL=NONE></LABEL>だが・・・
+<LABEL=NONE></LABEL>And yet...
+$C=====7878=====
+//古の精霊(せいれい)、ムスペル
+//とガルム、そして嘆(なげ)きの
+//魔女、カーミラ・・・
+The ancient spirits Muspell
+and Garmr, and the Crying
+Witch, Carmilla...
+$E=====7879=====
+//すべてを犠牲(ぎせい)にして得
+//た力をもってしても、
+even with the power they
+gained by sacrificing
+everything,
+$E=====7880=====
+//おまえには勝てなかった・・・
+//」
+they lost to you you."
+$E=====7881=====
 <PROC=0>
 <END>
-$J=====7882=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「結果的に・・・
-$J=====7883=====
-あの戦いで2人の母をも犠牲(ぎ
-せい)にしたおれは、
-$J=====7884=====
-おれたちを利用した銀河意思(
-ダーク)と、
-$J=====7885=====
-その地上代行者たる闇の一族(
-イモータル)への復讐(ふくしゅ
-う)を誓(ちか)った
-$J=====7886=====
-だがおれが真に戦いたかったの
-は、やつらなどではなかった
-$J=====7887=====
+$U=====7882=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「結果的に・・・
+<LABEL=NONE>Sabata Phantom</LABEL>:
+"Consequence 的に...
+$E=====7883=====
+//あの戦いで2人の母をも犠牲(ぎ
+//せい)にしたおれは、
+Dark manipulated us.
+$E=====7884=====
+//おれたちを利用した銀河意思(
+//ダーク)と、
+When our mother became a
+sacrifice in that battle as
+well,
+$E=====7885=====
+//その地上代行者たる闇の一族(
+//イモータル)への復讐(ふくしゅ
+//う)を誓(ちか)った
+I swore revenge against
+Dark, and his agents on
+earth, the Immortals.
+$E=====7886=====
+//だがおれが真に戦いたかったの
+//は、やつらなどではなかった
+But they weren't the ones I
+truly wanted to fight.
+$E=====7887=====
 <PROC=0>
 <END>
-$J=====7888=====
-<LABEL=NONE></LABEL>太陽の街、サン・ミゲル・・・
-$J=====7889=====
-あの街でおまえと共に戦ったと
-き、
-$J=====7890=====
-おれはようやく、そのことに気
-づいた・・・」
-$J=====7891=====
+$E=====7888=====
+//<LABEL=NONE></LABEL>太陽の街、サン・ミゲル・・・
+<LABEL=NONE></LABEL>The City of the Sun, San
+Miguel...
+$E=====7889=====
+//あの街でおまえと共に戦ったと
+//き、
+When I fought alongside you
+in that city, 
+$E=====7890=====
+//おれはようやく、そのことに気
+//づいた・・・」
+I finally realized it..."
+$E=====7891=====
 <PROC=0>
 <END>
-$J=====7892=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「あの新月の夜・・・
-$J=====7893=====
-破壊(はかい)の獣(けもの)のま
-どろみの中に引きずりこまれた
-おれは、
-$J=====7894=====
-暗黒物質(ダークマター)による
-人形使いの支配(しはい)を受け
-た
-$J=====7895=====
-ラタトスクは、おれをヴァナル
-ガンド復活(ふっかつ)のための
-生贄(いけにえ)としてささげ、
-$J=====7896=====
-その後継者(こうけいしゃ)とす
-ることで、
-$J=====7897=====
-破壊(はかい)の獣(けもの)の持
-つ大いなる力を手に入れようと
-したのだ
-$J=====7898=====
+$E=====7892=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「あの新月の夜・・・
+<LABEL=NONE>Phantom Sabata</LABEL>:
+"It was a new moon that
+night...
+$E=====7893=====
+//破壊(はかい)の獣(けもの)のま
+//どろみの中に引きずりこまれた
+//おれは、
+during the Beast of
+Destruction's slumber, I was
+pulled along,
+$E=====7894=====
+//暗黒物質(ダークマター)による
+//人形使いの支配(しはい)を受け
+//た
+The Puppeteer used my Dark
+Matter to gain control over
+me.
+$E=====7895=====
+//ラタトスクは、おれをヴァナル
+//ガンド復活(ふっかつ)のための
+//生贄(いけにえ)としてささげ、
+He offered me as a living
+sacrifice in order to revive
+Vanargand,
+$E=====7896=====
+//その後継者(こうけいしゃ)とす
+//ることで、
+make me its successor,
+$E=====7897=====
+//破壊(はかい)の獣(けもの)の持
+//つ大いなる力を手に入れようと
+//したのだ
+and obtain the Beast of
+Destruction's immense power.
+$E=====7898=====
 <PROC=0>
 <END>
-$J=====7899=====
-<LABEL=NONE></LABEL>ラタトスクによって、ヴァナル
-ガンドに魂(たましい)をささげ
-られたおれは、
-$J=====7900=====
-その破壊(はかい)の衝動(しょ
-うどう)に共鳴し、おのれの狂
-気(きょうき)を増大させた
-$J=====7901=====
-やつの命ずるまま、おまえをほ
-うむるまでに・・・」
-$J=====7902=====
+$E=====7899=====
+//<LABEL=NONE></LABEL>ラタトスクによって、ヴァナル
+//ガンドに魂(たましい)をささげ
+//られたおれは、
+<LABEL=NONE></LABEL>Because of Ratatosk, my soul
+was given to Vanargand.
+$E=====7900=====
+//その破壊(はかい)の衝動(しょ
+//うどう)に共鳴し、おのれの狂
+//気(きょうき)を増大させた
+It resonated with his
+destructive impulses, and
+my madness further grew.
+$E=====7901=====
+//やつの命ずるまま、おまえをほ
+//うむるまでに・・・」
+Under his command, I even
+went so far as to bury
+you..."
+$E=====7902=====
 <PROC=0>
 <END>
-$J=====7903=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「あの満月の夜・・・
+$E=====7903=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「あの満月の夜・・・
+<LABEL=NONE>Phantom Sabata</LABEL>:
+"It was a full moon that
+night...
 $J=====7904=====
 月光に横たわるおまえの姿(す
 がた)に、おれはようやく自ら
 を取りもどした
-$J=====7905=====
-だがラタトスクによる支配(
-しはい)と、
-$J=====7906=====
-ヴァナルガンドとの魂(たまし
-い)の共鳴・・・
-$J=====7907=====
-それらをたち切るには、おまえ
-の力を借り、
-$J=====7908=====
-おれの身体に宿る暗黒物質(ダ
-ークマター)を浄化(じょうか)
-する他はない
-$J=====7909=====
-自らの手でほうむったおまえを
-待つなど・・・
-$J=====7910=====
-まさにおれは、狂気(きょうき)
-のただ中にいた
-$J=====7911=====
+You were lying in the
+moonlight, and I had finally
+returned to my old self.
+$E=====7905=====
+//だがラタトスクによる支配(
+//しはい)と、
+But due to Ratatosk's
+control,
+$E=====7906=====
+//ヴァナルガンドとの魂(たまし
+//い)の共鳴・・・
+my soul was resonating with
+Vanargand's...
+$E=====7907=====
+//それらをたち切るには、おまえ
+//の力を借り、
+To break them apart, I
+borrowed your power,
+$E=====7908=====
+//おれの身体に宿る暗黒物質(ダ
+//ークマター)を浄化(じょうか)
+//する他はない
+since there was no other way
+to purify the Dark Matter
+within me.
+$E=====7909=====
+//自らの手でほうむったおまえを
+//待つなど・・・
+I waited for the one who I
+buried with my own hands...
+$E=====7910=====
+//まさにおれは、狂気(きょうき)
+//のただ中にいた
+I had certainly plunged into
+madness.
+$E=====7911=====
 <PROC=0>
 <END>
-$J=====7912=====
-<LABEL=NONE></LABEL>それでも・・・
-そこには確信もまた、あったの
-だ
-$J=====7913=====
-おまえは必ずや復活(ふっかつ)
-を果たし、このおれの前に現れ
-ると・・・」
-$J=====7914=====
+$E=====7912=====
+//<LABEL=NONE></LABEL>それでも・・・
+//そこには確信もまた、あったの
+//だ
+<LABEL=NONE></LABEL>Even so... I was confident
+that I'd meet you there.
+$E=====7913=====
+//おまえは必ずや復活(ふっかつ)
+//を果たし、このおれの前に現れ
+//ると・・・」
+I was positive you'd be
+revived, and appear before
+me..."
+$E=====7914=====
 <PROC=0>
 <END>
 $E=====7915=====
@@ -33663,7 +33995,7 @@ $E=====7920=====
 //「ツブセ・・・
 <LABEL=NONE>Sabata's Image</LABEL>:
 "SMASH...
-$J=====7921=====
+$E=====7921=====
 //コワセ・・・
 BREAK...
 $E=====7922=====
@@ -33692,49 +34024,62 @@ $E=====7928=====
 $E=====7929=====
 <PROC=0>
 <END>
-$J=====7930=====
-<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
-「あの時、白き森で・・・
-$J=====7931=====
-おれは自らを浄化(じょうか)さ
-せるため、おまえにいどんだ
-$J=====7932=====
-おまえとの戦い、それこそが、
-おれが待ち望んでいた戦いだっ
-た
-$J=====7933=====
-そう、おれは・・・
-$J=====7934=====
-おまえと戦うために用意された
-闇(やみ)・の・・戦士・・・
-$J=====7935=====
-戦え、<NAME>・・・
-$J=====7936=====
-戦って戦って戦いぬいて・・・
-$J=====7937=====
-すべてを・・・
+$E=====7930=====
+//<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
+//「あの時、白き森で・・・
+<LABEL=NONE>Phantom Sabata</LABEL>:
+"That time, in the White
+Forest...
+$E=====7931=====
+//おれは自らを浄化(じょうか)さ
+//せるため、おまえにいどんだ
+in order to get myself
+purified, I challenged you.
+$E=====7932=====
+//おまえとの戦い、それこそが、
+//おれが待ち望んでいた戦いだっ
+//た
+Our fight was something I
+had long awaited.
+$E=====7933=====
+//そう、おれは・・・
+Yes, I'm...
+$E=====7934=====
+//おまえと戦うために用意された
+//闇(やみ)・の・・戦士・・・
+the Warrior of Darkness,
+ready to... fight... you...
+$E=====7935=====
+//戦え、<NAME>・・・
+Fight, <NAME>...
+$E=====7936=====
+//戦って戦って戦いぬいて・・・
+Fight, fight,
+fight to the end...
+$E=====7937=====
+//すべてを・・・
 everything...
 $E=====7938=====
 //そう、すべテヲ・・・
-yes, evErYthInG...
+yesss, evErYthInG...
 $E=====7939=====
 <PROC=0>
 <END>
 $E=====7940=====
 //<LABEL=NONE></LABEL>ハカイスルンダ・・・!!
-//DESTROY IT...!
+<LABEL=NONE></LABEL>DESTROY EVERYTHING...!
 $E=====7941=====
 //ハカイ!
 DESTROY!
 $E=====7942=====
 //ハカイハカイハカイハカイ
-DESTROY DESTROY DESTROY
+DESTROY DESTROY DESTROY!
 $E=====7943=====
 <PROC=0>
 <END>
 $E=====7944=====
 //<LABEL=NONE></LABEL>ハカイダァ、<NAME>!!
-<LABEL=NONE></LABEL>DESTROY, <NAME>!
+<LABEL=NONE></LABEL>DESTROYYY, <NAME>!
 $E=====7945=====
 <PROC=0>
 <END>
@@ -33766,17 +34111,20 @@ fuse with Vanargand's!?
 $E=====7952=====
 //このままでは取り返しのつかな
 //いことになってしまう!」
-If this keeps going, we
-won't be able to turn him
-back to normal!"
+If this keeps up, we won't
+be able to turn him back to
+normal!"
 $E=====7953=====
 <PROC=0>
 <END>
-$J=====7954=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「通路を迂回(うかい)して、都
-市中央を目指すんだ!
-$J=====7955=====
+$E=====7954=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「通路を迂回(うかい)して、都
+//市中央を目指すんだ!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Take a detour, and head for
+the center of town!
+$E=====7955=====
 <PROC=0>
 <END>
 $E=====7956=====
@@ -33827,87 +34175,132 @@ $J=====7968=====
 $J=====7969=====
 <PROC=0>
 <END>
-$J=====7970=====
-<LABEL=KARMIRA></LABEL>急いで、<NAME>!!
-$J=====7971=====
-もう、あの人を止められるのは
-あなたしかいない!
-$J=====7972=====
-あなたと戦うことでしか、あの
-人の心はいやされない!
-$J=====7973=====
+$E=====7970=====
+//<LABEL=KARMIRA></LABEL>急いで、<NAME>!!
+<LABEL=KARMIRA></LABEL>Hurry, <NAME>!
+$E=====7971=====
+//もう、あの人を止められるのは
+//あなたしかいない!
+You're the only one who can
+stop him now!
+$E=====7972=====
+//あなたと戦うことでしか、あの
+//人の心はいやされない!
+Merely fighting him won't
+heal his mind!
+$E=====7973=====
 <PROC=0>
 <END>
-$J=====7974=====
-<LABEL=KARMIRA></LABEL>もうわたしでは・・・
-あの人を救うことはできない
-$J=====7975=====
-あの人に・・・
-安らぎをあたえてあげて」
-$J=====7976=====
+$E=====7974=====
+//<LABEL=KARMIRA></LABEL>もうわたしでは・・・
+//あの人を救うことはできない
+<LABEL=KARMIRA></LABEL>There's... nothing I can do
+to save him anymore.
+$E=====7975=====
+//あの人に・・・
+//安らぎをあたえてあげて」
+Give him...
+give him peace."
+$E=====7976=====
 <PROC=0>
 <END>
-$J=====7977=====
-<LABEL=SABATA>サバタ</LABEL>
-「来たか、<NAME>・・・」
-$J=====7978=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「サバタ・・・
-無事なのか!?」
-$J=====7979=====
+$E=====7977=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「来たか、<NAME>・・・」
+<LABEL=SABATA>Sabata</LABEL>:
+"You came, <NAME>..."
+$E=====7978=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「サバタ・・・
+//無事なのか!?」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Sabata...
+are you alright!?"
+$E=====7979=====
 <PROC=0>
 <END>
-$J=====7980=====
-<LABEL=SABATA>サバタ</LABEL>
-「フッ・・・
-愚問(ぐもん)だな?」
-$J=====7981=====
+$E=====7980=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「フッ・・・
+//愚問(ぐもん)だな?」
+<LABEL=SABATA>Sabata</LABEL>:
+"Heh...
+what a stupid question."
+$E=====7981=====
 <PROC=0>
 <END>
-$J=====7982=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「その身体・・・
-$J=====7983=====
-やはりおまえはもう・・・」
-$J=====7984=====
-<LABEL=SABATA>サバタ</LABEL>
-「そう・・・
-おれは破壊(はかい)の王!!
-$J=====7985=====
-今やおれのすべては・・・
-$J=====7986=====
+$E=====7982=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「その身体・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"That body...
+$E=====7983=====
+//やはりおまえはもう・・・」
+then you're already..."
+$E=====7984=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「そう・・・
+//おれは破壊(はかい)の王!!
+<LABEL=SABATA>Sabata</LABEL>:
+"Yes... I am the Lord of
+Destruction!
+$E=====7985=====
+//今やおれのすべては・・・
+Now every bit of me...
+$E=====7986=====
 <PROC=0>
 <END>
-$J=====7987=====
-<LABEL=SABATA></LABEL>ヴァナルガンドと共にある!」
-$J=====7988=====
-<LABEL=SABATA>サバタ</LABEL>
-「おれの中の獣(けもの)が言う
-$J=====7989=====
-破壊(はかい)せよと・・・
-$J=====7990=====
-生きとし生けるもの、そのすべ
-てを破壊(はかい)せよと!
-$J=====7991=====
-そして何よりも<NAME>、
-$J=====7992=====
-おまえをたおせとな!!」
-$J=====7993=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「何を言っている!!
-$J=====7994=====
-あの星に生きるすべての命、
-$J=====7995=====
-それをほろぼそうとする銀河宇
-宙(ぎんがうちゅう)の意思
-$J=====7996=====
-おまえが戦うべき相手は・・・
-$J=====7997=====
-その銀河意思(ダーク)ではなか
-ったのか!
-$J=====7998=====
-正気を取りもどすんだ、
-サバタ!!」
+$E=====7987=====
+//<LABEL=SABATA></LABEL>ヴァナルガンドと共にある!」
+<LABEL=SABATA></LABEL>Is fused with Vanargand!"
+$E=====7988=====
+//<LABEL=SABATA>サバタ</LABEL>
+//「おれの中の獣(けもの)が言う
+<LABEL=SABATA>Sabata</LABEL>:
+"The beast inside me speaks
+to me.
+$E=====7989=====
+//破壊(はかい)せよと・・・
+It says to destroy...
+$E=====7990=====
+//生きとし生けるもの、そのすべ
+//てを破壊(はかい)せよと!
+To destroy all living
+creatures!
+$E=====7991=====
+//そして何よりも<NAME>、
+And above all, <NAME>,
+$E=====7992=====
+//おまえをたおせとな!!」
+to defeat you!"
+$E=====7993=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「何を言っている!!
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"What are you talking
+about!?
+$E=====7994=====
+//あの星に生きるすべての命、
+The will of the Galaxy
+Universe,
+$E=====7995=====
+//それをほろぼそうとする銀河宇
+//宙(ぎんがうちゅう)の意思
+to destroy everything that
+lives on that star.
+$E=====7996=====
+//おまえが戦うべき相手は・・・
+The enemy you must defeat...
+$E=====7997=====
+//その銀河意思(ダーク)ではなか
+//ったのか!
+Isn't Dark the one you
+should be fighting!?
+$E=====7998=====
+//正気を取りもどすんだ、
+//サバタ!!」
+Take back your true heart,
+Sabata!"
 $J=====7999=====
 <LABEL=SABATA>サバタ</LABEL>
 「正気になれ?
