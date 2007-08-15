@@ -9237,9 +9237,12 @@ Sabata after succeeding the Beast of Destruction. The madness induced by Vanarga
 $E=====2597=====
 //ぬすみの言いわけに「伝説の戦士」の子孫だとかたったため、戦士をさがし出し、その死を未然にふせぐことを命じられた自称(じしょう)「トレジャーハンター」。母の形見である「鉄鍋(てつなべ)」と「青ポンチョ」を身にまとう。
 A self-styled Treasure Hunter who claims to be descended from the Legendary Warrior, he seeks out the Warrior to prevent his death. He wears the Iron Pot and Blue Poncho as a memento of his mother.
-$C=====2598=====
+$E=====2598=====
 //石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
 The Crying Witch who controls the petrifying Deadly Wind. Born as a human, her soul was scattered when she became an Immortal. But even in death, she continues to watch over Sabata as a phantom girl.
+ちょうじん
+ごろごろ
+ごろごろ
 $E=====2599=====
 //道具屋の少女。太陽樹(たいようじゅ)を守る大地の巫女(みこ)であり、太陽の果実を育てることができる。<NAME>をしたう一途(いちず)な少女だが、徒手空拳(としゅくうけん)において彼女の右に出る者はいない。
 The girl from the Item Shop. As the Earthly Maiden who protects the Solar Tree, she can grow Solar Fruit. She completely adores <NAME>, but her bare-fisted fighting skill is unmatched.
@@ -12688,9 +12691,9 @@ $E=====3344=====
 //かつて太陽の一族が、天空に都
 //市をうかべ、そこを楽園とした
 //ように、
-The Solar Family once had a
-flying city in the sky,
-called Paradise.
+The Solar Children once had
+a flying city in the sky,
+which was like a paradise.
 $E=====3345=====
 //月の一族もまた、自分たちの楽
 //園を持っておったのじゃな
@@ -25790,9 +25793,9 @@ $E=====6124=====
 //戦士は破壊(はかい)の獣(けも
 //の)と戦うことなく死んだとい
 //う
-the Warrior fought against
-the Beast of Destruction and
-died uneventfully,
+the Warrior died without
+fighting the Beast of
+Destruction.
 $E=====6125=====
 //仲間のうらぎりによって・・・
 because his friend betrayed
@@ -26571,9 +26574,9 @@ $E=====6293=====
 //戦士は破壊(はかい)の獣(けも
 //の)と戦うことなく死んだとい
 //う
-The Warrior fought against
-the Beast of Destruction and
-died uneventfully,
+The Warrior died without
+fighting the Beast of
+Destruction,
 $E=====6294=====
 //仲間のうらぎりによって・・・
 because his friend betrayed
@@ -30700,9 +30703,12 @@ $U=====7211=====
 $E=====7212=====
 <PROC=0>
 <END>
-$U=====7213=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「行けそうだな・・・」
+$E=====7213=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「行けそうだな・・・」
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"This one seems to be
+seaworthy..."
 $E=====7214=====
 <PROC=0>
 <END>
@@ -30716,9 +30722,9 @@ $E=====7216=====
 $E=====7217=====
 //<LABEL=OTENKO></LABEL>いらぬジャマが入らないうちに
 //出発しよう
-<LABEL=OTENKO></LABEL>Let us depart before any
-more needless distractions
-show up.
+<LABEL=OTENKO></LABEL>We don't need any more
+setbacks. Let's get out of
+here.
 $E=====7218=====
 //さあ、<NAME>!!
 //このままこの船で魔砲(まほう)
@@ -30737,13 +30743,12 @@ $E=====7220=====
 $E=====7221=====
 //オイラがあんなことくらいでへ
 //こむかよ!
-as if I'd give in after that
-much!
+as if I'd give up after
+that!
 $E=====7222=====
 //言いたいほうだい言いやがって
 //・・・
-you can say it as much as
-you want...
+Say what you will...
 $E=====7223=====
 //今に見てろよ!!)
 but watch this!)
@@ -30758,9 +30763,9 @@ $E=====7225=====
 $E=====7226=====
 //やはりこの島の魔砲(まほう)が
 //月への扉(とびら)か!」
-So this island's magic is
-the door to the moon after
-all!"
+So this island's magic
+cannon leads to the moon
+after all!"
 $E=====7227=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //「言いませんでしたか?
@@ -30777,7 +30782,7 @@ $E=====7229=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「サバタをどこにやった!!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Where did you send
+"Where did you take
 Sabata!?"
 $E=====7230=====
 <PROC=0>
@@ -30796,8 +30801,8 @@ teleportation magic...
 $E=====7233=====
 //やはり、あなた方をこのまま放
 //っておくわけにはいきませんね
-clearly I cannot ignore you
-two any longer.
+Clearly you two cannot be
+ignored any longer.
 $E=====7234=====
 <PROC=0>
 <END>
@@ -30841,7 +30846,7 @@ Guess I'm only comfortable
 on solid ground...
 $E=====7244=====
 //ん?」
-huh?"
+Huh?"
 $E=====7245=====
 <PROC=0>
 <END>
@@ -30895,15 +30900,14 @@ $E=====7256=====
 //明晰(めいせき)なる頭脳(ずの
 //う)と、鋼鉄(こうてつ)なる身
 //体、
-With my sharp brains and
-this steel body,
+With my sharp brains, this
+steel body, and my ultimate
+iron army,
 $E=====7257=====
 //そしてわが最強なる鉄(くろが
 //ね)の軍団(ぐんだん)に、かな
 //う者はいない
-not to mention my ultimate
-iron army, nothing can match
-me.
+nothing can stand up to me.
 $E=====7258=====
 //太陽少年<NAME>!!
 Solar Boy <NAME>!
@@ -30911,9 +30915,9 @@ $E=====7259=====
 //われらが地獄(じごく)の砲火(
 //ほうか)を受け、海のもくずと
 //消えるがいい!」
-With our hellfire, we'll
-send you to Davy Jones'
-locker!"
+Get ready for cannon fire
+hell! We'll send you to Davy
+Jones' locker!"
 $E=====7260=====
 <PROC=0>
 <END>
@@ -30974,7 +30978,7 @@ $E=====7270=====
 $E=====7271=====
 //<LABEL=TRINITY></LABEL>それでもオメェは・・・
 //未来を信じるっていうのか?」
- <ALTER>信じる</ALTER>  <ALTER>分からない</ALTER>
+// <ALTER>信じる</ALTER>  <ALTER>分からない</ALTER>
 <LABEL=TRINITY></LABEL>Do you even believe me about
 the future?"
  <ALTER>I believe</ALTER>  <ALTER>I don't know</ALTER>
@@ -30996,7 +31000,7 @@ guy...
 $E=====7275=====
 //オメェを見てると・・・
 //死んだ母ちゃんを思い出すぜ
-lookin at you... it reminds
+Lookin' at you... it reminds
 me of my dead mom.
 $E=====7276=====
 //伝説の戦士をさがして旅するオ
@@ -31024,7 +31028,7 @@ $E=====7279=====
 but mom never gave up.
 $E=====7280=====
 //そしていつも・・・笑ってた
-and... she was always
+And... she was always
 smiling.
 $E=====7281=====
 //どうしてなんだ?
@@ -31048,8 +31052,8 @@ need.
 $E=====7285=====
 //みんなの笑顔は・・・
 //ボクらの太陽なんだ
-Everyone's smiling face...
-that's our sun.
+Everyone's smiles...
+they're like our sun.
 $E=====7286=====
 //トリニティのお母さんもきっと
 I'm sure your mom felt the
@@ -31101,7 +31105,7 @@ and purify it in the light
 of the Sun!
 $E=====7296=====
 //さあ、行くぞ!」
-Okay, let's go!"
+Let's go!"
 $E=====7297=====
 <PROC=0>
 <END>
@@ -31120,7 +31124,7 @@ guy...
 $E=====7300=====
 //オメェを見てると・・・
 //死んだ母ちゃんを思い出すぜ
-lookin at you... it reminds
+Lookin' at you... it reminds
 me of my dead mom.
 $E=====7301=====
 //伝説の戦士をさがして旅するオ
@@ -31148,7 +31152,7 @@ $E=====7304=====
 but mom never gave up.
 $E=====7305=====
 //そしていつも・・・笑ってた
-and... she was always
+And... she was always
 smiling.
 $E=====7306=====
 //どうしてなんだ?
@@ -31172,8 +31176,8 @@ need.
 $E=====7310=====
 //みんなの笑顔は・・・
 //ボクらの太陽なんだ
-Everyone's smiling face...
-that's our sun.
+Everyone's smiles...
+they're like our sun.
 $E=====7311=====
 //トリニティのお母さんもきっと
 I'm sure your mom felt the
@@ -31225,7 +31229,7 @@ and purify it in the light
 of the Sun!
 $E=====7321=====
 //さあ、行こう
-Okay, let's go.
+Let's go.
 $E=====7322=====
 //<PROC=1><LOCK=70>太陽と共にあらんことを!」
 <PROC=1><LOCK=70>May the Sun be with you!"
@@ -31386,12 +31390,12 @@ $E=====7357=====
 //<LABEL=NONE>???</LABEL>
 //「ハズレはだまってろ!
 <LABEL=NONE>???</LABEL>:
-"Silence, failure!
+"Quiet, loser!
 $E=====7358=====
 //くそっ!!
 //ヤツはどこに行った!?」
 Damn!
-Where was he!?"
+Where'd he go!?"
 $E=====7359=====
 <PROC=0>
 <END>
@@ -31475,7 +31479,7 @@ into reality.
 $E=====7374=====
 //それこそが・・・
 //銀河宇宙の意思だ!」
-That alone is Dark's will!"
+That is Dark's will!"
 $E=====7375=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「わたしはみとめない!!
@@ -31833,14 +31837,14 @@ $E=====7452=====
 //その上、乗せた紋章(もんしょ
 //う)ブロックから力を引き出す
 //ようだ
-Furthermore, it draws out
+Furthermore, it absorbs
 power from the block on top
 of it.
 $E=====7453=====
 //だが、引き出されたその力は何
 //に使われるのだ?
 But just what does it use
-that drawn-out power for?
+that absorbed power for?
 $E=====7454=====
 <PROC=0>
 <END>
@@ -31853,8 +31857,9 @@ $E=====7456=====
 //この重量スイッチにフロストの
 //紋章(もんしょう)ブロックを乗
 //せてみろ」
-Try pushing a Frost block on
-top of the weight switch."
+Try pushing the Frost block
+on top of the weight
+switch."
 $E=====7457=====
 <PROC=0>
 <END>
@@ -31913,9 +31918,9 @@ $E=====7468=====
 //まさかこの暗黒城(あんこくじ
 //ょう)にまで、追いかけてくる
 //ことはないだろうが・・・」
-We aren't even going to
-catch up with him in this
-Dark Castle, are we..."
+We're not going to catch up
+with him in the Dark Castle,
+are we...?"
 $E=====7469=====
 //<LABEL=NONE>亡霊(ぼうれい)</LABEL>
 //「おーい・・・」
@@ -33202,13 +33207,13 @@ is not just for show.
 $E=====7754=====
 //それが自らの意思を持たぬモノ
 //であれば、
-I can take things that do
-not share my will,
+I don't even need to use
+Dark Matter.
 $E=====7755=====
 //暗黒物質(ダークマター)を使う
 //までもなく、
-as long as they cannot use
-Dark Matter,
+I can take things that do
+not share my will,
 $E=====7756=====
 //あやつり人形として、支配(し
 //はい)することができるのです
@@ -33222,8 +33227,8 @@ $E=====7758=====
 //となど、ぞうさもないというわ
 //けです
 I can control the half-dead
-Sabata with no trouble at
-all.
+Sabata without any trouble
+at all.
 $E=====7759=====
 //そのかれがヴァナルガンドと1
 //つになれば・・・
@@ -33423,8 +33428,8 @@ Trinity told us about...
 $E=====7804=====
 //伝説の戦士は、ヴァナルガンド
 //と戦うことなく死んだという
-it said that the Legendary
-Warrior died uneventfully
+he said that the Legendary
+Warrior died without
 fighting Vanargand.
 $E=====7805=====
 //だが今、おまえは生きている
@@ -33626,7 +33631,7 @@ $E=====7848=====
 //太陽の血と、太陽銃(ガン・デ
 //ル・ソル)の継承者(けいしょう
 //しゃ)、太陽少年<NAME>
-The successor to the Gun Del
+the successor to the Gun Del
 Sol, with Solar Child blood,
 Solar Boy <NAME>.
 $U=====7849=====
@@ -33781,7 +33786,7 @@ $E=====7876=====
 $E=====7877=====
 //<LABEL=NONE></LABEL>だが・・・
 <LABEL=NONE></LABEL>And yet...
-$C=====7878=====
+$E=====7878=====
 //古の精霊(せいれい)、ムスペル
 //とガルム、そして嘆(なげ)きの
 //魔女、カーミラ・・・
@@ -34101,7 +34106,7 @@ $E=====7950=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「まさか・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"don't tell me...
+"Don't tell me...
 $E=====7951=====
 //サバタの魂(たましい)が、ヴァ
 //ナルガンドのそれと交わり始め
@@ -34112,7 +34117,7 @@ $E=====7952=====
 //このままでは取り返しのつかな
 //いことになってしまう!」
 If this keeps up, we won't
-be able to turn him back to
+be able to return him to
 normal!"
 $E=====7953=====
 <PROC=0>
@@ -34286,8 +34291,8 @@ Universe,
 $E=====7995=====
 //それをほろぼそうとする銀河宇
 //宙(ぎんがうちゅう)の意思
-to destroy everything that
-lives on that star.
+is to destroy everything
+that lives on our star.
 $E=====7996=====
 //おまえが戦うべき相手は・・・
 The enemy you must defeat...
@@ -38800,8 +38805,7 @@ $E=====9178=====
 //<LABEL=OTENKO></LABEL>だが上階へのスイッチには、闇
 //(やみ)の封印(ふういん)がほど
 //こされている
-<LABEL=OTENKO></LABEL>
-There's a dark seal on the
+<LABEL=OTENKO></LABEL>There's a dark seal on the
 switch that sends it to the
 top floor.
 $E=====9179=====
@@ -38990,17 +38994,25 @@ that forest."
 $E=====9220=====
 <PROC=0>
 <END>
-$J=====9221=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「フレイムとフロストの紋章(
-もんしょう)ブロックか・・・
-$J=====9222=====
-だが、今この場を支配(しはい)
-しているのはフレイムの力
-$J=====9223=====
-これは何かの装置(そうち)なの
-か?」
-$J=====9224=====
+$E=====9221=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「フレイムとフロストの紋章(
+//もんしょう)ブロックか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Frost and Flame crest
+blocks...
+$E=====9222=====
+//だが、今この場を支配(しはい)
+//しているのはフレイムの力
+but the power of Flame is
+the one controlling this
+area right now.
+$E=====9223=====
+//これは何かの装置(そうち)なの
+//か?」
+What kind of mechanism is
+this?"
+$E=====9224=====
 <PROC=0>
 <END>
 $E=====9225=====
