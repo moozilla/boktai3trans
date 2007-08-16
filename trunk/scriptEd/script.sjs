@@ -3517,70 +3517,70 @@ $E=====1243=====
 DARK CASTLE [3F]
 $E=====1244=====
 //暗黒城 [B9F 中央塔]
-DARK CASTLE [B9F CENTER]
+DARK CASTLE [B9F MAIN]
 $E=====1245=====
 //暗黒城 [B9F 炎の間]
-DARK CASTLE [B9F FLAME AREA]
+DARK CASTLE [B9F FLAME]
 $E=====1246=====
 //暗黒城 [B9F 大地の間]
-DARK CASTLE [B9F EARTH AREA]
+DARK CASTLE [B9F EARTH]
 $E=====1247=====
 //暗黒城 [B9F 氷の間]
-DARK CASTLE [B9F ICE AREA]
+DARK CASTLE [B9F ICE]
 $E=====1248=====
 //暗黒城 [B8F 風の間]
-DARK CASTLE [B8F WIND AREA]
+DARK CASTLE [B8F WIND]
 $E=====1249=====
 //暗黒城 [B9F 風の間]
-DARK CASTLE [B9F WIND AREA]
+DARK CASTLE [B9F WIND]
 $E=====1250=====
 //暗黒城 [B10F 風の間]
-DARK CASTLE [B10F WIND AREA]
+DARK CASTLE [B10F WIND]
 $E=====1251=====
 //暗黒城 [B6F 中央塔]
-DARK CASTLE [B6F CENTER TOWER]
+DARK CASTLE [B6F MAIN]
 $E=====1252=====
 //暗黒城 [B6F 炎の間]
-DARK CASTLE [B6F FLAME AREA]
+DARK CASTLE [B6F FLAME]
 $E=====1253=====
 //暗黒城 [B6F 大地の間]
-DARK CASTLE [B6F EARTH AREA]
+DARK CASTLE [B6F EARTH]
 $E=====1254=====
 //暗黒城 [B6F 氷の間]
-DARK CASTLE [B6F ICE AREA]
+DARK CASTLE [B6F ICE]
 $E=====1255=====
 //暗黒城 [B6F 風の間]
-DARK CASTLE [B6F WIND AREA]
+DARK CASTLE [B6F WIND]
 $E=====1256=====
 //暗黒城 [B12F 中央塔]
-DARK CASTLE [B12F CENTER TOWER]
+DARK CASTLE [B12F MAIN]
 $E=====1257=====
 //暗黒城 [B12F 炎の間]
-DARK CASTLE [B6F FLAME AREA]
+DARK CASTLE [B12F FLAME]
 $E=====1258=====
 //暗黒城 [B12F 大地の間]
-DARK CASTLE [B6F EARTH AREA]
+DARK CASTLE [B12F EARTH]
 $E=====1259=====
 //暗黒城 [B12F 氷の間]
-DARK CASTLE [B6F ICE AREA]
+DARK CASTLE [B12F ICE]
 $E=====1260=====
 //暗黒城 [B12F 風の間]
-DARK CASTLE [B6F WIND AREA]
+DARK CASTLE [B12F WIND]
 $E=====1261=====
 //暗黒城 [B15F 中央塔]
-DARK CASTLE [B15F CENTER TOWER]
+DARK CASTLE [B15F MAIN]
 $E=====1262=====
 //暗黒城 [B15F 炎の間]
-DARK CASTLE [B15F FLAME AREA]
+DARK CASTLE [B15F FLAME]
 $E=====1263=====
 //暗黒城 [B15F 大地の間]
-DARK CASTLE [B15F EARTH AREA]
+DARK CASTLE [B15F EARTH]
 $E=====1264=====
 //暗黒城 [B15F 氷の間]
-DARK CASTLE [B15F ICE AREA]
+DARK CASTLE [B15F ICE]
 $E=====1265=====
 //暗黒城 [B15F 風の間]
-DARK CASTLE [B15F WIND AREA]
+DARK CASTLE [B15F WIND]
 $E=====1266=====
 //楽園
 PARADISE
@@ -21902,21 +21902,20 @@ $E=====5296=====
 //「ヒヒッ!!
 //やっちまったようだな?
 Johnny:
-"Heehee!!
-Looks like you messed up.
+"Heehee!
+You messed up, huh?
 $E=====5297=====
 //進み方をまちがえて、小部屋か
 //ら出られなくなっちまっても、
 You went the wrong way, and
-now you can't get out of the
-room.
+you ended up getting stuck
+in the room.
 $E=====5298=====
 //そこに現れるワープ魔方陣(ま
 //ほうじん)を使えば、この部屋
 //にもどって来るこたぁできる
-If you use the Warp Magic
-Square that appears there,
-you can return to this room.
+But I let you return here
+using a Warp Magic Square.
 $E=====5299=====
 //オレさまの慈悲(じひ)深さに感
 //謝(かんしゃ)するんだな?」
@@ -21930,7 +21929,7 @@ $E=====5301=====
 //「ヒヒッ!!
 //また、やっちまったようだな?
 Johnny:
-"Heehee!!
+"Heehee!
 You messed up again, huh?
 $E=====5302=====
 //頭の中にマップをえがけなけれ
@@ -21950,7 +21949,7 @@ $E=====5305=====
 //「ヒヒッ!!
 //また、やっちまったようだな?
 Johnny:
-"Heehee!!
+"Heehee!
 You messed up again, huh?
 $E=====5306=====
 //やっぱオマエの頭にゃあ、むず
@@ -21975,7 +21974,7 @@ $E=====5310=====
 //「ヒヒッ!!
 //また、やっちまったようだな?
 Johnny:
-"Heehee!!
+"Heehee!
 You messed up again, huh?
 $E=====5311=====
 //やっぱオマエの頭にゃあ、むず
@@ -21993,12 +21992,13 @@ Johnny:
 $E=====5314=====
 //こんなところにまでたどり着く
 //たぁ、
-After all that effort,
-$U=====5315=====
+It wasn't easy to get this
+far,
+$E=====5315=====
 //オレさまの迷宮(めいきゅう)を
 //クリアしただけのことはある
-you've finally managed to
-get through my labyrinth.
+and you did manage to make
+it through my labyrinth.
 $E=====5316=====
 //だがしかしっ!!
 However!
@@ -22049,7 +22049,7 @@ $E=====5326=====
 //ジョニー
 //「やめるのか?
 Johnny:
-"Stop?
+"You quitting?
 $E=====5327=====
 //まあ、それが身のためだな。
 //ヒヒヒヒヒッ!!」
@@ -22075,8 +22075,8 @@ It wasn't too easy, was it?
 $E=====5332=====
 //さっさとアニキたちのところへ
 //行きな!」
-Hurry up and move on to
-where the brothers are!"
+Hurry back to the room where
+the brothers are!"
 $E=====5333=====
 <PROC=0>
 <END>
@@ -22126,8 +22126,8 @@ are you?
 $E=====5343=====
 //さっさとアニキたちのところへ
 //行きな!」
-Hurry up and move on to
-where the brothers are!"
+Hurry back to the room where
+the brothers are!"
 $E=====5344=====
 <PROC=0>
 <END>
@@ -22190,7 +22190,7 @@ I'll remember that name!
 $E=====5358=====
 //さあ、早くアニキたちのところ
 //へ行きな!」
-Quickly now, move on to
+Quickly now, head back to
 where the brothers are!"
 $E=====5359=====
 <PROC=0>
@@ -22260,7 +22260,7 @@ $E=====5370=====
 //ブロックを、
 Push blocks with the same
 weight as the monsters in
-the west room
+the west room,
 $E=====5371=====
 //東の小部屋の穴に落とせ」
 down the hole in the
@@ -22310,7 +22310,7 @@ $E=====5381=====
 //ブロックを、
 Push blocks with the same
 weight as the monsters in
-the west room
+the west room,
 $E=====5382=====
 //東の小部屋の穴に落とせ」
 down the hole in the
@@ -22385,9 +22385,9 @@ Ghost:
 $E=====5398=====
 //アニキたちがいるエリアは天秤
 //(てんびん)になっている
-There is a set of scales in
-the area with the brothers.
-To find the correct answer,
+The area with the brothers
+becomes a set of scales.
+To answer correctly,
 $E=====5399=====
 //東西の小部屋の穴の中にあるモ
 //ノの重さが同じになれば、それ
@@ -32002,7 +32002,7 @@ $E=====7486=====
 //どうせオマエらのようなガキの
 //頭じゃあ、
 You guys have the brains of
-a child,
+children,
 $E=====7487=====
 //オレさまの迷宮(めいきゅう)を
 //クリアできるはずねぇからな!
@@ -32079,7 +32079,7 @@ $E=====7501=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「ハマった!?」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"You made it!?"
+"We're stuck!?"
 $E=====7502=====
 <PROC=0>
 <END>
@@ -32104,7 +32104,7 @@ $E=====7506=====
 $E=====7507=====
 //<LABEL=NONE></LABEL>黒ひげのアニキに殺されちまう
 //!!」
-<LABEL=NONE></LABEL>The Blackbeard Brothers will
+<LABEL=NONE></LABEL>the Blackbeard Brothers will
 kill me for sure!"
 $E=====7508=====
 <PROC=0>
@@ -32121,7 +32121,7 @@ $E=====7511=====
 //まったくいけすかねぇガキだぜ
 //・・・
 Jeez, you brats are are so
-nasty...
+annoying...
 $E=====7512=====
 <PROC=0>
 <END>
@@ -32256,9 +32256,12 @@ $E=====7539=====
 You know that, and you still
 fight?
 $U=====7540=====
-さすがは、われらが闇の女王(
-クイーン)が気にかけるほどの
-男・・・」
+//さすがは、われらが闇の女王(
+//クイーン)が気にかけるほどの
+//男・・・」
+As to be expected of the man
+who our Queen was so
+concerned about..."
 $E=====7541=====
 <PROC=0>
 <END>
@@ -32365,10 +32368,13 @@ $E=====7561=====
 //まえがあるのだろう
 Or rather... those sins make
 you who you are now, hmm?
-$U=====7562=====
-さすがは、われらが闇の女王(
-クイーン)が気にかけるほどの
-男・・・」
+$E=====7562=====
+//さすがは、われらが闇の女王(
+//クイーン)が気にかけるほどの
+//男・・・」
+As to be expected of the man
+who our Queen was so
+concerned about..."
 $E=====7563=====
 <PROC=0>
 <END>
