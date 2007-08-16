@@ -19713,16 +19713,18 @@ $E=====4752=====
 //よくここがわかったね!
 <LABEL=ROCKMAN>RockMan</LABEL>:
 "Hey, <NAME>!
-I know this place well!
+You know this place well!
 $E=====4753=====
 //ボクは熱斗くんのネットナビ
 //ロックマン
 I'm Netto's NetNavi,
 RockMan.
-$J=====4754=====
-今日はここ、サン・ミゲルの電
-脳(でんのう)に遊びに来てるん
-だ
+$E=====4754=====
+//今日はここ、サン・ミゲルの電
+//脳(でんのう)に遊びに来てるん
+//だ
+Today, I came to play in San
+Miguel's Net.
 $J=====4755=====
 ボクたちの世界とはまったくち
 がうこの世紀末世界だけど、
@@ -34634,13 +34636,13 @@ $E=====8066=====
 $E=====8067=====
 //これは・・・
 That's...
-$C=====8068=====
+$E=====8068=====
 //かつてわたしをも打ちくだいた
 //嘆(なげ)きの魔女の石化能力(
 //せきかのうりょく)・・・」
 The Crying Witch's
-petrifying ability that I
-once broke (out of?)..."
+petrifying ability that
+once shattered me..."
 $E=====8069=====
 <PROC=0>
 <END>
@@ -34812,7 +34814,7 @@ no, Vanargand!
 $E=====8104=====
 //わたしをも取りこみ、石化をの
 //がれようというの?
-Did he defeat my
+Did he overcome my
 petrification that easily?
 $E=====8105=====
 <PROC=0>
@@ -35137,7 +35139,7 @@ stone from within!"
 $E=====8174=====
 <PROC=0>
 <END>
-$E=====8175=====
+$U=====8175=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「バッドエンド
 //時間切れ…ジャンゴの最後」
@@ -35147,7 +35149,7 @@ Out of time, Django's end."
 $E=====8176=====
 <PROC=0>
 <END>
-$E=====8177=====
+$U=====8177=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「バッドエンド
 //時間切れ…ジャンゴの最後」
@@ -35294,7 +35296,7 @@ $E=====8207=====
 //わたしのことがお嫌(きら)いに
 //なりましたか?」
 <LABEL=KARMIRA></LABEL>Or...
-Do you not like me anymore?"
+Do you not love me anymore?"
 $E=====8208=====
 <PROC=0>
 <END>
@@ -37089,9 +37091,11 @@ $E=====8608=====
 $E=====8609=====
 <PROC=0>
 <END>
-$J=====8610=====
-<LABEL=PLAYER><NAME></LABEL>
-「カーミラ!!<LOCK=30>」
+$E=====8610=====
+//<LABEL=PLAYER><NAME></LABEL>
+//「カーミラ!!<LOCK=30>」
+<LABEL=PLAYER><NAME></LABEL>:
+"Carmilla!!<LOCK=30>"
 $J=====8611=====
 <LABEL=KARMIRA>カーミラ</LABEL>
 「<NAME>、
