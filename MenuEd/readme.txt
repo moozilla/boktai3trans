@@ -12,6 +12,8 @@
  - Click in the block editor to draw a tile
  - Hold control when clicking to flip a tile vertically
  - Hold shift when clicking to flip a tile horizontally
+ - Middle click to draw a tile and cycle through palettes
+ - Right click to select that tile in the tile chooser
 
  Changing Maps:
 
