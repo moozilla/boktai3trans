@@ -7807,48 +7807,48 @@ $E=====2172=====
 <END>
 $E=====2173=====
 //  明日もまた日は昇(のぼ)る! 
-The Sun will rise tomorrow!
+ The Sun will rise tomorrow!
 $E=====2174=====
 // 　　　　でも・・・　　　　 
-           but...
+            but...
 $E=====2175=====
 //　　望んでいるだけじゃあ、　
 //　　　明日は変わらない　　　
-     wishes alone won't
-     change the future.
+      wishes alone won't
+      change the future.
 $E=====2176=====
 //　　未来を変えるのは明日　　
-     Tomorrow's changes
-     affect the future.
+      Tomorrow's changes
+      affect the future.
 $E=====2177=====
 //　　明日を変えるのは今日　　
-      Today's changes
-      affect tomorrow.
+       Today's changes
+       affect tomorrow.
 $E=====2178=====
 //　　　今日できること、　　　
 // 1人でできることは小さくても
-  The changes one person
-  can make today are small,
+   The changes one person
+   can make today are small,
 $E=====2179=====
 //　その積み重ねが明日を変え、
 //　いつか未来をも変えるんだ　
-  but they add up, and in
-  time the future changes.
+   but they add up, and in
+   time the future changes.
 $E=====2180=====
 //　　太陽と暗黒、2つの未来　 
-     Sun and Darkness,
-     their future...
+      Sun and Darkness,
+      their future...
 $E=====2181=====
 //　　　　明日もまた、　　　　
 // 　日は昇(のぼ)るのだから　 
-       The Sun will
-       rise tomorrow,
+        The Sun will
+        rise tomorrow,
 $E=====2182=====
 //　　　ボクは戦う・・・　　　
-      so I will fight...
+       so I will fight...
 $E=====2183=====
 //　　ボクらの太陽と共に!!　　
-     alongside our Sun!
+      alongside our Sun!
 $E=====2184=====
 <PROC=0>
 <END>
@@ -34136,13 +34136,13 @@ Witch, Carmilla...
 $E=====7879=====
 //すべてを犠牲(ぎせい)にして得
 //た力をもってしても、
-even with the power they
+even with the power I
 gained by sacrificing
 everything,
 $E=====7880=====
 //おまえには勝てなかった・・・
 //」
-they lost to you you."
+I couldn't win against you."
 $E=====7881=====
 <PROC=0>
 <END>
@@ -34150,7 +34150,7 @@ $U=====7882=====
 //<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
 //「結果的に・・・
 <LABEL=NONE>Sabata Phantom</LABEL>:
-"Consequence 的に...
+"As for the consequences...
 $E=====7883=====
 //あの戦いで2人の母をも犠牲(ぎ
 //せい)にしたおれは、
@@ -34237,7 +34237,7 @@ $E=====7899=====
 //ガンドに魂(たましい)をささげ
 //られたおれは、
 <LABEL=NONE></LABEL>Because of Ratatosk, my soul
-was given to Vanargand.
+was offered to Vanargand.
 $E=====7900=====
 //その破壊(はかい)の衝動(しょ
 //うどう)に共鳴し、おのれの狂
@@ -34321,24 +34321,24 @@ $E=====7914=====
 $E=====7915=====
 //<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
 //「ハカイ・・・
-<LABEL=NONE>Sabata's Image</LABEL>:
-"DESTRUCTION...
+<LABEL=NONE>Phantom Sabata</LABEL>:
+"DESTROY...
 $E=====7916=====
 //ハカイ・・・
-DESTRUCTION...
+DESTROY...
 $E=====7917=====
 <PROC=0>
 <END>
 $E=====7918=====
 //<LABEL=NONE></LABEL>ハカイ!!」
-<LABEL=NONE></LABEL>DESTRUCTION!"
+<LABEL=NONE></LABEL>DESTROY!"
 $E=====7919=====
 <PROC=0>
 <END>
 $E=====7920=====
 //<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
 //「ツブセ・・・
-<LABEL=NONE>Sabata's Image</LABEL>:
+<LABEL=NONE>Phantom Sabata</LABEL>:
 "SMASH...
 $E=====7921=====
 //コワセ・・・
@@ -34355,11 +34355,11 @@ $E=====7924=====
 $E=====7925=====
 //<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
 //「ハカイセヨ!
-<LABEL=NONE>Sabata's Image</LABEL>:
+<LABEL=NONE>Phantom Sabata</LABEL>:
 "DESTROY!
 $E=====7926=====
 //イキトシイケルモノ・・・
-ALL OF THEM...
+ALL OF IT...
 $E=====7927=====
 <PROC=0>
 <END>
@@ -34406,7 +34406,7 @@ $E=====7937=====
 everything...
 $E=====7938=====
 //そう、すべテヲ・・・
-yesss, evErYthInG...
+yesss, eeVEERYTHIINNg...
 $E=====7939=====
 <PROC=0>
 <END>
@@ -34468,7 +34468,7 @@ $E=====7954=====
 //市中央を目指すんだ!
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Take a detour, and head for
-the center of town!
+the center of the city!
 $E=====7955=====
 <PROC=0>
 <END>
@@ -34514,10 +34514,11 @@ $E=====7964=====
 //ざい)の根源(こんげん)である
 the origin of existence that
 surpassed life and death.
-$E=====7965=====
-//原種の欠片(かけら)をあたえら
+$U=====7965=====
+//(かけら)をあたえら
 //れ、
 He obtained a pure fragment,
+
 $E=====7966=====
 //ヴァナルガンドそのものに成り
 //変わろうとしている・・・
@@ -34616,7 +34617,7 @@ $E=====7986=====
 <END>
 $E=====7987=====
 //<LABEL=SABATA></LABEL>ヴァナルガンドと共にある!」
-<LABEL=SABATA></LABEL>Is fused with Vanargand!"
+<LABEL=SABATA></LABEL>Is connected to Vanargand!"
 $E=====7988=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「おれの中の獣(けもの)が言う
@@ -34663,13 +34664,13 @@ should be fighting!?
 $E=====7998=====
 //正気を取りもどすんだ、
 //サバタ!!」
-Regain your true self,
+Turn back into the real you,
 Sabata!"
 $E=====7999=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「正気になれ?
 <LABEL=SABATA>Sabata</LABEL>:
-"Become the real me?
+"The real me?
 $E=====8000=====
 <PROC=0>
 <END>
@@ -34685,7 +34686,7 @@ $E=====8003=====
 $E=====8004=====
 //大崩壊(ラグナロク)・・・
 //それこそがわが意思だ!!」
-My true intention...
+My true intent...
 is Ragnarok!"
 $E=====8005=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
@@ -34780,8 +34781,8 @@ $E=====8022=====
 //それは、われわれに未来をたく
 //して死んでいった者たちへの、
 //うらぎりに他ならない!!
-who have entrusted us with
-the future... that's
+those who have entrusted us
+with the future... that's
 nothing but betrayal!
 $E=====8023=====
 //そんなことをリンゴやマーニが
@@ -34819,7 +34820,7 @@ I've become the Beast of
 Destruction!?
 $E=====8030=====
 //できはしないっ!!!!　
-That's impossible!!!
+I think not!!!
 $E=====8031=====
 //すべてはもう、手後れなのだ!!
 It's too late for all that!
@@ -34920,8 +34921,8 @@ $E=====8054=====
 //おまえはなぜ、そこまで・・・
 Why do you go so far...
 $E=====8055=====
-まさかおまえは、
-このおれを・・・
+//まさかおまえは、
+//このおれを・・・
 Do you actually...
 me...
 $E=====8056=====
@@ -35012,9 +35013,9 @@ $E=====8075=====
 <LABEL=KARMIRA></LABEL>To stop that,
 the only thing I could do...
 $E=====8076=====
-ヴァナルガンドを墓石(ぼせき)
-とし、共に永遠をねむるしかな
-い・・・」
+//ヴァナルガンドを墓石(ぼせき)
+//とし、共に永遠をねむるしかな
+//い・・・」
 was to make Vanargand his
 gravestone, in eternal
 slumber together..."
@@ -35058,8 +35059,8 @@ formidable.
 $E=====8085=====
 //いつまでも、その意思にあらが
 //いつづけることはできない
-I can't stay here and subdue
-it forever.
+I can't keep opposing its
+will forever.
 $E=====8086=====
 <PROC=0>
 <END>
@@ -35067,8 +35068,7 @@ $E=====8087=====
 //<LABEL=SABATA></LABEL>もしおれがふたたび、ヴァナル
 //ガンドにくっするようなことが
 //あれば・・・
-<LABEL=SABATA></LABEL>
-If I give in to Vanargand
+<LABEL=SABATA></LABEL>If I give in to Vanargand
 again...
 $E=====8088=====
 //そのときは、おまえの手ですべ
@@ -35079,10 +35079,8 @@ $E=====8089=====
 //おまえにならそれができる
 I know you can do it.
 $U=====8090=====
-//あいつなら必ず・・・
-//そのチャンスくれる
-As for him...
-it's too late.
+あいつなら必ず・・・
+そのチャンスくれる
 $E=====8091=====
 <PROC=0>
 <END>
@@ -36493,7 +36491,7 @@ $E=====8401=====
 //<LABEL=NONE>???</LABEL>
 //「どこを見ている?
 <LABEL=NONE>???</LABEL>:
-"What are you starin' at?
+"Where are you lookin'?
 $U=====8402=====
 //行くぞ、
 //とうっ!!」
@@ -36963,7 +36961,7 @@ $E=====8504=====
 //???
 //「どこを見ている?
 <LABEL=NONE>???</LABEL>:
-"What are you starin' at?
+"Where are you lookin'?
 $U=====8505=====
 //行くぞ、
 //とうっ!!」
@@ -37299,7 +37297,7 @@ $E=====8577=====
 <END>
 $E=====8578=====
 //<LABEL=PLAYER><NAME></LABEL>
-//「明日もまた日は昇(のぼ)る!
+//「明日もまた日は昇(のぼ)る! 
 <LABEL=PLAYER><NAME></LABEL>
 "The Sun will rise tomorrow!
 $E=====8579=====
@@ -37411,7 +37409,8 @@ $E=====8605=====
 future I fought for!<LOCK=60>
 $E=====8606=====
 //もう・・・嫌(いや)だ・・・」<LOCK=45>
-No... I didn't want this..."<LOCK=45>
+No...
+I didn't want this..."<LOCK=45>
 $E=====8607=====
 <PROC=0>
 <END>
@@ -37478,7 +37477,7 @@ $E=====8621=====
 //もう少しで・・・あと少しで破
 //壊(はかい)の獣(けもの)を石化
 //することができる!<LOCK=90>
-Just a little further... and
+Just a little farther... and
 we can turn the Beast of
 Destruction to stone!<LOCK=90>
 $E=====8622=====
@@ -37489,7 +37488,8 @@ the sunlight isn't strong
 enough!<LOCK=60>
 $E=====8623=====
 //<NAME>、そのまま走って!!<LOCK=45>
-<NAME>, keep running like that!<LOCK=45>
+<NAME>, keep driving
+like that!<LOCK=45>
 $E=====8624=====
 //ヴァナルガンドを月蝕(げっし
 //ょく)の陰(かげ)の中からさそ
