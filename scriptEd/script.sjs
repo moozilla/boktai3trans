@@ -23555,7 +23555,7 @@ $E=====5585=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「またせたな!!」<LOCK=30>
 <LABEL=SABATA>Sabata</LABEL>:
-"You kept me waiting!"<LOCK=30>
+"Sorry to keep you waiting!"<LOCK=30>
 $E=====5586=====
 <PROC=0>
 <END>
@@ -23617,7 +23617,6 @@ $E=====5599=====
 //「気がついたか、<NAME>?
 <LABEL=OTENKO>???</LABEL>:
 "Are you awake, <NAME>?
-// Lit: Have you regained consciousness?
 $E=====5600=====
 //ふう・・・
 Hmm...
@@ -35957,8 +35956,8 @@ $E=====8283=====
 "Why... Carmilla!
 $E=====8284=====
 //なぜおれだけを!」
-"Why must you leave me
-alone!"
+Why must you leave me
+alone!?"
 $E=====8285=====
 <PROC=0>
 <END>
@@ -36091,7 +36090,7 @@ $E=====8312=====
 <END>
 $E=====8313=====
 //<LABEL=KARMIRA></LABEL>決して壊(こわ)せない!!」
-<LABEL=KARMIRA></LABEL>will never break!"
+<LABEL=KARMIRA></LABEL>will never falter!"
 $E=====8314=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「カーミラ・・・」
@@ -36128,7 +36127,7 @@ $E=====8321=====
 phantom of my youth!
 $E=====8322=====
 //おれはもう、ふり向きはしない
-I won't turn around yet.
+I won't turn my back on you.
 $E=====8323=====
 //生と死の輪廻(りんね)、
 //その果てで・・・
@@ -36281,7 +36280,7 @@ $E=====8354=====
 <END>
 $E=====8355=====
 //<LABEL=KARMIRA></LABEL>決して壊(こわ)せない!!」
-<LABEL=KARMIRA></LABEL>will never break!"
+<LABEL=KARMIRA></LABEL>will never falter!"
 $E=====8356=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「カーミラ・・・」
@@ -36534,7 +36533,7 @@ When I was hit by Ratatosk,
 $E=====8411=====
 //母ちゃんの形見のこの青ポンチ
 //ョがオイラを守ってくれたんだ
-this Blue Poncho, a mememnto
+this Blue Poncho, a memento
 from my mom, protected me.
 $E=====8412=====
 //ヤロウに敗れはしたが・・・
@@ -36779,7 +36778,7 @@ When I was hit by Ratatosk,
 $E=====8465=====
 //母ちゃんの形見のこの青ポンチ
 //ョがオイラを守ってくれたんだ
-this Blue Poncho, a mememnto
+this Blue Poncho, a memento
 from my mom, protected me.
 $E=====8466=====
 //ヤロウに敗れはしたが・・・
@@ -37004,7 +37003,7 @@ When I was hit by Ratatosk,
 $E=====8514=====
 //母ちゃんの形見のこの青ポンチ
 //ョがオイラを守ってくれたんだ
-this Blue Poncho, a mememnto
+this Blue Poncho, a memento
 from my mom, protected me.
 $E=====8515=====
 //ヤロウに敗れはしたが・・・
@@ -37235,7 +37234,7 @@ When I was hit by Ratatosk,
 $E=====8565=====
 //母ちゃんの形見のこの青ポンチ
 //ョがオイラを守ってくれたんだ
-this Blue Poncho, a mememnto
+this Blue Poncho, a memento
 from my mom, protected me.
 $E=====8566=====
 //ヤロウに敗れはしたが・・・
@@ -37478,12 +37477,12 @@ $E=====8621=====
 //壊(はかい)の獣(けもの)を石化
 //することができる!<LOCK=90>
 Just a little farther... and
-we can turn the Beast of
+I can turn the Beast of
 Destruction to stone!<LOCK=90>
 $E=====8622=====
 //でもそれには力が・・・
 //太陽の光が足りないの!<LOCK=60>
-But we need more power...
+But I need more power...
 the sunlight isn't strong
 enough!<LOCK=60>
 $E=====8623=====
@@ -37556,7 +37555,7 @@ $E=====8640=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「またせたな!!」<LOCK=30>
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"You kept me waiting!"<LOCK=30>
+"Sorry to keep you waiting!"<LOCK=30>
 $E=====8641=====
 <PROC=0>
 <END>
