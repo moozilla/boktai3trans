@@ -5755,35 +5755,36 @@ $E=====1734=====
 $E=====1735=====
 //[春は命芽生える季節。
 //それは死の始まり]
-[In Spring, life springs
-forth.
-That is death's beginning.]
+[Spring is the season
+of budding life, the
+beginning of death.]
 $E=====1736=====
 <PROC=0>
 <END>
 $E=====1737=====
 //[夏は命燃える季節。
 //それは死へのいざない]
-[In Summer, life burns.
-That is death's outset.]
+[Summer is the season
+of burning life, the
+introduction to death.]
 $E=====1738=====
 <PROC=0>
 <END>
 $E=====1739=====
 //[秋は命わたる季節。
 //それは死への旅立ち]
-[In Autumn, life crosses
-over. That is the departure
-toward death.]
+[Autumn is the season of
+life crossing over, the
+departure toward death.]
 $E=====1740=====
 <PROC=0>
 <END>
 $E=====1741=====
 //[冬は命こおる季節。
 //それは死のおとずれ]
-[In Winter, life freezes
-over. That is death's
-arrival.]
+[Winter is the season
+of frozen life, the
+arrival of death.]
 $E=====1742=====
 <PROC=0>
 <END>
@@ -5959,22 +5960,22 @@ $E=====1781=====
 //ラタトスク
 //「おろかな・・・!!
 Ratatosk:
-"How foolish...!
+"You fools...!
 $E=====1782=====
 //わたしだけが、ヴァナルガンド
 //をあやつれたのだ
-Vanargand will be mine alone
-to control.
+I was the one who would
+control Vanargand.
 $E=====1783=====
 //破壊(はかい)の獣(けもの)、そ
 //の恐怖(きょうふ)による世界支
 //配・・・
-I shall rule the world with
-fear, using the Beast of
-Destruction...
+I would have ruled the world
+with fear, using the Beast
+of Destruction...
 $E=====1784=====
 //それだけが・・・
-It's the only way...
+It was the only way...
 $E=====1785=====
 //傷(きず)ついたあの星を救う、
 //唯一(ゆいいつ)の手段だったの
@@ -5985,14 +5986,14 @@ Without me...
 $E=====1787=====
 //ヴァナルガンドは本能のまま、
 //世界を破壊(はかい)する
-Vanargand's instincts would
+Vanargand's instincts will
 cause it to destroy the
 world.
 $E=====1788=====
 //生者も死者もなく・・・
 //すべてがほろび去る
 The living and the dead...
-it would destroy everything.
+it will destroy everything.
 $E=====1789=====
 //生も死も与えられずただそこに
 //存在(そんざい)するもの、絶対
@@ -6020,8 +6021,8 @@ $E=====1794=====
 //はるかなる月世界・・・
 //失われた楽園、まほろばへ
 to the distant moon...
-to the splendid Lost
-Paradise.
+to the splendid lost
+paradise, Mahoroba.
 $E=====1795=====
 //そしてほろぼされるがいい
 And be destroyed,
@@ -6032,8 +6033,9 @@ by your brother Sabata's
 hands!
 $E=====1797=====
 //兄、サバタの手によって!
-He is nothing but the
-Beast of Destruction now.
+He has been reduced to
+nothing but the Beast of
+Destruction now.
 $E=====1798=====
 //ウッハッハッハッハッ!!」
 Uwah hah hah hah hah!
@@ -6479,9 +6481,9 @@ Ratatosk, crush him!
 $E=====1883=====
 //ラタトスクは分身から走る光の
 //先にかくれているぞ!!
-Ratatosk will be hiding in
-the light trail left by one
-of the clones!
+Ratatosk will be hiding at
+the end of the light trails
+coming from the clones!
 $E=====1884=====
 <PROC=0>
 <END>
@@ -15694,7 +15696,7 @@ $E=====3916=====
 "I don't get it...
 $E=====3917=====
 //うちの星読みでもわからへん
-"I don't get what's up with
+I don't get what's up with
 my Star Readin'...
 $E=====3918=====
 //月におるはずのサバタが今、ど
@@ -15706,14 +15708,15 @@ what's goin' on with him...
 $E=====3919=====
 //自らに目覚め、ヴァナルガンド
 //に抵抗(ていこう)しとるんか
-If he came to his senses and
-is resistin' Vanargand,
+Whether he came to his
+senses and is resistin'
+Vanargand,
 $E=====3920=====
 //自らをわすれ、破壊(はかい)の
 //獣(けもの)と成り果ててしまっ
 //たんか
-or if he lost himself and
-became the Beast of
+or whether he lost himself
+and became the Beast of
 Destruction.
 $E=====3921=====
 //<PROC=1><NAME>・・・
@@ -32935,8 +32938,7 @@ $E=====7612=====
 And...
 $E=====7613=====
 //におうんだよ、テメェは!
-I can smell you, you
-bastard!
+I can smell you, you creep!
 $E=====7614=====
 //ドス黒いゲス野郎(やろう)のに
 //おいがな!!」
@@ -32956,14 +32958,18 @@ $E=====7617=====
 <PROC=0>
 <END>
 $U=====7618=====
-<LABEL=TRINITY>トリニティ</LABEL>
-「なんだよ・・・そりゃあ?
+//<LABEL=TRINITY>トリニティ</LABEL>
+//「なんだよ・・・そりゃあ?
+<LABEL=TRINITY>Trinity</LABEL>:
+"What... is that it?
 $E=====7619=====
 <PROC=0>
 <END>
 $U=====7620=====
-<LABEL=TRINITY></LABEL>そんなもんじゃあ、人間さまは
-死なねぇぜ!!」
+//<LABEL=TRINITY></LABEL>そんなもんじゃあ、人間さまは
+//死なねぇぜ!!」
+<LABEL=TRINITY></LABEL>That kinda thing won't kill
+a human!"
 $E=====7621=====
 <PROC=0>
 <END>
@@ -32995,7 +33001,7 @@ $E=====7628=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //「よくもこのわたしにっ!!」
 <LABEL=RATA>Ratatosk</LABEL>:
-"How dare you... to me!"
+"How dare you... touch me!"
 $E=====7629=====
 <PROC=0>
 <END>
@@ -33003,7 +33009,7 @@ $E=====7630=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //「身のほどを知れっ!!」
 <LABEL=RATA>Ratatosk</LABEL>:
-"Know your body's limits!"
+"Know your limit!"
 $E=====7631=====
 <PROC=0>
 <END>
@@ -33109,8 +33115,8 @@ opposing me!
 $U=====7656=====
 //果てしなき異次元空間(いじげ
 //んくうかん)の中を・・・
-Wander the endless strange
-dimensional space...
+Wander the endless dark
+dimension...
 $E=====7657=====
 //未来永劫(みらいえいごう)にさ
 //まようがいい!!」
@@ -33147,19 +33153,19 @@ $E=====7664=====
 //どうしてここに!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Trinity...
-why are you here!?
+why did you come here!?
 $E=====7665=====
 //ここにはお宝(たから)などない
-There's nothing like
-treasure here.
+There's no treasure or
+anything like that here.
 $E=====7666=====
 //あるのは、闇の一族(イモータ
 //ル)の罠(わな)だけだ・・・
-The only thing here is the
+The only thing here is that
 Immortal's trap...
 $E=====7667=====
 //なぜこんな無茶をしたんだ!!」
-Don't be so unreasonable!"
+Don't be so reckless!"
 $E=====7668=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「思い出しちまったんだよ
@@ -33178,8 +33184,8 @@ of the Legendary Warrior.
 $E=====7671=====
 //でも結局、伝説の戦士を見つけ
 //ることなんてできなかった
-But we were never able to
-find him after all.
+But in the end we were never
+able to find him.
 $E=====7672=====
 //オイラたちには、未来を変える
 //ことなんてできなかったんだ
@@ -33188,18 +33194,18 @@ future.
 $E=====7673=====
 //長い旅の生活で身体の弱ってい
 //た母ちゃんは、
-My mom, her body weak after
-a life of long journeys,
+My mom had grown weak after
+a life of lengthy journeys.
 $E=====7674=====
 //ラタトスクの罠(わな)にはめら
 //れて、死んだ・・・
-got caught in one of
-Ratatosk's traps, and
+She got caught by one of
+Ratatosk's traps, and she
 died...
 $E=====7675=====
 //それでも最後に・・・
 //母ちゃんは言ったんだ
-Even so, at the very end...
+Even so, right at the end...
 she spoke.
 $E=====7676=====
 <PROC=0>
@@ -33210,8 +33216,8 @@ $E=====7677=====
 $E=====7678=====
 //わたしには、あの人を助け出す
 //ことはできなかったけれど、
-I wasn't able to help him
-out,
+I wasn't able to help out
+the Warrior,
 $E=====7679=====
 //それでも、笑うわ
 but I still smile.
@@ -33260,11 +33266,12 @@ did someone like that really
 exist?
 $E=====7689=====
 //それはオイラにもわからない
-I don't know that either.
+I don't know about that
+either.
 $E=====7690=====
 //それでもオイラは思ったんだ。
 //オメェたちに伝えなきゃあって
-But I think there was.
+But I think he did.
 I had to tell you.
 $E=====7691=====
 //ラタトスクの罠(わな)と、
@@ -33283,13 +33290,11 @@ $E=====7694=====
 $E=====7695=====
 <PROC=0>
 <END>
-$E=====7696=====
-//<LABEL=OTENKO>おてんこさま</LABEL>
-//「散々われわれのジャマをして
-//おいて・・・
-<LABEL=OTENKO>Master Otenko</LABEL>:
-"I'm terribly sorry to
-interrupt...
+$U=====7696=====
+<LABEL=OTENKO>おてんこさま</LABEL>
+「散々われわれのジャマをして
+おいて・・・
+// Trinity has just been sucked into the black hole
 $U=====7697=====
 なれないことをするんじゃない
 !!
@@ -33332,13 +33337,13 @@ be in vain!"
 $E=====7707=====
 <PROC=0>
 <END>
-$U=====7708=====
+$E=====7708=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「人形使い、ラタトスク!!
 //とうとう追いつめたぞ!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Ratatosk the Puppeteer!
-Finally 追いつめたぞ!"
+We've finally cornered you!
 $E=====7709=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //「お待ちしていましたよ。
@@ -33356,14 +33361,14 @@ boy?
 $U=====7712=====
 //人の身では決して帰ることので
 //きない、
-Never able to return to a
-human body,
-$E=====7713=====
+Without being able to return
+in a human body,
+$U=====7713=====
 //異次元空間(いじげんくうかん)
 //にでも、まよいこんだのでしょ
 //うか?
-perhaps he lost his way in
-the other dimension?
+he's probably lost in the
+dark dimension.
 $E=====7714=====
 <PROC=0>
 <END>
@@ -33382,22 +33387,24 @@ $E=====7718=====
 <PROC=0>
 <END>
 $U=====7719=====
-<LABEL=RATA>ラタトスク</LABEL>
-「おいかりのようですね?
+//<LABEL=RATA>ラタトスク</LABEL>
+//「おいかりのようですね?
+<LABEL=RATA>Ratatosk</LABEL>:
+"Such hatred!
 $E=====7720=====
 //ですがそれは、こちらとて同じ
 //こと
-But you've done the same
-thing.
-$E=====7721=====
+But then, you two are no
+different.
+$U=====7721=====
 //しょせんはよそ者である伯爵(
 //はくしゃく)はともかく・・・
 At the beginning, the
 Count...
 $E=====7722=====
 //フレスベルグにニーズホッグ、
-and furthermore, Hresvelgr
-and Nidhoggr,
+and on top of that,
+Hresvelgr and Nidhoggr,
 $E=====7723=====
 //優秀(ゆうしゅう)な手駒(てご
 //ま)を2つもうばわれたのです
@@ -33558,9 +33565,9 @@ $E=====7758=====
 //半死半生のサバタをあやつるこ
 //となど、ぞうさもないというわ
 //けです
-I can control the half-dead
-Sabata without any trouble
-at all.
+I could control the half-
+dead Sabata without any
+trouble at all.
 $E=====7759=====
 //そのかれがヴァナルガンドと1
 //つになれば・・・
@@ -33568,7 +33575,7 @@ That boy will become one
 with Vanargand...
 $E=====7760=====
 //お分かりですね?
-do you comprehend now?
+do you understand now?
 $E=====7761=====
 //その大いなる力の前には生者も
 //死者もなく、
@@ -33598,7 +33605,7 @@ $E=====7766=====
 $E=====7767=====
 //そんなことは絶対(ぜったい)に
 //させないぞ、ラタトスク!!」
-We will never allow that to
+We will never let that
 happen, Ratatosk!"
 $E=====7768=====
 <PROC=0>
@@ -33613,7 +33620,8 @@ $E=====7770=====
 <END>
 $E=====7771=====
 //<LABEL=RATA></LABEL>こまった人たちです
-<LABEL=RATA></LABEL>Bothersome people.
+<LABEL=RATA></LABEL>You people are so
+bothersome.
 $E=====7772=====
 <PROC=0>
 <END>
@@ -33829,8 +33837,8 @@ $E=====7819=====
 //サバタやトリニティが送りだし
 //てくれた・・・この道を!」
 Down the road that Sabata
-and Trinity have pushed us
-onto!"
+and Trinity have laid out
+for us!"
 $E=====7820=====
 <PROC=0>
 <END>
@@ -33883,7 +33891,7 @@ $E=====7832=====
 //ここはかつて月の一族がくらし
 //た月面都市、
 This was once the Lunar
-Children's moon city,
+Children's lunar city,
 $E=====7833=====
 //まほろばとよばれた天上の楽園
 //だ
