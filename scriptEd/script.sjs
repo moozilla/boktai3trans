@@ -20296,8 +20296,8 @@ doll of one of my friends,
 $E=====4857=====
 //‚à‚¤1‚Â‚ÍŠC‘¯(‚©‚¢‚¼‚­)‚Ì“‡
 //‚É‚ ‚é‚İ‚½‚¢‚¾‚æ!v
-and it seems to be in the
-Dark Castle!"
+and it seems to be on
+Pirate Island!"
 $E=====4858=====
 <PROC=0>
 <END>
