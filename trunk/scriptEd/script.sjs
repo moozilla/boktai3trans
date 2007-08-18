@@ -12062,7 +12062,7 @@ $E=====3213=====
 //錬金術師(れんきんじゅつし)と
 //いう意味じゃ
 is an expert at
-transfiguration.
+transmutation.
 $E=====3214=====
 //その名にはじぬ活躍(かつやく)
 //を期待しておるぞ!」
@@ -28433,9 +28433,7 @@ $U=====6622=====
 //「来たぁ!
 //来た来た来た来た来たぁ!!
 <LABEL=SABATA>Sabata</LABEL>:
-"It's here! It's here
-it's here it's here!
-// Sabata has just tapped into the Beast of Destruction's power
+"It's starting!
 $E=====6623=====
 //行くぞぉ!
 //行くぞ行くぞ行くぞ行くぞ
@@ -28958,13 +28956,13 @@ $E=====6734=====
 I am one of the Four
 Immortals, Ratatosk the
 Puppeteer."
-$U=====6735=====
+$E=====6735=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「イモータル四人衆(よにんし
 //ゅう)が今さら何の用だ!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Just what have the Four
-Immortals been up to!?"
+"Just what do you Four
+Immortals want now!?"
 $E=====6736=====
 <PROC=0>
 <END>
@@ -29004,11 +29002,11 @@ $E=====6744=====
 //おかげで手間がはぶけました
 You saved us a great deal of
 effort.
-$U=====6745=====
+$E=====6745=====
 //やはり人形には人形らしくして
 //いただくのが一番です」
-A quality puppet must be
-convincing, after all."
+A puppet works best when it
+is convincing, after all."
 $E=====6746=====
 <PROC=0>
 <END>
@@ -29111,17 +29109,17 @@ mom."
 $E=====6769=====
 <PROC=0>
 <END>
-$U=====6770=====
+$E=====6770=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「・・・もう終わりさ
 <LABEL=TRINITY>Trinity</LABEL>:
-"...it's over now.
-$U=====6771=====
+"...it's already over.
+$E=====6771=====
 //今さら何をしようと・・・
 //未来はもう、変わらない」
-Nothing we've done so
-far... the future can't be
-changed."
+Nothing we've done so far...
+There's nothing more we can
+do to change the future."
 $E=====6772=====
 <PROC=0>
 <END>
@@ -29145,11 +29143,11 @@ $E=====6776=====
 //・・・すべての答えは月にある
 ...all the answers are on
 the moon.
-$U=====6777=====
+$E=====6777=====
 //われわれも目指すしかあるまい
 We have no choice but to
 aim for it as well.
-$U=====6778=====
+$C=====6778=====
 //かつて闇の女王(クイーン)が目
 //指した、あの月を・・・」
 The moon that the former
@@ -29329,12 +29327,11 @@ $E=====6818=====
 us... Trinity?"
 $E=====6819=====
 //くれぐれも言っておくが・・・
-You sounded sincere, but...
-$U=====6820=====
+You sound sincere, but...
+$E=====6820=====
 //われわれの足だけは引っぱるな
 //よ?」
-we're the only ones who
-actually have to go."
+you'll just slow us down."
 $E=====6821=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「オメェらは魔砲(まほう)とや
@@ -29379,15 +29376,15 @@ broken, but my iron pipe
 ain't enough to open it up.
 $E=====6831=====
 //オメェなんか持ってねぇか?
-You ain't got anythin' like
-that?
-$U=====6832=====
+You ain't got anythin' we
+could use, do ya?
+$E=====6832=====
 //ドカンと一発、この壁(かべ)を
 //ふっ飛ばせるようなヤツをよぉ
 //」
-With an earthen pipe, bet
-you could take it out in a
-single hit."
+Somethin' that'd be all like
+BOOM! and bust down the wall
+in one hit..."
 $E=====6833=====
 <PROC=0>
 <END>
@@ -29636,10 +29633,10 @@ $E=====6886=====
 but the man who made the
 Coffin Bike could probably
 find a use for them.
-$U=====6887=====
+$E=====6887=====
 //一度サン・ミゲルにもどってみ
 //るのも手だな」
-Take them back to San
+Try taking them back to San
 Miguel."
 $E=====6888=====
 <PROC=0>
@@ -30638,15 +30635,16 @@ He said it's magic?
 $E=====7118=====
 //くわしいことは、わたしにも分
 //らない・・・
-I don't know how accurate
-that is...
+I don't know the details...
 $E=====7119=====
 <PROC=0>
 <END>
-$U=====7120=====
-<LABEL=OTENKO></LABEL>だが、それがヴァナルガンドへ
-の足がかりであることはまちが
-いない」
+$E=====7120=====
+//<LABEL=OTENKO></LABEL>だが、それがヴァナルガンドへ
+//の足がかりであることはまちが
+//いない」
+<LABEL=OTENKO></LABEL>But it's definitely our
+ticket to Vanargand."
 $E=====7121=====
 <PROC=0>
 <END>
@@ -30705,9 +30703,12 @@ $E=====7132=====
 //態度(たいど)かよ!
 Your master doesn't approve
 of that attitude!
-$U=====7133=====
-もうお宝(たから)を見つけても
-分けてやらねぇぞ!!」
+$E=====7133=====
+//もうお宝(たから)を見つけても
+//分けてやらねぇぞ!!」
+That's it, I'm not splitting
+my treasure with you
+anymore!"
 $E=====7134=====
 <PROC=0>
 <END>
@@ -30853,7 +30854,7 @@ $E=====7163=====
 <END>
 $E=====7164=====
 //<LABEL=KARMIRA></LABEL>太陽少年<NAME>・・・
-<LABEL=KARMIRA></LABEL>Solay Boy <NAME>...
+<LABEL=KARMIRA></LABEL>Solar Boy <NAME>...
 $U=====7165=====
 //あなたにも、あなたにしかでき
 //ないことがある
@@ -31021,12 +31022,12 @@ $E=====7202=====
 //「ぬぬぬぬぬ・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Oh dear...
-$U=====7203=====
+$E=====7203=====
 //われわれの足を引っぱるなと、
 //あれほど注意しておいたのに!
-you can't drag your feet, or
-something like that might
-happen again!
+when I said you'd slow us
+down, this is what I was
+talking about!
 $E=====7204=====
 //<NAME>・・・
 <NAME>...
