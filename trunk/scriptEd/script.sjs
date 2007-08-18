@@ -1,4 +1,3 @@
-3213 Transfiguration
 $E=====0=====
 //「<EXTEND=0>のカギ」
 //を使った!!
@@ -3794,33 +3793,50 @@ $E=====1329=====
 //=    ソル借ります。
    Soll × (1+interest: )
 =   Soll owed.
-$C=====1330=====
-返済は<VAR=0>日後、太陽バンクから
-の<WEIGHT>自動引き落し</WEIGHT>となります。
-$C=====1331=====
-限度ソルを超えるので、
-これ以上お貸しできません。
+$E=====1330=====
+//返済は<VAR=0>日後、太陽バンクから
+//の<WEIGHT>自動引き落し</WEIGHT>となります。
+The repaymwent will be
+<WEIGHT>automatically deducted</WEIGHT> from
+the Solar Bank in <VAR=0> days.
+$E=====1331=====
+//限度ソルを超えるので、
+//これ以上お貸しできません。
+If you exceed the Soll
+limit, you won't be able to
+borrow any more.
 $E=====1332=====
 //ご利用内容を選択してください
 Please select one of the
 following services.
-$C=====1333=====
-暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りて
-やり直しますか?
-$C=====1334=====
-今度はきちんと返済してくださ
-いね、<NAME>さん。
-$C=====1335=====
-本当に大丈夫なんですか?
-<NAME>さん・・・
-$C=====1336=====
-本当に好きなんですね?
-走るの・・・
-$C=====1337=====
-<NAME>さん・・・
-$C=====1338=====
-現在、<NAME>さまは
-ご利用になれません。
+$E=====1333=====
+//暗黒ローンに<WEIGHT><VAR=0>ソル</WEIGHT>借りて
+//やり直しますか?
+Borrow <WEIGHT><VAR=0> Soll</WEIGHT> from Dark
+Loans to continue?
+$E=====1334=====
+//今度はきちんと返済してくださ
+//いね、<NAME>さん。
+Please have the exact
+payment ready this time,
+<NAME>.
+$E=====1335=====
+//本当に大丈夫なんですか?
+//<NAME>さん・・・
+Is it really ok?
+<NAME>...
+$E=====1336=====
+//本当に好きなんですね?
+//走るの・・・
+Do you really enjoy running?
+$E=====1337=====
+//<NAME>さん・・・
+<NAME>...
+$E=====1338=====
+//現在、<NAME>さまは
+//ご利用になれません。
+<NAME>, you mustn't get
+too accustomed to this.
 $E=====1339=====
 <END>
 $E=====1340=====
@@ -5889,12 +5905,11 @@ $E=====1765=====
 Fight, <NAME>...
 $E=====1766=====
 //戦って戦って戦いぬいて・・・
-fight on until the end...
+Fight on until the end...
 $E=====1767=====
 //その先に何が待っていようとも
 //・・・決してあきらめるな!
-everything else can wait
-until then.
+Everything else can wait.
 ...never give up!
 $E=====1768=====
 //あきらめないその心こそが、
@@ -7209,8 +7224,8 @@ $E=====2040=====
 //「・・・<NAME>さん、
 //アナタわざとやってますね?
 <LABEL>Doomy of Dark Loans</LABEL>:
-"....<NAME>, are you doing
-this on purpose?
+"...<NAME>, are you
+doing this on purpose?
 $E=====2041=====
 //そんなに、ワタシにおしおきさ
 //れたいんですか?
@@ -7235,7 +7250,8 @@ So...
 $E=====2045=====
 //さようなら、<NAME>さん!!」
 //<PROC=1>
-this is goodbye, <NAME>!"
+this is goodbye,
+<NAME>!"
 <PROC=1>
 $E=====2046=====
 //<LABEL=PLAYER><NAME></LABEL>
@@ -9267,9 +9283,6 @@ A self-styled Treasure Hunter who claims to be descended from the Legendary Warr
 $E=====2598=====
 //石化能力(せきかのうりょく)「死せる風」をあやつる「嘆(なげ)きの魔女」。人として生まれ、闇の一族(イモータル)としてその命を散らしたが、死してなお、サバタを見守り続ける幻影(げんえい)の少女。
 The Crying Witch who controls the petrifying Deadly Wind. Born as a human, her soul was scattered when she became an Immortal. But even in death, she continues to watch over Sabata as a phantom girl.
-ちょうじん
-ごろごろ
-ごろごろ
 $E=====2599=====
 //道具屋の少女。太陽樹(たいようじゅ)を守る大地の巫女(みこ)であり、太陽の果実を育てることができる。<NAME>をしたう一途(いちず)な少女だが、徒手空拳(としゅくうけん)において彼女の右に出る者はいない。
 The girl from the Item Shop. As the Earthly Maiden who protects the Solar Tree, she can grow Solar Fruit. She completely adores <NAME>, but her bare-fisted fighting skill is unmatched.
@@ -9287,7 +9300,7 @@ $U=====2603=====
 A black kitten. Violet's adventuring friend. In reality, he is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
 $U=====2604=====
 //アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
-The boy from the Accessory Shop. In the absense of the owner, Item Master, he operates the store when the mood hits. The truth is, he does it out of a sense of duty to the Afro Master human interest group.
+The boy from the Accessory Shop. In the absense of the owner, Item Master, he operates the store when the mood hits. The truth is, he only does it out of a sense of duty to the Afro Master human interest group.
 $E=====2605=====
 //武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
 The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. He still hasn't told Kid about the death of the Ice Warrior, Item Master.
@@ -9299,7 +9312,7 @@ $E=====2607=====
 A man who lost himself from the shock of losing his loved one. Attached to coffins, he has finally created the ultimate coffin "Vector Coffin" and "Coffin Bike". Just what is his connection to Coach...?
 $E=====2608=====
 //棺桶獣(かんおけじゅう)エレファンと共に、突如(とつじょ)としてあらわれた鬼(おに)コーチ。なぜか棺桶(かんおけ)バイクのすべてを知りつくしており、執拗(しつよう)に<NAME>をしごき上げる。棺桶屋(かんおけや)との関係は・・・?
-A devilish coach who suddenly appeared along with the Coffin Monster, Elefan. He somehow knows all there is to know about the Coffin Bike, and puts <NAME> through intense training. Just what is his connection to the Coffin Shopkeeper...?
+A merciless coach who suddenly appeared along with the Coffin Monster, Elefan. He somehow knows all there is to know about the Coffin Bike, and puts <NAME> through intense training. Just what is his connection to the Coffin Shopkeeper...?
 $E=====2609=====
 //時計塔(とけいとう)の管理人。人付き合いが苦手で、口は悪いが、おこっているわけではないようだ。
 The clocktower's manager. He's not very friendly and speaks harshly, but he doesn't actually seem to be angry.
@@ -9320,13 +9333,13 @@ $E=====2614=====
 One of the Four Immortals. A mad scientist who built an iron army and operates a giant iron dragon. Doesn't get along with Hresvelgr, who thinks of nothing but his appetite.
 $E=====2615=====
 //イモータル四人衆(よにんしゅう)の1人。破壊(はかい)の獣(けもの)の恐怖(きょうふ)による世界支配(せかいしはい)をもくろみ、サバタや他の闇の一族(イモータル)を利用する。物理的にも精神的(せいしんてき)にも、他者をあやつる能力(のうりょく)に長けている。
-One of the Four Immortals. He is manipulating Sabata and the other Immortals in a plot to rule the world through fear of the Beast of Destruction. He is skilled at controls others both physically and mentally.
+One of the Four Immortals. He is manipulating Sabata and the other Immortals in a plot to rule the world through fear of the Beast of Destruction. He is skilled at controlling others both physically and mentally.
 $E=====2616=====
 //異世界からの来訪者(らいほうしゃ)。記憶(きおく)がないという自らの状況(じょうきょう)を楽しんでいる。単独潜入任務(たんどくせんにゅうにんむ)を得意とするが、女性にはだまされやすい・・・らしい。
 A visitor from another world. A man with no memories, he is enjoying himself while unaware of his circumstances. Proud of his solo infiltration missions, he is easily deceived by women... apparently.
 $E=====2617=====
 //異世界からの来訪者(らいほうしゃ)。真面目な性格(せいかく)のネットナビ。闇(やみ)のネットナビ「シェードマン」を追って世紀末世界にあらわれた。共に戦った<NAME>とは、固い友情(ゆうじょう)で結ばれている。
-A visitor from another world. A NetNavi with a genuine personality. The Dark NetNavi, ShadeMan, later appeared in this world. Fighting him alongside <NAME>, the two developed a strong bond of friendship.
+A visitor from another world. A NetNavi with a genuine personality. The Dark NetNavi, ShadeMan, later appeared in this world. Fighting him alongside <NAME>, the two boys developed a strong bond of friendship.
 $E=====2618=====
 //異世界からの来訪者(らいほうしゃ)。「ガリガリ君ソーダ」さえあれば、どんな魔物(モンスター)もヘッチャラ!!・・・らしい。ピンチになると「シャリシャリ君」に変身!!・・・するらしいが、そのすがたを見た者はいない。
 A visitor from another world. As long as he has GariGari Soda, he'll stay cool! ...apparently. Transforms into ShariShari-kun when in danger! ...or so it seems, but that form has never been seen.
@@ -9718,7 +9731,7 @@ $E=====2751=====
 //<LABEL=SHAIAN>長髪(ちょうはつ)の男</LABEL>
 //「思い出したか、<NAME>?
 <LABEL=SHAIAN>Long-Haired Man</LABEL>:
-"Did you remember,
+"Have you remembered,
 <NAME>?
 $E=====2752=====
 //わたしは風の戦士、シャイアン
@@ -9791,7 +9804,7 @@ else I can give you.
 $E=====2765=====
 //ともあれ、これを受け取ってく
 //れ!」
-Anyhow, take it!"
+In any case, take it!"
 $E=====2766=====
 <PROC=0>
 <END>
@@ -10856,7 +10869,7 @@ $E=====2982=====
 //<NAME>さまも・・・
 //そう信じておいででしょう?」
 Don't you believe in him
-too, Master <NAME>?
+too, Master <NAME>?"
 $E=====2983=====
 <PROC=9>
 <PROC=0>
@@ -10974,7 +10987,7 @@ rare items,
 $E=====3004=====
 //きっと、<NAME>さまの冒険(ぼうけん)にも役立ちますわ」
 which will surely aid you on
-your adventure."
+your quest."
 $E=====3005=====
 <PROC=0>
 <END>
@@ -11166,12 +11179,12 @@ $E=====3042=====
 //月の巫女(月下美人)のマーニさ
 //ま・・・
 //<NAME>さまのお母さまの、
-The Moon Beauty, Mani,
-Master <NAME>'s mother...
+Moon Beauty Mani, Master
+<NAME>'s mother...
 $E=====3043=====
 //その祖先(そせん)である月の一
 //族がくらしたという月面の都市
-The Lunar Family, your
+The Lunar Children, your
 ancestors, lived in a city
 on the moon's surface.
 $E=====3044=====
@@ -12974,8 +12987,7 @@ $E=====3390=====
 //「よくやったな、
 //<NAME>・・・
 <LABEL=COACH>Coach</LABEL>:
-"Well done,
-<NAME>...
+"Well done, <NAME>...
 $E=====3391=====
 //すべてのコースでランクSを取
 //るとは・・・
@@ -13784,8 +13796,8 @@ time, <NAME>.
 $E=====3551=====
 //追憶(ついおく)の書の封印(ふ
 //ういん)をといたの
-I've broken the seal on the
-record book.
+I've just broken the seal on
+the record book.
 $E=====3552=====
 //カウンターの横、東側の本棚(
 //ほんだな)よ
@@ -13803,7 +13815,7 @@ $E=====3555=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-It seems you took out a
+Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3556=====
 //グール+の賞品は、レアアイテ
@@ -13840,7 +13852,7 @@ $E=====3563=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-It seems you took out a
+Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3564=====
 //ゴーレム+の賞品は、400ソル相
@@ -13859,7 +13871,7 @@ $E=====3567=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-It seems you took out a
+Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3568=====
 //ハウンド+の賞品は、500ソル相
@@ -13879,7 +13891,7 @@ $E=====3571=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-It seems you took out a
+Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3572=====
 //ヴォーン+の賞品は、600ソル相
@@ -13899,7 +13911,7 @@ $E=====3575=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-It seems you took out a
+Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3576=====
 //スケルトン+の賞品は、600ソル
@@ -13969,8 +13981,8 @@ $E=====3588=====
 //「あら、<NAME>くん。
 //やる気満々ね!!
 <LABEL=LADY>Lady</LABEL>:
-"My, <NAME>, you're looking
-full of energy!
+"My, <NAME>, you're
+looking very motivated!
 $E=====3589=====
 //それじゃあ、仕事について説明
 //するわね?
@@ -15014,7 +15026,8 @@ among those mountains.
 $E=====3788=====
 //あいつのこと・・・
 //たのむで、<NAME>?」
-Please save him, <NAME>."
+Please...
+save him, <NAME>."
 $E=====3789=====
 <PROC=0>
 <END>
@@ -15082,7 +15095,8 @@ up there.
 $E=====3801=====
 //あいつのこと・・・
 //たのんだで、<NAME>?」
-Please save him, <NAME>!"
+Please...
+save him, <NAME>!"
 $E=====3802=====
 <PROC=0>
 <END>
@@ -15378,7 +15392,8 @@ sunlight and water.
 $E=====3858=====
 //それはあんたがトランス(変身)
 //したダーク<NAME>も同じや
-Yer Trance, Black <NAME>,
+Yer Trance,
+Black <NAME>,
 is no different.
 $E=====3859=====
 //太陽ゲージの値が低いほど攻撃
@@ -16512,7 +16527,8 @@ without storing them in the
 Warehouse.
 $E=====4090=====
 //おにいちゃん、しってる?」
-Do you know how, <NAME>?
+Do you know how,
+<NAME>?"
 $E=====4091=====
 <PROC=0>
 <END>
@@ -16771,7 +16787,8 @@ $E=====4144=====
 $E=====4145=====
 //<NAME>くん・・・
 //君の持っているそれは!?」
-<NAME>... what's that you're
+<NAME>...
+what's that you're
 holding!?"
 $E=====4146=====
 <PROC=0>
@@ -17422,7 +17439,7 @@ a good idea of what each
 place can do for you.
 $E=====4280=====
 //いいな、<NAME>」
-Okay, <NAME>?
+Got it, <NAME>?"
 $E=====4281=====
 <PROC=0>
 <END>
@@ -17714,7 +17731,7 @@ $E=====4337=====
 //るのか?」
 <NAME>...
 have you made up your mind
-yet?
+yet?"
 $E=====4338=====
 <PROC=0>
 <END>
@@ -17777,8 +17794,9 @@ $E=====4349=====
 //ダークジャンゴでは、ダークフ
 //ァングによるライフの回復(か
 //いふく)が可能(かのう)だ」
-and as Dark <NAME> you can
-absorb Life with Dark Fang."
+and as Dark <NAME> you
+can absorb Life with Dark
+Fang."
 $E=====4350=====
 <PROC=0>
 <END>
@@ -18238,7 +18256,7 @@ $E=====4437=====
 //<LABEL=PEOPLE2>???(ハテナ)</LABEL>
 //「いいか、少年
 <LABEL=PEOPLE2>???</LABEL>:
-"Listen up, <NAME>.
+"Listen up, boy.
 $E=====4438=====
 //グールやマミーのようなアンデ
 //ッドタイプの魔物(モンスター)
@@ -19768,7 +19786,7 @@ you feel courageous!
 $E=====4751=====
 <PROC=0>
 <END>
-$E=====4752=====
+$U=====4752=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「やあ、<NAME>くん!!
 //よくここがわかったね!
@@ -21457,10 +21475,11 @@ $E=====5118=====
 //???
 //「ううん・・・
 ???:
-"Yeah...
+"Yeah right...
 $E=====5119=====
 //女王さまとおよび!!」
-And the Queen, too!!"
+And I bet the Queen's with
+him too!"
 $E=====5120=====
 //???
 //「・・・
@@ -21471,8 +21490,9 @@ $E=====5121=====
 Stop daydreaming, sheesh!
 $E=====5122=====
 //アナタがお熱の<NAME>さまがいらしたのよ!!」
-That <NAME> you're so
-enamored with has arrived!"
+That Master <NAME>
+you're so hot for has
+arrived!"
 $E=====5123=====
 //???
 //「ふぇ!?
@@ -21482,14 +21502,14 @@ $E=====5124=====
 //わわわ、
 //どうしよう陽子ちゃん!!」
 Ack!
-What should we do, Luxana!?"
+What should I do, Luxana!?"
 $E=====5125=====
 //???
 //「しっかりなさい!
 //さあ、お仕事よ!!」
 ???:
 "Get a hold of yourself!
-Let's get to work!!"
+Let's get to work!"
 $E=====5126=====
 //<PROC=2><LABEL=NONE>???</LABEL>
 //「<PROC=8><LOCK=48>いらっしゃいませ!!
@@ -23019,7 +23039,8 @@ No, it's...
 $E=====5468=====
 //月の一族による封印(ふういん)
 //か?
-sealed by the Lunar Family.
+sealed by the Lunar
+Children.
 $E=====5469=====
 //だとすれば、なみの怪物(かい
 //ぶつ)ではあるまいが・・・」
@@ -23037,8 +23058,8 @@ $E=====5472=====
 //おれの身体に流れる月の血が、
 //月の一族が警告(けいこく)して
 //いる!?」
-my Lunar blood, trying to
-warn me!"
+my Lunar Child blood, 
+warning me!"
 $E=====5473=====
 <PROC=0>
 <END>
@@ -23081,8 +23102,8 @@ $E=====5481=====
 //「クッ、
 //まさかこいつは・・・」
 <LABEL=SABATA>Boy in Black</LABEL>:
-"Geh, what is this
-thing...?"
+"Geh, don't tell me this
+thing is...?"
 $E=====5482=====
 <PROC=0>
 <END>
@@ -23524,7 +23545,7 @@ $E=====5577=====
 //<LABEL=PLAYER><NAME></LABEL>
 //「あと少し・・・!!」<LOCK=30>
 <LABEL=PLAYER><NAME></LABEL>:
-"Just a little more...!"<LOCK=30>
+"Just a little farther...!"<LOCK=30>
 $E=====5578=====
 <PROC=0>
 <END>
@@ -23533,7 +23554,7 @@ $E=====5579=====
 //「くっ・・・
 //ここまで来て!<LOCK=45>
 <LABEL=PLAYER><NAME></LABEL>:
-"Khh...
+"Tch...
 I came this far!<LOCK=45>
 $E=====5580=====
 <PROC=0>
@@ -23600,7 +23621,8 @@ $E=====5594=====
 //<NAME>・・・
 <NAME>...
 $E=====5595=====
-<NAME>!!
+//<NAME>!!
+<NAME>!
 $E=====5596=====
 //死ぬんじゃない!
 Don't die!
@@ -23617,7 +23639,7 @@ $E=====5599=====
 //「気がついたか、<NAME>?
 <LABEL=OTENKO>???</LABEL>:
 "Are you awake, <NAME>?
-$E=====5600=====
+$E=====5600=====`
 //ふう・・・
 Hmm...
 $E=====5601=====
@@ -24826,7 +24848,7 @@ before...
 $E=====5851=====
 //まぁいい、コイツはオメェにゆ
 //ずってやるよ
-oh, nevermind. I'll let you
+Oh, nevermind. I'll let you
 have this one.
 $E=====5852=====
 //なぁに、これからは師匠(しし
@@ -25530,7 +25552,8 @@ if you knew?
 $E=====5997=====
 //覚悟(かくご)はできたのか、
 //<NAME>?
-Are you prepared, <NAME>?
+Are you prepared,
+<NAME>?
 $E=====5998=====
 //兄をたおす覚悟(かくご)は?」
 Prepared to kill your
@@ -26192,8 +26215,8 @@ $U=====6140=====
 //あの大砲(たいほう)はおろか、
 //例のお城(しろ)だって動かせる
 //よ
-Not to mention that cannon,
-it could even move a castle.
+That cannon is foolish, we
+could use any old castle.
 $E=====6141=====
 //そんなことより伯爵(はくしゃ
 //く)、
@@ -26317,8 +26340,8 @@ $U=====6164=====
 //「手を焼いた獲物(えもの)ほど
 //食べがいがあるってものさ
 <LABEL=FRES>Hresvelgr</LABEL>:
-(something about difficult
-prey being better?)
+"The more difficult the
+prey, the tastier it is.
 // 食べがい?
 $E=====6165=====
 <PROC=0>
@@ -26538,7 +26561,7 @@ $E=====6211=====
 $U=====6212=====
 //そんなあまい考えじゃあ、これ
 //から先・・・
-If I had such naive ideas,
+If I thought so naively,
 from now on...
 $E=====6213=====
 <PROC=0>
@@ -26812,11 +26835,11 @@ $E=====6274=====
 //それでこそわが好敵手(ライバ
 //ル)!!
 Worthy of my rival!
-$U=====6275=====
+$E=====6275=====
 //フレスベルグからいただいたエ
 //ナジー・・・
-The energy you received from
-Hresvelgr...
+The energy I received from
+Hresvelgr,
 $E=====6276=====
 //古(いにしえ)の大樹(たいじゅ)
 //から採取(さいしゅ)された、
@@ -26826,12 +26849,12 @@ $E=====6277=====
 //高純度(こうじゅんど)のエナジ
 //ーにより、われは大いなる力を
 //得た!!
-I've obtained a power even
-stronger than that!
+It has given me great power!
 $E=====6278=====
 //もはや今までのようには行かん
 //ぞ?
-Shall we begin now?
+Things won't go like they
+have up until now.
 $E=====6279=====
 //さあ、観客も待っている・・・
 Come, your audience is
@@ -27184,7 +27207,7 @@ $E=====6350=====
 //いじゅ)が目覚めたのか!
 The Ancient Tree can't
 possibly have awakened!
-$U=====6351=====
+$E=====6351=====
 //・・・むっ!?」＋＋
 ...huh!?"＋＋
 $E=====6352=====
@@ -27341,7 +27364,7 @@ $U=====6387=====
 Just like me, he only truly
 lives when he's in the midst
 of battle...
-$U=====6388=====
+$E=====6388=====
 //その意味するところをな!
 it's what gives him meaning!
 $E=====6389=====
@@ -27827,18 +27850,19 @@ $E=====6494=====
 //「お願いです!
 //もうおやめください!!
 <LABEL=KARMIRA>Carmilla</LABEL>:
-"I beg of you! Please stop!
-$U=====6495=====
+"I beg of you!
+Please give it up!
+$E=====6495=====
 //こんなことはいずれ闇の女王(
 //クイーン)に知れてしまいます
 //・・・
-The Queen knows all about
-that kind of thing...
-$U=====6496=====
+The Queen will find out
+about this kind of thing...
+$E=====6496=====
 //おそろしき銀河意思(ダーク)に
 //も・・・」
-about that dreadful Dark
-Matter, too..."
+that terrible Dark will find
+out too..."
 $E=====6497=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「すまない、カーミラ
@@ -27867,10 +27891,10 @@ $E=====6502=====
 //ル)・・・
 <LABEL=KARMIRA>Carmilla</LABEL>:
 "I am an Immortal...
-$U=====6503=====
+$E=====6503=====
 //命などはじめから・・・」
 I never had such a thing..."
-$U=====6504=====
+$E=====6504=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「おれが知らないとでも?
 <LABEL=SABATA>Sabata</LABEL>:
@@ -27976,18 +28000,19 @@ $E=====6529=====
 //「お願いです!
 //もうおやめください!!
 <LABEL=KARMIRA>Carmilla</LABEL>:
-"I beg of you! Please stop!
-$U=====6530=====
+"I beg of you!
+Please give it up!
+$E=====6530=====
 //こんなことはいずれ闇の女王(
 //クイーン)に知れてしまいます
 //・・・
-The Queen knows all about
-that kind of thing...
-$U=====6531=====
+The Queen will find out
+about this kind of thing...
+$E=====6531=====
 //おそろしき銀河意思(ダーク)に
 //も・・・」
-about that dreadful Dark
-Matter, too..."
+that terrible Dark will find
+out too..."
 $E=====6532=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「すまない、カーミラ
@@ -28220,8 +28245,8 @@ $E=====6582=====
 //「太陽の使者、おてんこ。
 //そして太陽少年<NAME>
 <LABEL=SABATA>Sabata</LABEL>:
-"Messenger of the Sun,
-Otenko. Solar Boy <NAME>.
+"Solar Messenger, Otenko.
+Solar Boy <NAME>.
 $E=====6583=====
 //伯爵(はくしゃく)とフレスベル
 //グをたおしたのは、やはりおま
@@ -28410,6 +28435,7 @@ $U=====6622=====
 <LABEL=SABATA>Sabata</LABEL>:
 "It's here! It's here
 it's here it's here!
+// Sabata has just tapped into the Beast of Destruction's power
 $E=====6623=====
 //行くぞぉ!
 //行くぞ行くぞ行くぞ行くぞ
@@ -28417,7 +28443,7 @@ $E=====6623=====
 Let's go! Let's go
 let's go let's go!
 Let's go, <NAME>!
-$U=====6624=====
+$E=====6624=====
 //太陽と暗黒、今ふたたび雌雄(
 //しゆう)を決す!!
 Sun and Darkness, once again
@@ -28538,16 +28564,16 @@ $E=====6647=====
 //物質(ダークマター)を使って
 using the Dark Matter
 that corrupts my body.
-$U=====6648=====
+$E=====6648=====
 //そして2つ目のカギは・・・
 //この、大地にある」
 As for the second key...
-it's this, the ground."
+it's this, the earth."
 $E=====6649=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「大地が・・・カギ?」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"The ground is... a key?"
+"The earth is... a key?"
 $E=====6650=====
 <PROC=0>
 <END>
@@ -28702,13 +28728,11 @@ $E=====6683=====
 Fight, <NAME>...
 $E=====6684=====
 //戦って戦って戦いぬいて・・・
-Fight, fight,
-fight to the end...
+Fight on until the end...
 $E=====6685=====
 //その先に何が待っていようとも
 //・・・決してあきらめるな!
-everything else can wait
-until then.
+Everything else can wait.
 ...never give up!
 $E=====6686=====
 //あきらめないその心こそが、
@@ -28770,8 +28794,8 @@ $E=====6699=====
 $U=====6700=====
 //<LABEL=TRINITY></LABEL>そんなやつを助けるなんてこと
 //できるわきゃあねぇよな」
-<LABEL=TRINITY></LABEL>Dunno if that kinda person
-can be saved, huh."
+<LABEL=TRINITY></LABEL>There's no way to save a guy
+like that, huh?"
 $E=====6701=====
 <PROC=0>
 <END>
@@ -28870,14 +28894,15 @@ $E=====6721=====
 For food and shelter, other
 plants and animals must be
 sacrificed.
-$U=====6722=====
+$E=====6722=====
 //それどころか・・・
-On the contrary...
+On the contrary, not just
+others...
 $E=====6723=====
 //同じ人間同士でさえ、いがみ合
 //い殺し合う
 even among those of the same
-species, they argue and
+species, they quarrel and
 murder each other.
 $E=====6724=====
 //哀(かな)しき生命種・・・
@@ -28886,7 +28911,7 @@ What a miserable species...
 unforgivable creatures.
 $E=====6725=====
 //・・・それが人間です」
-...such is humankind."
+...Such is humankind."
 $E=====6726=====
 <PROC=0>
 <END>
@@ -28894,7 +28919,7 @@ $E=====6727=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //(まさか・・・こいつは!?)
 <LABEL=TRINITY>Trinity</LABEL>:
-(No way... that's...!?)
+(No way... it's him...!?)
 $U=====6728=====
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //「とうとう実の兄を手にかけて
@@ -32066,8 +32091,9 @@ $E=====7429=====
 //<NAME>、
 //上層部(じょうそうぶ)、王の間
 //を目指すんだ
-Head for the top, <NAME>,
-to the throne room.
+Head for the top,
+<NAME>, to the throne
+room.
 $E=====7430=====
 //おそらくラタトスクはそこにい
 //る
@@ -32306,7 +32332,8 @@ $E=====7481=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「知ってるか、<NAME>?」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Do you know him, <NAME>?"
+"Do you know him,
+<NAME>?"
 $E=====7482=====
 <PROC=0>
 <END>
@@ -33348,8 +33375,8 @@ $E=====7709=====
 //「お待ちしていましたよ。
 //おてんこさまに<NAME>さん
 <LABEL=RATA>Ratatosk</LABEL>:
-"I've been waiting.
-Master Otenko and <NAME>.
+"I've been waiting, Master
+Otenko and <NAME>.
 $E=====7710=====
 //おや?
 Hmm?
@@ -34398,8 +34425,7 @@ $E=====7935=====
 Fight, <NAME>...
 $E=====7936=====
 //戦って戦って戦いぬいて・・・
-Fight, fight,
-fight to the end...
+Fight on until the end...
 $E=====7937=====
 //すべてを・・・
 everything...
@@ -37297,7 +37323,7 @@ $E=====8577=====
 $E=====8578=====
 //<LABEL=PLAYER><NAME></LABEL>
 //「明日もまた日は昇(のぼ)る! 
-<LABEL=PLAYER><NAME></LABEL>
+<LABEL=PLAYER><NAME></LABEL>:
 "The Sun will rise tomorrow!
 $E=====8579=====
 //でも・・・
@@ -37446,13 +37472,11 @@ $E=====8614=====
 "Fight, <NAME>...<LOCK=30>
 $E=====8615=====
 //戦って戦って戦いぬいて・・・<LOCK=45>
-Fight, fight,
-fight to the end...<LOCK=45>
+Fight on until the end...<LOCK=45>
 $E=====8616=====
 //その先に何が待っていようとも
 //・・・決してあきらめるな!<LOCK=60>
-everything else can wait
-until then.
+Everything else can wait.
 ...never give up!<LOCK=60>
 $E=====8617=====
 //あきらめないその心こそが、<LOCK=45>
@@ -37599,7 +37623,7 @@ $E=====8649=====
 //われは黒騎士(くろきし)。
 //戦いと死の神、その使いなり
 I am the Black Knight,
-messenger for the God
+messenger of the God
 of War and Death.
 $E=====8650=====
 //人の身でありながら数々の闇(
@@ -38088,11 +38112,12 @@ $E=====8744=====
 You can then press the
 <WEIGHT>{＋}Control Pad</WEIGHT> to one side to
 sidle in that direction.
-$U=====8745=====
+$E=====8745=====
 //わすれずにマスターしておけよ
 //<NAME>?」
-Make sure to master this
-technique. Okay, <NAME>?
+Master this technique and
+make sure not to forget it.
+Okay, <NAME>?"
 $E=====8746=====
 <PROC=0>
 <END>
@@ -39054,8 +39079,8 @@ $E=====8933=====
 //おさえていたはずのヴァンパイ
 //アの血が、目覚めてしまったか
 //・・・
-looks like it ended up
-reawakening...
+it seems to have
+reawakened...
 $E=====8934=====
 //だがその力をどう使うかは、お
 //まえしだいだ
@@ -39527,13 +39552,14 @@ Also, because the Earth lens
 contains the power of earth,
 $E=====9032=====
 //植物を元気にする効果もあるぞ
-it's good at making
-vegetation grow.
+it's good at making plants
+grow.
 $E=====9033=====
 //植物といえば・・・
 //わかるな、<NAME>?」
-Speaking of vegetation...
-you understand, <NAME>?"
+Speaking of plants... you
+know what to do, right,
+<NAME>?"
 $E=====9034=====
 <PROC=0>
 <END>
