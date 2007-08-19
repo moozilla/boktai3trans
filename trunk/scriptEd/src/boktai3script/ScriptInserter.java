@@ -11,16 +11,18 @@ public class ScriptInserter {
    HashMap codeMap;
    PointerTable ptrTable;
    ScriptMetadata mData;
+   ProtectedZones protectedZones;
    
    public ScriptInserter () {
       lines = new ArrayList();
       codeMap = new HashMap(1999);
       ptrTable = new PointerTable();
       mData = new ScriptMetadata();
+      protectedZones = new ProtectedZones();
       buildCodeMap("chartable.sjs.tbl");
    }
    
-   byte[] toByteArray(Byte[] a) {
+   private byte[] toByteArray(Byte[] a) {
       int len = a.length;
       byte[] b = new byte[len];
       for (int i = 0; i < len; i++) {
@@ -29,9 +31,8 @@ public class ScriptInserter {
       return b;
    }
    
-   void writeToFile(String fileName) {
+   public void writeToFile(String fileName) {
       RandomAccessFile file = null;
-      int len = lines.size();
       try {
          file = new RandomAccessFile(fileName, "rw");
          ptrTable.writeToFile(file, 0xD6B1F8);
@@ -43,15 +44,32 @@ public class ScriptInserter {
       int off;
       ArrayList line;
       ListIterator iter = lines.listIterator();
+      int curIdx = 0;
       while (iter.hasNext()) {
-         line = (ArrayList) iter.next();
-         byte[] bytes = toByteArray((Byte[])line.toArray(new Byte[0]));
-         try {
-            file.write(bytes);
-            file.writeBytes("\0");
-         } catch (IOException e) {
-            System.err.println("Unable to write to file: " + e.getMessage());
-            System.exit(1);
+         Object tmp = iter.next();
+         if (tmp instanceof ArrayList) {
+            if ("X".equals(mData.getStatus(curIdx))) {
+               curIdx++;
+               continue;
+            }
+            line = (ArrayList) tmp;
+            byte[] bytes = toByteArray((Byte[])line.toArray(new Byte[0]));
+            try {
+               file.write(bytes);
+               file.writeBytes("\0");
+            } catch (IOException e) {
+               System.err.println("Unable to write to file: " + e.getMessage());
+               System.exit(1);
+            }
+            curIdx++;
+         } else {
+            int bytesToSkip = ((Integer)tmp).intValue();
+            try {
+               file.skipBytes(bytesToSkip);
+            } catch (IOException e) {
+               System.err.println("Unable to write to file: " + e.getMessage());
+               System.exit(1);
+            }
          }
       }
       try {
@@ -62,7 +80,7 @@ public class ScriptInserter {
       }
    }
    
-   void compileFromFile(String fileName) {
+   public void compileFromFile(String fileName) {
       lines.clear();
       mData = new ScriptMetadata();
       ptrTable = new PointerTable();
@@ -79,6 +97,7 @@ public class ScriptInserter {
       int totalLength = 0;
       int lineCtr = 0;
       int curLine = 0;
+      int numLines = 0;
       ArrayList cScript = new ArrayList();
       boolean firstLine = true;
       try {
@@ -86,10 +105,23 @@ public class ScriptInserter {
             if (line.startsWith("$")) {
                length = cScript.size();
                if (!firstLine) {
+                  numLines++;
                   mData.addEntry(status, length);
-                  lines.add(cScript);
-                  ptrTable.addEntry(totalLength);
-                  totalLength += length + 1;
+                  boolean isJunk = ("X".equals(status));
+                  if (isJunk) {
+                     ptrTable.addEntry(totalLength, isJunk);
+                     lines.add(new ArrayList());
+                  } else {
+                     int newOffset = protectedZones.nextValidOffset(totalLength, totalLength + length);
+                     if (newOffset > totalLength) {
+                        //System.out.println("Skipping " + (newOffset-totalLength) + " bytes on line " + (lineCtr-1) + " for line length " + (length+1) + " at offset " + totalLength + "...");
+                        lines.add(new Integer(newOffset - totalLength));
+                        totalLength = newOffset;
+                     }
+                     ptrTable.addEntry(totalLength, isJunk);
+                     lines.add(cScript);
+                     totalLength += length + 1;
+                  }
                }
                status = line.substring(1,2);
                String[] parts = line.substring(7).split("=====");
@@ -117,16 +149,28 @@ public class ScriptInserter {
             curLine++;
          }
          if (cScript.size() > 0) {
+            numLines++;
             mData.addEntry(status, length);
-            lines.add(cScript);
-            ptrTable.addEntry(totalLength);
-            totalLength += length + 1;
+            boolean isJunk = ("X".equals(status));
+            if (isJunk) {
+               ptrTable.addEntry(totalLength, isJunk);
+               lines.add(new ArrayList());
+            } else {
+               int newOffset = protectedZones.nextValidOffset(totalLength, totalLength + length);
+               if (newOffset > totalLength) {
+                  lines.add(new Integer(newOffset - totalLength));
+                  totalLength = newOffset;
+               }
+               ptrTable.addEntry(totalLength, isJunk);
+               lines.add(cScript);
+               totalLength += length + 1;
+            }
          }
       } catch (IOException e) {
          System.err.println("Unable to read from file: " + e.getMessage());
          System.exit(1);
       }
-      System.out.println("Lines read from file: " + lines.size());
+      System.out.println("Lines read from file: " + numLines);
       System.out.println("Total length: " + totalLength + "/400825");
       if (totalLength > 0x61DB9) {
          System.err.println("Error! Total length exceeds maximum alloted space by " + (totalLength-0x61DB9) + " bytes.");
@@ -138,7 +182,7 @@ public class ScriptInserter {
       }
    }
    
-   ArrayList parseLine(int lnum, String line) {
+   private ArrayList parseLine(int lnum, String line) {
       ArrayList parsed = new ArrayList();
       ArrayList chr = new ArrayList();
       int idx;
@@ -164,7 +208,7 @@ public class ScriptInserter {
       return parsed;
    }
    
-   void buildCodeMap(String fileName) {
+   private void buildCodeMap(String fileName) {
       RandomAccessFile file = null;
       int len = 0;
       byte[] fileBuf = new byte[16750];
@@ -213,7 +257,11 @@ public class ScriptInserter {
       }
    }
    
-   void printStats() {
+   public void readProtectedZones(String fileName) {
+      protectedZones.readFromFile(fileName);
+   }
+   
+   public void printStats() {
       mData.printStats();
    }
 }

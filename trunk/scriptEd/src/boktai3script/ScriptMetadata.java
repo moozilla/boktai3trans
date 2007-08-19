@@ -32,6 +32,11 @@ public class ScriptMetadata {
       mData.add(new Metadatum(s, l));
    }
    
+   public String getStatus(int i) {
+      Metadatum m = (Metadatum) mData.get(i);
+      return m.status;
+   }
+   
    public void restoreFromFile(String fileName) {
       mData.clear();
       BufferedReader file = null;
