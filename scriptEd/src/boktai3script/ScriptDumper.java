@@ -9,18 +9,18 @@ public class ScriptDumper {
    
    ArrayList lines;
    HashMap charMap;
-   PointerTable ptrTable;
    ScriptMetadata mData;
+   ProtectedZones protectedZones;
    
    public ScriptDumper () {
       lines = new ArrayList();
       charMap = new HashMap(1999);
-      ptrTable = new PointerTable();
       mData = new ScriptMetadata();
+      protectedZones = new ProtectedZones();
       buildCharMap("chartable.sjs.tbl");
    }
    
-   byte[] toByteArray(Byte[] a) {
+   private byte[] toByteArray(Byte[] a) {
       int len = a.length;
       byte[] b = new byte[len];
       for (int i = 0; i < len; i++) {
@@ -28,7 +28,7 @@ public class ScriptDumper {
       }
       return b;
    }
-   void writeToFile(String fileName) {
+   public void writeToFile(String fileName) {
       //PrintWriter file = null;
       RandomAccessFile file = null;
       int len = lines.size();
@@ -44,9 +44,17 @@ public class ScriptDumper {
       ListIterator iter = lines.listIterator();
       while (iter.hasNext()) {
          line = (ArrayList) iter.next();
+         String lineCode = "J";
+         int lineLen = line.size();
+         if (lineLen > 0) {
+            if (line.get(lineLen-1) instanceof String) {
+               line.remove(lineLen-1);
+               lineCode = "X";
+            }
+         }
          byte[] bytes = toByteArray((Byte[])line.toArray(new Byte[0]));
          try {
-            file.writeBytes("$J=====" + idx + "=====\n");
+            file.writeBytes("$" + lineCode + "=====" + idx + "=====\n");
             file.write(bytes);
             file.writeBytes("\n");
          } catch (IOException e) {
@@ -61,7 +69,7 @@ public class ScriptDumper {
       }
    }
    
-   int pointerTableLookup(byte[] buf, int i) {
+   int pointerTableLookup(byte[] buf, int i, DataFlag dataFlag) {
       int a = buf[i];
       int b = buf[i+1];
       int c = buf[i+2];
@@ -70,13 +78,20 @@ public class ScriptDumper {
       if (b < 0) b += 256;
       if (c < 0) c += 256;
       if (d < 0) d += 256;
-      return a + (b << 8) + (c << 16) + ((d & 0x7F) << 24);
+      int result = a + (b << 8) + (c << 16);
+      if ((d & 0x80) != 0) {
+         d &= 0x7F;
+         dataFlag.setData(false);
+      } else {
+         dataFlag.setData(true);
+      }
+      result += (d << 24);
+      return result;
    }
    
    void extractFromFile(String fileName) {
       lines.clear();
       mData = new ScriptMetadata();
-      ptrTable = new PointerTable();
       byte[] ptableBuf = new byte[40000];
       byte[] scriptBuf = new byte[401000];
       RandomAccessFile file = null;
@@ -102,11 +117,17 @@ public class ScriptDumper {
       }
       ArrayList line;
       for (int i = 0; i <= 39904; i += 4) {
-         int idx = pointerTableLookup(ptableBuf, i);
-         int nextIdx = (i < 39904) ? pointerTableLookup(ptableBuf, i+4) : -1;
+         DataFlag dataFlag = new DataFlag(false);
+         boolean isData = false;
+         int idx = pointerTableLookup(ptableBuf, i, dataFlag);
+         isData = dataFlag.isData();
+         int nextIdx = (i < 39904) ? pointerTableLookup(ptableBuf, i+4, dataFlag) : -1;
+         if (isData) {
+            protectedZones.addZone((i/4), idx, nextIdx-1);
+         }
          line = new ArrayList();
          ArrayList chr = new ArrayList();
-         while (idx < nextIdx-1 || (nextIdx == -1 && scriptBuf[idx] != 0)) {
+         while (idx < nextIdx-1 || (isData && idx < nextIdx) || (nextIdx == -1 && scriptBuf[idx] != 0)) {
             byte x = scriptBuf[idx];
             byte y = scriptBuf[idx+1];
             chr.clear();
@@ -117,6 +138,10 @@ public class ScriptDumper {
                idx++;
             }
             line.addAll((ArrayList)charMap.get(chr));
+         }
+         //if (scriptBuf[idx] == 0 || nextIdx == -1) {
+         if (isData) {
+            line.add(new String("JUNK"));
          }
          lines.add(line);
       }
@@ -173,6 +198,23 @@ public class ScriptDumper {
       try {
          file.close();
       } catch (IOException e) {
+      }
+   }
+   
+   public void writeProtectedZones(String fileName) {
+      protectedZones.writeToFile(fileName);
+   }
+   
+   private class DataFlag {
+      private boolean isData;
+      DataFlag(boolean val) {
+         isData = val;
+      }
+      protected void setData(boolean val) {
+         isData = val;
+      }
+      protected boolean isData() {
+         return isData;
       }
    }
 }
