@@ -8885,28 +8885,37 @@ Takako Kodama
 $E=====2480=====
 //<WEIGHT>スタッフ</WEIGHT>
 <WEIGHT>STAFF</WEIGHT>
-$C=====2481=====
-<WEIGHT>原案</WEIGHT>
-小島秀夫
-// Concept?
-$C=====2482=====
-<WEIGHT>脚本/キャラクターデザイン</WEIGHT>
-中村如哉
-// Scenario/Character Design
-$C=====2483=====
-<WEIGHT>キャラクター原案</WEIGHT>
-ひじおか誠
-// Character Concept?
-$C=====2484=====
-<WEIGHT>スクリプトユニット</WEIGHT>
-上原倫利　　　　上野亮作
-堤崎陽太　　　　古川浩史
-// Script Unit
-$C=====2485=====
+$E=====2481=====
+//<WEIGHT>原案</WEIGHT>
+//小島秀夫
+<WEIGHT>Concept</WEIGHT>
+Hideo Kojima
+$E=====2482=====
+//<WEIGHT>脚本/キャラクターデザイン</WEIGHT>
+//中村如哉
+<WEIGHT>Scenario/Character Design</WEIGHT>
+Ikuya Nakamura
+$E=====2483=====
+//<WEIGHT>キャラクター原案</WEIGHT>
+//ひじおか誠
+<WEIGHT>Character Concept</WEIGHT>
+Hijioka Makoto
+$E=====2484=====
+//<WEIGHT>スクリプトユニット</WEIGHT>
+//上原倫利　　　　上野亮作
+//堤崎陽太　　　　古川浩史
+<WEIGHT>Script Unit</WEIGHT>
+Masatoshi Uehara  Ryosaku Ueno
+Hiroshi Furukawa
+Youta Tsutsumizaki
+$E=====2485=====
 
 小林雅人　　　　栃堀木
 堀越正弘　　　　山田昌孝
 大谷時舟
+//Masato Kobayashi
+//Horikoshi Masahiro
+//Tokifune Otani
 $C=====2486=====
 <WEIGHT>プログラムユニット</WEIGHT>
 小林聖　　　　　石川真也
@@ -8919,29 +8928,43 @@ $C=====2487=====
 川上徹　　　　　内山千穂子
 菅家彰
 樋下田健一
-$C=====2488=====
-<WEIGHT>サウンドユニット</WEIGHT>
-野口洋江　　　　小堀修一
-戸田色音　　　　本田晃弘
-渡辺雅史
-$C=====2489=====
-<WEIGHT>パブリシティデザイン</WEIGHT>
-八代擘
-<WEIGHT>パブリシティイラスト</WEIGHT>
-西村誠芳
+$E=====2488=====
+//<WEIGHT>サウンドユニット</WEIGHT>
+//野口洋江　　　　小堀修一
+//戸田色音　　　　本田晃弘
+//渡辺雅史
+<WEIGHT>Sound Unit</WEIGHT>
+Hiroe Noguchi   Kobori Shuichi
+Irone Toda      Akihiro Honda
+Masashi Watanabe
+$E=====2489=====
+//<WEIGHT>パブリシティデザイン</WEIGHT>
+//八代肇
+//<WEIGHT>パブリシティイラスト</WEIGHT>
+//西村誠芳
+<WEIGHT>Publicity Design</WEIGHT>
+Hajime Yashiro
+<WEIGHT>Publicity Illustration</WEIGHT>
+Nobuyoshi Nishimura
 $C=====2490=====
 <WEIGHT>おてんこデザイン</WEIGHT>
 飯尾史哉　　　　大塚隼人
 佐藤光輝　　　　鈴木愁季
 濱屋裕
-$C=====2491=====
-<WEIGHT>言語アドバイザー</WEIGHT>
-寺田ひとみ
-スコット・ドルフ
-$C=====2492=====
-<WEIGHT>制作サポート</WEIGHT>
-江口剛司
-北村隆明
+$E=====2491=====
+//<WEIGHT>言語アドバイザー</WEIGHT>
+//寺田ひとみ
+//スコット・ドルフ
+<WEIGHT>Language Advisor</WEIGHT>
+Hitomi Terada
+Scott Dolph
+$E=====2492=====
+//<WEIGHT>制作サポート</WEIGHT>
+//江口剛司
+//北村隆明
+<WEIGHT>Production Support</WEIGHT>
+Takeshi Eguchi
+Takaaki Kitamura
 $C=====2493=====
 <WEIGHT>プロモーション</WEIGHT>
 倉野次郎　　　　千葉茂
@@ -8956,10 +8979,13 @@ $C=====2496=====
 　佐上靖之
 　村上孝雄
 　石関暁
-$C=====2497=====
-<WEIGHT>株式会社カプコン</WEIGHT>
+$E=====2497=====
+//<WEIGHT>株式会社カプコン</WEIGHT>
+//
+//　稲船敬二
+<WEIGHT>Capcom Co., Ltd.</WEIGHT>
 
-　稲船敬二
+  Keiji Inafune
 $C=====2498=====
 　堀之内健
 　安間正博
@@ -10428,7 +10454,7 @@ $E=====2885=====
 //果たしてかれらは、本当に死に
 //たえてしまったのだろうか?
 Caught up in that battle,
-the Lunar Family was
+the Lunar Children were
 destroyed.
 $E=====2886=====
 //あるいは今でも・・・
@@ -10439,8 +10465,8 @@ $E=====2887=====
 //どこかにその身をかくして、静
 //かにくらしているのかもしれん
 //な」
-could they be living
-peacefully, hidden away
+Could they be living on in
+secret, hidden away
 somewhere?"
 $E=====2888=====
 <PROC=0>
@@ -11196,7 +11222,7 @@ $E=====3045=====
 //破壊(はかい)の獣(けもの)と月
 //の一族・・・
 the Beast of Destruction and
-the Lunar Family...
+the Lunar Children...
 $E=====3046=====
 //その間にはいったい、どんな関
 //係があったのでしょう・・・」
@@ -12361,9 +12387,9 @@ $E=====3275=====
 //闇の王(キング)の下に身をよせ
 //ていた、月の一族の2人の娘(む
 //すめ)の1人、
-One of the two Lunar Family
-daughters who lived under
-the king,
+One of the two Lunar
+Children daughters who lived
+under the King,
 $E=====3276=====
 //後の闇の女王(クイーン)である
 //ヘルの妹にして、月の巫女(月
@@ -12745,7 +12771,7 @@ which was like a paradise.
 $E=====3345=====
 //月の一族もまた、自分たちの楽
 //園を持っておったのじゃな
-The Lunar Family had their
+The Lunar Children had their
 own paradise,
 $E=====3346=====
 //じゃがそれも、はるか昔の話じ
@@ -12769,8 +12795,8 @@ between Sol and Darkness.
 $E=====3349=====
 //ふたたびこの世界に姿(すがた)
 //を表すことは、もうないだろう
-The Lunar Family walked the
-path of destruction, and
+The Lunar Children walked
+the path of destruction, and
 were never seen again.
 $E=====3350=====
 //その最後の生き残りであった、
@@ -15248,7 +15274,7 @@ a lot about yer...
 $E=====3831=====
 //あんたがふたたび、ヴァンパイ
 //アの血に目覚めつつあること、
-Yer vampire blood is about
+Yer Vampire blood is about
 to awaken a second time.
 $E=====3832=====
 //あんたの父親、リンゴさまの仇
@@ -15325,7 +15351,7 @@ $E=====3847=====
 //月の一族には太陽と暗黒、そし
 //て火水風土の4大元素、それら
 //みんなを受け入れる力があった
-The Lunar Family obtained
+The Lunar Children obtained
 the power of Sol and Dark,
 and the 4 great elements.
 $E=====3848=====
@@ -15353,7 +15379,7 @@ $E=====3851=====
 //に、
 With the Gun Del Sol, the
 magical device he inherited
-from the Solar Family,
+from the Solar Children,
 $E=====3852=====
 //闇の王(キング・オブ・イモー
 //タル)をたおした男・・・
@@ -15379,7 +15405,7 @@ got, Dark Trance...
 $E=====3856=====
 //ヴァンパイアは夜の一族とよば
 //れるだけあって、
-vampires are known as the
+Vampires are known as the
 family of the night, so as
 yer would expect,
 $E=====3857=====
@@ -15429,20 +15455,20 @@ $E=====3864=====
 //「あんたら兄弟は太陽と月、2
 //つの血を受けついどる
 <LABEL=ZAJI>Zazie</LABEL>:
-"You two brothers have both
-Solar and Lunar blood,
+"You two brothers both have
+the same blood,
 $E=====3865=====
 //せやけど、2人の力は同じとい
 //うわけやない
 but yer don't have the same
-powers.
+powers. The Solar Child
+blood is stronger in yer,
 $E=====3866=====
 //あんたには太陽の血が、サバタ
 //には月の血がより強く受けつが
 //れとる
-The Solar blood is stronger
-in yer, and the Lunar blood
-is stronger in Sabata.
+and the Lunar Child blood is
+stronger in Sabata.
 $E=====3867=====
 //その上、暗黒少年として育てら
 //れたサバタは、その身に宿した
@@ -17963,9 +17989,9 @@ $E=====4381=====
 //闇の女王(クイーン・オブ・イ
 //モータル)、ヘルと月の巫女(月
 //下美人)、マーニ、
-This is the heavenly
+Mahoroba, the heavenly
 paradise where the Lunar
-Family,
+Children,
 $E=====4382=====
 //2人の姉妹、その祖先(そせん)
 //たる月の一族がくらした天上の
@@ -17977,20 +18003,20 @@ $E=====4383=====
 //ヴァナルガンドのような怪物(
 //かいぶつ)を封印(ふういん)し
 //ておきながら、
-a monster like Vanargand was
-sealed here,
+A monster like Vanargand was
+sealed there,
 $E=====4384=====
 //なおかつ、その地を自分たちの
 //楽園にするとは・・・
-and yet this land was their
+and yet that land was their
 paradise...
 $E=====4385=====
 //まさに月の持つ2面性、慈愛(
 //じあい)と狂気(きょうき)の体
 //現だな
-it's certainly the
-embodiment of the moon's two
-natures, love and madness.
+It certainly embodies the
+moon's dual natures, love
+and madness.
 $E=====4386=====
 //そして、サバタは・・・
 And then there's Sabata...
@@ -18001,10 +18027,10 @@ $E=====4387=====
 He's the Dark Boy, but he's
 imbued with the Moon Beauty
 power...
-$E=====4388=====
+$U=====4388=====
 //その地で今、何を思う?」
-how does he feel about this
-place now?"
+I wonder what he's thinking
+in that land?"
 $E=====4389=====
 <PROC=0>
 <END>
@@ -18012,7 +18038,8 @@ $E=====4390=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「敵(てき)モンスターには、
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Besides different levels,
+"In addition to differences
+in levels,
 $E=====4391=====
 //レベルのちがいのほかにも、ラ
 //ンクのちがいというものがある
@@ -20465,16 +20492,14 @@ can be found,
 $E=====4893=====
 //シャチホコ城(じょう)っていう
 //お城(しろ)では、
-in Shachihoko Castle,
-// シャチホコ = orc / killer whale / mythical carp?
-$C=====4894=====
+in Gargoyle Castle,
+$E=====4894=====
 //せまりくる人形を木刀でたおす
 //[100人斬(ぎ)り]っていう試練(
 //しれん)を受けられるんだけど
-You can undertake a trial
-to defeat 100 puppets,
-100 Assassination.
-// Check name of battle
+you can undertake a trial
+to defeat 100 puppets, the
+Trial of 100 Foes.
 $E=====4895=====
 //そのとき、[DS]にボクタイシリ
 //ーズのカートリッジがささって
@@ -20506,11 +20531,11 @@ $E=====4899=====
 <LABEL=ROCKMAN>RockMan</LABEL>:
 "In the [DS] world where I
 can be found,
-$C=====4900=====
+$E=====4900=====
 //[100人斬(ぎ)り]の試練(しれん
 //)を受けるとき、
-When you undertake the 100
-Assassination challenge,
+When you undertake the Trial
+of 100 Foes challenge,
 $E=====4901=====
 //ボクタイシリーズのカートリッ
 //ジがささっていると、[あるポ
@@ -22572,7 +22597,7 @@ $E=====5364=====
 //そして、月の一族をほろぼした
 //といわれる魔(ま)の一族・・・
 and the one destroyed by the
-Lunar Family, called the
+Lunar Children, called the
 Demon Clan.
 $E=====5365=====
 //人形使いはその魔(ま)の一族の
@@ -23223,29 +23248,29 @@ $E=====5505=====
 //ですが、暗黒少年でありながら
 //月の血を宿したあなたであれば
 //話は別です
-However, if I had the Dark
-Boy with his Lunar blood, it
-would be a different story.
+However, for the Dark Boy
+with Lunar Child blood, it
+is a different story.
 $E=====5506=====
 //月の巫女(月下美人)の力をもっ
 //てすれば、
-If I had the power of the
-Moon Beauty,
+With the power of a Moon
+Beauty,
 $E=====5507=====
 //ヴァナルガンドの魂(たましい)
 //とつながることができる
-I could become enjoined with
-Vanargand's soul--
+it would be possible to fuse
+your soul to Vanargand...
 $E=====5508=====
 //破壊(はかい)の獣(けもの)、そ
 //のものと成ることができる
-I could become the Beast of
-Destruction.
+To become the Beast of
+Destruction itself.
 $E=====5509=====
 //そう、この大いなる力を手にす
 //ることができるのです」
-Oh yes, I could obtain such
-an incredible power."
+Oh yes, you could obtain
+such incredible power."
 $E=====5510=====
 //<LABEL=SABATA>サバタ</LABEL>
 //<PROC=1><LOCK=6>「フッ・・・
@@ -23292,7 +23317,7 @@ $E=====5520=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「グワアアアアアアッ!!」
 <LABEL=SABATA>Sabata</LABEL>:
-"GWAAAAAAAHHHHHHHH!!"
+"GWAAAAAAAHHHHHHHH!"
 $E=====5521=====
 <PROC=0>
 <END>
@@ -23421,7 +23446,7 @@ $E=====5549=====
 //「おれたちが父母から受けつい
 //だ太陽と月、2つの血・・・
 <LABEL=SABATA>Sabata</LABEL>:
-"We have Moon Child blood
+"We have Lunar Child blood
 inside us, too.
 $E=====5550=====
 //2人がそろえば、おたがいの弱
@@ -23646,7 +23671,7 @@ $E=====5601=====
 //今回ばかりはヴァンパイアの血
 //に助けられたようだな
 you were only saved thanks
-to the vampire blood this
+to the Vampire blood this
 time.
 $E=====5602=====
 //こんなことになろうとは・・・
@@ -24274,8 +24299,8 @@ Queen,
 $E=====5734=====
 //おまえもまた<NAME>と同じ太陽と月の血を受けつぐ者
 you inherited the same Solar
-and Lunar blood as
-<NAME>.
+Child and Lunar Child blood
+as <NAME>.
 $E=====5735=====
 //血を分けた弟をたおし、封印(
 //ふういん)までをもほどこすと
@@ -24976,9 +25001,8 @@ $E=====5878=====
 "<NAME>...
 $E=====5879=====
 //今ふたたび、目覚めたようだな
-it seems that the vampire
-blood that once dwelled
-within your body,
+it seems that the Vampire
+blood you were once given,
 $E=====5880=====
 //かつてその身に受けたヴァンパ
 //イアの血、暗黒の力に・・・
@@ -25504,11 +25528,11 @@ $E=====5987=====
 //ゴ・・・
 I defeated your father Ringo
 and turned him into a
-vampire...
+Vampire...
 $E=====5988=====
 //そのリンゴから受けたヴァンパ
 //イアの血が、
-the vampire blood you
+the Vampire blood you
 received from him,
 $E=====5989=====
 //兄、サバタにたおされたおまえ
@@ -26363,7 +26387,7 @@ Why do I gotta suffer like
 this...
 $E=====6170=====
 //それにヴァンパイアの血?
-not to menion, vampire
+not to menion, Vampire
 blood?
 $E=====6171=====
 //やっぱりアイツは・・・
@@ -26892,8 +26916,9 @@ his body can't take so much,
 $E=====6286=====
 //いくら太陽と月の血を受けつぐ
 //<NAME>でも、この量では身体が持たない!
-no matter how much Solar and
-Lunar blood he inherited!
+no matter how much Solar
+Child and Lunar Child blood
+he inherited!
 $E=====6287=====
 //<NAME>!!
 //ここはいったん引くんだ!」
@@ -27676,9 +27701,9 @@ He was raised as the Dark
 Boy by the Queen,
 $E=====6454=====
 //<NAME>と同じ、太陽と月の血を受けつぐ人間だ」
-but just like <NAME>,
-he's a human with Solar and
-Lunar blood in him."
+but just like <NAME>, he
+is a human with Solar Child
+and Lunar Child blood."
 $E=====6455=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「コイツと同じ?」
@@ -27695,7 +27720,7 @@ $E=====6457=====
 //血を分けた兄弟だ」
 Sabata is the only relative
 <NAME> has left. They're
-blood-related brothers."
+blood brothers."
 $E=====6458=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「まさかオメェ・・・
@@ -28537,8 +28562,8 @@ $E=====6643=====
 //月の一族によるその封印(ふう
 //いん)をとくカギは2つ
 There are two keys required
-to break the Lunar Family's
-seal.
+to break the seal that the
+Lunar Children created.
 $E=====6644=====
 //1つ目のカギは血、すなわちこ
 //のおれが母から受けついだ月の
@@ -28661,9 +28686,9 @@ $E=====6669=====
 //おまえたちの両親、リンゴとマ
 //ーニが残してくれたものを信じ
 //るしかない
-the Solar and Lunar blood
-that your parents, Ringo
-and Mani, left him.
+the Solar Child and Lunar
+Child blood your parents
+Ringo and Mani left him.
 $E=====6670=====
 <PROC=0>
 <END>
@@ -35286,7 +35311,7 @@ $E=====8128=====
 Even if I'm gone,
 $E=====8129=====
 //おまえは決して1人ではない
-You will never be alone.
+you will never be alone.
 $E=====8130=====
 //太陽はいつまでもおまえを、あ
 //の星のすべての命を、照らし続
@@ -35983,8 +36008,7 @@ $E=====8283=====
 "Why... Carmilla!
 $E=====8284=====
 //なぜおれだけを!」
-Why must you leave me
-alone!?"
+Why only me!?"
 $E=====8285=====
 <PROC=0>
 <END>
@@ -37452,7 +37476,7 @@ $E=====8610=====
 //<LABEL=PLAYER><NAME></LABEL>
 //「カーミラ!!<LOCK=30>」
 <LABEL=PLAYER><NAME></LABEL>:
-"Carmilla!!<LOCK=30>"
+"Carmilla!<LOCK=30>"
 $E=====8611=====
 //<LABEL=KARMIRA>カーミラ</LABEL>
 //「<NAME>、
@@ -37512,8 +37536,7 @@ the sunlight isn't strong
 enough!<LOCK=60>
 $E=====8623=====
 //<NAME>、そのまま走って!!<LOCK=45>
-<NAME>, keep driving
-like that!<LOCK=45>
+<NAME>, keep on driving!<LOCK=45>
 $E=====8624=====
 //ヴァナルガンドを月蝕(げっし
 //ょく)の陰(かげ)の中からさそ
@@ -39061,7 +39084,7 @@ $E=====8930=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「<NAME>・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"<NAME>... your vampire
+"<NAME>... your Vampire
 blood was supposedly sealed.
 $E=====8931=====
 //地下牢獄(ちかろうごく)におけ
