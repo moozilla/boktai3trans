@@ -8884,20 +8884,31 @@ $E=====2479=====
 Takako Kodama
 $E=====2480=====
 //<WEIGHT>スタッフ</WEIGHT>
-<WEIGHT>STAFF</WEIGHT>
+<WEIGHT>TRANSLATION TEAM</WEIGHT>
+
+<WEIGHT>Lead Translator</WEIGHT>
+Darth Nemesis
 $E=====2481=====
 //<WEIGHT>原案</WEIGHT>
 //小島秀夫
-<WEIGHT>Concept</WEIGHT>
-Hideo Kojima
+<WEIGHT>Programming</WEIGHT>
+SpikeMan    Darth Nemesis
+
+<WEIGHT>Advising</WEIGHT>
+lordhuffnpuff
 $E=====2482=====
 //<WEIGHT>脚本/キャラクターデザイン</WEIGHT>
 //中村如哉
-<WEIGHT>Scenario/Character Design</WEIGHT>
-Ikuya Nakamura
+<WEIGHT>STAFF</WEIGHT>
+
+<WEIGHT>Concept</WEIGHT>
+Hideo Kojima
 $E=====2483=====
 //<WEIGHT>キャラクター原案</WEIGHT>
 //ひじおか誠
+<WEIGHT>Scenario/Character Design</WEIGHT>
+Ikuya Nakamura
+
 <WEIGHT>Character Concept</WEIGHT>
 Hijioka Makoto
 $E=====2484=====
@@ -8905,9 +8916,10 @@ $E=====2484=====
 //上原倫利　　　　上野亮作
 //堤崎陽太　　　　古川浩史
 <WEIGHT>Script Unit</WEIGHT>
-Masatoshi Uehara  Ryosaku Ueno
-Hiroshi Furukawa
+Masatoshi Uehara
+Ryosaku Ueno
 Youta Tsutsumizaki
+Hiroshi Furukawa
 $E=====2485=====
 
 小林雅人　　　　栃堀木
@@ -8917,13 +8929,15 @@ $E=====2485=====
 //Horikoshi Masahiro
 //Tokifune Otani
 $C=====2486=====
-<WEIGHT>プログラムユニット</WEIGHT>
+//<WEIGHT>プログラムユニット</WEIGHT>
+<WEIGHT>Program Unit</WEIGHT>
 小林聖　　　　　石川真也
 狩野賢一郎　　　豊田晶
 藤原宏記
 奥田雅史
 $C=====2487=====
-<WEIGHT>デザインユニット</WEIGHT>
+//<WEIGHT>デザインユニット</WEIGHT>
+<WEIGHT>Design Unit</WEIGHT>
 寺田ひとみ　　　横山賢治
 川上徹　　　　　内山千穂子
 菅家彰
@@ -8934,8 +8948,8 @@ $E=====2488=====
 //戸田色音　　　　本田晃弘
 //渡辺雅史
 <WEIGHT>Sound Unit</WEIGHT>
-Hiroe Noguchi   Kobori Shuichi
-Irone Toda      Akihiro Honda
+Hiroe Noguchi Akihiro Honda
+Kobori Shuichi  Irone Toda
 Masashi Watanabe
 $E=====2489=====
 //<WEIGHT>パブリシティデザイン</WEIGHT>
@@ -8947,7 +8961,8 @@ Hajime Yashiro
 <WEIGHT>Publicity Illustration</WEIGHT>
 Nobuyoshi Nishimura
 $C=====2490=====
-<WEIGHT>おてんこデザイン</WEIGHT>
+//<WEIGHT>おてんこデザイン</WEIGHT>
+<WEIGHT>Otenko Design</WEIGHT>
 飯尾史哉　　　　大塚隼人
 佐藤光輝　　　　鈴木愁季
 濱屋裕
@@ -8966,24 +8981,30 @@ $E=====2492=====
 Takeshi Eguchi
 Takaaki Kitamura
 $C=====2493=====
-<WEIGHT>プロモーション</WEIGHT>
+//<WEIGHT>プロモーション</WEIGHT>
+<WEIGHT>Promotion</WEIGHT>
 倉野次郎　　　　千葉茂
 横島恵美子　　　田中裕子
-$C=====2494=====
-<WEIGHT>制作協力</WEIGHT>
-$C=====2495=====
+$E=====2494=====
+//<WEIGHT>制作協力</WEIGHT>
+<WEIGHT>Collaboration</WEIGHT>
+$E=====2495=====
+//
+//<WEIGHT>任天堂株式会社</WEIGHT>
 
-<WEIGHT>任天堂株式会社</WEIGHT>
+<WEIGHT>Nintendo Corporation</WEIGHT>
 $C=====2496=====
-<WEIGHT>コロコロコミック編集部</WEIGHT>
+//<WEIGHT>コロコロコミック編集部</WEIGHT>
+<WEIGHT>CoroCoro Comic</WEIGHT>
 　佐上靖之
 　村上孝雄
 　石関暁
+
 $E=====2497=====
 //<WEIGHT>株式会社カプコン</WEIGHT>
 //
 //　稲船敬二
-<WEIGHT>Capcom Co., Ltd.</WEIGHT>
+<WEIGHT>Capcom Corporation</WEIGHT>
 
   Keiji Inafune
 $C=====2498=====
@@ -9000,7 +9021,8 @@ $C=====2499=====
 　尾崎浩平
 　緒良中隆浩
 $C=====2500=====
-<WEIGHT>赤城乳業株式会社</WEIGHT>
+//<WEIGHT>赤城乳業株式会社</WEIGHT>
+<WEIGHT>AKAGI NYUGYO Corporation</WEIGHT>
 　本田文彦
 　萩原史雄
 $C=====2501=====
@@ -9020,16 +9042,20 @@ $E=====2504=====
 //中村如哉
 <WEIGHT>DIRECTOR</WEIGHT>
 Ikuya Nakamura
+<WEIGHT>PRODUCER</WEIGHT>
+Kensuke Yoshitomi
+Hideo Kojima
 $E=====2505=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //吉冨賢介
-<WEIGHT>PRODUCER</WEIGHT>
-Kensuke Yoshitomi
+<WEIGHT>Special Thanks</WEIGHT>
+Shadotterdan     Blues
 $E=====2506=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //小島秀夫
-<WEIGHT>PRODUCER</WEIGHT>
-Hideo Kojima
+<WEIGHT>Special Thanks</WEIGHT>
+Ryken         Nur Monson
+Max Noda
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
@@ -10292,7 +10318,7 @@ $E=====2854=====
 //ヴァンパイアの血でさえも克服
 //(こくふく)したおまえだ
 No, you even conquered the
-vampire blood that once
+Vampire blood that once
 flowed through your body.
 $E=====2855=====
 //力の使い方をまちがえることな
@@ -12375,7 +12401,7 @@ $E=====3273=====
 //最強のヴァンパイアハンターで
 //ったおまえの親父、紅(くれな
 //)のリンゴとは、
-The strongest vampire
+The strongest Vampire
 hunter, your father Red
 Ringo,
 $E=====3274=====
@@ -23618,16 +23644,16 @@ $E=====5588=====
 $E=====5589=====
 //暗黒をも受け入れ・・・
 //未来をあきらめないその心が、<LOCK=60>
-You too received the
-darkness... that indomitable
-spirit of yours,<LOCK=60>
+You accepted the darkness
+too... I should have become
+the Beast of Destruction,<LOCK=60>
 $E=====5590=====
 //破壊(はかい)の獣(けもの)その
 //ものと成ったはずのこのおれを
 //ふたたびこの地によびもどした<LOCK=105>
-it called me back here. I,
-destined to become the next
-Beast of Destruction.<LOCK=105>
+but that indomitable spirit
+of yours called me back to
+this land again.<LOCK=105>
 $E=====5591=====
 //おれにもまだ、やるべきことが
 //あったようだ<LOCK=60>」
@@ -34715,8 +34741,8 @@ should be fighting!?
 $E=====7998=====
 //正気を取りもどすんだ、
 //サバタ!!」
-Turn back into the real you,
-Sabata!"
+What happened to the real
+you, Sabata!?"
 $E=====7999=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「正気になれ?
@@ -34737,13 +34763,13 @@ $E=====8003=====
 $E=====8004=====
 //大崩壊(ラグナロク)・・・
 //それこそがわが意思だ!!」
-My true intent...
+My true desire...
 is Ragnarok!"
 $E=====8005=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「前にも言ったはずだ!
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"I told you before!
+"I asked you before!
 $E=====8006=====
 //世界を破壊(はかい)して、その
 //後に何が残る?
@@ -34789,7 +34815,7 @@ $E=====8014=====
 //原種の欠片(かけら)をもってす
 //れば、それが実現する!!」
 With the pure shard I have,
-it will be possible!"
+that will be possible!"
 $E=====8015=====
 <PROC=0>
 <END>
@@ -34797,7 +34823,7 @@ $E=====8016=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「バカな!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"How foolish!
+"That's ridiculous!
 $E=====8017=====
 //おまえのやろうとしていること
 //は、闇の一族(イモータル)と同
@@ -34902,7 +34928,7 @@ Beast of Destruction!
 $E=====8037=====
 //おまえの仲間たちを、
 You won't be able to protect
-your comrades,
+your friends,
 $E=====8038=====
 //あの星に生きるすべての命を、
 all life on our star,
@@ -34912,18 +34938,19 @@ $E=====8039=====
 or the future!
 $E=====8040=====
 //それとも・・・
-Or rather...
+Or pehaps...
 $E=====8041=====
 //すべてをあきらめ、このおれを
 //受け入れるのか?
-have you given up on
+Have you given up on
 everything, and accepted the
 situation?
 $E=====8042=====
 //このおれがもたらす、破壊(は
 //かい)と新生を!
 I'll bring about the
-destruction and rebirth!
+destruction and the
+rebirth!
 $E=====8043=====
 //<PROC=1><LOCK=40>フッハッハッハッハッ!!」
 <PROC=1><LOCK=40>Ha ha ha ha ha!"
@@ -35482,7 +35509,7 @@ Until then,
 $E=====8166=====
 //たとえ戦いに敗れ、たおれるこ
 //とがあろうとも・・・
-Even if you fail in battle,
+even if you fail in battle,
 and you're defeated...
 $E=====8167=====
 //死ぬことだけはゆるさん!
@@ -35503,13 +35530,13 @@ $E=====8170=====
 $E=====8171=====
 //ヴァナルガンドから暗黒物質(
 //ダークマター)を吸い尽くし、
-I drained all the Dark
-Matter from Vanargand,
+Suck out all the Dark Matter
+from Vanargand,
 $E=====8172=====
 //やつの中のおてんこに、太陽の
 //光を送りとどけるんだ
-and delivered the sunlight
-to Otenko.
+and deliver the sunlight to
+Otenko.
 $E=====8173=====
 //カーミラの能力で、破壊(はか
 //い)の獣(けもの)を内部から石
@@ -35765,7 +35792,7 @@ $E=====8228=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「やったのか、カーミラ・・・
 <LABEL=SABATA>Sabata</LABEL>:
-"Did you do it, Carmilla...?
+"You did it, Carmilla...
 $E=====8229=====
 <PROC=0>
 <END>
@@ -35784,9 +35811,9 @@ $E=====8233=====
 //本体が石化したとあれば、この
 //幻影(げんえい)も消えるのが道
 //理だ・・・」
-When the real body turns to
-stone, of course the phantom
-will disappear too..."
+Of course... if the body
+turns to stone, the phantom
+will disappear..."
 $E=====8234=====
 //<LABEL=PLAYER><NAME></LABEL>
 //「サバタ・・・?」
@@ -35979,7 +36006,7 @@ $E=====8276=====
 //みんなが残してくれた未来を、
 //ボクは決してあきらめない!
 The future everyone has
-entrusted to us...
+entrusted to me...
 I'll never give up on it!"
 $E=====8277=====
 <PROC=0>
@@ -36182,8 +36209,8 @@ I won't turn my back on you.
 $E=====8323=====
 //生と死の輪廻(りんね)、
 //その果てで・・・
-With the cycle of life and
-death...
+In the great cycle of life
+and death...
 $E=====8324=====
 //いつかまた、めぐり会おう!!」
 May we meet again someday!"
@@ -37169,7 +37196,7 @@ The Solar Children have
 fought against the Imortals
 since ancient times.
 $E=====8540=====
-/その血を受けついだお父さんや
+//その血を受けついだお父さんや
 //ボクたち兄弟
 We two brothers, our father
 Ringo who inherited that
@@ -37419,17 +37446,17 @@ $E=====8596=====
 //<PROC=0>
 //<END>
 <LABEL=NONE>???</LABEL>:
-"DE...STRO...Y..."
+"DE.....ST.....RO.....Y..."
 <PROC=0>
 <END>
 $E=====8597=====
 //???
 //「ハ・・カ・・イ・・・<LOCK=30>
 ???:
-"DE..STRO..Y..."<LOCK=30>
+"DE...ST...RO...Y..."<LOCK=30>
 $E=====8598=====
 //ハ・カ・イ・・・」<LOCK=30>
-"DE.STRO.Y..."<LOCK=30>
+"DE.ST.RO.Y..."<LOCK=30>
 $E=====8599=====
 <PROC=0>
 <END>
@@ -37525,8 +37552,8 @@ $E=====8621=====
 //もう少しで・・・あと少しで破
 //壊(はかい)の獣(けもの)を石化
 //することができる!<LOCK=90>
-Just a little farther... and
-I can turn the Beast of
+Just a little farther...
+and I can turn the Beast of
 Destruction to stone!<LOCK=90>
 $E=====8622=====
 //でもそれには力が・・・
