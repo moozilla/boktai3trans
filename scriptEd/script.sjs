@@ -37,7 +37,7 @@ $E=====10=====
 //
 //<LABEL> 　見つからずに脱出せよ!!
 
-<LABEL> Escape without being seen!
+<LABEL> Escape without being seen!</LABEL>
 $E=====11=====
 <PROC=0>
 <END>
@@ -8920,28 +8920,37 @@ Masatoshi Uehara
 Ryosaku Ueno
 Youta Tsutsumizaki
 Hiroshi Furukawa
-$E=====2485=====
+$C=====2485=====
+//
+//小林雅人　　　　栃堀木
+//堀越正弘　　　　山田昌孝
+//大谷時舟
 
-小林雅人　　　　栃堀木
-堀越正弘　　　　山田昌孝
-大谷時舟
-//Masato Kobayashi
-//Horikoshi Masahiro
-//Tokifune Otani
-$C=====2486=====
+Masato Kobayashi     栃堀木
+Horikoshi Masahiro
+Masataka Yamada
+Tokifune Otani
+$E=====2486=====
 //<WEIGHT>プログラムユニット</WEIGHT>
-<WEIGHT>Program Unit</WEIGHT>
-小林聖　　　　　石川真也
-狩野賢一郎　　　豊田晶
-藤原宏記
-奥田雅史
-$C=====2487=====
+//小林聖　　　　　石川真也
+//狩野賢一郎　　　豊田晶
+//藤原宏記
+//奥田雅史
+Akira Toyoda Shinya Ishikawa
+Kenjirou Kano Masafumi Okuta
+Hiroki Fujiwara
+Yoshiteru Kobayashi
+$E=====2487=====
 //<WEIGHT>デザインユニット</WEIGHT>
+//寺田ひとみ　　　横山賢治
+//川上徹　　　　　内山千穂子
+//菅家彰
+//樋下田健一
 <WEIGHT>Design Unit</WEIGHT>
-寺田ひとみ　　　横山賢治
-川上徹　　　　　内山千穂子
-菅家彰
-樋下田健一
+Hitomi Terada Toru Kawakami
+Yokoyama Kenji  Akira Kanke
+Kenichi Higeta
+Chihoko Uchiyama
 $E=====2488=====
 //<WEIGHT>サウンドユニット</WEIGHT>
 //野口洋江　　　　小堀修一
@@ -8949,17 +8958,18 @@ $E=====2488=====
 //渡辺雅史
 <WEIGHT>Sound Unit</WEIGHT>
 Hiroe Noguchi Akihiro Honda
-Kobori Shuichi  Irone Toda
+Kobori Shuichi   Irone Toda
 Masashi Watanabe
 $E=====2489=====
 //<WEIGHT>パブリシティデザイン</WEIGHT>
 //八代肇
 //<WEIGHT>パブリシティイラスト</WEIGHT>
 //西村誠芳
-<WEIGHT>Publicity Design</WEIGHT>
-Hajime Yashiro
 <WEIGHT>Publicity Illustration</WEIGHT>
 Nobuyoshi Nishimura
+
+<WEIGHT>Publicity Design</WEIGHT>
+Hajime Yashiro
 $C=====2490=====
 //<WEIGHT>おてんこデザイン</WEIGHT>
 <WEIGHT>Otenko Design</WEIGHT>
@@ -9049,7 +9059,7 @@ $E=====2505=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //吉冨賢介
 <WEIGHT>Special Thanks</WEIGHT>
-Shadotterdan     Blues
+(beta testers here)
 $E=====2506=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //小島秀夫
@@ -13629,7 +13639,7 @@ $E=====3505=====
 //っているらしくて、
 It seems the cities to the
 east have been attacked by
-vampires,
+Vampires,
 $E=====3506=====
 //組織(ギルド)は、その対応(た
 //いおう)と対策(たいさく)にて
@@ -16460,7 +16470,7 @@ $E=====4064=====
 //「ヴァンパイアにへんしんする
 //の!?
 <LABEL=SUMIRE>Violet</LABEL>:
-"You turned into a vampire!?
+"You turned into a Vampire!?
 $E=====4065=====
 //みんなをいじめちゃあ、ダメだ
 //からね!!」
@@ -20577,12 +20587,12 @@ $E=====4903=====
 <LABEL=ROCKMAN>RockMan</LABEL>:
 "In the [DS] world where I
 can be found,
-$C=====4904=====
+$E=====4904=====
 //オラン島っていう島があるんだ
 //けど・・・
 there's a place called Oran
 island...
-$C=====4905=====
+$E=====4905=====
 //そのエリア2に、[あるポイント
 //]を持っていくと、[ボクタイト
 //レーダー]が出現するよ!
@@ -24338,7 +24348,6 @@ $U=====5736=====
 //その身に宿る暗黒物質(ダーク
 //マター)の命ずるままに、世界
 //をほろぼそうというのか?
-1234567890123456789012345678
 If your Dark Matter stays in
 command like this, will you
 destroy the world?
@@ -25104,7 +25113,7 @@ Special Action, press the
 $E=====5893=====
 //ヴァンパイア・・・
 //すなわちダーク<NAME>にトランスした状態では、
-As a vampire... that is, as
+As a Vampire... that is, as
 Black <NAME>,
 $E=====5894=====
 //<WEIGHT>Ａボタン</WEIGHT>でダーククロウ(切り
@@ -25325,7 +25334,7 @@ reeks of danger...
 $E=====5942=====
 //例の伯爵(はくしゃく)とかいう
 //ヴァンパイアにちがいない
-it's the smell of a vampire
+it's the smell of a Vampire
 like the Count, no mistakin'
 it.
 $E=====5943=====
@@ -26185,7 +26194,7 @@ $E=====6122=====
 //ずはねぇ
 If that guy's the real
 Warrior, he won't lose to
-vampires.
+Vampires.
 $E=====6123=====
 //だが伝説によれば・・・
 But according to the
@@ -27211,7 +27220,7 @@ $E=====6340=====
 //暗雲はわたしがおさえましょう
 Ancient Tree:
 "I will suppress that
-vampire's dark clouds.
+Vampire's dark clouds.
 $E=====6341=====
 //あなたたちはその力を使い、こ
 //の世界を、太陽を守るのです
@@ -29198,7 +29207,7 @@ $E=====6777=====
 //われわれも目指すしかあるまい
 We have no choice but to
 aim for it as well.
-$C=====6778=====
+$E=====6778=====
 //かつて闇の女王(クイーン)が目
 //指した、あの月を・・・」
 The moon that the former
@@ -29254,7 +29263,7 @@ $E=====6789=====
 <END>
 $E=====6790=====
 //<LABEL=TRINITY></LABEL>正気じゃねぇぜ
-<LABEL=TRINITY></LABEL>this is insane.
+<LABEL=TRINITY></LABEL>This is insane.
 $E=====6791=====
 //それに相手はあの破壊(はかい)
 //の王だぞ?
@@ -29264,7 +29273,7 @@ $E=====6792=====
 //オメェはわかってねぇ・・・
 //アイツの本当のおそろしさを!
 I don't get you...
-that thing is seriously
+that guy is seriously
 terrifying!
 $E=====6793=====
 <PROC=0>
@@ -29291,7 +29300,7 @@ $E=====6798=====
 //<LABEL=PLAYER><NAME></LABEL>
 //「・・・まだ望みはある!」
 <LABEL=PLAYER><NAME></LABEL>:
-"...there's still hope!"
+"...There's still hope!"
 $E=====6799=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「たとえわずかでも望みがある
@@ -29334,7 +29343,7 @@ $E=====6808=====
 "I just don' get it...
 $E=====6809=====
 //どうして・・・
-how...
+How...
 $E=====6810=====
 //どうしてそこまで信じられる?
 how can you have that much
@@ -29388,7 +29397,8 @@ $E=====6821=====
 //「オメェらは魔砲(まほう)とや
 //らを、
 <LABEL=TRINITY>Trinity</LABEL>:
-"You guys do your magic,
+"You guys stick with the
+magic cannon,
 $E=====6822=====
 //オイラはお宝(たから)をさがす
 and I'll search for
@@ -29400,7 +29410,7 @@ $E=====6824=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「ふっ・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Heh...
+"Hmph...
 $E=====6825=====
 //・・・やれやれだな」
 ...sigh."
@@ -30886,8 +30896,9 @@ $E=====7160=====
 //ルガンドから切りはなされた今
 //なら、それがかなう・・・
 If his soul is split away
-from Vanargand's soon, my
+from Vanargand soon, my
 wish may come true...
+今なら
 $E=====7161=====
 //たとえあの人を守ることはでき
 //なくとも、
@@ -30906,36 +30917,37 @@ $E=====7163=====
 $E=====7164=====
 //<LABEL=KARMIRA></LABEL>太陽少年<NAME>・・・
 <LABEL=KARMIRA></LABEL>Solar Boy <NAME>...
-$U=====7165=====
+$E=====7165=====
 //あなたにも、あなたにしかでき
 //ないことがある
-there are things only you
-can do.
+Even for you, there are
+things you can't do on your
+own.
 $E=====7166=====
 <PROC=0>
 <END>
 $E=====7167=====
 //<LABEL=KARMIRA></LABEL>あの人を取りもどすの
-<LABEL=KARMIRA></LABEL>Bring him back.
+<LABEL=KARMIRA></LABEL>If, when the time comes,
 $E=====7168=====
 //そしてもし、それがかなわなか
 //ったときは・・・
-And if my wish can't come
-true...
+you aren't able to bring him
+back...
 $E=====7169=====
 <PROC=0>
 <END>
 $E=====7170=====
 //<LABEL=KARMIRA></LABEL>あなたがあの人を止めるのよ
-<LABEL=KARMIRA></LABEL>then stop him.
+<LABEL=KARMIRA></LABEL>then you must stop him.
 $E=====7171=====
 //あの人も・・・
-he....
+He....
 $E=====7172=====
 //サバタさまも・・・
 //それを望んでいる」
-Sabata...
-that's what Sabata wants."
+Master Sabata...
+That is what he wants."
 $E=====7173=====
 <PROC=0>
 <END>
@@ -30952,11 +30964,11 @@ $E=====7176=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「まったく・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Sheesh...
+"That boy, I swear...
 $E=====7177=====
 //仕方のないやつだな」
-there's just nothing you can
-do about him."
+He is really getting on my
+nerves."
 $E=====7178=====
 <PROC=0>
 <END>
@@ -30975,16 +30987,18 @@ $U=====7181=====
 //動床(いどうゆか)のスイッチを
 //切ってしまったんだ
 <LABEL=OTENKO></LABEL>He ended up switching off
-the moving floor when he saw
-me.
+the moving platform when he
+saw me.
 $E=====7182=====
 //まったくこまったやつだ。
 //だが・・・
 He is such a pain.
 However...
 $U=====7183=====
-あんなやつでも、ほおってはお
-けない!
+//あんなやつでも、ほおってはお
+//けない!
+Even for that kind of guy,
+ほおってはおけない!
 $E=====7184=====
 //何とかして対岸の敵(てき)モン
 //スターをたおすんだ!!」
@@ -31009,17 +31023,17 @@ abandon Trinity!?"
 $E=====7188=====
 <PROC=0>
 <END>
-$E=====7189=====
+$U=====7189=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「よう、<NAME>!!
 //おそかったじゃねぇか?
 <LABEL=TRINITY>Trinity</LABEL>:
 "Yo, <NAME>!
-I ain't late, am I?
-$E=====7190=====
+Took your time gettin' here?
+$U=====7190=====
 //そんじゃあ出発と行くぜ!
 //準備(じゅんび)はいいな?」
-Then let's get goin'!
+そんじゃあ let's set sail!
 Are ya ready?"
 $E=====7191=====
 <PROC=0>
@@ -31046,8 +31060,9 @@ $E=====7196=====
 //お宝(たから)を求めて、七つの
 //海を大冒険(だいぼうけん)する
 //(予定)のオイラだ
-I'm sailin' the seven seas,
-searchin' for treasure.
+I plan to go on a grand
+adventure, searchin' the
+seven seas for treasure.
 $E=====7197=====
 //船の1隻(せき)や2隻(せき)、動
 //かせなくてどーするよ?」
@@ -31062,13 +31077,14 @@ $E=====7199=====
 //「おい、トリニティ!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Hey, Trinity!
-$E=====7200=====
+$U=====7200=====
 //その(予定)というのは何だ!?」
-What are you trying to do!?"
+What part of your so-called
+plan is that!?"
 $E=====7201=====
 <PROC=0>
 <END>
-$E=====7202=====
+$U=====7202=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「ぬぬぬぬぬ・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
@@ -36900,7 +36916,7 @@ $E=====8473=====
 by the time I realized, you
 guys were already so worked
 up.
-$U=====8474=====
+$E=====8474=====
 //ま、場の空気を読んだってわけ
 //よ・・・な?」
 Well, I didn't want to ruin
@@ -37039,7 +37055,7 @@ $E=====8504=====
 //「どこを見ている?
 <LABEL=NONE>???</LABEL>:
 "Where are you lookin'?
-$U=====8505=====
+$E=====8505=====
 //行くぞ、
 //とうっ!!」
 Let's go!"
@@ -37996,7 +38012,7 @@ $E=====8713=====
 //るぞ
 you can recharge energy as
 if you were outside.
-$U=====8714=====
+$E=====8714=====
 //まだまだ先は長い。
 //今のうちにしっかり回復(かい
 //ふく)しておけよ?」
