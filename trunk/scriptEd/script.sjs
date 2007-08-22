@@ -2240,7 +2240,7 @@ $E=====816=====
 MY BIKE
 $E=====817=====
 //グラディウス<EXTEND=0>
-GLADIUS<EXTEND=0>
+GRADIUS<EXTEND=0>
 $E=====818=====
 //エストック<EXTEND=0>
 ESTOC<EXTEND=0>
@@ -23741,7 +23741,7 @@ fighting the Immortals.
 $E=====5608=====
 //わたしは太陽の使者、
 //おてんこだ
-I'm the messenger of the
+I'm the Messenger of the
 Sun, Otenko.
 $E=====5609=====
 //とにかく・・・
@@ -42262,7 +42262,7 @@ $E=====9768=====
 //ディウスは何度でも使うことが
 //できるぞ
 but you can use Dash,
-Fighter, and Gladius as
+Fighter, and Gradius as
 often as you want.
 $E=====9769=====
 <PROC=0>
