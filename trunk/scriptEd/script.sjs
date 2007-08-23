@@ -858,22 +858,22 @@ these!"
 $E=====191=====
 <PROC=0>
 <END>
-$ƒG=====192=====
+$E=====192=====
 //‚¨‚³‚°‚Ì—‚Ìq
 //u‚ ‚Ì‚±‚ÍA‚Æ‚Á‚Ä‚à‚³‚İ‚µ‚ª
 //‚è‚â‚³‚ñ‚È‚Ì!
 Girl with Braids:
-"This one is so lonely now!
-$U=====193=====
+"This one is really lonely!
+$E=====193=====
 //‚Ü‚¢‚É‚¿A‚¬‚ã```````
 //``````````````
 //``````````````
-Every day, it's all ‚¬‚ã``
-``````````````
-``````````````
+Make sure you give it a biii
+iiiiiiiiiiiiiiiiiiiiiiiiiiii
+iiiiiiiiiiiiiiiiiiiiiig hug,
 $E=====194=====
 //‚Á‚Ä‚µ‚Ä‚ ‚°‚Ä‚Ë?v
-so should I give it to you?"
+every day, okay?"
 $E=====195=====
 <PROC=0>
 <END>
