@@ -647,13 +647,13 @@ ooooooooooooooooooooooooooo?
 $E=====141=====
 //・・・
 ...
-$U=====142=====
+$E=====142=====
 //ああっ、すみません!!
 //突然(とつぜん)大声でさけんだ
 //りして!
-Ahh, sorry! I suddenly
-started shouting...
-// Not sure about さけんだりして
+Ahh, sorry! I didn't mean to
+start shouting all of a
+sudden.
 $E=====143=====
 //娘(むすめ)のことが心配で心配
 //で・・・
@@ -743,11 +743,11 @@ $E=====161=====
 $E=====162=====
 //ああっ、ダメですよ!!
 Aah, no!
-$U=====163=====
+$E=====163=====
 //娘(むすめ)はまだ、嫁(よめ)に
 //はやりませんからね!」
-She's not ready to get
-married yet!"
+My daughter isn't ready to
+be a bride just yet!"
 $E=====164=====
 <PROC=0>
 <END>
@@ -858,13 +858,12 @@ these!"
 $E=====191=====
 <PROC=0>
 <END>
-$U=====192=====
+$エ=====192=====
 //おさげの女の子
 //「あのこは、とってもさみしが
 //りやさんなの!
 Girl with Braids:
 "This one is so lonely now!
-// Not sure about さみしがりやさん
 $U=====193=====
 //まいにち、ぎゅ～～～～～～～
 //～～～～～～～～～～～～～～
@@ -892,15 +891,15 @@ $E=====198=====
 //もう食べられないよぅ・・・」
 <LABEL=TRINITY>Trinity</LABEL>:
 "...gah!
-Don't eat me..."
+I can't eat any more..."
 $E=====199=====
 <PROC=0>
 <END>
-$U=====200=====
+$E=====200=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「なんかねぇのか?」
 <LABEL=TRINITY>Trinity</LABEL>:
-"...not gonna?"
+"Isn't it here?"
 $E=====201=====
 <PROC=0>
 <END>
@@ -909,8 +908,8 @@ $E=====202=====
 //「まちがいねぇ・・・
 //お宝(たから)はこの先だ
 <LABEL=TRINITY>Trinity</LABEL>:
-"If I'm right... this is the
-tip of a treasure box.
+"No doubt about it...
+there's treasure up ahead.
 $E=====203=====
 //うたがってんのか?
 You doubtin' me?
@@ -929,7 +928,7 @@ $E=====206=====
 //しだぜ?」
 <LABEL=TRINITY>Trinity</LABEL>:
 "No hard feelings when
-something comes out, right?"
+something shows up, right?"
 $E=====207=====
 <PROC=0>
 <END>
@@ -2606,9 +2605,9 @@ Makes you weak to Earth.
 $E=====938=====
 //これを捨てますか?
 Trash this?
-$U=====939=====
+$E=====939=====
 //刃(は)が折(お)れている。
-The blade is breaking.
+The blade is broken.
 $E=====940=====
 //ライフがふえるほど威力(いりょく)が上がる。
 Gains power as your Life increases.
@@ -5409,13 +5408,13 @@ $E=====1664=====
 //消えてしまうので注意せよ
 However, they will go out if
 the sunlight is too strong.
-$U=====1665=====
+$E=====1665=====
 //冒険者(ぼうけんしゃ)たる者、
 //すぎたるはおよばざるがごとし
 //と知れ
-A true adventurer knows that
-excess is the same as
-およばざる.
+A true adventurer walks
+confidently into the future
+and dwells not in the past.
 $E=====1666=====
 <PROC=0>
 <END>
@@ -6053,7 +6052,7 @@ nothing but the Beast of
 Destruction now.
 $E=====1798=====
 //ウッハッハッハッハッ!!」
-Uwah hah hah hah hah!
+Uwah hah hah hah hah!"
 $E=====1799=====
 <PROC=0>
 <END>
@@ -6487,12 +6486,12 @@ $E=====1881=====
 creates clones from the
 shadows. If you attack them,
 you'll end up taking damage.
-$U=====1882=====
+$E=====1882=====
 //姿(すがた)を消したラタトスク
 //を見つけ出し、撃破(げきは)せ
 //よ!!
-To reveal the invisible
-Ratatosk, crush him!
+Find the invisible Ratatosk
+and pulverize him!
 $E=====1883=====
 //ラタトスクは分身から走る光の
 //先にかくれているぞ!!
@@ -7476,12 +7475,11 @@ I am Luxana...
 $E=====2096=====
 //太陽バンクの、陽子なのよ?
 of the Solar Bank, right?
-$U=====2097=====
+$E=====2097=====
 //おしおきなんて、ガラじゃない
 //のよ・・・
 Something like punishment
-just isn't for me...
-// ガラ?
+just isn't my style...
 $E=====2098=====
 //さあ、暗子ちゃん」
 go ahead, Doomy."
@@ -7953,14 +7951,13 @@ $X=====2212=====
 {D2}{C2}{01}{08}{0B}{D1}{C1}{01}0{0B}{D5}{C1}{01}{B8}{0B}{CF}{C2}{01}{E0}{0B}{D4}{C2}{01}{F8}{0B}{D2}{C2}{01}{10}{0C}{D0}{C2}{01}({0C}{D2}{C2}{01}8{0C}{CF}{C2}{01}8{0C}{D4}{C2}{C0}{C0}{C0}{00}
 $X=====2213=====
 {C3}{C5}{C1}{C3}{C1}{C5}{C1}{C3}{C2}{C3}{C1}{C4}{C3}{C1}{C1}{C1}{C3}{C1}{C5}{C1}{C3}{C6}{C1}{C1}{C3}{C1}{C5}{C1}{C3}{C2}{C3}{C1}{C4}{C3}{C5}{C1}{C3}{C6}{C1}{E2}{E3}{E3}{E3}{E4}{C1}{C4}{C3}{C2}{C5}{DF}{E0}{E0}{E0}{E1}{C3}{C5}{C1}{C3}{C1}{E2}{E3}{E3}{E3}{E4}{C1}{C4}{C3}{C2}{C5}{DF}{E0}{E0}{E0}{E1}{C3}{C2}{C3}{C2}{C5}{E2}{E3}{E3}{E3}{E4}{C1}{C4}{C3}{C2}{C5}{DF}{E0}{E0}{E0}{E1}{C3}{C5}{C1}{C3}{C1}{C1}{C5}{C1}{C3}{C3}{C1}{C4}{C1}{C6}{C1}{C3}{C3}{C1}{C4}{C1}{CC}{CD}{CE}{C3}{C2}{C1}{C5}{C1}{CC}{CD}{CE}{C3}{C3}{C1}{C4}{C1}{CC}{CD}{CE}{C5}{C3}{C1}{C3}{C1}{CC}{CD}{CE}{C3}{C2}{C1}{C5}{C1}{CC}{CD}{CE}{C3}{C3}{C1}{C4}{C1}{CC}{CD}{CE}{C2}{C3}{C1}{C3}{C1}{C6}{C1}{C3}{C1}{C2}{D4}{D5}{D5}{D5}{D6}{C3}{C1}{C1}{C4}{C1}{C1}{C2}{C3}{C1}{C3}{C6}{C1}{C3}{C1}{C2}{C5}{C3}{C1}{C3}{C1}{C3}{C1}{C3}{C1}{C6}{D9}{DA}{DA}{DA}{DB}{C1}{C3}{C1}{C1}{C6}{C3}{C4}{C2}{C1}{C1}{C5}{C1}{C6}{C3}{CF}{D0}{D1}{D2}{D2}{D2}{D2}{D3}{C2}{C1}{C1}{C1}{C6}{C1}{C3}{C1}{C1}{C3}{C1}{C6}{C3}{C4}{C1}{C6}{C3}{C3}{C4}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C4}{DF}{E0}{E0}{E0}{E1}{C1}{C6}{C3}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C3}{E2}{E3}{E3}{E3}{E4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C1}{DF}{E0}{E0}{E0}{E1}{C1}{C6}{C5}{C3}{CC}{CD}{CE}{C1}{E2}{E3}{E3}{E3}{E4}{C3}{C3}{C4}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C4}{DF}{E0}{E0}{E0}{E1}{C1}{C6}{C3}{C4}{CC}{CD}{CE}{C1}{C1}{C6}{C3}{C3}{E2}{E3}{E3}{E3}{E4}{C1}{C3}{C1}{C1}{C6}{C3}{C4}{C1}{C1}{C6}{C3}{C5}{C3}{C1}{C3}{C1}{C2}{C7}{C8}{C9}{CA}{CA}{CA}{D8}{D2}{D2}{D2}{D2}{D3}{C1}{C6}{C3}{C5}{C3}{C1}{C3}{C1}{C2}{C1}{C6}{C3}{C4}{C1}{C1}{C6}{C3}{C1}{C3}{C1}{C2}{C1}{C6}{C3}{C4}{C1}{C1}{C1}{C1}{C6}{C3}{E2}{E3}{E3}{E3}{E4}{C1}{C3}{C1}{C2}{C1}{C6}{C3}{C1}{C6}{C3}{C4}{C1}{C7}{C8}{C9}{CA}{CB}{C1}{C6}{C3}{C1}{C3}{C4}{C1}{C1}{C6}{C3}{C3}{C1}{C3}{C4}{C1}{C1}{C6}{C1}{D4}{D5}{D5}{D5}{D6}{C3}{C1}{C6}{C3}{C4}{C1}{C1}{C6}{C3}{C1}{C2}{C1}{C6}{C3}{C1}{C6}{C3}{C1}{C6}{C3}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C3}{C4}{C1}{C1}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C1}{C3}{C2}{C1}{C6}{C3}{C5}{C1}{C3}{C2}{C3}{C4}{C1}{C3}{D9}{DA}{DA}{DA}{DB}{C2}{C1}{C6}{C3}{C5}{C1}{C3}{C2}{D4}{D5}{D5}{D5}{D6}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{D9}{DA}{DA}{DA}{DB}{C3}{C2}{C3}{C4}{C1}{C5}{C1}{C3}{D4}{D5}{D5}{D5}{D6}{C5}{C1}{C3}{C2}{C1}{C6}{C3}{C1}{C3}{C2}{C3}{C4}{C3}{C3}{C5}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C3}{C4}{C1}{C1}{C3}{CC}{CD}{CE}{C3}{C1}{C2}{C1}{C6}{CC}{CD}{CE}{C4}{C1}{C1}{C6}{C3}{CC}{CD}{CE}{C1}{C5}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C2}{C1}{C3}{DF}{E0}{E0}{E0}{E1}{C3}{C2}{C6}{C3}{E2}{E3}{E3}{E3}{E4}{C6}{C3}{C3}{C3}{DF}{E0}{E0}{E0}{E1}{C3}{C2}{C1}{C3}{E2}{E3}{E3}{E3}{E4}{C5}{C1}{C1}{C3}{C3}{C3}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C4}{C3}{C6}{C1}{C5}{C1}{C3}{C2}{C1}{C6}{D9}{DA}{DA}{DA}{DB}{C3}{C1}{C3}{C4}{C3}{D4}{D5}{D5}{D5}{D6}{C3}{C2}{C1}{C6}{C3}{D9}{DA}{DA}{DA}{DB}{C1}{C6}{C3}{C3}{C3}{D4}{D5}{D5}{D5}{D6}{C3}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C3}{C5}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C1}{C3}{C4}{C3}{C6}{C1}{C1}{C1}{C3}{C3}{C3}{C5}{C3}{C2}{C1}{C4}{C3}{C1}{C3}{C3}{D7}{C2}{C1}{C6}{C3}{C1}{C0}{C0}{C0}{C0}{C0}{00}
-$U=====2214=====
+$E=====2214=====
 //<LABEL=SABATA></LABEL>やあやあ
 //たすけてやるぜ
 //さきいってていいよ<LOCK=20>
-<LABEL=SABATA></LABEL>Well well, you helped me
-out. What you said back
-there is fine.<LOCK=20>
-$U=====2215=====
+<LABEL=SABATA></LABEL>Hey, I'll help out here.
+You go on without me.<LOCK=20>
+$E=====2215=====
 //<LABEL=SABATA></LABEL>まあそういうことで
 //おつかれ
 //またな<LOCK=20>
@@ -9335,7 +9332,7 @@ $E=====2594=====
 The Messenger of the Sun, descended to earth to protect all the Sun's creatures. He guides <NAME> and supports him in battle. He is a brave warrior who once fought alongside Red Ringo.
 $E=====2595=====
 //いつわりの母、闇の女王(クイーン)に暗黒銃「ガン・デル・ヘル」の使い手、暗黒少年として育てられた<NAME>の兄。真実の母「マーニ」から、月の巫女(月下美人)の力と「月光のマフラー」を受け継いでいる。
-<NAME>'s older brother, brought up as the Dark Boy to use the Gun Del Hell by his fake mother, the Queen. Inherited the power of the Moon Beauty and the Moonlight Scarf from his real mother, Mani.
+<NAME>'s older brother, brought up as the Dark Boy to use the Gun Del Hell by his fake mother, the Queen. Inherited the Moon Beauty power and the Moonlight Scarf from his real mother, Mani.
 $E=====2596=====
 //破壊(はかい)の獣(けもの)であることを受け入れたサバタ。その心は、「ヴァナルガンド」があたえる狂気(きょうき)に支配(しはい)されている。
 Sabata after succeeding the Beast of Destruction. The madness induced by Vanargand is controlling him.
@@ -11058,7 +11055,7 @@ $E=====3006=====
 //「辺境(へんきょう)の大樹海(
 //だいじゅかい)、
 <LABEL=RITA>Lita</LABEL>:
-That Ancient Tree you
+"That Ancient Tree you
 helped,
 $E=====3007=====
 //<NAME>さまをお救いくださった古(いにしえ)の大樹(たいじゅ)さまとは・・・
@@ -11518,7 +11515,7 @@ $E=====3096=====
 //いつでも来てくれよ?」
 If ya ever need accessories,
 you know where to come,
-dude.
+dude."
 $E=====3097=====
 <PROC=0>
 <END>
@@ -12149,7 +12146,7 @@ $E=====3218=====
 //ての、基本を学ぶことができる
 //ぞ」
 <LABEL=SMITH></LABEL>They'll help you study the
-basics of SOLARSMITH.
+basics of SOLARSMITH."
 $E=====3219=====
 <PROC=0>
 <END>
@@ -12762,7 +12759,7 @@ $E=====3337=====
 //<LABEL=SMITH>スミス</LABEL>
 //「太陽鍛冶(たいようかじ)にお
 //いて、
-<LABEL=SMITH>Smith/LABEL>:
+<LABEL=SMITH>Smith</LABEL>:
 "When using SOLARFORGE,
 $E=====3338=====
 //相性(あいしょう)の良くないア
@@ -13127,7 +13124,7 @@ $E=====3406=====
 $E=====3407=====
 //エナジーを回復するには太陽の
 //光が必要だが、
-You need sunligh in order
+You need sunlight in order
 to recharge your energy,
 $E=====3408=====
 //強すぎる光を浴び続けたり、長
@@ -13838,7 +13835,7 @@ $E=====3546=====
 "Are you happy with that?
 $E=====3547=====
 //それとも・・・
-or...
+Or...
 $E=====3548=====
 //もうちょっと刺激的(しげきて
 //き)なごほうびの方が、良かっ
@@ -13877,7 +13874,7 @@ $E=====3555=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-Looks like you took down a
+"Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3556=====
 //グール+の賞品は、レアアイテ
@@ -13895,14 +13892,14 @@ $E=====3559=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-It seems you took out a
+"Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3560=====
 //マミー+の賞品は、300ソル相当
 //のアクセサリーだったわね
 The reward for defeating the
-Mummy + is an accessory worth
-300 Soll.
+Mummy + is an accessory
+worth 300 Soll.
 $E=====3561=====
 //さぁて、何が出るかしら?」
 Now, what might it be?"
@@ -13914,14 +13911,14 @@ $E=====3563=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-Looks like you took down a
+"Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3564=====
 //ゴーレム+の賞品は、400ソル相
 //当のアクセサリーだったわね
 The reward for defeating the
-Golem + is an accessory worth
-400 Soll.
+Golem + is an accessory
+worth 400 Soll.
 $E=====3565=====
 //さぁて、何が出るかしら?」
 Now, what might it be?"
@@ -13933,7 +13930,7 @@ $E=====3567=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-Looks like you took down a
+"Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3568=====
 //ハウンド+の賞品は、500ソル相
@@ -13953,7 +13950,7 @@ $E=====3571=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-Looks like you took down a
+"Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3572=====
 //ヴォーン+の賞品は、600ソル相
@@ -13973,7 +13970,7 @@ $E=====3575=====
 //「ワンテッドモンスターをしと
 //めたようね、<NAME>くん!!
 <LABEL=LADY>Lady</LABEL>:
-Looks like you took down a
+"Looks like you took down a
 Wanted monster, <NAME>!
 $E=====3576=====
 //スケルトン+の賞品は、600ソル
@@ -14829,8 +14826,8 @@ $E=====3737=====
 //んから注意しぃや?
 //ご利用は計画的に、や」
 But yer gotta pay back what
-yer borrow, got it? So use
-it wisely."
+yer borrow, kay? So use it
+wisely."
 $E=====3738=====
 <PROC=0>
 <END>
@@ -15169,11 +15166,11 @@ $E=====3803=====
 <LABEL=ZAJI>Zazie</LABEL>:
 "If you want to experience
 everything there is to do...
-$U=====3804=====
+$E=====3804=====
 //いっぺんくらい、レベル99目指
 //してみたらどうや?」
-いっぺんくらい, why don't you
-try to get to level 99?"
+just for kicks, why don't
+you try to get to level 99?"
 $E=====3805=====
 <PROC=0>
 <END>
@@ -16657,7 +16654,7 @@ $E=====4105=====
 //わすれちゃったの?
 <LABEL=SUMIRE>Girl in White Apron</LABEL>:
 "Did you really forget about
-me, <NAME>?"
+me, <NAME>?
 $E=====4106=====
 <PROC=0>
 <END>
@@ -16679,7 +16676,7 @@ $E=====4110=====
 //心しないなぁ・・・」
 <LABEL=NONE>???</LABEL>:
 "Nice going, making a little
-girl cry...
+girl cry..."
 $E=====4111=====
 <PROC=0>
 <END>
@@ -17082,7 +17079,7 @@ $E=====4191=====
 //「棺桶(かんおけ)バイクを構成
 //(こうせい)する、
 <LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
-The Coffin Bike is composed
+"The Coffin Bike is composed
 of various parts.
 $E=====4192=====
 //基本(きほん)パーツはフロント
@@ -17221,7 +17218,7 @@ $E=====4216=====
 //「棺桶(かんおけ)バイクのパー
 //ツ、オプションは
 <LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
-Bike Options are special
+"Bike Options are special
 parts,
 $E=====4217=====
 //ボディのスロット数におうじて
@@ -17636,7 +17633,7 @@ $E=====4306=====
 //出発するぞ!」
 <NAME>, make your
 preparations, and let's get
-going!
+going!"
 $E=====4307=====
 <PROC=0>
 <END>
@@ -17948,7 +17945,7 @@ $E=====4367=====
 //「ふたたびおとずれることにな
 //ろうとはな・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-It looks like we're headed
+"It looks like we're headed
 for the Dark Castle again...
 $E=====4368=====
 //闇の女王(クイーン・オブ・イ
@@ -22446,7 +22443,7 @@ $E=====5324=====
 //オマエの答えを判定(はんてい)
 //するぞ?」
 // <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
-Ready for judgement?
+Ready for judgement?"
  <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
 $E=====5325=====
 <PROC=0>
@@ -22654,7 +22651,7 @@ $E=====5368=====
 //「われは黒ひげの三兄弟が三男
 //ジャック
 Red Ghost:
-I am the third Blackbeard
+"I am the third Blackbeard
 Brother, Jack.
 $E=====5369=====
 //われが出すは、算術(さんじゅ
@@ -22704,7 +22701,7 @@ $E=====5379=====
 //「われは黒ひげの三兄弟が次男
 //ジョージ
 Blue Ghost:
-I am the second Blackbeard
+"I am the second Blackbeard
 Brother, George.
 $E=====5380=====
 //われが出すは、推理(すいり)の
@@ -22754,7 +22751,7 @@ $E=====5390=====
 //「われは黒ひげの三兄弟が長男
 //ジョン
 Blue Ghost:
-I am the eldest Blackbeard
+"I am the eldest Blackbeard
 Brother, John.
 $E=====5391=====
 //われが出すは、懺悔(ざんげ)の
@@ -24315,7 +24312,7 @@ Now there's nothing to get
 in our way.
 $E=====5730=====
 //世界は・・・終わる」
-"The world... shall end."
+The world... shall end."
 $E=====5731=====
 <PROC=0>
 <END>
@@ -24397,11 +24394,12 @@ $E=====5746=====
 //「相変わらずのようだな。
 //太陽の使者、おてんこよ
 <LABEL=NONE>Count</LABEL>:
-Same as always. Messenger of
-the Sun, Otenko...
+"Same as always.
+Come now, Otenko,
 $E=====5747=====
 //わすれたわけではあるまい?
-Surely you haven't
+Messenger of the Sun...
+surely you haven't
 forgotten?
 $E=====5748=====
 //わたしはヴァンパイア・ロード
@@ -25358,7 +25356,7 @@ $E=====5947=====
 //勝てるわけないだろ?」
 // <ALTER>勝てる</ALTER>  <ALTER>分からない</ALTER>
 <LABEL=TRINITY></LABEL>a human can't possibly win
-against an Immortal, right?
+against an Immortal, right?"
  <ALTER>I'll win</ALTER>  <ALTER>I don't know</ALTER>
 $E=====5948=====
 <PROC=0>
@@ -25378,7 +25376,7 @@ $E=====5951=====
 //もっともオイラのいた世界には
 //そんなヤツいなかったけどな」
 Though there's no one like
-that in the world I'm from.
+that in the world I'm from."
 $E=====5952=====
 <PROC=0>
 <END>
@@ -25616,7 +25614,7 @@ Are you prepared,
 $E=====5998=====
 //兄をたおす覚悟(かくご)は?」
 Prepared to kill your
-brother?
+brother?"
 $E=====5999=====
 <PROC=0>
 <END>
@@ -25651,7 +25649,7 @@ $E=====6006=====
 //「オイラはトレジャーハンター
 //未来少年トリニティ!!
 <LABEL=TRINITY>Trinity</LABEL>:
-I'm Future Boy Trinity,
+"I'm Future Boy Trinity,
 treasure hunter!
 $E=====6007=====
 //ヴァンパイア・ロード、伯爵(
@@ -25888,7 +25886,7 @@ $E=====6056=====
 //「闇の一族(イモータル)の源(
 //みなもと)、
 <LABEL=OTENKO>Master Otenko</LABEL>:
-Incineration of the Dark
+"Incineration of the Dark
 Matter,
 $E=====6057=====
 //暗黒物質(ダークマター)の焼却
@@ -25906,7 +25904,7 @@ $E=====6059=====
 //見事だ、
 //太陽少年<NAME>!!」
 Good work,
-Solar Boy <NAME>!
+Solar Boy <NAME>!"
 $E=====6060=====
 //<LABEL=NONE>???</LABEL>
 //<PROC=1><LOCK=20>「クックックッ・・・
@@ -27651,7 +27649,7 @@ $E=====6436=====
 $E=====6437=====
 //この森のどこかにサバタが
 //・・・」
-"Sabata is somewhere in
+Sabata is somewhere in
 here..."
 $E=====6438=====
 //<LABEL=NONE>???</LABEL>
@@ -27814,7 +27812,7 @@ $E=====6469=====
 <END>
 $E=====6470=====
 //<LABEL=OTENKO></LABEL>行けるな、<NAME>?」
-<LABEL=OTENKO></LABEL>"Shall we go, <NAME>?"
+<LABEL=OTENKO></LABEL>Shall we go, <NAME>?"
 $E=====6471=====
 <PROC=0>
 <END>
@@ -27927,7 +27925,7 @@ $E=====6497=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「すまない、カーミラ
 <LABEL=SABATA>Sabata</LABEL>:
-I'm sorry, Carmilla.
+"I'm sorry, Carmilla.
 $E=====6498=====
 //月下美人を救うには・・・
 To save the Moon Beauty...
@@ -28498,8 +28496,8 @@ $E=====6623=====
 //行くぞぉ!
 //行くぞ行くぞ行くぞ行くぞ
 //行くぞぉ、<NAME>!!
-Let's go! Let's go
-let's go let's go!
+Let's go! Let's go,
+let's go, let's go!
 Let's go, <NAME>!
 $E=====6624=====
 //太陽と暗黒、今ふたたび雌雄(
@@ -28886,12 +28884,14 @@ $E=====6707=====
 //「ヘッ、
 //口じゃあ何とでも言えるさ
 <LABEL=TRINITY>Trinity</LABEL>:
-Oh, what's that yer sayin'?
+"Heh.
+Say whatever you want,
 $E=====6708=====
 //テメェはヤツをたおした・・・
 //それが現実だろ?
-You killed 'im...
-ain't that the truth of it?
+but you're the ones who
+killed him...
+ain't that right?
 $E=====6709=====
 <PROC=0>
 <END>
@@ -29566,7 +29566,7 @@ $E=====6859=====
 //わたしはいったい・・・
 //だれなの?
 who...
-am I?
+am I?"
 $E=====6860=====
 <PROC=0>
 <END>
@@ -29588,7 +29588,7 @@ $E=====6864=====
 //「このおれが月下美人になろう
 //とはな・・・
 <LABEL=SABATA>Sabata</LABEL>:
-I don't believe it... me...
+"I don't believe it... me...
 a Moon Beauty...
 $E=====6865=====
 //<LABEL=SABATA></LABEL>われながら悪い冗談(じょうだ
@@ -29606,7 +29606,7 @@ $E=====6867=====
 $E=====6868=====
 //<LABEL=SABATA></LABEL>もしそんなものがあるとしたら
 //それはカーミラの心・・・
-<LABEL=SABATA></LABEL>But if I do then it must be
+<LABEL=SABATA></LABEL>But if I do, then it must be
 from Carmilla...
 $E=====6869=====
 //暗黒物質(ダークマター)と共に
@@ -32334,15 +32334,15 @@ $E=====7467=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「今ごろ何をしていることやら
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"What are we doing now,
-anyway?
+"I wonder what he's doing
+now, anyway?
 $E=====7468=====
 //まさかこの暗黒城(あんこくじ
 //ょう)にまで、追いかけてくる
 //ことはないだろうが・・・」
-We're not going to catch up
-with him in the Dark Castle,
-are we...?"
+There's no way he'd follow
+us as far as the Dark
+Castle, right...?"
 $E=====7469=====
 //<LABEL=NONE>亡霊(ぼうれい)</LABEL>
 //「おーい・・・」
@@ -32352,10 +32352,12 @@ $E=====7470=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「やはり心配だな
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"This is quite a problem.
-$U=====7471=====
-スミスにでも、あずけておくべ
-きだったか・・・」
+"I'm definitely worried.
+$E=====7471=====
+//スミスにでも、あずけておくべ
+//きだったか・・・」
+We should have left him with
+Smith..."
 $E=====7472=====
 <PROC=0>
 <END>
@@ -33268,8 +33270,7 @@ $E=====7668=====
 $E=====7669=====
 //母ちゃんの・・・
 //最後の言葉をよ
-"My mom's...
-last words.
+My mom's... last words.
 $E=====7670=====
 //オイラと母ちゃんは、伝説の
 //戦士をさがして旅を続けた
@@ -33437,7 +33438,7 @@ $E=====7708=====
 //とうとう追いつめたぞ!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
 "Ratatosk the Puppeteer!
-We've finally cornered you!
+We've finally cornered you!"
 $E=====7709=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //「お待ちしていましたよ。
@@ -33752,7 +33753,7 @@ $E=====7779=====
 //うかん)し、やつを浄化(じょう
 //か)するぞ!
 Now to summon the Pile
-Driver, and purify him!"
+Driver and purify him!
 $E=====7780=====
 //パイルドライバーの起動には太
 //陽の光が必要だ
@@ -33774,7 +33775,7 @@ $E=====7784=====
 //「では、パイルドライバーを召
 //喚(しょうかん)する!!」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Okay, I summon the Pile
+"Okay, I'll summon the Pile
 Driver!"
 $E=====7785=====
 <PROC=0>
@@ -34168,7 +34169,8 @@ Matter...
 $E=====7867=====
 //それはおれに暗黒の力をあたえ
 //はしたが・・・
-It gave me dark powers...
+It gave me the power of
+Darkness,
 $E=====7868=====
 //同時におれの身体と・・・
 //・・・心を蝕(むしば)んだ
@@ -35224,7 +35226,7 @@ $E=====8101=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「こ、これは!?」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Th-that was...!?
+"Th-that was...!?"
 $E=====8102=====
 <PROC=0>
 <END>
@@ -35340,7 +35342,7 @@ $E=====8125=====
 //もうこれ以上、だれかを犠牲(
 //ぎせい)になんてできないよ!」
 I can't let any more people
-be sacrificed!
+be sacrificed!"
 $E=====8126=====
 <PROC=0>
 <END>
@@ -37986,7 +37988,7 @@ the <WEIGHT>A Button</WEIGHT>,
 $E=====8709=====
 //だが、太陽の光のとどかない屋
 //内エリアではそうはいかない
-but not in indoor areas
+but not in indoor areas,
 where the sun's light
 doesn't shine.
 $E=====8710=====
@@ -38866,7 +38868,7 @@ $U=====8878=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「この気配は・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-Be careful...
+"This ominous feeling...
 $E=====8879=====
 <PROC=0>
 <END>
@@ -38874,8 +38876,9 @@ $E=====8880=====
 //<LABEL=OTENKO></LABEL>あれは暗黒物質(ダークマター)
 //によって形作られた闇(やみ)の
 //精霊(せいれい)、
-<LABEL=OTENKO></LABEL>those are Dark spirits,
-formed out of Dark Matter.
+<LABEL=OTENKO></LABEL>It's those Dark spirits,
+which are formed from Dark
+Matter itself.
 $E=====8881=====
 //ファントム(幻影)タイプのモン
 //スター、クロロホルルンだ
@@ -40050,8 +40053,7 @@ $E=====9122=====
 $E=====9123=====
 //<LABEL=OTENKO></LABEL>まずは南側、船首に向かい、舵
 //輪(だりん)を調べてみよう」
-<LABEL=OTENKO></LABEL>
-first head south, towards
+<LABEL=OTENKO></LABEL>first head south, towards
 the bow, and check out the
 helm."
 $E=====9124=====
@@ -40485,7 +40487,7 @@ $E=====9217=====
 //か)、3種類のハウンド
 It's the place with lava,
 slippery floors, and 3 types
-of Hound,
+of hounds,
 $E=====9218=====
 //そして、サバタとの対決・・・
 and it's where we confronted
