@@ -60,9 +60,9 @@ Open the treasure chest!
 $E=====16=====
 <PROC=0>
 <END>
-$U=====17=====
+$E=====17=====
 //なんかしろ
-Something like that.
+Do something.
 $E=====18=====
 <PROC=0>
 <END>
@@ -130,15 +130,16 @@ $E=====33=====
 $E=====34=====
 <PROC=0>
 <END>
-$U=====35=====
+$E=====35=====
 //ナントカカントカ!
-Something or other!
+   Do something or other!
 $E=====36=====
 <PROC=0>
 <END>
-$U=====37=====
+$E=====37=====
 //ナントカカントカパトローナム!
-Something or other Patronum!
+   Do something or other
+         Patronum!
 $E=====38=====
 <PROC=0>
 <END>
@@ -4929,7 +4930,7 @@ $E=====1572=====
 <END>
 $E=====1573=====
 <EXTEND=0>
-$U=====1574=====
+$Q=====1574=====
 //<LABEL=RITA>リタ</LABEL>
 //ここにデモが入りますわ。
 <LABEL=RITA>Lita</LABEL>:
@@ -4939,7 +4940,7 @@ $E=====1575=====
 <END>
 $E=====1576=====
 <EXTEND=0>
-$U=====1577=====
+$Q=====1577=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //ここはパネルが入るんやで。
 <LABEL=ZAJI>Zazie</LABEL>:
@@ -4949,7 +4950,7 @@ $E=====1578=====
 <END>
 $E=====1579=====
 <EXTEND=0>
-$U=====1580=====
+$Q=====1580=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //ここに会話が入るよ。
 <LABEL=ROCKMAN>RockMan</LABEL>:
@@ -8040,7 +8041,7 @@ Press <WEIGHT>START</WEIGHT> to begin the battle. Press the <WEIGHT>B Button</WE
 $E=====2239=====
 //コースを設定中です。しばらくお待ちください。
 Creating course. Please wait.
-$U=====2240=====
+$C=====2240=====
 //強い日差しや気温の変化に注意
 //して、もう一度対戦しますか?
 Battle again? Be careful around strong sunlight and high temperatures.
@@ -8808,16 +8809,16 @@ $E=====2462=====
 $E=====2463=====
 //        バイクバトル
         BIKE BATTLE
-$U=====2464=====
+$C=====2464=====
 //最初のステージを体験プレイ!!
 Try beginner stage!
-$U=====2465=====
+$C=====2465=====
 //バトルドライブと新・ジャンゴを体験プレイ!!
 Try Battle Drive with New Django!
-$U=====2466=====
+$C=====2466=====
 //バイクのカスタマイズとアクションを体験プレイ!!
 Try Bike Custom and Bike Action!
-$U=====2467=====
+$C=====2467=====
 //バイクによる二人用通信対戦を体験プレイ!!
 Try 2-Player Link Battle!
 $X=====2468=====
@@ -9310,7 +9311,7 @@ $E=====2587=====
 Attacks include Feather Darts, Tornado, Squall, Bomb Raid, and Shrike Drop.
 $U=====2588=====
 //暗黒ショット、暗黒ゴマ、アイスランス、ファイヤーボールなどで攻撃(こうげき)する。雪がくれを使う。
-Attacks include Dark Shot, Dark Seeds, Ice Lens, and Fire Ball. Uses snow.
+Attacks include Dark Goma, Dark Seeds, Ice Lens, and Fire Ball. Uses snow.
 // 暗黒ゴマ?
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
@@ -9636,7 +9637,7 @@ $E=====2713=====
 Escape Mission
 $E=====2714=====
 //ダンジョンを探索する
-Search the Dungeon
+Explore the Dungeon
 $E=====2715=====
 ???
 $E=====2716=====
@@ -12319,11 +12320,9 @@ he fought many life-and-
 death battles in the City of
 Death, Istrakan.
 $U=====3257=====
-//ようやく、本来のあるべき姿(
-//すがた)へともどれたというの
-//に・・・
-They say he finally returned
-to his original form...
+ようやく、本来のあるべき姿(
+すがた)へともどれたというの
+に・・・
 $E=====3258=====
 //やはり闇(やみ)の戦士、暗黒少
 //年であることからは、のがれら
@@ -12628,11 +12627,8 @@ to protect all life on this
 land watched over by the
 sun and moon,
 $U=====3313=====
-//確実に、おまえたち兄弟の中に
-//息づいているようじゃな
-between the two of you it
-shouldn't be too daunting a
-task.
+確実に、おまえたち兄弟の中に
+息づいているようじゃな
 $E=====3314=====
 //<NAME>・・・
 <NAME>...
@@ -14774,7 +14770,7 @@ $U=====3728=====
 //それホンマなん?
 Izzat so, <NAME>...
 That's the truth?
-$U=====3729=====
+$E=====3729=====
 //うちからの借金、チャラにしよ
 //う思て、フリしとるだけちゃう
 //やろな?
@@ -15902,7 +15898,7 @@ $E=====3942=====
 // <ALTER>狂ってる</ALTER>　<ALTER>狂ってない</ALTER>
 <LABEL=CLOCK></LABEL>You dare tell me my clock's
 wrong!?"
-<ALTER>It's wrong</ALTER>  <ALTER>It's not wrong</ALTER>
+ <ALTER>It's wrong</ALTER>  <ALTER>It's not wrong</ALTER>
 $E=====3943=====
 <PROC=0>
 <END>
@@ -17191,7 +17187,7 @@ $E=====4211=====
 <LABEL=COFFIN>Coffin Shopkeeper</LABEL>:
 "Some Bike Parts are found
 through other means,
-$U=====4212=====
+$C=====4212=====
 //ダンジョンでの特殊任務(ミッ
 //ション)や、サーキットでのパ
 //イクアクションで、
@@ -18063,7 +18059,7 @@ power...
 $U=====4388=====
 //その地で今、何を思う?」
 I wonder what he's thinking
-in that land?"
+now, in that place?"
 $E=====4389=====
 <PROC=0>
 <END>
@@ -18611,9 +18607,11 @@ $U=====4494=====
 何でも、その闘技場(とうぎじ
 ょう)を作ったのは、[くれない
 の何も?]とかいう男らしいが、
-$U=====4495=====
-そんな大変な戦いをさせておい
-て・・・
+$E=====4495=====
+//そんな大変な戦いをさせておい
+//て・・・
+but taking on such a
+difficult fight...
 $U=====4496=====
 本当に何もくれないのか?」
 $E=====4497=====
@@ -18851,13 +18849,13 @@ on the inside!"
 $E=====4547=====
 <PROC=0>
 <END>
-$U=====4548=====
+$E=====4548=====
 //<LABEL=GARIGARIKUN>ガリガリ君</LABEL>
 //「じゃあ行くぞ?
 //せーのっ、
 <LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Ready?
-せーのっ、
+Say it with me,
 $E=====4549=====
 //ガリッガリッガリッガリッ!!
 //ガリガリッくん!
@@ -18929,7 +18927,7 @@ $E=====4563=====
 //せーのっ、
 <LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Ready?
-せーのっ、
+Say it with me,
 $E=====4564=====
 //ガリッガリッガリッガリッ!!
 //ガリガリッくん!
@@ -18989,7 +18987,7 @@ $E=====4576=====
 //せーのっ、
 <LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Ready?
-せーのっ、
+Say it with me,
 $E=====4577=====
 //ガリッガリッガリッガリッ!!
 //ガリガリッくん!
@@ -19056,7 +19054,7 @@ $E=====4590=====
 //せーのっ、
 <LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Ready?
-せーのっ、
+Say it with me,
 $E=====4591=====
 //ガリッガリッガリッガリッ!!
 //ガリガリッくん!
@@ -20936,7 +20934,7 @@ $E=====4978=====
 //足音しのばせれば・・・
 //ヤツはあらわれる!」
 "In the Lifeless Town, when
-your footsteps ring out...
+your footsteps are silent...
 it will appear!"
 $E=====4979=====
 <PROC=0>
@@ -20951,7 +20949,7 @@ it will appear!"
 $E=====4981=====
 <PROC=0>
 <END>
-$U=====4982=====
+$E=====4982=====
 //「白き森、
 //肉にさそわれ・・・
 //ヤツはあらわれる!」
@@ -20961,22 +20959,22 @@ it will appear!"
 $E=====4983=====
 <PROC=0>
 <END>
-$U=====4984=====
+$E=====4984=====
 //暗黒城(あんこくじょう)、
 //闇(やみ)にまぎれて・・・
 //ヤツはあらわれる!」
-"In the Dark Castle, plunged
-into darkness...
+"When the Dark Castle is
+cloaked in darkness...
 it will appear!"
 $E=====4985=====
 <PROC=0>
 <END>
-$U=====4986=====
+$E=====4986=====
 //「海賊(かいぞく)の島、
 //道具持たざれば・・・
 //ヤツはあらわれる!」
-"In Pirate Island, with the
-tool in hand...
+"In Pirate Island, when you
+have no items...
 it will appear!"
 $E=====4987=====
 <PROC=0>
@@ -22571,11 +22569,11 @@ Heeheeheehee!!"
 $E=====5352=====
 <PROC=0>
 <END>
-$U=====5353=====
+$E=====5353=====
 //ジョニー
 //「ドッゲェーッ!!
 Johnny:
-"Dgeh!
+"G-g-gahh!
 $E=====5354=====
 //ジョンアニキの問題に正解(せ
 //いかい)するとは・・・!!
@@ -24346,8 +24344,8 @@ $U=====5736=====
 //マター)の命ずるままに、世界
 //をほろぼそうというのか?
 If your Dark Matter stays in
-command like this, will you
-destroy the world?
+command like this, could you
+really destroy the world?
 $E=====5737=====
 //だが・・・
 Although...
@@ -26076,6 +26074,7 @@ it'll bring me some luck!
 $U=====6096=====
 そうと決まれば・・・カネヅル
 をにがしてたまるか!!」
+// If that's settled... my source of money is getting away ?
 $E=====6097=====
 <PROC=0>
 <END>
@@ -26517,22 +26516,22 @@ Hresvelgr!
 $U=====6189=====
 //伯爵(はくしゃく)と追いかけっ
 //このところを悪いんだけど、
-I know you've been chasing
-after the Count recently,
-$U=====6190=====
+I know you're trying to
+catch up with the Count at
+the moment,
+$E=====6190=====
 //少しだけボクの食事につき合っ
 //てくれないかな?
-but won't you keep my meal
-company for a while?
+but won't you join me for a
+quick meal?
 $E=====6191=====
 //あぁ、料理の心配ならいらない
 //よ
-Oh, I won't bother cooking
-it...
-$U=====6192=====
+Ahh, no need to cook...
+$E=====6192=====
 //ボク・・・
 //好ききらいはしないから!!」
-I can eat anything!"
+I'll eat anything!"
 $E=====6193=====
 <PROC=0>
 <END>
