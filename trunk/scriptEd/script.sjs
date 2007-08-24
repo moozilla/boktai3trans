@@ -2240,145 +2240,145 @@ $E=====816=====
 MY BIKE
 $E=====817=====
 //グラディウス<EXTEND=0>
-GRADIUS<EXTEND=0>
+GRADIUS <EXTEND=0>
 $E=====818=====
 //エストック<EXTEND=0>
-ESTOC<EXTEND=0>
+ESTOC <EXTEND=0>
 $E=====819=====
 //コピス<EXTEND=0>
-KOPIS<EXTEND=0>
+KOPIS <EXTEND=0>
 $E=====820=====
 //ショートソード<EXTEND=0>
-SHORT SWORD<EXTEND=0>
+SHORT SWORD <EXTEND=0>
 $E=====821=====
 //ツヴァイハンダー<EXTEND=0>
-ZWEIHANDER<EXTEND=0>
+ZWEIHANDER <EXTEND=0>
 $E=====822=====
 //レイピア<EXTEND=0>
-RAPIER<EXTEND=0>
+RAPIER <EXTEND=0>
 $E=====823=====
 //ブロンズエッジ<EXTEND=0>
-BRONZE EDGE<EXTEND=0>
+BRONZE EDGE <EXTEND=0>
 $E=====824=====
 //陽炎<EXTEND=0>
-KAGEROU<EXTEND=0>
+KAGEROU <EXTEND=0>
 $E=====825=====
 //ブロードソード<EXTEND=0>
-BROADSWORD<EXTEND=0>
+BROADSWORD <EXTEND=0>
 $E=====826=====
 //黒金の剣<EXTEND=0>
-IRON SWORD<EXTEND=0>
+IRON SWORD <EXTEND=0>
 $E=====827=====
 //エペ<EXTEND=0>
-EPEE<EXTEND=0>
+EPEE <EXTEND=0>
 $E=====828=====
 //カッツバルゲル<EXTEND=0>
-KATZBALGER<EXTEND=0>
+KATZBALGER <EXTEND=0>
 $E=====829=====
 //ワイルドローズ<EXTEND=0>
-WILD ROSE<EXTEND=0>
+WILD ROSE <EXTEND=0>
 $E=====830=====
 //ファルカタ<EXTEND=0>
-FALCATA<EXTEND=0>
+FALCATA <EXTEND=0>
 $E=====831=====
 //不知火<EXTEND=0>
-SHIRANUI<EXTEND=0>
+SHIRANUI <EXTEND=0>
 $E=====832=====
 //アイアンブレード<EXTEND=0>
-IRON BLADE<EXTEND=0>
+IRON BLADE <EXTEND=0>
 $E=====833=====
 //フランベルジェ<EXTEND=0>
-FLAMBERGE<EXTEND=0>
+FLAMBERGE <EXTEND=0>
 $E=====834=====
 //ファルシオン<EXTEND=0>
-FALCHION<EXTEND=0>
+FALCHION <EXTEND=0>
 $E=====835=====
 //クレイモア<EXTEND=0>
-CLAYMORE<EXTEND=0>
+CLAYMORE <EXTEND=0>
 $E=====836=====
 //サーベル<EXTEND=0>
-SABER<EXTEND=0>
+SABER <EXTEND=0>
 $E=====837=====
 //シルバーエッジ<EXTEND=0>
-SILVER EDGE<EXTEND=0>
+SILVER EDGE <EXTEND=0>
 $E=====838=====
 //深山<EXTEND=0>
-SHINZAN<EXTEND=0>
+SHINZAN <EXTEND=0>
 $E=====839=====
 //スキアヴォーナ<EXTEND=0>
-SCHIAVONA<EXTEND=0>
+SCHIAVONA <EXTEND=0>
 $E=====840=====
 //鋼鉄の剣<EXTEND=0>
-STEEL SWORD<EXTEND=0>
+STEEL SWORD <EXTEND=0>
 $E=====841=====
 //パラッシュ<EXTEND=0>
-PALLASCH<EXTEND=0>
+PALLASCH <EXTEND=0>
 $E=====842=====
 //バスタードソード<EXTEND=0>
-BASTARD SWORD<EXTEND=0>
+BASTARD SWORD <EXTEND=0>
 $E=====843=====
 //ブラッディローズ<EXTEND=0>
-BLOODY ROSE<EXTEND=0>
+BLOODY ROSE <EXTEND=0>
 $E=====844=====
 //コラ<EXTEND=0>
-KORA<EXTEND=0>
+KORA <EXTEND=0>
 $E=====845=====
 //桜花<EXTEND=0>
-SAKURABANA<EXTEND=0>
+SAKURABANA <EXTEND=0>
 $E=====846=====
 //名を持たぬ名剣<EXTEND=0>
-NAMELESS SWORD<EXTEND=0>
+NAMELESS SWORD <EXTEND=0>
 $E=====847=====
 //グレートソード<EXTEND=0>
-GREATSWORD<EXTEND=0>
+GREATSWORD <EXTEND=0>
 $E=====848=====
 //アイスエッジ<EXTEND=0>
-ICE EDGE<EXTEND=0>
+ICE EDGE <EXTEND=0>
 $E=====849=====
 //エアブレード<EXTEND=0>
-AIR BLADE<EXTEND=0>
+AIR BLADE <EXTEND=0>
 $E=====850=====
 //キングオブソード<EXTEND=0>
-KING OF SWORDS<EXTEND=0>
+KING OF SWORDS <EXTEND=0>
 $E=====851=====
 //プライムローズ<EXTEND=0>
-PRIME ROSE<EXTEND=0>
+PRIME ROSE <EXTEND=0>
 $E=====852=====
 //ダマスカスエッジ<EXTEND=0>
-DAMASCUS EDGE<EXTEND=0>
+DAMASCUS EDGE <EXTEND=0>
 $E=====853=====
 //秋水<EXTEND=0>
-SHUUSUI<EXTEND=0>
+SHUUSUI <EXTEND=0>
 $E=====854=====
 //グラム<EXTEND=0>
-GRAM<EXTEND=0>
+GRAM <EXTEND=0>
 $E=====855=====
 //プラチナブレード<EXTEND=0>
-PLATINUM BLADE<EXTEND=0>
+PLATINUM BLADE <EXTEND=0>
 $E=====856=====
 //金剛の剣<EXTEND=0>
-ADAMANT SWORD<EXTEND=0>
+ADAMANT SWORD <EXTEND=0>
 $E=====857=====
 //ブルーローズ<EXTEND=0>
-BLUE ROSE<EXTEND=0>
+BLUE ROSE <EXTEND=0>
 $E=====858=====
 //サンダーエッジ<EXTEND=0>
-THUNDER EDGE<EXTEND=0>
+THUNDER EDGE <EXTEND=0>
 $E=====859=====
 //村雨<EXTEND=0>
-MURASAME<EXTEND=0>
+MURASAME <EXTEND=0>
 $E=====860=====
 //ファイアブレード<EXTEND=0>
-FIRE BLADE<EXTEND=0>
+FIRE BLADE <EXTEND=0>
 $E=====861=====
 //大地の剣<EXTEND=0>
-SWORD OF EARTH<EXTEND=0>
+SWORD OF EARTH <EXTEND=0>
 $E=====862=====
 //ブレードオブソル<EXTEND=0>
-SOL BLADE<EXTEND=0>
+SOL BLADE <EXTEND=0>
 $E=====863=====
 //不滅の剣<EXTEND=0>
-IMMORTAL SWORD<EXTEND=0>
+IMMORTAL SWORD <EXTEND=0>
 $E=====864=====
 //ラビアンローズ
 LA VIE EN ROSE
@@ -3782,29 +3782,26 @@ May I help you?
 $E=====1327=====
 //<WEIGHT>{＋}ボタン</WEIGHT>の左右で、太陽エネル
 //ギーの移し替えができます。
-Move the <WEIGHT>{＋}Control Pad</WEIGHT> left
-or right to transfer solar
-energy.
+Move the <WEIGHT>{＋}Control Pad</WEIGHT> to
+transfer solar energy.
 $E=====1328=====
 //ありがとうございました!
 Thank you very much!
 $E=====1329=====
 //    ソル×(1+利息: )
 //=    ソル借ります。
-   Soll × (1+interest: )
-=   Soll owed.
+     Soll×(rate:  +1)
+=     Soll owed.
 $E=====1330=====
 //返済は<VAR=0>日後、太陽バンクから
 //の<WEIGHT>自動引き落し</WEIGHT>となります。
-The repaymwent will be
-<WEIGHT>automatically deducted</WEIGHT> from
-the Solar Bank in <VAR=0> days.
+We'll <WEIGHT>automatically</WEIGHT> deduct
+the amount due in <VAR=0> days.
 $E=====1331=====
 //限度ソルを超えるので、
 //これ以上お貸しできません。
-If you exceed the Soll
-limit, you won't be able to
-borrow any more.
+After you hit the limit, we
+won't lend you any more.
 $E=====1332=====
 //ご利用内容を選択してください
 Please select one of the
@@ -3818,8 +3815,7 @@ $E=====1334=====
 //今度はきちんと返済してくださ
 //いね、<NAME>さん。
 Please have the exact
-payment ready this time,
-<NAME>.
+payment ready next time.
 $E=====1335=====
 //本当に大丈夫なんですか?
 //<NAME>さん・・・
@@ -36385,7 +36381,7 @@ $E=====8357=====
 //<LABEL=KARMIRA>カーミラ</LABEL>
 //「さようなら、<NAME>
 <LABEL=KARMIRA>Carmilla</LABEL>:
-Goodbye, <NAME>.
+"Goodbye, <NAME>.
 $E=====8358=====
 //さようなら・・・
 //わたしが愛した暗黒少年
