@@ -12152,7 +12152,7 @@ $E=====3220=====
 //「鍛冶(かじ)か?」
 // <ALTER>鍛冶をする</ALTER>　<ALTER>話をする</ALTER>
 <LABEL=SMITH>Smith</LABEL>:
-"Forge something?
+"Forge something?"
  <ALTER>Forge</ALTER>  <ALTER>Talk</ALTER>
 $E=====3221=====
 //<LABEL=SMITH>スミス</LABEL>
@@ -15902,7 +15902,7 @@ $E=====3944=====
 //<LABEL=CLOCK>エンニオ</LABEL>
 //「ダメじゃ、ダメじゃ!!
 <LABEL=CLOCK>Ennio</LABEL>:
-"No, I tell you! No! 
+"No, I tell you! No!
 $E=====3945=====
 //今日はもう、時計の設定を変更
 //(へんこう)したじゃろう?
