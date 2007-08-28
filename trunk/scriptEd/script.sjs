@@ -9059,7 +9059,7 @@ $E=====2506=====
 //小島秀夫
 <WEIGHT>Special Thanks</WEIGHT>
 Ryken         Nur Monson
-Max Noda
+MAX
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
@@ -9890,7 +9890,7 @@ $E=====2771=====
 //るぎ)を交えてみたいものだ
 but I'd still like to try
 crossing swords with you
-sometime.
+again some time.
 $U=====2772=====
 //これも、哀(かな)しき戦士の性
 //(さが)だな・・・」
@@ -11172,6 +11172,7 @@ $E=====3030=====
 //「かつての闇の女王(クイーン)
 //との決戦の地、
 <LABEL=RITA>Lita</LABEL>:
+
 "The Dark Castle,
 $E=====3031=====
 //暗黒城(あんこくじょう)・・・
@@ -11181,18 +11182,18 @@ fought...
 $E=====3032=====
 //それが今ふたたび、動き始めた
 //だなんて・・・
-it's once again beginning to
-stir...
+It's beginning to move
+again...
 $E=====3033=====
 //<PROC=2>銀河意思(ダーク)は・・・
 <PROC=2>The Galaxy Universe, Dark...
-$U=====3034=====
+$E=====3034=====
 //生ける者はおろか・・・死した
 //者にさえ、安らぎをあたえては
 //くれないのでしょうか・・・」
-Living beings aside... it
-won't even let the dead rest
-in peace..."
+Not to mention the living,
+it won't even let the dead
+rest in peace..."
 $E=====3035=====
 <PROC=9>
 <PROC=0>
@@ -12302,19 +12303,19 @@ $E=====3254=====
 //最愛の息子・・・
 wandered around for many
 years searching for his
-beloved son...
+beloved son,
 $E=====3255=====
 //おさなくして闇の女王(クイー
 //ン)にさらわれた、おまえの兄
 //・・・
-Your brother, kidnapped at a
-young age by the Queen...
+kidnapped at a young age by
+the Queen... your brother.
 $E=====3256=====
 //死の都イストラカンでの数々の
 //死闘(しとう)をへて、
-he fought many life-and-
+He endured many life-and-
 death battles in the City of
-Death, Istrakan.
+Death, Istrakan,
 $U=====3257=====
 ようやく、本来のあるべき姿(
 すがた)へともどれたというの
@@ -14428,17 +14429,17 @@ $E=====3662=====
 //これで魔物(モンスター)による
 //人々への被害(ひがい)も、ずい
 //ぶんとへるはずよ
-With this, you've greatly
-diminished the damage monsters
-are doing to the people.
+This should really cut back
+the amount of damage done to
+people by those monsters.
 $E=====3663=====
 //あなたみたいに優秀(ゆうしゅ
 //う)なエージェントがいてくれ
 //ると、
-For such an excellent agent to
-come along,
+To have such an excellent
+agent as you,
 $E=====3664=====
-ギルドマスターも楽だわぁ
+//ギルドマスターも楽だわぁ
 your Guild Master is quite
 pleased.
 $E=====3665=====
@@ -14448,12 +14449,14 @@ $E=====3666=====
 //あなたは別に、組織(ギルド)の
 //エージェントってわけじゃなか
 //ったわね
-Being a Guild agent didn't
-really mean anything to you?
-$U=====3667=====
-いくら何でも、あまえすぎちゃ
-ったかしら?」
-//No matter how (good you are?), isn't that being too spoiled?"
+I didn't really mean you
+were an actual Guild Agent.
+$E=====3667=====
+//いくら何でも、あまえすぎちゃ
+//ったかしら?」
+Whatever the circumstances,
+I wouldn't want you getting
+too spoiled."
 $E=====3668=====
 <PROC=0>
 <END>
@@ -16653,8 +16656,8 @@ $E=====4106=====
 $E=====4107=====
 //<LABEL=SUMIRE></LABEL>スミレ、がんばっておるすばん
 //してたのに・・・
-<LABEL=SUMIRE></LABEL>I didn't give up hope... I
-even took care of your
+<LABEL=SUMIRE></LABEL>I didn't give up hope...
+I even took care of your
 house...
 $E=====4108=====
 //ひどいよう・・・
@@ -18487,7 +18490,7 @@ $U=====4471=====
 //そんなダボダボのハーフパンツ
 //で、寒くはないのか?」
 aren't you cold in those
-baggy half-pants?"
+baggy shorts?"
 // ダボダボ?
 $E=====4472=====
 <PROC=0>
@@ -18606,10 +18609,12 @@ $U=====4494=====
 $E=====4495=====
 //そんな大変な戦いをさせておい
 //て・・・
-but taking on such a
-difficult fight...
+but to put you through such
+difficult battles...
 $U=====4496=====
-本当に何もくれないのか?」
+//本当に何もくれないのか?」
+Do they really not give you
+anything?"
 $E=====4497=====
 <PROC=0>
 <END>
@@ -23163,8 +23168,7 @@ $E=====5483=====
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //「残念でしたね、サバタさん」
 <LABEL=RATA>Boy in White</LABEL>:
-"How very regrettable,
-Sabata."
+"What a pity, Sabata."
 $E=====5484=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「闇の一族(イモータル)!?」
@@ -24344,12 +24348,12 @@ command like this, could you
 really destroy the world?
 $E=====5737=====
 //だが・・・
-Although...
+But then...
 $E=====5738=====
 //あのサバタがふたたび闇の一族
 //(イモータル)に加わるとは考え
 //られん
-The Sabata I knew would
+the Sabata I knew would
 never think about joining
 the Immortals again.
 $E=====5739=====
@@ -24364,7 +24368,7 @@ $E=====5741=====
 //<LABEL=NONE>???</LABEL>
 //「クックックッ・・・
 <LABEL=NONE>???</LABEL>:
-"Hee hee hee...
+"Hee hee hee hee...
 $E=====5742=====
 //やはり生きていたか、
 //<NAME>!!」
@@ -24430,7 +24434,7 @@ $E=====5753=====
 //<PROC=1><LOCK=20>「クックックッ・・・
 //ならば教えてやろう
 <LABEL=NONE>Count</LABEL>:
-<PROC=1><LOCK=20>"Hee hee hee...
+<PROC=1><LOCK=20>"Hee hee hee hee...
 In that case, I'll tell you.
 $E=====5754=====
 //ヴァナルガンドの復活(ふっか
@@ -24483,7 +24487,7 @@ $E=====5762=====
 Can you kill your brother?
 $E=====5763=====
 //<PROC=1><LOCK=60>クッカッカッカッカッ!!
-<PROC=1><LOCK=60>Gwahahahaha!
+<PROC=1><LOCK=60>Gwahahahahahahaha!
 $E=====5764=====
 //その覚悟(かくご)があるのなら
 //・・・
@@ -26263,12 +26267,13 @@ $E=====6139=====
 //それにこの大きさだからね
 but it's still a Solar Tree.
 And such a large one, too.
-$U=====6140=====
+$E=====6140=====
 //あの大砲(たいほう)はおろか、
 //例のお城(しろ)だって動かせる
 //よ
-That cannon is foolish, we
-could use any old castle.
+It could even get the old
+castle working, not to
+mention that cannon.
 $E=====6141=====
 //そんなことより伯爵(はくしゃ
 //く)、
