@@ -4699,7 +4699,7 @@ $E=====1522=====
 //「大地の巫女リタ」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Earth Maiden Lita"
+"Earthly Maiden Lita"
 obtained!</LABEL><PROC=1>
 $E=====1523=====
 <PROC=0>
@@ -5866,7 +5866,7 @@ $E=====1757=====
 This is well done... ugh...
 $E=====1758=====
 //黒・コ・・ゲ・・・!!」
-so... charred...!"
+So... charred...!"
 $E=====1759=====
 <PROC=0>
 <END>
@@ -16648,7 +16648,7 @@ $E=====4105=====
 //<LABEL=SUMIRE>エプロンドレスの少女</LABEL>
 //「おにいちゃん、スミレのこと
 //わすれちゃったの?
-<LABEL=SUMIRE>Girl in White Apron</LABEL>:
+<LABEL=SUMIRE>Girl in Apron Dress</LABEL>:
 "Did you really forget about
 me, <NAME>?
 $E=====4106=====
@@ -20588,7 +20588,7 @@ $E=====4904=====
 //オラン島っていう島があるんだ
 //けど・・・
 there's a place called Oran
-island...
+Island...
 $E=====4905=====
 //そのエリア2に、[あるポイント
 //]を持っていくと、[ボクタイト
@@ -22007,7 +22007,7 @@ $E=====5214=====
 Solar Detective "Otante" doll. Finds Wanted monsters.
 $E=====5215=====
 //太陽バンクと暗黒ローンの受付嬢(うけつけじょう)、「陽子ちゃんと暗子ちゃん」のぬいぐるみ。あずけるとき、借りるときの利率とおしおきをサービスしてくれる。
-Solar Bank and Dark Loans receptionist "Luxana and Doomy" doll. Adjusts interest rates in your favor.
+Solar Bank and Dark Loans receptionists "Luxana and Doomy" doll. Adjusts interest rates in your favor.
 $E=====5216=====
 //ネットナビ「ロックマン」のぬいぐるみ。エナジーを回復(かいふく)してくれる。
 Net Navi "Rockman" doll. Fully restores your ENE.
@@ -23889,7 +23889,7 @@ $E=====5638=====
 $E=====5639=====
 //クソッ、ケツが2つにわれちま
 //うぜっ!!」
-Shit, that nearly split my
+Argh, that nearly split my
 ass in half!"
 $E=====5640=====
 <PROC=0>
@@ -24058,7 +24058,7 @@ $E=====5676=====
 $E=====5677=====
 //クソッ、ケツが2つにわれちま
 //うぜっ!!」
-Shit, that nearly split my
+Argh, that nearly split my
 ass in half!"
 $E=====5678=====
 <PROC=0>
@@ -24622,8 +24622,7 @@ $E=====5793=====
 //「くっ、
 //街中にアンデッドがっ!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Argh,
-undead in the city!
+"Argh, undead in the city!
 $E=====5794=====
 //伯爵(はくしゃく)の仕業か!?
 Is the Count behind this!?
@@ -24664,7 +24663,7 @@ $E=====5802=====
 $E=====5803=====
 //クソッ、ケツが2つにわれちま
 //うぜっ!」
-Damn, that nearly split my
+Argh, that nearly split my
 ass in half!"
 $E=====5804=====
 <PROC=0>
@@ -26119,7 +26118,7 @@ is the Earth Spirit, the
 Ancient Solar Tree.
 $E=====6106=====
 //だがこの気配(けはい)は・・・
-it has grown old, but that's
+It has grown old, but that's
 not what worries me...
 $E=====6107=====
 //単に老いているというだけでは
@@ -26432,7 +26431,7 @@ all...
 $E=====6172=====
 //クソッ、他人を当てにするなん
 //てオイラがバカだったぜ!!)
-damn, trustin' a stranger
+Damn, trustin' a stranger
 like that... how stupid of
 me!)
 $E=====6173=====
@@ -29941,7 +29940,7 @@ $E=====6941=====
 $E=====6942=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Shit, that nearly split my
+Argh, that nearly split my
 head in half!"
 $E=====6943=====
 <PROC=0>
@@ -30014,7 +30013,7 @@ $E=====6958=====
 $E=====6959=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Shit, that nearly split my
+Argh, that nearly split my
 head in half!"
 $E=====6960=====
 <PROC=0>
@@ -30132,7 +30131,7 @@ $E=====6986=====
 $E=====6987=====
 //クソッ、
 //今度は下からかよ!」
-Shit, this time it came from
+Argh, this time it came from
 below!"
 $E=====6988=====
 <PROC=0>
@@ -30217,7 +30216,7 @@ $E=====7006=====
 $E=====7007=====
 //クソッ、
 //今度は下からかよ!」
-Shit, this time it came from
+Argh, this time it came from
 below!"
 $E=====7008=====
 <PROC=0>
@@ -30325,7 +30324,7 @@ $E=====7031=====
 $E=====7032=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Shit, that nearly split my
+Argh, that nearly split my
 head in half!"
 $E=====7033=====
 <PROC=0>
@@ -30398,7 +30397,7 @@ $E=====7048=====
 $E=====7049=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Shit, that nearly split my
+Argh, that nearly split my
 head in half!"
 $E=====7050=====
 <PROC=0>
@@ -30516,7 +30515,7 @@ $E=====7076=====
 $E=====7077=====
 //クソッ、
 //今度は下からかよ!」
-Shit, this time it came from
+Argh, this time it came from
 below!"
 $E=====7078=====
 <PROC=0>
@@ -30601,7 +30600,7 @@ $E=====7096=====
 $E=====7097=====
 //クソッ、
 //今度は下からかよ!」
-Shit, this time it came from
+Argh, this time it came from
 below!"
 $E=====7098=====
 <PROC=0>
@@ -36835,7 +36834,7 @@ $E=====8455=====
 $E=====8456=====
 //クソッ、ケツが2つにわれちま
 //うじゃねぇかっ!」
-Damn, that nearly split my
+Argh, that nearly split my
 ass in half!"
 $E=====8457=====
 <PROC=0>
@@ -37291,7 +37290,7 @@ $E=====8555=====
 $E=====8556=====
 //クソッ、ケツが2つにわれちま
 //うじゃねぇかっ!」
-Damn, that nearly split my
+Argh, that nearly split my
 ass in half!"
 $E=====8557=====
 <PROC=0>
