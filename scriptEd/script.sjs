@@ -17252,7 +17252,7 @@ $E=====4222=====
 <END>
 $E=====4223=====
 //スミレの人形だ
-A figure of Violet.
+Violet's doll.
 $E=====4224=====
 //足のうらにはアンジェレッタと
 //書かれている
@@ -23889,7 +23889,7 @@ $E=====5638=====
 $E=====5639=====
 //クソッ、ケツが2つにわれちま
 //うぜっ!!」
-Argh, that nearly split my
+Damn, that nearly split my
 ass in half!"
 $E=====5640=====
 <PROC=0>
@@ -24058,7 +24058,7 @@ $E=====5676=====
 $E=====5677=====
 //クソッ、ケツが2つにわれちま
 //うぜっ!!」
-Argh, that nearly split my
+Damn, that nearly split my
 ass in half!"
 $E=====5678=====
 <PROC=0>
@@ -24663,7 +24663,7 @@ $E=====5802=====
 $E=====5803=====
 //クソッ、ケツが2つにわれちま
 //うぜっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 ass in half!"
 $E=====5804=====
 <PROC=0>
@@ -29940,7 +29940,7 @@ $E=====6941=====
 $E=====6942=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 head in half!"
 $E=====6943=====
 <PROC=0>
@@ -30013,7 +30013,7 @@ $E=====6958=====
 $E=====6959=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 head in half!"
 $E=====6960=====
 <PROC=0>
@@ -30131,7 +30131,7 @@ $E=====6986=====
 $E=====6987=====
 //クソッ、
 //今度は下からかよ!」
-Argh, this time it came from
+Damn, this time it came from
 below!"
 $E=====6988=====
 <PROC=0>
@@ -30216,7 +30216,7 @@ $E=====7006=====
 $E=====7007=====
 //クソッ、
 //今度は下からかよ!」
-Argh, this time it came from
+Damn, this time it came from
 below!"
 $E=====7008=====
 <PROC=0>
@@ -30324,7 +30324,7 @@ $E=====7031=====
 $E=====7032=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 head in half!"
 $E=====7033=====
 <PROC=0>
@@ -30397,7 +30397,7 @@ $E=====7048=====
 $E=====7049=====
 //クソッ、
 //頭が2つにわれちまうぜっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 head in half!"
 $E=====7050=====
 <PROC=0>
@@ -30515,7 +30515,7 @@ $E=====7076=====
 $E=====7077=====
 //クソッ、
 //今度は下からかよ!」
-Argh, this time it came from
+Damn, this time it came from
 below!"
 $E=====7078=====
 <PROC=0>
@@ -30600,7 +30600,7 @@ $E=====7096=====
 $E=====7097=====
 //クソッ、
 //今度は下からかよ!」
-Argh, this time it came from
+Damn, this time it came from
 below!"
 $E=====7098=====
 <PROC=0>
@@ -36834,7 +36834,7 @@ $E=====8455=====
 $E=====8456=====
 //クソッ、ケツが2つにわれちま
 //うじゃねぇかっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 ass in half!"
 $E=====8457=====
 <PROC=0>
@@ -37290,7 +37290,7 @@ $E=====8555=====
 $E=====8556=====
 //クソッ、ケツが2つにわれちま
 //うじゃねぇかっ!」
-Argh, that nearly split my
+Damn, that nearly split my
 ass in half!"
 $E=====8557=====
 <PROC=0>
