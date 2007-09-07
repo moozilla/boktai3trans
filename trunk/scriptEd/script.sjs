@@ -3778,7 +3778,7 @@ $E=====1325=====
 Welcome!
 $E=====1326=====
 //ご利用になられますか?
-May I help you?
+Can we help you today?
 $E=====1327=====
 //<WEIGHT>{＋}ボタン</WEIGHT>の左右で、太陽エネル
 //ギーの移し替えができます。
@@ -4977,19 +4977,17 @@ $E=====1587=====
 //<WEIGHT>Ｒボタン</WEIGHT>を押(お)しながら<WEIGHT>{＋}ボ
 //タン</WEIGHT>を動かせば、自分の周りを
 //見回すことができる
-By moving the <WEIGHT>{＋}Control Pad</WEIGHT>
-while holding the <WEIGHT>R Button</WEIGHT>,
-you can look around.
+Be aware of danger ahead...
 $E=====1588=====
 //冒険者(ぼうけんしゃ)たる者、
-A true adventurer checks his
-surroundings...
+Hold the <WEIGHT>R Button</WEIGHT> and
+use the <WEIGHT>{＋}Control Pad</WEIGHT>
 $E=====1589=====
 //新しいエリアではまず、周囲の
 //状況(じょうきょう)を確認(か
 //くにん)せよ
-whenever he enters a new
-area.
+to look around and check
+the surrounding area.
 $E=====1590=====
 <PROC=0>
 <END>
@@ -5024,20 +5022,20 @@ $E=====1596=====
 //
 // 　　　　　[方角]
 //
-
-        [Directions]
-
+Lest you become lost
+on your chosen path...
 $E=====1597=====
 //冒険者(ぼうけんしゃ)たる者、
 //道にまようことなかれ
-A true adventurer never
-loses his way.
+Know that north is
+to the top right,
+south is bottom left,
 $E=====1598=====
 //画面右上は北、右下は東、
 //左下は南、左上は西と知れ
-Up/right is north, down/
-right is east, down/left is
-south, and up/left is west.
+east is bottom right, and
+west is to the top left
+of the screen.
 $E=====1599=====
 <PROC=0>
 <END>
@@ -9083,7 +9081,7 @@ $E=====2512=====
 Continuosly emits spines. Cannot be killed.
 $E=====2513=====
 //クモの巣をはる。
-Plants spiderwebs.
+Lays spiderwebs.
 $E=====2514=====
 //毒液を吐く。
 Breathes venom.
@@ -18204,7 +18202,7 @@ $E=====4416=====
 What a difficult job we
 have, going back and forth
 between dungeons!
-$E=====4417=====
+$U=====4417=====
 //まあ、命あってのものだねだ。
 //あんまり無理はするなよ?
 Well, that's life.
@@ -23756,42 +23754,43 @@ $E=====5612=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「いいか、<NAME>
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Alright, <NAME>.
+"Listen up, <NAME>.
 $E=====5613=====
 //<PROC=1>画面左上のLIFE(ライフゲージ)
 //は、おまえの生命力をあらわす
-<PROC=1>The LIFE gauge at the top
-left displays your life
-force.
+<PROC=1>The Life gauge at the top
+left shows how much of your
+life has been exhausted.
 $E=====5614=====
 //敵(てき)からの攻撃(こうげき)
 //などによりダメージを受ければ
 //ライフは減少(げんしょう)し、
-Damage received from enemy
-attacks and such will
-deplete your LIFE,
+The more damage you receive
+from an enemy's attack, the
+faster your life is used up.
 $E=====5615=====
 //ライフがゼロになればゲームオ
 //ーバーだ
-and if your LIFE reaches
-zero, it's game over.
+If it reaches zero, it's
+goodbye and game over!
 $E=====5616=====
 //LIFEの下にあるENE(エナジーゲ
 //ージ)は、おまえの精神力(せい
 //しんりょく)をあらわす
-Below LIFE is ENE, which
-represents your mental
-power.
+Next is the Energy Gauge,
+which shows how much of your
+solar energy has been used.
 $E=====5617=====
 //おまえの武器(ぶき)、太陽銃(
 //ガン・デル・ソル)は魔法機械
 //・・・
-Your weapon, the Gun Del
-Sol, is a magical device...
+The Solar Gun is a Magic
+Machine that consumes
+energy to fire Solar Shots.
 $E=====5618=====
 //エナジーなくしては使えない
-You can't use it without
-energy,
+If its energy falls to zero,
+it can't fire anymore,
 $E=====5619=====
 //どこかでエナジーを回復(かい
 //ふく)しなければ・・・
@@ -38124,28 +38123,27 @@ $E=====8734=====
 //<LABEL=OTENKO></LABEL>ヒントパネルは、先人(せんじ
 //ん)がのこした冒険者(ぼうけん
 //しゃ)への道しるべだ
-<LABEL=OTENKO></LABEL>Hint panels are adventuring
-guides left behind by your
-predecessors.
+<LABEL=OTENKO></LABEL>Hint Panels are guides for
+adventurers left by those
+who have gone before.
 $E=====8735=====
 //冒険(ぼうけん)に必要な基本的
 //(きほんてき)な知識(ちしき)や
-They contain fundamental
-knowledge essential for an
-adventure,
+They give you useful info
+for your adventure, and tips
+for overcoming obstacles.
 $E=====8736=====
 //困難(こんなん)を乗りこえるた
 //めのヒントを教えてくれる
-and provide hints for
-surmounting difficult
-obstacles.
+To read a panel,
+move close to it,
+and press the <WEIGHT>A Button</WEIGHT.
 $E=====8737=====
 //パネルに近づいて<WEIGHT>Ａボタン</WEIGHT>を押
 //(お)せば、読むことができるぞ
 //」
-You can read a hint panel by
-pressing the <WEIGHT>A Button</WEIGHT> in
-front of it."
+It'll do you no harm to
+find out what it says."
 $E=====8738=====
 <PROC=0>
 <END>
@@ -42599,7 +42597,7 @@ $E=====9859=====
 //ゾンビ
 ZOMBIE
 $E=====9860=====
-グール+
+//グール+
 GHOUL +
 $E=====9861=====
 //マミー
