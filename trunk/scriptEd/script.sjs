@@ -532,21 +532,21 @@ $E=====119=====
 //お嬢(じょう)さまにはまだ、お
 //坊(ぼっ)ちゃまのことをお教え
 //してはいないの
-I still haven't told my
-daughter what happened to
-her brother.
+I still haven't told the
+young mistress about what
+happened to her brother.
 $E=====120=====
 //あんなに仲の良かった兄妹だも
 //の。どんなに悲しまれることか
 //・・・
 They got along so well for
-siblings. It just breaks my
-heart...
+siblings. It would just
+break her heart...
 $E=====121=====
 //でも、やっぱりいつかはお教え
 //しなくてはいけないのよね
-but I suppose I'll have to
-tell her eventually.
+But she needs to accept it,
+and move on.
 $E=====122=====
 //どんなに悲しくても、その死を
 //受け入れなくては・・・
@@ -557,15 +557,15 @@ $E=====123=====
 //その死を乗りこえた上で、生き
 //て行かなければ・・・
 she'll never get over it,
-and she won't move on with
-her own life...
-$U=====124=====
+and move on with her own
+life...
+$E=====124=====
 //それが大切な人だったとしたら
 //・・・
 //なおのことよね」
-When it's someone dear to
-you... it's all the more
-important."
+She needs to do that...
+All the more because he was
+her dear brother."
 $E=====125=====
 <PROC=0>
 <END>
@@ -6264,9 +6264,9 @@ $E=====1840=====
 //暗黒スプレッドによる回転攻撃
 //(かいてんこうげき)、暗黒ゴマ
 //は強力だ
-Dark Seeds is a powerful
-spinning attack that spreads
-Dark Shots.
+Dark Goma is a powerful
+spinning attack using a Dark
+spread.
 $E=====1841=====
 //サバタが急接近(きゅうせっき
 //ん)してきたら、ただちに距離
@@ -6278,8 +6278,8 @@ $E=====1842=====
 //こうげき)すれば、暗黒ゴマを
 //打ち返すことができるぞ!!
 If your timing is good, you
-can knock the seeds back at
-him by swinging your sword!
+can deflect Dark Goma with
+a sword strike!
 $E=====1843=====
 <PROC=0>
 <END>
@@ -9306,7 +9306,7 @@ $E=====2587=====
 Attacks include Feather Darts, Tornado, Squall, Bomb Raid, and Shrike Drop.
 $U=====2588=====
 //暗黒ショット、暗黒ゴマ、アイスランス、ファイヤーボールなどで攻撃(こうげき)する。雪がくれを使う。
-Attacks include Dark Goma, Dark Seeds, Ice Lens, and Fire Ball. Uses snow.
+Attacks include Dark Shot, Dark Goma, Ice Lens, and Fire Ball. Uses snow.
 // 暗黒ゴマ?
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
@@ -9355,7 +9355,7 @@ $U=====2603=====
 A black kitten. Violet's adventuring friend. In reality, he is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
 $U=====2604=====
 //アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
-The boy from the Accessory Shop. In the absense of the owner, Item Master, he operates the store when the mood hits. The truth is, he only does it out of a sense of duty to the Afro Master human interest group.
+The boy from the Accessory Shop. In the absence of the owner, Item Master, he operates the store when the mood hits. The truth is, he only does it out of a sense of duty to the Afro Master human interest group.
 $E=====2605=====
 //武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
 The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. He still hasn't told Kid about the death of the Ice Warrior, Item Master.
@@ -9890,11 +9890,11 @@ $E=====2771=====
 but I'd still like to try
 crossing swords with you
 again some time.
-$U=====2772=====
+$E=====2772=====
 //これも、哀(かな)しき戦士の性
 //(さが)だな・・・」
-This, too, is the sad nature
-of a warrior..."
+That's a warrior's
+unforunate nature..."
 $E=====2773=====
 <PROC=0>
 <END>
@@ -10704,10 +10704,10 @@ $E=====2934=====
 //(何も言うな・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
 (Don't say anything...
-$U=====2935=====
+$E=====2935=====
 //だまってたえるのも・・・
 //男のやさしさだぞ!!)
-Enduring it silently...
+Grin and bear it...
 that's how a man shows his
 kindness!)
 $E=====2936=====
@@ -11350,12 +11350,12 @@ $E=====3064=====
 I'm Kid! I'm a nice guy, and
 I sell nice accessories in
 this nice store!
-$U=====3065=====
+$E=====3065=====
 //オマエとはナイスな仲なんだぜ
 //?
 We got a nice friendship,
 too?
-$U=====3066=====
+$E=====3066=====
 //なんせオマエには・・・
 //9000ソルもの大金をかしてやっ
 //てるんだからな!!」
@@ -11372,7 +11372,7 @@ $E=====3068=====
 "...
 $E=====3069=====
 //すまん、今のはウソだ
-Sorry man, just kiddin'.
+Sorry man, just jokin'.
 $E=====3070=====
 //新しくアクセサリー屋を始めた
 //ばっかりなんだ。人に金をかす
@@ -11417,13 +11417,14 @@ one each on the head, body,
 legs, and arms.
 $E=====3077=====
 //そうだな・・・
-Yeah, man...
+Oh yeah...
 $U=====3078=====
 //お見まい&開店祝いだ。
 //コイツを持っていきな!!」
 I'm celebratin' the grand
-opening, so take this!"
-// お見まい?
+opening of the shop, so take
+this!"
+// What does お見まい have to do with this?
 $E=====3079=====
 <PROC=0>
 <END>
@@ -12315,10 +12316,12 @@ $E=====3256=====
 He endured many life-and-
 death battles in the City of
 Death, Istrakan,
-$U=====3257=====
-ようやく、本来のあるべき姿(
-すがた)へともどれたというの
-に・・・
+$E=====3257=====
+//ようやく、本来のあるべき姿(
+//すがた)へともどれたというの
+//に・・・
+but just as he returned to
+his original form...
 $E=====3258=====
 //やはり闇(やみ)の戦士、暗黒少
 //年であることからは、のがれら
@@ -12622,9 +12625,11 @@ $E=====3312=====
 to protect all life on this
 land watched over by the
 sun and moon,
-$U=====3313=====
-確実に、おまえたち兄弟の中に
-息づいているようじゃな
+$E=====3313=====
+//確実に、おまえたち兄弟の中に
+//息づいているようじゃな
+seems to have taken root
+firmly in your hearts."
 $E=====3314=====
 //<NAME>・・・
 <NAME>...
@@ -12947,7 +12952,7 @@ know the harshness of the
 motorcycle world...
 $E=====3374=====
 //では、教習にうつるぞ!
-Well then, I'll train you!
+I'll train you!
 $E=====3375=====
 //まずは、棺桶(かんおけ)バイク
 //の操作(そうさ)からだ
@@ -14763,11 +14768,11 @@ $E=====3727=====
 //記憶喪失(きおくそうしつ)やっ
 //て?
 Yer lost yer memory?
-$U=====3728=====
+$E=====3728=====
 //せやけど<NAME>・・・
 //それホンマなん?
-Izzat so, <NAME>...
-That's the truth?
+<NAME>...
+you serious?
 $E=====3729=====
 //うちからの借金、チャラにしよ
 //う思て、フリしとるだけちゃう
@@ -14909,15 +14914,15 @@ $E=====3755=====
 //「せやけど、油断(ゆだん)した
 //らアカンで?
 <LABEL=ZAJI>Zazie</LABEL>:
-"Awright, but don't go
-gettin' careless now.
+"Don't go gettin' careless
+now, awright?
 $E=====3756=====
 //あんたと同じで、敵(てき)モン
 //スターにもレベルっちゅうもん
 //があるんや
 There are still monsters out
-there with the same level
-yer at,
+there at the same level yer
+at,
 $U=====3757=====
 //特に闘技場(とうぎじょう)のプ
 //ラチナクラスは、ほんまハンパ
@@ -15595,18 +15600,16 @@ their power...
 $E=====3884=====
 //<LABEL=ZAJI></LABEL>ゆうたらカーミラも、そんな魔
 //女の1人やったんやろな
-<LABEL=ZAJI></LABEL>Carmilla was one of those
-witches...
-$U=====3885=====
+<LABEL=ZAJI></LABEL>Carmilla was one of them...
+$E=====3885=====
 //魔女の力やなんて・・・
 //持ちたくて持った力やないのに
-A witch's power is...
-not something you can chose
-to have.
+It's not like you can choose
+whether to be a witch...
 $E=====3886=====
 //<PROC=2>でもうちは、もうだいじょうぶ
 //やで!
-<PROC=2>But I'm okay now!
+<PROC=2>But, I'm okay now!
 $E=====3887=====
 //師匠(ししょう)に・・・
 //あのクソババアに会えたんやか
@@ -15722,7 +15725,7 @@ Immortal!
 $E=====3908=====
 //<PROC=1><NAME>・・・
 <PROC=1><NAME>...
-$U=====3909=====
+$E=====3909=====
 //<PROC=2>そないなヤツに、絶対(ぜった
 //い)負けるんやないで!!」
 <PROC=2>Yer better not lose to such
@@ -17863,22 +17866,22 @@ $E=====4352=====
 //心を利用し、
 By using Sabata's desire to
 fight with you,
-$U=====4353=====
+$E=====4353=====
 //あえて、おまえに浄化(じょう
 //か)させることで、
-and getting you to purify
+and daring you to purify
 him,
 $E=====4354=====
 //サバタから力をうばおうとした
 //のか?
-did he drain power from
-Sabata?
+did he rob Sabata of his
+power?
 $E=====4355=====
 //・・・
 ...
 $E=====4356=====
 //とにかく、
-anyhow,
+Anyhow,
 $E=====4357=====
 //今はサバタの残したメッセージ
 //にしたがい、魔砲(まほう)とや
@@ -18572,10 +18575,11 @@ $U=====4487=====
 //まとはめたれたよ
 that Lady thoroughly charmed
 me.
+まんまとはめたれたよ
 $E=====4488=====
 //少年も女には気をつけろよ?」
-You be careful about women
-too, okay?"
+You be careful around women
+too, boy."
 $E=====4489=====
 <PROC=0>
 <END>
@@ -18587,20 +18591,19 @@ $E=====4490=====
 $E=====4491=====
 //この世界のどこかにあるという
 //闘技場(とうぎじょう)・・・
-The arena located somewhere
-in this world...
+They say that somewhere in
+this world is an arena,
 $E=====4492=====
 //そこでは、過去(かこ)に戦って
 //きた強敵(きょうてき)たちとの
 //連戦が、
-there, you can fight the
-major oppponents you've
-faced so far,
+which holds a series of
+battles against previous
+foes,
 $E=====4493=====
 //挑戦者(ちょうせんしゃ)を待っ
 //ているという
-in a series of battles
-against challengers.
+awaiting a challenger.
 $U=====4494=====
 何でも、その闘技場(とうぎじ
 ょう)を作ったのは、[くれない
@@ -28155,13 +28158,12 @@ $E=====6550=====
 //切りはなされたわたしの魂(た
 //ましい)は、記憶(きおく)を失
 //いさまよった・・・
-A piece of my soul was
-broken off and wandered
-around with no memories...
+My soul, broken off,
+wandered around without any
+memories,
 $E=====6551=====
 //帰るべきところを求めて・・・
-I'm looking for the place I
-must return to...
+searching for its home...
 $E=====6552=====
 <PROC=0>
 <END>
@@ -28380,7 +28382,7 @@ $E=====6599=====
 //世界を破壊(はかい)して、その
 //後に何が残る?
 If you destroy the world,
-what's left?
+what will be left?
 $E=====6600=====
 //人も動物も植物もいない・・・
 //そんな世界になんの意味がある
@@ -28403,7 +28405,8 @@ $E=====6603=====
 //と、そう言ったのはおまえのは
 //ずだ!!」
 That's what it means to
-live, you said so yourself!"
+live... you said so
+yourself!"
 $E=====6604=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「そう・・・
@@ -28826,7 +28829,7 @@ $E=====6694=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「やったのか・・・サバタを?
 <LABEL=TRINITY>Trinity</LABEL>:
-"So you really did it...
+"So you really did it?
 $E=====6695=====
 <PROC=0>
 <END>
@@ -28849,8 +28852,8 @@ $E=====6699=====
 $U=====6700=====
 //<LABEL=TRINITY></LABEL>そんなやつを助けるなんてこと
 //できるわきゃあねぇよな」
-<LABEL=TRINITY></LABEL>There's no way to save a guy
-like that, huh?"
+<LABEL=TRINITY></LABEL>Who knows if a guy like that
+could ever be saved."
 $E=====6701=====
 <PROC=0>
 <END>
@@ -28868,7 +28871,7 @@ $E=====6704=====
 //兄弟を・・・
 //家族を失う悲しみがどんなもの
 //なのか、
-how could you possibly
+How could you possibly
 understand...
 $E=====6705=====
 //おまえにはそれが分からないの
