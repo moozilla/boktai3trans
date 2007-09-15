@@ -565,7 +565,7 @@ $E=====124=====
 //なおのことよね」
 She needs to do that...
 All the more because he was
-her dear brother."
+her dear brother, right?"
 $E=====125=====
 <PROC=0>
 <END>
@@ -6264,7 +6264,7 @@ $E=====1840=====
 //暗黒スプレッドによる回転攻撃
 //(かいてんこうげき)、暗黒ゴマ
 //は強力だ
-Dark Goma is a powerful
+Dark Spin is a powerful
 spinning attack using a Dark
 spread.
 $E=====1841=====
@@ -6278,7 +6278,7 @@ $E=====1842=====
 //こうげき)すれば、暗黒ゴマを
 //打ち返すことができるぞ!!
 If your timing is good, you
-can deflect Dark Goma with
+can deflect Dark Spin with
 a sword strike!
 $E=====1843=====
 <PROC=0>
@@ -9306,7 +9306,7 @@ $E=====2587=====
 Attacks include Feather Darts, Tornado, Squall, Bomb Raid, and Shrike Drop.
 $U=====2588=====
 //暗黒ショット、暗黒ゴマ、アイスランス、ファイヤーボールなどで攻撃(こうげき)する。雪がくれを使う。
-Attacks include Dark Shot, Dark Goma, Ice Lens, and Fire Ball. Uses snow.
+Attacks include Dark Shot, Dark Spin, Ice Lens, and Fire Ball. Uses snow.
 // 暗黒ゴマ?
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
@@ -9353,9 +9353,9 @@ A girl who is house-sitting for <NAME> while he's away. Has been cared for by Sm
 $U=====2603=====
 //黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
 A black kitten. Violet's adventuring friend. In reality, he is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
-$U=====2604=====
+$E=====2604=====
 //アクセサリー屋の青年。店主であった「アイテムマスター」の不在(ふざい)に勝手に店を開け、商売がえまでしてしまうお調子者。その実、義理(ぎり)がたい「アフロマスター」人情派(にんじょうは)。
-The boy from the Accessory Shop. In the absence of the owner, Item Master, he operates the store when the mood hits. The truth is, he only does it out of a sense of duty to the Afro Master human interest group.
+The boy from the Accessory Shop. In the absence of the owner, Item Master, he not only opened the shop without permission, but is selling his own goods. He's a joker, but he's really a warmhearted man with a strong sense of obligation. He is called "Afro Master".
 $E=====2605=====
 //武器屋の青年。古来よりサン・ミゲルを守ってきた「太陽の4士族」最後の生き残り。風の戦士にして、あらゆる武器(ぶき)に精通(せいつう)した「ウエポンマスター」。未だキッドに、氷の戦士「アイテムマスター」の死を伝えられずにいる。
 The young man from the Weapon Shop. He is the Wind Warrior, the last surviving member of the 4 Sun Warriors who have protected San Miguel since time immemorial. As the Weapon Master, he is an expert in every type of weapon. He still hasn't told Kid about the death of the Ice Warrior, Item Master.
@@ -14921,15 +14921,15 @@ $E=====3756=====
 //スターにもレベルっちゅうもん
 //があるんや
 There are still monsters out
-there at the same level yer
-at,
-$U=====3757=====
+there at the same high level
+yer at,
+$E=====3757=====
 //特に闘技場(とうぎじょう)のプ
 //ラチナクラスは、ほんまハンパ
 //やないで?」
 'specially in the Platinum
-class at the Arena. ほんま
-ハンパやないで?"
+class at the Arena. They're
+really strong, 'kay?"
 $E=====3758=====
 <PROC=0>
 <END>
@@ -16410,7 +16410,7 @@ $E=====4051=====
 $E=====4052=====
 <PROC=0>
 <END>
-$U=====4053=====
+$E=====4053=====
 //<LABEL=SUMIRE>スミレ</LABEL>
 //「ぷーだっ!!」
 <LABEL=SUMIRE>Violet</LABEL>:
@@ -17295,9 +17295,8 @@ sleep,
 $E=====4232=====
 //おきたとおもったら、すぐにど
 //っかいっちゃうし
-and whenever he feels like
-getting up, he runs off
-somewhere else.
+and whenever he gets up, he
+runs off somewhere.
 $E=====4233=====
 //こういうのを[ふうらいぼう]っ
 //ていうのよ」
@@ -17319,7 +17318,7 @@ $E=====4236=====
 $E=====4237=====
 <PROC=0>
 <END>
-$U=====4238=====
+$E=====4238=====
 //<LABEL=SUMIRE></LABEL>ぷーだっ!!」
 <LABEL=SUMIRE></LABEL>Lazy bum!"
 $E=====4239=====
@@ -18570,12 +18569,11 @@ $E=====4486=====
 //ではないんだが・・・
 I'm not really interested in
 joining the Guild, but...
-$U=====4487=====
+$E=====4487=====
 //あのレディとかいう女に、まん
 //まとはめたれたよ
 that Lady thoroughly charmed
 me.
-まんまとはめたれたよ
 $E=====4488=====
 //少年も女には気をつけろよ?」
 You be careful around women
@@ -18605,15 +18603,18 @@ $E=====4493=====
 //ているという
 awaiting a challenger.
 $U=====4494=====
-何でも、その闘技場(とうぎじ
-ょう)を作ったのは、[くれない
-の何も?]とかいう男らしいが、
+//何でも、その闘技場(とうぎじ
+//ょう)を作ったのは、[くれない
+//の何も?]とかいう男らしいが、
+I hear that a man called
+"Do you give me nothing?"
+built the arena.
 $E=====4495=====
 //そんな大変な戦いをさせておい
 //て・・・
-but to put you through such
-difficult battles...
-$U=====4496=====
+But after making it through
+such difficult challenges...
+$E=====4496=====
 //本当に何もくれないのか?」
 Do they really not give you
 anything?"
