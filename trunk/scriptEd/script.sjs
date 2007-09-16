@@ -4926,7 +4926,7 @@ $E=====1572=====
 <END>
 $E=====1573=====
 <EXTEND=0>
-$Q=====1574=====
+$E=====1574=====
 //<LABEL=RITA>リタ</LABEL>
 //ここにデモが入りますわ。
 <LABEL=RITA>Lita</LABEL>:
@@ -4936,7 +4936,7 @@ $E=====1575=====
 <END>
 $E=====1576=====
 <EXTEND=0>
-$Q=====1577=====
+$E=====1577=====
 //<LABEL=ZAJI>ザジ</LABEL>
 //ここはパネルが入るんやで。
 <LABEL=ZAJI>Zazie</LABEL>:
@@ -4946,7 +4946,7 @@ $E=====1578=====
 <END>
 $E=====1579=====
 <EXTEND=0>
-$Q=====1580=====
+$E=====1580=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //ここに会話が入るよ。
 <LABEL=ROCKMAN>Rockman</LABEL>:
@@ -9304,10 +9304,9 @@ Attacks include Bat Barette, Blood Lance, Pierce, Bloodsucking, and Fission.
 $E=====2587=====
 //羽手裏剣(はねしゅりけん)、竜巻(たつまき)、突風(とっぷう)、爆撃(ばくげき)、モズ落としなどで攻撃(こうげき)する。
 Attacks include Feather Darts, Tornado, Squall, Bomb Raid, and Shrike Drop.
-$U=====2588=====
+$E=====2588=====
 //暗黒ショット、暗黒ゴマ、アイスランス、ファイヤーボールなどで攻撃(こうげき)する。雪がくれを使う。
-Attacks include Dark Shot, Dark Spin, Ice Lens, and Fire Ball. Uses snow.
-// 暗黒ゴマ?
+Attacks include Dark Shot, Dark Spin, Ice Lance, and Fire Ball. Hides in the snow.
 $E=====2589=====
 //トゲロボ、爆弾(ばくだん)、鉄球などで攻撃(こうげき)する。バリアーをはる。
 Attacks include Spine Bot, Bomb, and Iron Ball. Creates a barrier.
@@ -11418,13 +11417,12 @@ legs, and arms.
 $E=====3077=====
 //そうだな・・・
 Oh yeah...
-$U=====3078=====
+$E=====3078=====
 //お見まい&開店祝いだ。
 //コイツを持っていきな!!」
 I'm celebratin' the grand
 opening of the shop, so take
 this!"
-// What does お見まい have to do with this?
 $E=====3079=====
 <PROC=0>
 <END>
@@ -12929,12 +12927,12 @@ $E=====3369=====
 //決まっている!!
 what kind of coach?
 Hmm... that's it!
-$U=====3370=====
+$E=====3370=====
 //荒野(こうや)をかける熱き鉄馬
 //棺桶(かんおけ)バイクだ!」
-I'll teach you to race the
-Coffin Bike across the
-untamed wilds!"
+I'll teach you to race
+the coffin bike passionately
+across the untamed wilds!"
 $E=====3371=====
 <PROC=0>
 <END>
@@ -12942,17 +12940,18 @@ $E=====3372=====
 //<LABEL=COACH>コーチ</LABEL>
 //「ふん・・・まあいい
 <LABEL=COACH>Coach</LABEL>:
-"Heh... fine.
-$U=====3373=====
+"Heh... that'll do.
+$E=====3373=====
 //いずれ身をもって、この鉄馬の
 //世界のきびしさを知ることにな
 //る・・・
-いずれ身をもって、to come to
-know the harshness of the
-motorcycle world...
+Sooner or later, you'll have
+to experience the harshness
+of the motorcycle world...
 $E=====3374=====
 //では、教習にうつるぞ!
-I'll train you!
+So let's move on to
+training!
 $E=====3375=====
 //まずは、棺桶(かんおけ)バイク
 //の操作(そうさ)からだ
@@ -18204,12 +18203,12 @@ $E=====4416=====
 What a difficult job we
 have, going back and forth
 between dungeons!
-$U=====4417=====
+$E=====4417=====
 //まあ、命あってのものだねだ。
 //あんまり無理はするなよ?
-Well, that's life.
-Don't push yourself too
-hard, alright?
+Remember, 'he who fights and
+runs away'... don't push
+yourself too hard, alright?
 $E=====4418=====
 //少年さえ良ければ、おれがこの
 //地方で見つけたアイテムとアク
@@ -19552,7 +19551,7 @@ nothing but machines.
 $U=====4688=====
 //おまけにあんな黒眼鏡(くろめ
 //がね)なんぞかけよって!
-What's worse, he's started
+What's worse, he started
 wearing those dark
 sunglasses!
 $E=====4689=====
@@ -19848,13 +19847,13 @@ you feel courageous!
 $E=====4751=====
 <PROC=0>
 <END>
-$U=====4752=====
+$E=====4752=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「やあ、<NAME>くん!!
 //よくここがわかったね!
 <LABEL=ROCKMAN>Rockman</LABEL>:
 "Hey, <NAME>!
-You know this place well!
+Good job finding this place!
 $E=====4753=====
 //ボクは熱斗くんのネットナビ
 //ロックマン
@@ -22473,10 +22472,10 @@ $E=====5330=====
 //せいかい)するとは・・・!!
 You solved Jack's problem
 correctly...!
-$U=====5331=====
+$E=====5331=====
 //オマエ・・・
 //なかなかやるじゃねぇか?
-It wasn't too easy, was it?
+Not bad, not bad...
 $E=====5332=====
 //さっさとアニキたちのところへ
 //行きな!」
@@ -22601,19 +22600,18 @@ where the brothers are!"
 $E=====5359=====
 <PROC=0>
 <END>
-$U=====5360=====
+$E=====5360=====
 //ジョニー
 //「ここだけの話だが・・・
 Johnny:
-"This is all I have left to
-tell you...
+"Between you and me...
 $E=====5361=====
 //闇の一族(イモータル)にも、複
 //雑(ふくざつ)な権力(けんりょ
 //く)争いがあるらしい
-It appears there is a
-complex power struggle
-between the Immortals.
+I hear there's a complex
+power struggle between the
+Immortals.
 $E=====5362=====
 //闇の女王(クイーン・オブ・イ
 //モータル)、ヘルに仕える死の
@@ -24343,13 +24341,13 @@ $E=====5735=====
 Defeating your brother, and
 even going so far as to seal
 him away...
-$U=====5736=====
+$E=====5736=====
 //その身に宿る暗黒物質(ダーク
 //マター)の命ずるままに、世界
 //をほろぼそうというのか?
-If your Dark Matter stays in
-command like this, could you
-really destroy the world?
+Are you going to give in to
+your Dark Matter and destroy
+the world?
 $E=====5737=====
 //だが・・・
 But then...
@@ -24676,10 +24674,11 @@ $E=====5805=====
 //「おいおい、
 <LABEL=TRINITY>Boy in Blue Poncho</LABEL>:
 "Hey,
-$U=====5806=====
-こういう時にはツッコミを入れ
-るのがマナーだろ?」
-// Is this something about a manzai comedy duo?
+$E=====5806=====
+//こういう時にはツッコミを入れ
+//るのがマナーだろ?」
+if I'm Costello, then isn't
+it your turn, Abbot?"
 $E=====5807=====
 <PROC=0>
 <END>
@@ -24697,12 +24696,12 @@ $E=====5809=====
 This town's done for. Those
 Immortals got their eyes on
 it.
-$U=====5810=====
+$E=====5810=====
 //悪いことは言わねえ、早いトコ
 //にげたほうがいいぜ?
-Nobody'll blame you. Run
-back home if you know what's
-good for you.
+You'd better run back home
+if you know what's good for
+you.
 $E=====5811=====
 //オ、オイラか?
 M-me?
@@ -25976,10 +25975,11 @@ $E=====6073=====
 One of his Vampire Bat
 fragments must have been
 hidden away somewhere.
-$U=====6074=====
+$E=====6074=====
 //わたしとしたことがそれを見の
 //がすとは・・・
-I let it escape unnoticed...
+How could I let it get away
+like that...
 $E=====6075=====
 <PROC=0>
 <END>
@@ -26044,11 +26044,11 @@ dead anyway.
 $E=====6089=====
 <PROC=0>
 <END>
-$U=====6090=====
+$E=====6090=====
 //<LABEL=TRINITY></LABEL>オイラなんかにゃあ、どうしよ
 //うもないことだぜ・・・」
-<LABEL=TRINITY></LABEL>Dunno what I should do..."
-// or maybe "there's nothing I can do about that"?
+<LABEL=TRINITY></LABEL>There's nothing I can do
+about that..."
 $E=====6091=====
 <PROC=0>
 <END>
@@ -26074,10 +26074,11 @@ $E=====6095=====
 <LABEL=TRINITY></LABEL>Yeah, if I can just get my
 hands on some treasure,
 it'll bring me some luck!
-$U=====6096=====
-そうと決まれば・・・カネヅル
-をにがしてたまるか!!」
-// If that's settled... my source of money is getting away ?
+$E=====6096=====
+//そうと決まれば・・・カネヅル
+//をにがしてたまるか!!」
+Now then... I can't let my
+source of money get away!"
 $E=====6097=====
 <PROC=0>
 <END>
@@ -26395,14 +26396,13 @@ $E=====6163=====
 //生焼けには注意するんだな」
 Be careful not to leave him
 too rare."
-$U=====6164=====
+$E=====6164=====
 //<LABEL=FRES>フレスベルグ</LABEL>
 //「手を焼いた獲物(えもの)ほど
 //食べがいがあるってものさ
 <LABEL=FRES>Hresvelgr</LABEL>:
 "There's nothing more
 filling than difficult prey.
-// 食べがい?
 $E=====6165=====
 <PROC=0>
 <END>
@@ -26618,19 +26618,19 @@ $E=====6210=====
 $E=====6211=====
 //<LABEL=TRINITY></LABEL>オイラが仲間だなんて・・・
 <LABEL=TRINITY></LABEL>Saying we're friends...
-$U=====6212=====
+$E=====6212=====
 //そんなあまい考えじゃあ、これ
 //から先・・・
-If I thought so naively,
-from now on...
+If you keep thinking so
+naively...
 $E=====6213=====
 <PROC=0>
 <END>
-$U=====6214=====
+$E=====6214=====
 //<LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
 //ねぇぜ?
-<LABEL=TRINITY></LABEL>I wouldn't be able to
-survive in the Future Era.
+<LABEL=TRINITY></LABEL>You'll never survive in the
+Future Era.
 $E=====6215=====
 //最後に信じられるのは自分だけ
 //さ
@@ -26712,20 +26712,19 @@ $E=====6233=====
 //分からないのはコッチだぜ
 <LABEL=TRINITY></LABEL>Sheesh... you're the one I
 don't get...
-$U=====6234=====
+$E=====6234=====
 //そんなあまい考えじゃあ、これ
 //から先・・・
-Such a naive idea,
-from now on...
+If you keep thinking so
+naively...
 $E=====6235=====
 <PROC=0>
 <END>
-$U=====6236=====
+$E=====6236=====
 //<LABEL=TRINITY></LABEL>未来世紀を生きぬくことはでき
 //ねぇぜ?
-<LABEL=TRINITY></LABEL>You can't survive all the
-way to the Future Era, can
-you?
+<LABEL=TRINITY></LABEL>You'll never survive in the
+Future Era.
 $E=====6237=====
 //大切なのは金だろ?
 Isn't money the important
@@ -26841,7 +26840,7 @@ $E=====6262=====
 //「伯爵(はくしゃく)!!」
 <LABEL=PLAYER><NAME></LABEL>:
 "Count!"
-$U=====6263=====
+$E=====6263=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「あわわわわ・・・」
 <LABEL=TRINITY>Trinity</LABEL>:
@@ -27631,11 +27630,12 @@ $E=====6432=====
 if he goes and defeats
 Immortals, I'll get
 treasure!
-$U=====6433=====
+$E=====6433=====
 //せっかくのカネヅルを見のがす
 //手はないからな
-I'll finally get the income
-that has escaped my grasp.
+There's no way I can let
+such a great moneymakin'
+opportunity slip away.
 $E=====6434=====
 //もうしばらく・・・
 //つき合ってみるか!!)
@@ -28850,11 +28850,11 @@ still with the Immortals...
 $E=====6699=====
 <PROC=0>
 <END>
-$U=====6700=====
+$E=====6700=====
 //<LABEL=TRINITY></LABEL>そんなやつを助けるなんてこと
 //できるわきゃあねぇよな」
-<LABEL=TRINITY></LABEL>Who knows if a guy like that
-could ever be saved."
+<LABEL=TRINITY></LABEL>Nobody could save a guy like
+that."
 $E=====6701=====
 <PROC=0>
 <END>
@@ -28981,21 +28981,22 @@ $E=====6727=====
 //(まさか・・・こいつは!?)
 <LABEL=TRINITY>Trinity</LABEL>:
 (No way... it's him...!?)
-$U=====6728=====
+$E=====6728=====
 //<LABEL=RATA>白装束(しろしょうぞく)の少年</LABEL>
 //「とうとう実の兄を手にかけて
 //しまいましたね・・・
 <LABEL=RATA>Boy in White</LABEL>:
-"In the end, you didn't get
-your true brother back...
+"In the end, you took your
+true brother's life...
 $E=====6729=====
 //ですがそれが人の運命(さだめ)
-but such is the fate of
+but such is the fate of all
 mankind.
-$U=====6730=====
+$E=====6730=====
 //あなた方が気に病むことはあり
 //ません」
-Don't let it get you down."
+You need not concern
+yourself."
 $E=====6731=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「おまえは闇の一族(イモータ
@@ -29467,11 +29468,12 @@ $E=====6837=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //(ビックリさせやがって・・・
 <LABEL=TRINITY>Trinity</LABEL>:
-(What a surprise...
-$U=====6838=====
+(That was such a shock...
+$E=====6838=====
 //思わずちびっちまったじゃねぇ
 //か!!)
-he did it effortlessly!)
+I wet my pants in spite of
+myself!)
 $E=====6839=====
 <PROC=0>
 <END>
@@ -29483,7 +29485,7 @@ $E=====6840=====
 $E=====6841=====
 <PROC=0>
 <END>
-$U=====6842=====
+$E=====6842=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「そんじゃまぁ、
 //お先に行かせてもらうぜ?
@@ -29887,11 +29889,11 @@ $E=====6928=====
 but the man who made the
 Coffin Bike could probably
 find a use for them.
-$U=====6929=====
+$E=====6929=====
 //一度サン・ミゲルにもどってみ
 //るのも手だな」
-Take them back to San
-Miguel."
+Why don't you head back to
+San Miguel?"
 $E=====6930=====
 <PROC=0>
 <END>
@@ -29929,9 +29931,9 @@ $E=====6938=====
 //「そっちでいいんだな?
 <LABEL=TRINITY>Trinity</LABEL>:
 "That one?
-$U=====6939=====
+$E=====6939=====
 //そんじゃあオイラは・・・」
-Then I'll..."
+Then I'll just..."
 $E=====6940=====
 <PROC=0>
 <END>
@@ -30004,7 +30006,7 @@ $E=====6955=====
 "That one?
 $E=====6956=====
 //そんじゃあオイラは・・・」
-Then I'll..."
+Then I'll just..."
 $E=====6957=====
 <PROC=0>
 <END>
@@ -30997,11 +30999,11 @@ $E=====7182=====
 //だが・・・
 He is such a pain.
 However...
-$U=====7183=====
+$E=====7183=====
 //あんなやつでも、ほおってはお
 //けない!
-Even for that kind of guy,
-ほおってはおけない!
+Even with a guy like that,
+we can't just desert him!
 $E=====7184=====
 //何とかして対岸の敵(てき)モン
 //スターをたおすんだ!!」
@@ -31026,17 +31028,17 @@ abandon Trinity!?"
 $E=====7188=====
 <PROC=0>
 <END>
-$U=====7189=====
+$E=====7189=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「よう、<NAME>!!
 //おそかったじゃねぇか?
 <LABEL=TRINITY>Trinity</LABEL>:
 "Yo, <NAME>!
 Took your time gettin' here?
-$U=====7190=====
+$E=====7190=====
 //そんじゃあ出発と行くぜ!
 //準備(じゅんび)はいいな?」
-そんじゃあ let's set sail!
+Alright, let's set sail!
 Are ya ready?"
 $E=====7191=====
 <PROC=0>
@@ -31079,19 +31081,20 @@ $E=====7199=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「おい、トリニティ!!
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Hey, Trinity!
-$U=====7200=====
+"Hey! Trinity!
+$E=====7200=====
 //その(予定)というのは何だ!?」
-What part of your so-called
-plan is that!?"
+What do you mean, 'I plan
+to'!? You've never done this
+before!?"
 $E=====7201=====
 <PROC=0>
 <END>
-$U=====7202=====
+$E=====7202=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「ぬぬぬぬぬ・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Oh dear...
+"Why, you...
 $E=====7203=====
 //われわれの足を引っぱるなと、
 //あれほど注意しておいたのに!
@@ -31115,15 +31118,21 @@ $E=====7207=====
 $E=====7208=====
 <PROC=0>
 <END>
-$U=====7209=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「船長しつでのい頼イベント開始」
+$E=====7209=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「船長しつでのい頼イベント開始」
+<LABEL=OTENKO>Master Otenko</LABEL>
+"Captain's cabin mission,
+start!"
 $E=====7210=====
 <PROC=0>
 <END>
-$U=====7211=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「船長しつでのい頼イベント終了」
+$E=====7211=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「船長しつでのい頼イベント終了」
+<LABEL=OTENKO>Master Otenko</LABEL>
+"Captain's cabin mission
+complete!"
 $E=====7212=====
 <PROC=0>
 <END>
@@ -31136,10 +31145,13 @@ seaworthy..."
 $E=====7214=====
 <PROC=0>
 <END>
-$U=====7215=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「さしものトリニティも少しは
-こりたか・・・
+$E=====7215=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「さしものトリニティも少しは
+//こりたか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Trinity seems sorry about
+his actions, for once...
 $E=====7216=====
 <PROC=0>
 <END>
@@ -31977,30 +31989,36 @@ $E=====7388=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「ミッション用。カメラパンするだけ」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Used for a mission. Pans
-the camera."
+"Used for a mission. Merely
+pans the camera."
 $E=====7389=====
 <PROC=0>
 <END>
-$U=====7390=====
+$E=====7390=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「行けそうだな・・・」
 <LABEL=OTENKO>おてんこさま</LABEL>
-「行けそうだな・・・」
+"This one seems to be
+seaworthy..."
 $E=====7391=====
 <PROC=0>
 <END>
-$U=====7392=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「さしものトリニティも少しは
-こりたか・・・
+$E=====7392=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「さしものトリニティも少しは
+//こりたか・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"Trinity seems sorry about
+his actions, for once...
 $E=====7393=====
 <PROC=0>
 <END>
 $E=====7394=====
 //<LABEL=OTENKO></LABEL>いらぬジャマが入らないうちに
 //出発しよう
-<LABEL=OTENKO></LABEL>Let us depart before any
-more needless distractions
-show up.
+<LABEL=OTENKO></LABEL>We don't need any more
+setbacks. Let's get out of
+here.
 $E=====7395=====
 //さあ、<NAME>!!
 //このままこの船で魔砲(まほう)
@@ -32511,7 +32529,7 @@ $E=====7501=====
 $E=====7502=====
 <PROC=0>
 <END>
-$U=====7503=====
+$E=====7503=====
 //<LABEL=NONE>ジョニー</LABEL>
 //「うぬぬぬぬ・・・
 <LABEL=NONE>Johnny</LABEL>:
@@ -33056,15 +33074,15 @@ much?"
 $E=====7617=====
 <PROC=0>
 <END>
-$U=====7618=====
+$E=====7618=====
 //<LABEL=TRINITY>トリニティ</LABEL>
 //「なんだよ・・・そりゃあ?
 <LABEL=TRINITY>Trinity</LABEL>:
-"What... is that it?
+"What're you talkin' about?
 $E=====7619=====
 <PROC=0>
 <END>
-$U=====7620=====
+$E=====7620=====
 //<LABEL=TRINITY></LABEL>そんなもんじゃあ、人間さまは
 //死なねぇぜ!!」
 <LABEL=TRINITY></LABEL>That kinda thing won't kill
@@ -33211,7 +33229,7 @@ $E=====7655=====
 Know your place, filthy
 human. I'll punish you for
 opposing me!
-$U=====7656=====
+$E=====7656=====
 //果てしなき異次元空間(いじげ
 //んくうかん)の中を・・・
 Wander the endless dark
@@ -33388,20 +33406,27 @@ $E=====7694=====
 $E=====7695=====
 <PROC=0>
 <END>
-$U=====7696=====
-<LABEL=OTENKO>おてんこさま</LABEL>
-「散々われわれのジャマをして
-おいて・・・
-// Trinity has just been sucked into the black hole
-$U=====7697=====
-なれないことをするんじゃない
-!!
+$E=====7696=====
+//<LABEL=OTENKO>おてんこさま</LABEL>
+//「散々われわれのジャマをして
+//おいて・・・
+<LABEL=OTENKO>Master Otenko</LABEL>:
+"You were always in our way,
+but this time you finally...
+$E=====7697=====
+//なれないことをするんじゃない
+//!!
+You shouldn't have been so
+reckless!"
 $E=====7698=====
 //トリニティ・・・
 Trinity...
-$U=====7699=====
-おまえのことくらい、いくらで
-も笑ってやったものを!!」
+$E=====7699=====
+//おまえのことくらい、いくらで
+//も笑ってやったものを!!」
+Whenever you showed us your
+smile, we'd always smile
+back at you!"
 $E=====7700=====
 <PROC=0>
 <END>
@@ -33456,17 +33481,17 @@ $E=====7711=====
 //もう1人の少年はどうしました?
 What happened to the other
 boy?
-$U=====7712=====
+$E=====7712=====
 //人の身では決して帰ることので
 //きない、
-Without being able to return
-in a human body,
-$U=====7713=====
+No human can return from
+that place.
+$E=====7713=====
 //異次元空間(いじげんくうかん)
 //にでも、まよいこんだのでしょ
 //うか?
-he's probably lost in the
-dark dimension.
+Perhaps he got lost in the
+dark dimension?
 $E=====7714=====
 <PROC=0>
 <END>
@@ -33484,7 +33509,7 @@ $E=====7717=====
 $E=====7718=====
 <PROC=0>
 <END>
-$U=====7719=====
+$E=====7719=====
 //<LABEL=RATA>ラタトスク</LABEL>
 //「おいかりのようですね?
 <LABEL=RATA>Ratatosk</LABEL>:
@@ -33494,15 +33519,15 @@ $E=====7720=====
 //こと
 But then, you two are no
 different.
-$U=====7721=====
+$E=====7721=====
 //しょせんはよそ者である伯爵(
 //はくしゃく)はともかく・・・
-At the beginning, the
-Count...
+Never mind the Count, as he
+was never one of us...
 $E=====7722=====
 //フレスベルグにニーズホッグ、
-and on top of that,
-Hresvelgr and Nidhoggr,
+but you took away Hresvelgr
+and Nidhoggr,
 $E=====7723=====
 //優秀(ゆうしゅう)な手駒(てご
 //ま)を2つもうばわれたのです
@@ -33511,7 +33536,7 @@ two of my superior pawns.
 $E=====7724=====
 //ですが、それももういいでしょ
 //う
-But that, too, is just as
+Yet that, too, is just as
 well.
 $E=====7725=====
 //月の封印(ふういん)をとくため
@@ -34072,17 +34097,17 @@ $E=====7848=====
 the successor to the Gun Del
 Sol, with Solar Child blood,
 Solar Boy <NAME>.
-$U=====7849=====
+$E=====7849=====
 //そしてこのおれは、おまえに対
 //するカウンター・・・
-And facing you was none
-other but me...
+I was arranged to confront
+you...
 $E=====7850=====
 //光の戦士をたおすために用意さ
 //れた闇(やみ)の戦士、暗黒少年
 The Warrior of Darkness, the
-Dark Boy, prepared to defeat
-the Warrior of Light.
+Dark Boy, put in place to
+defeat the Warrior of Light.
 $E=====7851=====
 //おれたちの出会い、そして戦い
 //・・・
@@ -34359,12 +34384,12 @@ $E=====7903=====
 <LABEL=NONE>Phantom Sabata</LABEL>:
 "It was a full moon that
 night...
-$U=====7904=====
+$E=====7904=====
 //月光に横たわるおまえの姿(す
 //がた)に、おれはようやく自ら
 //を取りもどした
-You were lying in the
-moonlight, and I had finally
+Seeing you lying in the
+moonlight, I finally
 returned to my old self.
 $E=====7905=====
 //だがラタトスクによる支配(
@@ -34613,10 +34638,9 @@ $E=====7964=====
 the origin of existence that
 surpassed life and death.
 $U=====7965=====
-//(かけら)をあたえら
+//原種の欠片(かけら)をあたえら
 //れ、
 He obtained a pure fragment,
-
 $E=====7966=====
 //ヴァナルガンドそのものに成り
 //変わろうとしている・・・
@@ -34857,12 +34881,12 @@ $E=====8018=====
 //・・・
 The most fundamental thing
 about living beings...
-$U=====8019=====
+$E=====8019=====
 //それは、死があるがゆえの生を
 //どう生きるかだ!
 //何を成そうとするのかだ!
-is that death gives people a
-reason to live!
+is that death gives meaning
+to life!
 $E=====8020=====
 //その意思こそが・・・
 //未来を切り開く!!
@@ -35177,9 +35201,12 @@ finish me off yourself.
 $E=====8089=====
 //おまえにならそれができる
 I know you can do it.
-$U=====8090=====
-あいつなら必ず・・・
-そのチャンスくれる
+$E=====8090=====
+//あいつなら必ず・・・
+//そのチャンスくれる
+Knowing that guy...
+you'll definitely have the
+chance.
 $E=====8091=====
 <PROC=0>
 <END>
@@ -35217,11 +35244,11 @@ Trinity!"
 $E=====8098=====
 <PROC=0>
 <END>
-$U=====8099=====
+$E=====8099=====
 //<LABEL=NONE>???</LABEL>
 //「グ・・・ガ・・・ガ・・・」
 <LABEL=NONE>???</LABEL>:
-"HEH...HA...HA..."
+"GUHH...GAHH...GAHH..."
 $E=====8100=====
 <PROC=0>
 <END>
@@ -35568,23 +35595,22 @@ stone from within!"
 $E=====8174=====
 <PROC=0>
 <END>
-$U=====8175=====
+$E=====8175=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「バッドエンド
 //時間切れ…ジャンゴの最後」
 <LABEL=OTENKO>Master Otenko</LABEL>:
-"Bad End.
-Out of time, Django's end."
+"BAD END
+Time up - Django dies."
 $E=====8176=====
 <PROC=0>
 <END>
-$U=====8177=====
+$E=====8177=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「バッドエンド
 //時間切れ…ジャンゴの最後」
-<LABEL=OTENKO>Master Otenko</LABEL>:
-"Bad End.
-Out of time, Django's end."
+"BAD END
+Time up - Django dies."
 $E=====8178=====
 <PROC=0>
 <END>
@@ -35634,18 +35660,17 @@ $E=====8187=====
 <END>
 $E=====8188=====
 //<LABEL=SABATA></LABEL>それこそが本当の弱さなのだ
-<LABEL=SABATA></LABEL>That was my one true
-weakness.
+<LABEL=SABATA></LABEL>That was my real weakness.
 $E=====8189=====
 <PROC=0>
 <END>
-$U=====8190=====
+$E=====8190=====
 //<LABEL=SABATA></LABEL>そんな心ではおまえはおろか、
 //ヴァナルガンドにも勝てはしな
 //い・・・
-<LABEL=SABATA></LABEL>You couldn't have defeated
-Vanargand with that kind of
-spirit...
+<LABEL=SABATA></LABEL>With that spirit, I couldn't
+overcome my own weakness,
+let alone defeat Vanargand.
 $E=====8191=====
 <PROC=0>
 <END>
@@ -36590,10 +36615,10 @@ $E=====8401=====
 //「どこを見ている?
 <LABEL=NONE>???</LABEL>:
 "Where are you lookin'?
-$U=====8402=====
+$E=====8402=====
 //行くぞ、
 //とうっ!!」
-Let's go!"
+Here I go, yaaaaaah!"
 $E=====8403=====
 <PROC=0>
 <END>
@@ -37063,7 +37088,7 @@ $E=====8504=====
 $E=====8505=====
 //行くぞ、
 //とうっ!!」
-Let's go!"
+Here I go, yaaaaaah!"
 $E=====8506=====
 <PROC=0>
 <END>
@@ -38159,13 +38184,13 @@ $E=====8739=====
 $E=====8740=====
 <PROC=0>
 <END>
-$U=====8741=====
+$E=====8741=====
 //<LABEL=OTENKO></LABEL>通路というには細すぎるが、壁
 //(かべ)にはりついて移動(いど
 //う)すれば問題なかろう
-<LABEL=OTENKO></LABEL>When the path is thin, hug
-the wall and you won't have
-any problem getting through.
+<LABEL=OTENKO></LABEL>That's too thin for a path,
+but cling to the wall and
+you should make it through.
 $E=====8742=====
 <PROC=0>
 <END>
@@ -38866,7 +38891,7 @@ by firing a Solar shot."
 $E=====8877=====
 <PROC=0>
 <END>
-$U=====8878=====
+$E=====8878=====
 //<LABEL=OTENKO>おてんこさま</LABEL>
 //「この気配は・・・
 <LABEL=OTENKO>Master Otenko</LABEL>:
@@ -41270,7 +41295,7 @@ $E=====9392=====
 $E=====9393=====
 //　 大地の精霊　 
   Earth Spirit
-$U=====9394=====
+$E=====9394=====
 //　　　雨雲　　　
    Raincloud
 $E=====9395=====
@@ -41340,12 +41365,12 @@ $E=====9416=====
 //　チェストッ!!　
  Chest Attack!
 $E=====9417=====
-// ゲームオーバー 
+// ゲームオーバー  
    Game  Over
-$U=====9418=====
+$E=====9418=====
 //　 日の出デモ　 
   Sunrise Demo
-$U=====9419=====
+$E=====9419=====
 //　 日の入デモ　 
   Sunset  Demo
 $E=====9420=====
@@ -42454,7 +42479,7 @@ Crossover Points Earned
 $E=====9809=====
 //クロスオーバーポイントの合計
 Crossover Point Total
-$U=====9810=====
+$C=====9810=====
 //きょうもクロスオーバー
 Crossover today too
 $E=====9811=====
@@ -42883,8 +42908,9 @@ An icy path leading to a volcano.
 $E=====9956=====
 //海賊(かいぞく)の血に呪(のろ)われた海岸。
 A beach cursed by pirate blood.
-$U=====9957=====
-大地を望む静寂(せいじゃく)の荒野(こうや)。
+$E=====9957=====
+//大地を望む静寂(せいじゃく)の荒野(こうや)。
+A desolate expanse with a distant view of Earth.
 $E=====9958=====
 //短距離(たんきょり)コース。
 A short-distance course.
