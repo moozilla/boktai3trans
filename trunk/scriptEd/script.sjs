@@ -5888,7 +5888,7 @@ But my desire to fight
 you...
 $E=====1763=====
 //まぎれもなくおれ自身のものだ
-is mine alone.
+was mine alone.
 $E=====1764=====
 //おまえとの戦い・・・
 //楽しかったぞ!!
@@ -5956,7 +5956,7 @@ $E=====1778=====
 //大地が月を赤くそめる・・・
 //その時は目前にまでせまってい
 //る!
-The moon's stained red with
+The moon is dyed red with
 earth. The time approaches,
 right before your eyes!
 $E=====1779=====
@@ -9052,13 +9052,13 @@ $E=====2505=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //吉冨賢介
 <WEIGHT>Special Thanks</WEIGHT>
-(beta testers here)
+Blues
 $E=====2506=====
 //<WEIGHT>プロデューサー</WEIGHT>
 //小島秀夫
 <WEIGHT>Special Thanks</WEIGHT>
-Ryken         samiamwork
-MAX
+Porojoa        MAX
+samiamwork     Ryken
 $E=====2507=====
 //<WEIGHT>制作/著作</WEIGHT>
 //コナミ株式会社
@@ -9349,7 +9349,7 @@ An aged blacksmith. Once known as the Legendary Gunsmith, he taught Red Ringo ho
 $E=====2602=====
 //<NAME>の家で留守番(るすばん)をしてくれている少女。かつての伯爵(はくしゃく)の襲撃(しゅうげき)により母親を失い、スミスに引き取られた。本人にその自覚はないが、ショックにより以前の記憶(きおく)を失っている。
 A girl who is house-sitting for <NAME> while he's away. Has been cared for by Smith since she lost her mother in the Count's raid. She's not self-conscious, but due to the shock she lost her memories prior to the incident.
-$U=====2603=====
+$E=====2603=====
 //黒い子猫(こねこ)。スミレの友達で冒険家(ぼうけんか)。その正体は、「太陽の4士族」が大地の戦士「ビーストマスター」が友とした魔物(モンスター)のわすれ形見。
 A black kitten. Violet's adventuring friend. In reality, he is a memento of a monster that the Beast Master, one of the 4 Sun Warriors, befriended.
 $E=====2604=====
@@ -14523,19 +14523,20 @@ $E=====3678=====
 $E=====3679=====
 //闇の領域(ダンジョン)にふる雨
 //は、
-The rain that falls inside a
-dungeon...
+The rain that falls over
+dungeons
 $E=====3680=====
 //闇の一族(イモータル)の放つ暗
 //黒物質(ダークマター)に汚染(
 //おせん)されているの
-is polluted by Dark Matter
-released by an Immortal.
+is polluted by the Dark
+Matter which emanates from
+the nearby Immortal.
 $E=====3681=====
 //浴びすぎると、ステータス異常
 //(いじょう)、呪い(カーモス)に
 //なってしまうから注意して
-if you stand in it for too
+If you stand in it for too
 long, you can be affected by
 the Kaamos curse.
 $E=====3682=====
@@ -14547,7 +14548,7 @@ $E=====3683=====
 //1つは太陽の光を十分に浴びる
 //こと。もう1つはアイテム、太
 //陽のしずくを使うことよ
-you can either stand in the
+You can either stand in the
 sunlight for a while, or use
 the Drop of Sun item.
 $E=====3684=====
@@ -14621,7 +14622,7 @@ $E=====3696=====
 $E=====3697=====
 //エナジーを回復するには太陽の
 //光が必要だけれど、
-You need sunligh in order
+You need sunlight in order
 to recharge your energy,
 $E=====3698=====
 //強すぎる光を浴び続けたり、長
@@ -14659,7 +14660,7 @@ $E=====3704=====
 //とによって得られる経験値(け
 //いけんち)なんだけど、
 You gain experience points
-for defeating monsters,
+by defeating monsters,
 $E=====3705=====
 //自分の攻撃(こうげき)でたおさ
 //なければ、経験値(けいけんち)
@@ -14685,7 +14686,7 @@ $E=====3709=====
 //自分自身の手でトドメをささな
 //きゃダメよ?」
 You have to finish them off
-by yourself, okay?"
+yourself, okay?"
 $E=====3710=====
 <PROC=0>
 <END>
@@ -14725,7 +14726,7 @@ accomplishment itself...
 $E=====3717=====
 //集めるも集めないも、あなたの
 //好きにすればいいわ」
-whether or not to try and
+Whether or not to try and
 collect them is up to you."
 $E=====3718=====
 <PROC=0>
@@ -18055,7 +18056,7 @@ $E=====4387=====
 He's the Dark Boy, but he's
 imbued with the Moon Beauty
 power...
-$U=====4388=====
+$E=====4388=====
 //その地で今、何を思う?」
 I wonder what he's thinking
 now, in that place?"
@@ -18442,14 +18443,14 @@ $E=====4462=====
 //「この積雪だ。
 //さすがに寒いな・・・
 <LABEL=PEOPLE2>???</LABEL>:
-"This snowfall.
-It's cold, of course...
+"This snowfall...
+It's certainly cold.
 $E=====4463=====
 //少年も知っているだろうが、闇
 //の領域(ダンジョン)にふる雨は
 You probably know already,
-but the rain that falls in
-dungeons is contaminuated.
+but the rain that falls over
+dungeons is contaminated.
 $E=====4464=====
 //闇の一族(イモータル)の放つ暗
 //黒物質(ダークマター)に汚染(
@@ -18481,17 +18482,16 @@ equip a Raincoat.
 $E=====4469=====
 //カーモスの呪(のろ)いを防ぐこ
 //とができるぞ
-The curse of Kaamos can be
-prevented.
+The curse of Kaamos is
+preventable.
 $E=====4470=====
 //ところで少年は・・・
 By the way, boy...
-$U=====4471=====
+$E=====4471=====
 //そんなダボダボのハーフパンツ
 //で、寒くはないのか?」
 aren't you cold in those
 baggy shorts?"
-// ダボダボ?
 $E=====4472=====
 <PROC=0>
 <END>
@@ -19548,7 +19548,7 @@ $E=====4687=====
 //今は機械いじりばかりしておる
 and now he's working on
 nothing but machines.
-$U=====4688=====
+$E=====4688=====
 //おまけにあんな黒眼鏡(くろめ
 //がね)なんぞかけよって!
 What's worse, he started
@@ -20841,14 +20841,13 @@ $E=====4955=====
 //おけんこさまのぬいぐるみだ
 A stuffed doll of Master
 Okenko.
-$U=====4956=====
+$E=====4956=====
 //ハッスルしている。
 //見ていると病気もふっ飛びそう
 //だ!
 It's hustling.
 Looking at it, you feel all
 your ailments flying away!
-// ハッスル ?
 $E=====4957=====
 <PROC=0>
 <END>
@@ -26517,7 +26516,7 @@ $E=====6188=====
 <LABEL=FRES></LABEL>I'm one of the Four
 Immortals... Wings of Death
 Hresvelgr!
-$U=====6189=====
+$E=====6189=====
 //伯爵(はくしゃく)と追いかけっ
 //このところを悪いんだけど、
 I know you're trying to
@@ -27417,7 +27416,7 @@ $E=====6386=====
 //真実がどうであれ、やつは戦士
 Whatever the truth may be,
 he is a warrior.
-$U=====6387=====
+$E=====6387=====
 //わたしと同じく、戦いの中でし
 //か生きられない男だということ
 //を・・・
@@ -28489,7 +28488,7 @@ destroy people!"
 $E=====6621=====
 <PROC=0>
 <END>
-$U=====6622=====
+$E=====6622=====
 //<LABEL=SABATA>サバタ</LABEL>
 //「来たぁ!
 //来た来た来た来た来たぁ!!
@@ -28499,8 +28498,8 @@ $E=====6623=====
 //行くぞぉ!
 //行くぞ行くぞ行くぞ行くぞ
 //行くぞぉ、<NAME>!!
-Let's go! Let's go,
-let's go, let's go!
+Let's go, let's go,
+let's go!
 Let's go, <NAME>!
 $E=====6624=====
 //太陽と暗黒、今ふたたび雌雄(
@@ -28615,9 +28614,9 @@ $E=====6646=====
 //やつはこのおれをヴァナルガン
 //ドのまどろみの中に引きずりこ
 //み、支配(しはい)した
-he controlled me during
-Vanargand's slumber,
-pulling me along,
+He pulled me into
+Vanargand's slumber and
+took control of me,
 $E=====6647=====
 //おれの身体を蝕(むしば)む暗黒
 //物質(ダークマター)を使って
@@ -28746,7 +28745,7 @@ $E=====6674=====
 //ムダにすることはできないぞ!!
 Sabata is putting his life
 on the line... you can't let
-his wish go to waste!
+his wishes go to waste!
 $E=====6675=====
 <PROC=0>
 <END>
@@ -30903,13 +30902,12 @@ $E=====7160=====
 If his soul is split away
 from Vanargand soon, my
 wish may come true...
-今なら
 $E=====7161=====
 //たとえあの人を守ることはでき
 //なくとも、
 Even if there's nothing you
 can do to protect him,
-$U=====7162=====
+$E=====7162=====
 //せめて破壊(はかい)の獣(けも
 //の)として、運命を共にするこ
 //とはできる
@@ -30987,7 +30985,7 @@ Trinity is in danger!
 $E=====7180=====
 <PROC=0>
 <END>
-$U=====7181=====
+$E=====7181=====
 //<LABEL=OTENKO></LABEL>わたしの姿(すがた)を見て、移
 //動床(いどうゆか)のスイッチを
 //切ってしまったんだ
@@ -32701,7 +32699,7 @@ $E=====7539=====
 //おうというのだな?
 You know that, and you still
 fight?
-$U=====7540=====
+$E=====7540=====
 //さすがは、われらが闇の女王(
 //クイーン)が気にかけるほどの
 //男・・・」
@@ -33646,7 +33644,7 @@ But that...
 $E=====7749=====
 //あなた方のおがけで無事、解決
 //(かいけつ)したというわけです
-that was safely resolved,
+that was nicely resolved,
 all thanks to you two.
 $E=====7750=====
 <PROC=0>
@@ -34270,28 +34268,28 @@ I couldn't win against you."
 $E=====7881=====
 <PROC=0>
 <END>
-$U=====7882=====
+$E=====7882=====
 //<LABEL=NONE>サバタの幻影(げんえい)</LABEL>
 //「結果的に・・・
 <LABEL=NONE>Sabata Phantom</LABEL>:
-"As for the consequences...
+"Consequently...
 $E=====7883=====
 //あの戦いで2人の母をも犠牲(ぎ
 //せい)にしたおれは、
-Dark manipulated us.
+When our mother became
+another sacrifice in that
+battle,
 $E=====7884=====
 //おれたちを利用した銀河意思(
 //ダーク)と、
-When our mother became a
-sacrifice in that battle as
-well,
+I swore revenge on that
+manipulative Dark,
 $E=====7885=====
 //その地上代行者たる闇の一族(
 //イモータル)への復讐(ふくしゅ
 //う)を誓(ちか)った
-I swore revenge against
-Dark, and his agents on
-earth, the Immortals.
+and his agents on earth,
+the Immortals.
 $E=====7886=====
 //だがおれが真に戦いたかったの
 //は、やつらなどではなかった
@@ -34307,8 +34305,8 @@ Miguel...
 $E=====7889=====
 //あの街でおまえと共に戦ったと
 //き、
-When I fought alongside you
-in that city, 
+When I fought with you in
+that city, 
 $E=====7890=====
 //おれはようやく、そのことに気
 //づいた・・・」
@@ -34326,16 +34324,16 @@ $E=====7893=====
 //破壊(はかい)の獣(けもの)のま
 //どろみの中に引きずりこまれた
 //おれは、
-during the Beast of
-Destruction's slumber, I was
-pulled along,
+I was dragged into the
+Beast of Destruction's
+slumber,
 $E=====7894=====
 //暗黒物質(ダークマター)による
 //人形使いの支配(しはい)を受け
 //た
-The Puppeteer used my Dark
-Matter to gain control over
-me.
+and the Puppeteer used my
+Dark Matter to gain control
+over me.
 $E=====7895=====
 //ラタトスクは、おれをヴァナル
 //ガンド復活(ふっかつ)のための
@@ -35765,7 +35763,7 @@ $E=====8210=====
 //「うふふっ・・・
 <LABEL=KARMIRA>Carmilla</LABEL>:
 "Hee hee hee...
-$U=====8211=====
+$E=====8211=====
 //おわすれですか?
 //わたしのイシのかたさを」
 Have you forgotten?
@@ -36701,7 +36699,7 @@ $E=====8419=====
 by the time I realized, you
 guys were already so worked
 up.
-$U=====8420=====
+$E=====8420=====
 //ま、場の空気を読んだってわけ
 //よ・・・な?」
 Well, I didn't want to ruin
