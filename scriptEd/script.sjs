@@ -18588,35 +18588,36 @@ $E=====4490=====
 $E=====4491=====
 //この世界のどこかにあるという
 //闘技場(とうぎじょう)・・・
-They say that somewhere in
-this world is an arena,
+They say there's an arena
+somewhere in this world
 $E=====4492=====
 //そこでは、過去(かこ)に戦って
 //きた強敵(きょうてき)たちとの
 //連戦が、
-which holds a series of
-battles against previous
-foes,
+that offers a series of
+battles against major foes
+you've fought before.
 $E=====4493=====
 //挑戦者(ちょうせんしゃ)を待っ
 //ているという
-awaiting a challenger.
-$U=====4494=====
+I hear the guy who built it
+was so stingy,
+$E=====4494=====
 //何でも、その闘技場(とうぎじ
 //ょう)を作ったのは、[くれない
 //の何も?]とかいう男らしいが、
-I hear that a man called
-"Do you give me nothing?"
-built the arena.
+they started calling him
+"Mr. Miser".
 $E=====4495=====
 //そんな大変な戦いをさせておい
 //て・・・
-But after making it through
-such difficult challenges...
+But after you make it
+through such a difficult
+challenge...
 $E=====4496=====
 //本当に何もくれないのか?」
-Do they really not give you
-anything?"
+does he really not give you
+any reward?"
 $E=====4497=====
 <PROC=0>
 <END>
@@ -42213,14 +42214,15 @@ battle against the Count.
 $E=====9754=====
 //伯爵(はくしゃく)を先にたおす
 //か、
-After defeating the Count,
+Before your opponent can
+defeat the Count,
 $E=====9755=====
 //ライバルのゲームにオジャマを
 //送りこんで、ライバルを先にた
 //おした方が勝ちだ
-and try to defeat them
-before they defeat the
-Count in order to win.
+send Break-Ins to their game
+and defeat them first to
+achieve victory.
 $E=====9756=====
 <PROC=0>
 <END>
