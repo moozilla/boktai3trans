@@ -13,10 +13,65 @@ table { background-color: #ffffff; }
 .hdr { font-weight: bold; }
 .notes .label { font-weight: bold; font-size: 10pt; }
 .notes .text { font-style: italic; }
+
+.monster { border: 1px outset; position: relative; background-color: white; }
+.monster .cell { border: 1px inset; }
+.monster .sprite { border: 1px inset; position: relative; left: 2px; top: 2px; width: 68px; height: 76px; }
+.monster .strong { border: 1px inset; position: relative; left: 0px; top: -39px; width: 32px; height: 32px; padding: 1px; }
+.monster .weak { border: 1px inset; position: relative; left: -40px; top: 1px; width: 32px; height: 32px; padding: 1px; }
+.monster .name { border: 1px inset; position: relative; left: 112px; top: -79px; width: 148px; padding: 2px 0px 0px 2px; font-weight: bold; }
+.monster .next { border: 1px inset; position: relative; left: 0px; top: 0px; padding: 1px; }
+.brd { border: 1px inset; padding: 1px; margin: 1px; }
 </style>
 </head>
 <body>
 <h2>Monsters</h2>
+
+<div class="monster">
+ <img class="sprite" src="images/m05.gif" />
+ <img class="strong" src="images/e_earth.png" />
+ <img class="weak" src="images/e_cloud.png" />
+ <div class="name">05 Skeleton Fencer</div>
+</div>
+
+<br />
+
+<div style="border: 1px outset; background-color: white; width: 506px;" >
+
+<div style="float: left;">
+
+<div style="float: left;"><img class="brd" src="images/m05.gif" style="width: 68px; height: 76px;" /></div>
+<div style="float: left;">
+<div style="float: left;" class="brd" style="font-weight: bold;">05 Spider</div>
+<div style="float: left;"><img class="brd" src="images/e_earth.png" /></div>
+<div style="clear: left;float: left;">HP:<br />EXP:</div>
+<div style="float: left;"><div class="brd">30</div><div class="brd">10</div></div>
+</div>
+<div style="clear: left; float: left;">
+ Description:
+ <div class="brd" style="width:200px;">Lays spiderwebs.</div>
+ Location(s):
+ <div class="brd" style="width:200px;"><a target="_MAP" href="sealed_prison.html?mark=b3f,32,18,r|b3f,31,19,r|b2f,27,14,r|b2f,28,18,r|b2f,29,16,r|b2f,31,16,r">Sealed Prison</a> (Lv.2)</div>
+</div>
+
+</div>
+
+<div style="float: left;">
+ <div class="brd">Attacks<br />1...<br />2...<br />3...<br />4...</div>
+ <div class="brd"><img src="images/i01.png" /> Earthly Nut</div>
+ <div class="brd"><img src="images/i02.png" /> Rotten Nut</div>
+</div>
+
+<div style="clear: left;">
+ Notes:
+ <div class="brd" style="width:500px;">it is a spider</div>
+</div>
+
+</div>
+
+<div style="clear: left;"></div>
+
+<br />
 
 <table border="1">
 
