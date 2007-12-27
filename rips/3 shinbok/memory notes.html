@@ -26,6 +26,11 @@
     <td class="rnge"><a href="#portraits">values</a></td>
   </tr>
   <tr>
+    <td class="addr">0200EEC0</td>
+    <td class="name">Boss HP</td>
+    <td class="rnge">int16</td>
+  </tr> 
+  <tr>
     <td class="addr">0203c442</td>
     <td class="name">Player Status Points</td>
     <td class="rnge">0-196</td>
@@ -66,6 +71,11 @@
     <td class="rnge"><a href="#accessories">values</a></td>
   </tr>
   <tr>
+    <td class="addr">0203c5c0</td>
+    <td class="name">Swords</td>
+    <td class="rnge"><a href="#swords">values</a></td>
+  </tr>
+  <tr>
     <td class="addr">0203c6c0</td>
     <td class="name">Warehouse Sword Box 1</td>
     <td class="rnge"><a href="#swords">values</a></td>
@@ -76,14 +86,29 @@
     <td class="rnge"><a href="#swords">values</a></td>
   </tr>
   <tr>
-    <td class="addr">0203c5c0</td>
-    <td class="name">Swords</td>
-    <td class="rnge"><a href="#swords">values</a></td>
-  </tr>
-  <tr>
     <td class="addr">0203c8c0</td>
     <td class="name">Solar Gun Frames</td>
     <td class="rnge"><a href="#frames">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203c996</td>
+    <td class="name">Stuffed Dolls</td>
+    <td class="rnge">flags</td>
+  </tr>
+  <tr>
+    <td class="addr">0203c9b8</td>
+    <td class="name">Maps</td>
+    <td class="rnge">flags</td>
+  </tr>
+  <tr>
+    <td class="addr">0203ca08</td>
+    <td class="name">TRC Gauge</td>
+    <td class="rnge">0-1000</td>
+  </tr>
+  <tr>
+    <td class="addr">0203ca10</td>
+    <td class="name">Mr. Rainnot enabled</td>
+    <td class="rnge">0-1</td>
   </tr>
   <tr>
     <td class="addr">0203ca38</td>
@@ -94,6 +119,16 @@
     <td class="addr">0203ca3c</td>
     <td class="name">Black Django usage</td>
     <td class="rnge">int32</td>
+  </tr>
+  <tr>
+    <td class="addr">0203caf0</td>
+    <td class="name">Library: Monsters</td>
+    <td class="rnge">flags</td>
+  </tr>
+  <tr>
+    <td class="addr">0203cb01</td>
+    <td class="name">Library: Monster items</td>
+    <td class="rnge">flags</td>
   </tr>
   <tr>
     <td class="addr">0203cb7c</td>
@@ -119,6 +154,36 @@
     <td class="addr">0203cbb2</td>
     <td class="name">Bike Points</td>
     <td class="rnge">0-9999</td>
+  </tr>
+  <tr>
+    <td class="addr">0203cbb8</td>
+    <td class="name">Bike Parts: Front</td>
+    <td class="rnge"><a href="#bikefronts">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cbbc</td>
+    <td class="name">Bike Parts: Tires</td>
+    <td class="rnge"><a href="#biketires">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cbc0</td>
+    <td class="name">Bike Parts: Body</td>
+    <td class="rnge"><a href="#bikebodies">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cbc4</td>
+    <td class="name">Bike Parts: Special</td>
+    <td class="rnge"><a href="#bikespecials">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cbf8</td>
+    <td class="name">Bike Parts: Color</td>
+    <td class="rnge"><a href="#bikecolors">values</a></td>
+  </tr>
+  <tr>
+    <td class="addr">0203cc1c</td>
+    <td class="name">Bike Parts: Options</td>
+    <td class="rnge"><a href="#bikeoptions">values</a></td>
   </tr>
   <tr>
     <td class="addr">0203cc28</td>
@@ -848,6 +913,306 @@
   <tr>
     <td class="digs">0D</td>
     <td class="name">Phantom (broken)</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="bikefronts" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Bike Front Bits</th>
+  </tr>
+  <tr>
+    <td class="digs">0x01</td>
+    <td class="name">Blaster I</td>
+  </tr>
+  <tr>
+    <td class="digs">0x02</td>
+    <td class="name">Sidewinder</td>
+  </tr>
+  <tr>
+    <td class="digs">0x04</td>
+    <td class="name">Blaster II</td>
+  </tr>
+  <tr>
+    <td class="digs">0x08</td>
+    <td class="name">Hammerhead</td>
+  </tr>
+  <tr>
+    <td class="digs">0x10</td>
+    <td class="name">Fairy Tale</td>
+  </tr>
+  <tr>
+    <td class="digs">0x20</td>
+    <td class="name">Crusher</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="biketires" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Bike Tire Bits</th>
+  </tr>
+  <tr>
+    <td class="digs">0x01</td>
+    <td class="name">Standard I</td>
+  </tr>
+  <tr>
+    <td class="digs">0x02</td>
+    <td class="name">Standard II</td>
+  </tr>
+  <tr>
+    <td class="digs">0x04</td>
+    <td class="name">Trail</td>
+  </tr>
+  <tr>
+    <td class="digs">0x08</td>
+    <td class="name">Chain</td>
+  </tr>
+  <tr>
+    <td class="digs">0x10</td>
+    <td class="name">Multi-Purpose</td>
+  </tr>
+  <tr>
+    <td class="digs">0x20</td>
+    <td class="name">Booster</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="bikebodies" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Bike Body Bits</th>
+  </tr>
+  <tr>
+    <td class="digs">0x01</td>
+    <td class="name">Viking</td>
+  </tr>
+  <tr>
+    <td class="digs">0x02</td>
+    <td class="name">Einherjar</td>
+  </tr>
+  <tr>
+    <td class="digs">0x04</td>
+    <td class="name">Ulfhedinn</td>
+  </tr>
+  <tr>
+    <td class="digs">0x08</td>
+    <td class="name">Berserk</td>
+  </tr>
+  <tr>
+    <td class="digs">0x10</td>
+    <td class="name">Valkyrie</td>
+  </tr>
+  <tr>
+    <td class="digs">0x20</td>
+    <td class="name">Sleipnir</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="bikespecials" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Bike Special Bits</th>
+  </tr>
+  <tr>
+    <td class="digs">0x01</td>
+    <td class="name">Repair</td>
+  </tr>
+  <tr>
+    <td class="digs">0x02</td>
+    <td class="name">Mine</td>
+  </tr>
+  <tr>
+    <td class="digs">0x04</td>
+    <td class="name">Barrier</td>
+  </tr>
+  <tr>
+    <td class="digs">0x08</td>
+    <td class="name">Spread</td>
+  </tr>
+  <tr>
+    <td class="digs">0x10</td>
+    <td class="name">Stealth</td>
+  </tr>
+  <tr>
+    <td class="digs">0x20</td>
+    <td class="name">Missiles</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="bikecolors" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Bike Color Bits</th>
+  </tr>
+  <tr>
+    <td class="digs">0x0100</td>
+    <td class="name">Coffin Gray</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0200</td>
+    <td class="name">Sol Yellow</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0400</td>
+    <td class="name">Luna White</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0800</td>
+    <td class="name">Flame Red</td>
+  </tr>
+  <tr>
+    <td class="digs">0x1000</td>
+    <td class="name">Frost Blue</td>
+  </tr>
+  <tr>
+    <td class="digs">0x2000</td>
+    <td class="name">Cloud Purple</td>
+  </tr>
+  <tr>
+    <td class="digs">0x4000</td>
+    <td class="name">Earth Green</td>
+  </tr>
+  <tr>
+    <td class="digs">0x8000</td>
+    <td class="name">Dark Black</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0001</td>
+    <td class="name">Django Red</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0002</td>
+    <td class="name">Sabata Black</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0004</td>
+    <td class="name">Trinity SP</td>
+  </tr>
+  <tr>
+    <td class="digs">0x0008</td>
+    <td class="name">Rock Blue</td>
+  </tr>
+</table>
+
+<p />
+
+<a name="bikeoptions" />
+<a href="#top">Back</a>
+<table class="code" border="1">
+  <tr>
+    <th colspan="2">Bike Option Bits</th>
+  </tr>
+  <tr>
+    <td class="digs">0x010000</td>
+    <td class="name">Magic Handle</td>
+  </tr>
+  <tr>
+    <td class="digs">0x020000</td>
+    <td class="name">Magic Step</td>
+  </tr>
+  <tr>
+    <td class="digs">0x040000</td>
+    <td class="name">Rock Emblem</td>
+  </tr>
+  <tr>
+    <td class="digs">0x080000</td>
+    <td class="name">Platinum Plug</td>
+  </tr>
+  <tr>
+    <td class="digs">0x100000</td>
+    <td class="name">High Grade Oil</td>
+  </tr>
+  <tr>
+    <td class="digs">0x200000</td>
+    <td class="name">Hyper Charger</td>
+  </tr>
+  <tr>
+    <td class="digs">0x400000</td>
+    <td class="name">Blues Chain</td>
+  </tr>
+  <tr>
+    <td class="digs">0x800000</td>
+    <td class="name">Colonel Gear</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000100</td>
+    <td class="name">Reinforced Frame</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000200</td>
+    <td class="name">Reinforced Arm</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000400</td>
+    <td class="name">Knuckle Guard</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000800</td>
+    <td class="name">Protector</td>
+  </tr>
+  <tr>
+    <td class="digs">0x001000</td>
+    <td class="name">BST Battery</td>
+  </tr>
+  <tr>
+    <td class="digs">0x002000</td>
+    <td class="name">WPN Batter</td>
+  </tr>
+  <tr>
+    <td class="digs">0x004000</td>
+    <td class="name">SP Battery</td>
+  </tr>
+  <tr>
+    <td class="digs">0x008000</td>
+    <td class="name">Clutch Master</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000001</td>
+    <td class="name">Brake Master</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000002</td>
+    <td class="name">Kid's Afro</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000004</td>
+    <td class="name">Smith's Hammer</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000008</td>
+    <td class="name">Violet's Apron</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000010</td>
+    <td class="name">Lady's Card</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000020</td>
+    <td class="name">Cheyenne's Axe</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000040</td>
+    <td class="name">Lita's Ribbon</td>
+  </tr>
+  <tr>
+    <td class="digs">0x000080</td>
+    <td class="name">Zazie's Orb</td>
   </tr>
 </table>
 
