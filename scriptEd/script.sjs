@@ -3224,7 +3224,7 @@ $E=====1143=====
 UNDEAD FINGERNAIL
 $E=====1144=====
 //トマホークアーム
-TOMAHAWK ARMOR
+TOMAHAWK ARM
 $E=====1145=====
 //鉄ゲタ
 IRON CLOGS
@@ -3266,7 +3266,7 @@ $E=====1157=====
 A hot headband. TRC builds quickly.
 $E=====1158=====
 //身体健全のお守り。敵(てき)の攻撃(こうげき)による毒化をふせぐ。
-A good health charm. Defends against Poison from enemy attacks.
+A good-health charm. Defends against Poison from enemy attacks.
 $E=====1159=====
 //額当(ひたいあ)ての付いたハチマキ。足音が立たなくなる。トランスがたまりにくくなる。
 A headband applied to the forehead. Silences footsteps. Slows TRC gain.
@@ -3314,7 +3314,7 @@ $E=====1173=====
 Rain cloak. Protects from the rain.
 $E=====1174=====
 //魔法の鎧(よろい)。ココロが高いほど受けるダメージがへり、チカラが下がる。
-Magical armor. Damage taken decreases as SPR increases. Decreses STR.
+Magical armor. Damage taken decreases as SPR increases. Decreases STR.
 $E=====1175=====
 //装備(そうび)した者を守る鎧(よろい)。攻撃(こうげき)を受けると自動的に反撃(はんげき)する。
 Armor that protects the user through automatic counter attacks.
@@ -3353,7 +3353,7 @@ $E=====1186=====
 A tiny shield. Halves damage taken when using a sword.
 $E=====1187=====
 //魔法の手甲(てっこう)。ココロが高いほどソードであたえるダメージがふえ、チカラが下がる。
-Magical gauntlet. Damage dealt increases as SPR increases. Decreses STR.
+Magical gauntlet. Damage dealt increases as SPR increases. Decreases STR.
 $E=====1188=====
 //白騎士(しろきし)の手甲(てっこう)。昼間あたえるダメージがふえ、夜間あたえるダメージがへる。
 A white knight's gauntlet. Increases damage dealt during the day, decreases damage dealt at night.
@@ -9069,31 +9069,31 @@ $E=====2508=====
 <END>
 $E=====2509=====
 //毒花粉をまき散らす。たおすことはできない。
-Emits poisonous pollen. Cannot be killed.
+Emits poisonous pollen. Cannot be destroyed.
 $E=====2510=====
 //混乱花粉(こんらんかふん)をまき散らす。たおすことはできない。
-Emits disorienting pollen. Cannot be killed.
+Emits disorienting pollen. Cannot be destroyed.
 $E=====2511=====
 //はじけてタネをまき散らす。
-Emits explosive seeds.
+Scatters explosive seeds.
 $E=====2512=====
 //前方にトゲを飛ばし続ける。たおすことはできない。
-Continuosly emits spines. Cannot be killed.
+Shoots spines in a straight line. Cannot be destroyed.
 $E=====2513=====
 //クモの巣をはる。
-Lays spiderwebs.
+Spins spiderwebs.
 $E=====2514=====
 //毒液を吐く。
-Breathes venom.
+Spits gobs of venom.
 $E=====2515=====
 //針(はり)でさす。
-Stings with needles.
+Jabs with its stinger.
 $E=====2516=====
 //毒針(どくばり)でさす。
-Stings with poisonous needles.
+Jabs with its poisonous stinger.
 $E=====2517=====
 //針(はり)でさす。
-Stings with needles.
+Jabs with its stinger.
 $E=====2518=====
 //かみつく。
 Bites.
@@ -9330,7 +9330,7 @@ $E=====2595=====
 <NAME>'s older brother, brought up as the Dark Boy to use the Gun Del Hell by his fake mother, the Queen. Inherited the Moon Beauty power and the Moonlight Scarf from his real mother, Mani.
 $E=====2596=====
 //破壊(はかい)の獣(けもの)であることを受け入れたサバタ。その心は、「ヴァナルガンド」があたえる狂気(きょうき)に支配(しはい)されている。
-Sabata after succeeding the Beast of Destruction. He's being controlled via the madness induced by Vanargand.
+Sabata after succumbing to the Beast of Destruction. He's being controlled via the madness induced by Vanargand.
 $E=====2597=====
 //ぬすみの言いわけに「伝説の戦士」の子孫だとかたったため、戦士をさがし出し、その死を未然にふせぐことを命じられた自称(じしょう)「トレジャーハンター」。母の形見である「鉄鍋(てつなべ)」と「青ポンチョ」を身にまとう。
 A self-styled Treasure Hunter who claims to be descended from the Legendary Warrior, he seeks out the Warrior to prevent his death. He wears the Iron Pot and Blue Poncho as a memento of his mother.
@@ -36558,7 +36558,7 @@ $E=====8390=====
 //太古より闇の一族(イモータル)
 //と戦い続けてきた太陽の一族
 The Solar Children have
-fought against the Imortals
+fought against the Immortals
 since ancient times.
 $E=====8391=====
 //その血を受けついだリンゴと、
@@ -36783,7 +36783,7 @@ $E=====8439=====
 //太古より闇の一族(イモータル)
 //と戦い続けてきた太陽の一族
 The Solar Children have
-fought against the Imortals
+fought against the Immortals
 since ancient times.
 $E=====8440=====
 //その血を受けついだリンゴと、
@@ -37027,7 +37027,7 @@ $E=====8493=====
 //太古より闇の一族(イモータル)
 //と戦い続けてきた太陽の一族
 The Solar Children have
-fought against the Imortals
+fought against the Immortals
 since ancient times.
 $E=====8494=====
 //その血を受けついだお父さんや
@@ -37238,7 +37238,7 @@ $E=====8539=====
 //太古より闇の一族(イモータル)
 //と戦い続けてきた太陽の一族
 The Solar Children have
-fought against the Imortals
+fought against the Immortals
 since ancient times.
 $E=====8540=====
 //その血を受けついだお父さんや
