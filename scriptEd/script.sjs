@@ -2753,13 +2753,13 @@ $E=====987=====
 Dark lens.
 $E=====988=====
 //回復薬
-HEALER
+HEALING POTION
 $E=====989=====
 //大地の実
-EARTHLY NUT
+EARTH FRUIT
 $E=====990=====
 //くさった実
-ROTTEN NUT
+ROTTEN FRUIT
 $E=====991=====
 //干し肉
 JERKY
@@ -2792,7 +2792,7 @@ $E=====1000=====
 MAGICAL POTION
 $E=====1001=====
 //太陽の実
-SOLAR NUT
+SOLAR FRUIT
 $E=====1002=====
 //悪いキノコ
 BAD MUSHROOM
@@ -2807,19 +2807,19 @@ $E=====1005=====
 DROP OF SUN
 $E=====1006=====
 //がまんの実
-BEARNUT
+ENDURANCE FRUIT
 $E=====1007=====
 //はやさの実
-SPEED NUT
+SPEED FRUIT
 $E=====1008=====
 //ちからの実
-POWER NUT
+POWER FRUIT
 $E=====1009=====
 //チョコバナナ
 CHOCOLATE BANANA
 $E=====1010=====
 //しのびの実
-TIPTOE NUT
+STEALTH FRUIT
 $E=====1011=====
 //赤いキノコ
 REDSHROOM
@@ -2828,7 +2828,7 @@ $E=====1012=====
 BLUESHROOM
 $E=====1013=====
 //千里眼の実
-SEE-ALL NUT
+CLAIRVOYANCE FRUIT
 $E=====1014=====
 //転移の葉
 WARP LEAF
@@ -7712,7 +7712,7 @@ $E=====2150=====
 $E=====2151=====
 //「太陽の実」
 //を手に入れた!!
-"Solar Nut"
+"Solar Fruit"
 obtained!
 $E=====2152=====
 <PROC=0>
@@ -11086,8 +11086,8 @@ $E=====3013=====
 //「大地の実やおいしい肉などの
 //生ものは、
 <LABEL=RITA>Lita</LABEL>:
-"Perishables, like Earthly
-Nut and Tasty Meat,
+"Perishables, like Earth
+Fruit and Tasty Meat,
 $E=====3014=====
 //回復量が大きい代わりに、太陽
 //の光を浴びすぎると、くさって
@@ -17019,7 +17019,7 @@ $E=====4180=====
 //ンドのエナジーを消費して放出
 //される
 However, Solar Piles consume
-enemy from the Solar
+energy from the Solar
 Station.
 $E=====4181=====
 //調子に乗って使いすぎると、す
@@ -18415,8 +18415,8 @@ that cannot be defeated.
 $E=====4457=====
 //前方にトゲを飛ばし続けるドラ
 //ゴンパピー、
-The Dragon Puppy that
-continuously emits spines,
+The Dragon Poppy that
+continuously shoots spines,
 $E=====4458=====
 //花粉をふりまいて、近づく者を
 //ステータス異常(いじょう)にす
@@ -18482,8 +18482,8 @@ equip a Raincoat.
 $E=====4469=====
 //カーモスの呪(のろ)いを防ぐこ
 //とができるぞ
-The curse of Kaamos is
-preventable.
+It'll keep you safe from the
+curse of Kaamos.
 $E=====4470=====
 //ところで少年は・・・
 By the way, boy...
@@ -18525,8 +18525,9 @@ their heads, but the average
 Agent can't handle them.
 $E=====4478=====
 //少年も無理はするなよ?」
-Don't push yourself either,
-alright?"
+1234567890123456789012345678
+Don't push yourself too hard
+either, alright?"
 $E=====4479=====
 <PROC=0>
 <END>
@@ -18561,13 +18562,13 @@ to research the damage
 caused by monsters there.
 $E=====4485=====
 //それが今のおれの本当の仕事だ
-That's currently my actual
-job.
+That's my true job now.
 $E=====4486=====
 //組織(ギルド)に組するのは本意
 //ではないんだが・・・
-I'm not really interested in
-joining the Guild, but...
+Not that I'm actually
+interested in joining the
+Guild, but...
 $E=====4487=====
 //あのレディとかいう女に、まん
 //まとはめたれたよ
@@ -18594,9 +18595,9 @@ $E=====4492=====
 //そこでは、過去(かこ)に戦って
 //きた強敵(きょうてき)たちとの
 //連戦が、
-that offers a series of
-battles against major foes
-you've fought before.
+where you can fight against
+some of the major foes
+you've faced before.
 $E=====4493=====
 //挑戦者(ちょうせんしゃ)を待っ
 //ているという
@@ -18667,7 +18668,7 @@ $E=====4508=====
 //どんな魔物(モンスター)が来よ
 //うと・・・
 No matter what kind of
-monster shows up...
+monsters show up...
 $E=====4509=====
 //ガリッとヘッチャラだぜ!!」
 I'll stay cool!"
@@ -18811,7 +18812,7 @@ $E=====4539=====
 //もう一本!!
 <LABEL=GARIGARIKUN>GariGari-kun</LABEL>:
 "Find a Winner Stick and you
-get another one!
+get a freebie!
 $E=====4540=====
 //ガリガリ君コーラと交換(こう
 //かん)すっぞ!」
@@ -18841,7 +18842,7 @@ on the inside.
 $E=====4545=====
 //ちなみにガリガリ君コーラは、
 //外はコーラ味のキャンディー、
-By the way, GariGari Cola
+Similarly, GariGari Cola
 has cola-flavored candy on
 the outside,
 $E=====4546=====
@@ -19120,20 +19121,20 @@ $E=====4604=====
 //ぼくがこうして無事生きていら
 //れるのも、きみが助けてくれた
 //おかげじゃないか?
-I'm living in safety now,
-thanks to your help.
+It's thanks to you that I'm
+living peacefully now.
 $E=====4605=====
 //その恩(おん)にむくいるために
 //も、
-Since you restored this
-city,
+If there's anything I can do
+to restore the city or help
+you on your adventure,
 $E=====4606=====
 //この街の復興(ふっこう)ときみ
 //の冒険(ぼうけん)には、全面的
 //に協力するからね!!」
-we'll do whatever we can to
-repay the favor, by helping
-you out on your adventure!"
+I'll do whatever I can to
+repay the favor!"
 $E=====4607=====
 <PROC=0>
 <END>
@@ -37858,14 +37859,14 @@ Tree.
 $E=====8679=====
 //その中でも特にエナジーが豊富
 //(ほうふ)な太陽の実だ
-Called a Solar Nut, it
+Called a Solar Fruit, it
 contains a copious amount of
 energy.
 $E=====8680=====
 //太陽の実を使ってエナジーを回
 //復(かいふく)すれば、
 If you recover your energy
-with a Solar Nut,
+with a Solar Fruit,
 $E=====8681=====
 //太陽銃(ガン・デル・ソル)を使
 //うことができる
