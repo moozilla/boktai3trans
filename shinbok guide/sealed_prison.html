@@ -57,14 +57,12 @@ function Chests_Parse() {
 function markChest(level, posX, posY, type) {
    var mapDiv = document.getElementById(level);
    if (!mapDiv) return;
-   var chestDiv = document.createElement("DIV");
    var chestImg = document.createElement("IMG");
    chestImg.src = IMG_FOLDER + type + ".gif";
-   chestDiv.style.position = "absolute";
-   chestDiv.style.left = (1+posX*8)+"px";
-   chestDiv.style.top = (1+posY*8)+"px";
-   chestDiv.appendChild(chestImg);
-   mapDiv.appendChild(chestDiv);
+   chestImg.style.position = "absolute";
+   chestImg.style.left = (1+posX*8)+"px";
+   chestImg.style.top = (1+posY*8)+"px";
+   mapDiv.appendChild(chestImg);
    if (mapDiv.className == "hidemap") mapDiv.className = "map";
 }
 QueryString_Parse();
@@ -73,6 +71,7 @@ QueryString_Parse();
 
 </head>
 <body onload="Chests_Parse();">
+<h3>Sealed Prison</h3>
 
 <div class="hidemap" id="b4f" style="position: relative;"><div class="label">B4F</div><img src="images/sp_b4f.png" class="map" style="width:88px;height:80px;" /></div>
 <div class="hidemap" id="b3f" style="position: relative;"><div class="label">B3F</div><img src="images/sp_b3f.png" class="map" style="width:340px;height:260px;" /></div>
