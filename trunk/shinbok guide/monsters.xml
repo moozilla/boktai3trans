@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="monsters.xsl"?>
+
+<monsters>
+
+  <type-prefixes>
+    <type name="Accessory">a</type>
+    <type name="Doll">d</type>
+    <type name="Frame">f</type>
+    <type name="Item">i</type>
+    <type name="Lens">l</type>
+    <type name="Photo">p</type>
+    <type name="Valuable">v</type>
+    <type name="Weapon">w</type>
+  </type-prefixes>
+
+  <type-postfixes>
+    <type name="Accessory"></type>
+    <type name="Doll">_sm</type>
+    <type name="Frame"></type>
+    <type name="Item"></type>
+    <type name="Lens"></type>
+    <type name="Photo">_sm</type>
+    <type name="Valuable"></type>
+    <type name="Weapon"></type>
+  </type-postfixes>
+
+  <type-urls>
+    <type name="Accessory">accessories.html</type>
+    <type name="Doll">dolls.html</type>
+    <type name="Frame">gunframes.html</type>
+    <type name="Item">items.html</type>
+    <type name="Lens">gunlenses.html</type>
+    <type name="Photo">photos.html</type>
+    <type name="Valuable">valuables.html</type>
+    <type name="Weapon">weapons.html</type>
+  </type-urls>
+
+  <dungeon-urls>
+    <dungeon-url name="Sealed Prison">sealed_prison.html</dungeon-url>
+    <dungeon-url name="Lifeless Town">lifeless_town.html</dungeon-url>
+  </dungeon-urls>
+
+  <elements>
+    <element name="Sol">e_sol.png</element>
+    <element name="Dark">e_dark.png</element>
+    <element name="Flame">e_flame.png</element>
+    <element name="Frost">e_frost.png</element>
+    <element name="Earth">e_earth.png</element>
+    <element name="Cloud">e_cloud.png</element>
+  </elements>
+
+  <monster number="01" name="Poisoner">
+    <description>Emits poisonous pollen. Cannot be destroyed.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Pollen" damage="9" />
+    </attacks>
+  </monster>
+
+  <monster number="02" name="Perplexer">
+    <description>Emits disorienting pollen. Cannot be destroyed.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Pollen" damage="17" />
+    </attacks>
+  </monster>
+
+  <monster number="03" name="Popbud">
+    <description>Scatters explosive seeds.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Seeds" damage="21" />
+    </attacks>
+  </monster>
+
+  <monster number="04" name="Dragon Poppy">
+    <description>Shoots spines in a straight line. Cannot be destroyed.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Spines" damage="7" />
+    </attacks>
+  </monster>
+
+  <monster number="05" name="Spider" element="Earth">
+    <rare-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </rare-drop>
+    <description>Spins spiderwebs.</description>
+    <locations>
+      <dungeon name="Sealed Prison" level="2" life="24" exp="3">
+        <location area="b3f" x="32" y="18" />
+        <location area="b3f" x="31" y="19" />
+        <location area="b2f" x="27" y="14" />
+        <location area="b2f" x="28" y="18" />
+        <location area="b2f" x="29" y="16" />
+        <location area="b2f" x="31" y="16" />
+      </dungeon>
+      <dungeon name="Lifeless Town" level="6" life="32" exp="5">
+        <location area="1fa" x="18" y="36" />
+        <location area="1fa" x="18" y="40" />
+        <location area="1fa" x="20" y="38" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="2" />
+    </attacks>
+  </monster>
+
+  <monster number="06" name="Poison Spider" element="Earth">
+    <common-drop>
+      <type>Item</type>
+      <number>0f</number>
+      <name>Antidote</name>
+    </common-drop>
+    <rare-drop>
+      <type>Accessory</type>
+      <number>11</number>
+      <name>Earth Dragon Armor</name>
+    </rare-drop>
+    <description>Spits gobs of venom.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="2" />
+      <attack name="Venom" damage="3" element="Earth" />
+    </attacks>
+  </monster>
+
+  <monster number="07" name="Bee" element="Cloud">
+    <rare-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </rare-drop>
+    <description>Jabs with its stinger.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="2" />
+      <attack name="Sting" damage="6" />
+    </attacks>
+  </monster>
+
+  <monster number="08" name="Poison Bee" element="Cloud">
+    <rare-drop>
+      <type>Item</type>
+      <number>0f</number>
+      <name>Antidote</name>
+    </rare-drop>
+    <description>Jabs with its poisonous stinger.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="2" />
+      <attack name="Sting" damage="6" element="Earth" />
+    </attacks>
+  </monster>
+
+  <monster number="09" name="Killer Bee" element="Cloud">
+    <rare-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </rare-drop>
+    <description>Jabs with its stinger.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="7" />
+      <attack name="Sting" damage="14" />
+    </attacks>
+  </monster>
+
+  <monster number="10" name="Bat" element="Cloud">
+    <common-drop>
+      <type>Item</type>
+      <number>13</number>
+      <name>Speed Fruit</name>
+    </common-drop>
+    <rare-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </rare-drop>
+    <description>Bites.</description>
+    <locations>
+      <dungeon name="Sealed Prison" url="sealed_prison.html" level="2" life="12" exp="3">
+        <location area="b2f" x="15.5" y="17.5" />
+        <location area="b2f" x="16.5" y="19.5" />
+        <location area="b2f" x="17"   y="18"   />
+        <location area="b2f" x="18"   y="18"   />
+        <location area="b2f" x="18.5" y="16.5" />
+        <location area="b2f" x="20"   y="18"   />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Bite" damage="2" />
+    </attacks>
+  </monster>
+
+  <monster number="11" name="Vampire Bat" element="Dark">
+    <common-drop>
+      <type>Item</type>
+      <number>13</number>
+      <name>Speed Fruit</name>
+    </common-drop>
+    <rare-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </rare-drop>
+    <description>Sucks blood.</description>
+    <locations>
+    </locations>
+    <attacks>
+      <attack name="Bite" damage="5" />
+    </attacks>
+  </monster>
+
+  <monster number="12" name="Crow" element="Cloud">
+    <common-drop>
+      <type>Item</type>
+      <number>13</number>
+      <name>Speed Fruit</name>
+    </common-drop>
+    <rare-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </rare-drop>
+    <description>Attacks by swooping in.</description>
+    <locations>
+      <dungeon name="Lifeless Town" level="6" life="16" exp="5">
+        <location area="1fa" x="10" y="44" />
+        <location area="1fa" x="12" y="43" />
+        <location area="1fa" x="12" y="45" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="2" />
+      <attack name="???" damage="2" />
+    </attacks>
+  </monster>
+
+  <monster number="21" name="Ghoul" element="Dark" sunweak="true">
+    <common-drop>
+      <type>Item</type>
+      <number>01</number>
+      <name>Earth Fruit</name>
+    </common-drop>
+    <rare-drop>
+      <type>Accessory</type>
+      <number>1c</number>
+      <name>Bracelet</name>
+    </rare-drop>
+    <description>Spits liquid Klorofolun.</description>
+    <locations>
+      <dungeon name="Sealed Prison" url="sealed_prison.html" level="2" life="43" exp="6">
+        <location area="b3f" x="6" y="26" />
+        <location area="b3f" x="15" y="18" />
+        <location area="b3f" x="16" y="17" />
+        <location area="b2f" x="10" y="9" />
+        <location area="b2f" x="10" y="7" />
+        <location area="b2f" x="12" y="9" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="4" element="Dark" />
+      <attack name="Klorofolun" damage="6" element="Dark" />
+    </attacks>
+  </monster>
+
+  <monster number="30" name="Armor">
+    <description>Creates a shockwave by swinging its axe.</description>
+    <locations>
+      <dungeon name="Lifeless Town" level="6" life="80" exp="3">
+        <location area="1fa" x="6" y="29" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="7" />
+    </attacks>
+  </monster>
+
+  <monster number="38" name="Skeleton">
+    <common-drop>
+      <type>Item</type>
+      <number>14</number>
+      <name>Power Fruit</name>
+    </common-drop>
+    <rare-drop>
+      <type>Accessory</type>
+      <number>0c</number>
+      <name>Chain Mail</name>
+    </rare-drop>
+    <description>Attacks with its bare hands. Can only be killed with elemental attacks.</description>
+    <locations>
+      <dungeon name="Sealed Prison" level="2" life="78" exp="12">
+        <location area="b3f" x="32" y="8" />
+      </dungeon>
+      <dungeon name="Lifeless Town" level="3" life="123" exp="40">
+        <location area="1fa" x="8" y="37" />
+        <location area="1fa" x="12" y="37" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="5" />
+      <attack name="Swipe" damage="11" />
+    </attacks>
+  </monster>
+
+  <monster number="69" name="Klorofolun" element="Dark" sunweak="true">
+    <rare-drop>
+      <type>Item</type>
+      <number>0d</number>
+      <name>Solar Fruit</name>
+    </rare-drop>
+    <description>Sucks blood.</description>
+    <locations>
+      <dungeon name="Sealed Prison" level="2" life="12" exp="2">
+        <location area="b2f" x="3" y="6" />
+        <location area="b2f" x="4" y="5" />
+        <location area="b2f" x="4" y="6" />
+        <location area="b2f" x="4" y="7" />
+      </dungeon>
+      <dungeon name="Lifeless Town" level="6" life="16" exp="3">
+        <location area="1fa" x="4" y="31" />
+        <location area="1fa" x="5" y="30" />
+        <location area="1fa" x="6" y="29" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="1" element="Dark" />
+    </attacks>
+  </monster>
+
+  <monster number="53" name="Bronze Armor">
+    <common-drop>
+      <type>Photo</type>
+      <number>04</number>
+      <name>Dark Boy Sabata (A)</name>
+    </common-drop>
+    <description>Armor made of bronze.</description>
+    <locations>
+      <dungeon name="Sealed Prison" level="??" life="360" exp="124">
+        <location area="b1f" x="9" y="10" />
+      </dungeon>
+    </locations>
+    <attacks>
+      <attack name="Touch" damage="4" />
+      <attack name="Spin" damage="8" />
+      <attack name="Slam" damage="16" />
+    </attacks>
+  </monster>
+
+</monsters>
