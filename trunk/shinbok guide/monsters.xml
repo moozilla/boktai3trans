@@ -126,6 +126,10 @@
     </rare-drop>
     <description>Spits gobs of venom.</description>
     <locations>
+      <dungeon name="Lifeless Town" level="6" life="40" exp="6">
+        <location area="1fa" x="21" y="20" />
+        <location area="1fa" x="22" y="21" />
+      </dungeon>
     </locations>
     <attacks>
       <attack name="Touch" damage="2" />
@@ -270,6 +274,13 @@
         <location area="b2f" x="10" y="7" />
         <location area="b2f" x="12" y="9" />
       </dungeon>
+      <dungeon name="Lifeless Town" level="3" life="84" exp="20">
+        <location area="1fa" x="8" y="24" />
+        <location area="1fa" x="9" y="26" />
+        <location area="1fa" x="11" y="20" />
+        <location area="1fa" x="11" y="21" />
+        <location area="1fa" x="12" y="21" />
+      </dungeon>
     </locations>
     <attacks>
       <attack name="Touch" damage="4" element="Dark" />
@@ -282,6 +293,7 @@
     <locations>
       <dungeon name="Lifeless Town" level="6" life="80" exp="3">
         <location area="1fa" x="6" y="29" />
+        <location area="1fa" x="10" y="25" />
       </dungeon>
     </locations>
     <attacks>
@@ -308,6 +320,10 @@
       <dungeon name="Lifeless Town" level="3" life="123" exp="40">
         <location area="1fa" x="8" y="37" />
         <location area="1fa" x="12" y="37" />
+      </dungeon>
+      <dungeon name="Lifeless Town" level="4" life="133" exp="44">
+        <location area="1fa" x="17" y="13" />
+        <location area="1fa" x="23" y="13" />
       </dungeon>
     </locations>
     <attacks>
