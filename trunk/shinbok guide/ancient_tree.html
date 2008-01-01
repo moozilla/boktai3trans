@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Boktai 3 Guide - Ancient Tree</title>
+<style type="text/css">
+body { background-color: #f5f5dc; font-family: Arial; }
+div.hidemap { display: none; }
+div.map { margin: 2px; float: left; }
+img.map { border: 1px solid black; }
+div.label { position: absolute; left: 2px; top: 0px; font-family: Arial; font-size: 10pt; font-weight: bold; }
+</style>
+
+<script type="text/javascript">
+
+var IMG_FOLDER = "images/"
+
+//=============================================================================
+// QueryString
+//=============================================================================
+function QueryString(key) {
+   var value = null;
+   for (var i=0;i<QueryString.keys.length;i++) {
+      if (QueryString.keys[i]==key) {
+         value = QueryString.values[i];
+         break;
+      }
+   }
+   return value;
+}
+QueryString.keys = new Array();
+QueryString.values = new Array();
+function QueryString_Parse() {
+   var query = document.location.search.substring(1);
+   var pairs = query.split("&");
+   for (var i=0;i<pairs.length;i++) {
+      var pos = pairs[i].indexOf('=');
+      if (pos >= 0) {
+         var argname = pairs[i].substring(0,pos);
+         var value = pairs[i].substring(pos+1);
+         QueryString.keys[QueryString.keys.length] = argname;
+         QueryString.values[QueryString.values.length] = value;
+      }
+   }
+}
+
+function Chests_Parse() {
+   var query = QueryString('mark');
+   if (query == null) return;
+   var pairs = query.split("|");
+   for (var i=0;i<pairs.length;i++) {
+      var entry = pairs[i].split(",");
+      if (entry.length != 4) continue;
+      markChest(entry[0], entry[1], entry[2], entry[3]);
+   }
+}
+function markChest(level, posX, posY, type) {
+   var mapDiv = document.getElementById(level);
+   if (!mapDiv) return;
+   var chestImg = document.createElement("IMG");
+   chestImg.src = IMG_FOLDER + type + ".gif";
+   chestImg.style.position = "absolute";
+   chestImg.style.left = (1+posX*8)+"px";
+   chestImg.style.top = (1+posY*8)+"px";
+   mapDiv.appendChild(chestImg);
+   if (mapDiv.className == "hidemap") mapDiv.className = "map";
+}
+QueryString_Parse();
+
+</script>
+
+</head>
+<body onload="Chests_Parse();">
+<h3>Ancient Tree</h3>
+
+<div class="hidemap" id="1f" style="position: relative;"><div class="label">1F</div><img src="images/map_at_1f.png" class="map" style="width:248px;height:224px;" /></div>
+<div class="hidemap" id="2f" style="position: relative;"><div class="label">2F</div><img src="images/map_at_2f.png" class="map" style="width:320px;height:304px;" /></div>
+<div class="hidemap" id="3f" style="position: relative;"><div class="label">3F</div><img src="images/map_at_3f.png" class="map" style="width:512px;height:344px;" /></div>
+<div class="hidemap" id="4f" style="position: relative;"><div class="label">4F</div><img src="images/map_at_4f.png" class="map" style="width:376px;height:296px;" /></div>
+<div class="hidemap" id="5f" style="position: relative;"><div class="label">5F</div><img src="images/map_at_5f.png" class="map" style="width:408px;height:312px;" /></div>
+<div class="hidemap" id="6f" style="position: relative;"><div class="label">6F</div><img src="images/map_at_6f.png" class="map" style="width:112px;height:112px;" /></div>
+
+</body>
+</html>
