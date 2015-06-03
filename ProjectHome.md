@@ -1,0 +1,1 @@
+Translating Shin Bokura no Taiyou: Gyakushuu no Sabata for the GBA from Japanese to English.
