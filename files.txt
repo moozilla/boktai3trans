@@ -3,8 +3,10 @@ This document says what all the files are, if you add a file please describe it 
 Root folder:
 dump.sjs         - The original script dump
 newtitle.png     - A canditate for the English title screen
+Newtitle2.png	 - Implemented English title screen by Seren, closer to the Japanese logo 
 notes.txt        - Spikeman's hacking notes
 passwords.sjs    - End-game passwords
+region_select.asm - Source code for ips/region_select.ips
 ShinBok.sav      - A savefile fairly far into the game
 ShinBok2.sav     - A savefile farther than the other one
 title.png        - The original title screen
@@ -21,7 +23,11 @@ map_names.ips            - Translates place names on the world map and in San Mi
 menu_titles.ips          - Translates captions at the top of menu screens
 name_entry.ips           - Converts name entry screen to English
 latest_translation.ips   - Includes all above patches
+latest_localization.ips  - Includes all above patches, and localizes names to match with US counterparts. (Probably don't use this yet, still needs work and testing)
+status_screen.ips	 - Translates small text on the Status/Inventory/Store screens (Add to latest_translation.ip when complete)
 solar_sensor_hack.ips    - Change solar sensor by pressing left/right while holding R
+menus.ips		 - Translates small text on the Pause menu, predates status_screen.ips
+region_select_us.ips     - Patches region selection screen to support time zones, more regions, and more pages
 
 /MenuEd/   Spikeman's graphical tile editor
 

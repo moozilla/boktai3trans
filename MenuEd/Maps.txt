@@ -1,0 +1,245 @@
+~~~~~Katakana Keyboard
+Tile Address:	65211C
+Map Address:	656F54
+Block Address:	6560DC
+~~~~~Hiragana Keyboard
+Tile Address:	65211C
+Map Address:	657154
+Block Address:	6560DC
+~~~~~Time Setting
+Tile Address:	65211C
+Map Address:	657354
+Block Address:	6560DC
+~~~~~Region Setting
+Tile Address:	65211C
+Map Address:	657554
+Block Address:	6560DC
+~~~~~Game Start
+Tile Address:	65211C
+Map Address:	657754
+Block Address:	6560DC
+~~~~~<PLAYER NAME> Is this Ok?
+Tile Address:	65211C
+Map Address:	657954
+Block Address:	6560DC
+~~~~~Sensor Setting (GBA)
+Tile Address:	65211C
+Map Address:	657B54
+Block Address:	6560DC
+~~~~~Sensor Setting (GBA SP)
+Tile Address:	65211C
+Map Address:	657D54
+Block Address:	6560DC
+~~~~~Password Keyboard
+Tile Address:	65211C
+Map Address:	657F54
+Block Address:	6560DC
+~~~~~Settings
+Tile Address:	65211C
+Map Address:	658154
+Block Address:	6560DC
+~~~~~Sound Test
+Tile Address:	65211C
+Map Address:	658354
+Block Address:	6560DC
+~~~~~Four lines? Not quite sure...?
+Tile Address:	65211C
+Map Address:	658554
+Block Address:	6560DC
+~~~~~Blank, maybe Link Menu?
+Tile Address:	65211C
+Map Address:	658754
+Block Address:	6560DC
+~~~~~Bestiary
+Tile Address:	65211C
+Map Address:	658954
+Block Address:	6560DC
+~~~~~Bestiary Details
+Tile Address:	65211C
+Map Address:	658B54
+Block Address:	6560DC
+~~~~~Weapon Guide
+Tile Address:	65211C
+Map Address:	658D54
+Block Address:	6560DC
+~~~~~Album
+Tile Address:	65211C
+Map Address:	658F54
+Block Address:	6560DC
+~~~~~Missions menu
+Tile Address:	65211C
+Map Address:	659154
+Block Address:	6560DC
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~Konami Logo
+Tile Address:	68B8D4
+Map Address:	68EBD4
+Block Address:	68E754
+~~~~~KCEJ Logo (RIP KCEJ)
+Tile Address:	68B8D4
+Map Address:	68EDD4
+Block Address:	68E754
+~~~~~Sunlight Warning
+Tile Address:	68B8D4
+Map Address:	68EFD4
+Block Address:	68E754
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~Sealed Prison
+Tile Address:	69A4C0
+Map Address:	69F558
+Block Address:	69EF80
+~~~~~Lifeless Town
+Tile Address:	69A4C0
+Map Address:	69F758
+Block Address:	69EF80
+~~~~~Ancient Tree
+Tile Address:	69A4C0
+Map Address:	69F958
+Block Address:	69EF80
+~~~~~White Forest
+Tile Address:	69A4C0
+Map Address:	69FB58
+Block Address:	69EF80
+~~~~~Pirate Island
+Tile Address:	69A4C0
+Map Address:	69FD58
+Block Address:	69EF80
+~~~~~Dark Castle
+Tile Address:	69A4C0
+Map Address:	69FF58
+Block Address:	69EF80
+~~~~~Paradise
+Tile Address:	69A4C0
+Map Address:	6A0158
+Block Address:	69EF80
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THE FOLLOWING SET OF ADDRESSES ONLY APPLY TO THE ORIGINAL JAPANESE VERSION, AND WERE MOVED IN THE TRANSLATION
+~~~~~Solar Bank 1 (Enter)
+Tile Address:	6D6DD0
+Map Address:	6D8088
+Block Address:	6D7D50
+~~~~~Solar Bank 2 (Use)
+Tile Address:	6D6DD0
+Map Address:	6D8288
+Block Address:	6D7D50
+~~~~~Solar Bank 3 (Exit)
+Tile Address:	6D6DD0
+Map Address:	6D8488
+Block Address:	6D7D50
+~~~~~Dark Loans 1 (Enter)
+Tile Address:	6D6DD0
+Map Address:	6D8688
+Block Address:	6D7D50
+~~~~~Dark Loans 2 (Use)
+Tile Address:	6D6DD0
+Map Address:	6D8888
+Block Address:	6D7D50
+~~~~~Dark Loans 3 (Exit)
+Tile Address:	6D6DD0
+Map Address:	6D8A88
+Block Address:	6D7D50
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THE FOLLOWING SET OF ADDRESSES ONLY APPLY TO THE ENGLISH TRANSLATION PATCH, AND WERE MOVED FROM THEIR POSITIONS IN THE ORIGINAL JAPANESE VERSION
+~~~~~Solar Bank 1 (Enter)
+Tile Address:	E88150
+Map Address:	6D8088
+Block Address:	6D7D50
+~~~~~Solar Bank 2 (Use)
+Tile Address:	E88150
+Map Address:	6D8288
+Block Address:	6D7D50
+~~~~~Solar Bank 3 (Exit)
+Tile Address:	E88150
+Map Address:	6D8488
+Block Address:	6D7D50
+~~~~~Dark Loans 1 (Enter)
+Tile Address:	E88150
+Map Address:	6D8688
+Block Address:	6D7D50
+~~~~~Dark Loans 2 (Use)
+Tile Address:	E88150
+Map Address:	6D8888
+Block Address:	6D7D50
+~~~~~Dark Loans 3 (Exit)
+Tile Address:	E88150
+Map Address:	6D8A88
+Block Address:	6D7D50
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~HUD w/Trance
+Tile Address:	70A230
+Map Address:	70C978
+Block Address:	70C1B0
+~~~~~Text Box bottom
+Tile Address:	70A230
+Map Address:	70CB78
+Block Address:	70C1B0
+~~~~~Text Box top
+Tile Address:	70A230
+Map Address:	70CD78
+Block Address:	70C1B0
+~~~~~Multiplayer/Password error box, "Enter Boktai 2 password?"
+Tile Address:	70A230
+Map Address:	70CF78
+Block Address:	70C1B0
+~~~~~Make sunlight hit the Solar Sensor on the Game Pak & you can enjoy many effects in BOKTAI3.
+Tile Address:	70A230
+Map Address:	70D178
+Block Address:	70C1B0
+~~~~~Map
+Tile Address:	70A230
+Map Address:	70D378
+Block Address:	70C1B0
+~~~~~Items/Valuables/Swords
+Tile Address:	70A230
+Map Address:	70D578
+Block Address:	70C1B0
+~~~~~Solar Gun
+Tile Address:	70A230
+Map Address:	70D778
+Block Address:	70C1B0
+~~~~~Accessories
+Tile Address:	70A230
+Map Address:	70D978
+Block Address:	70C1B0
+~~~~~Status
+Tile Address:	70A230
+Map Address:	70DB78
+Block Address:	70C1B0
+~~~~~Option
+Tile Address:	70A230
+Map Address:	70DD78
+Block Address:	70C1B0
+~~~~~Save/Sleep
+Tile Address:	70A230
+Map Address:	70DF78
+Block Address:	70C1B0
+~~~~~Shops
+Tile Address:	70A230
+Map Address:	70E178
+Block Address:	70C1B0
+~~~~~Solarsmith
+Tile Address:	70A230
+Map Address:	70E378
+Block Address:	70C1B0
+~~~~~Solarsmith minigame
+Tile Address:	70A230
+Map Address:	70E578
+Block Address:	70C1B0
+~~~~~Link menu?
+Tile Address:	70A230
+Map Address:	70E778
+Block Address:	70C1B0
+~~~~~Warehouse
+Tile Address:	70A230
+Map Address:	70E978
+Block Address:	70C1B0

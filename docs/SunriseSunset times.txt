@@ -1,0 +1,284 @@
+-----Boktai 2 US
+030047EA - MGBA RAM location for Sunrise Hour
+030047EB - MGBA RAM location for Sunrise Minute
+030047EC - MGBA RAM location for Sunset Hour
+030047ED - MGBA RAM location for Sunset Minute
+
+01 St. John's 0402 133A
+
+02 Labrador City 0402 1434
+03 Halifax 041C 1400
+
+04 Quebec 0333 1328
+05 Montreal 0405 132C
+06 Ottawa 040D 1334
+07 Toronto 0424 1400
+08 Timmins 0417 1417
+
+09 Boston 0407 1317
+0A Albany 0410 1321
+0B Syracuse 0418 132E
+
+0C New York 0419 131D
+0D Philadelphia 0420 131E
+0E Pittsburgh 0432 1334
+
+0F Washington D.C. 042B 1323
+10 Norfolk 042E 1319
+11 Raleigh 043A 131F
+12 Charlotte 0507 1327
+
+13 Atlanta 051B 1331
+14 Jacksonville 0518 131D
+15 Tampa 0522 131B
+16 Miami 051E 130D
+
+17 Detroit 0437 140B
+18 Cleveland 0434 1401
+19 Columbus 0504 1402
+1A Lexington 050E 1402
+
+1B Thunder Bay 0337 1400
+1C Winnipeg 0415 1426
+1D Regina 042E 150B
+1E Thompson 032F 150F
+
+1F Indianapolis 0411 130E
+20 Chicago 040F 131A
+21 Milwaukee 040A 1320
+22 Minneapolis 041B 1400
+23 Bismark 0430 1425
+
+24 St. Louis 0424 131B
+25 Nashville 041D 1305
+26 Memphis 042E 1311
+27 Montgomery 0426 1236
+28 Jackson 0436 1309
+
+29 New Orleans 0500 1302
+2A Des Moines 0428 1331
+2B Lincoln 0437 133A
+2C Kansas City 0433 132D
+2D Topeka 0437 1331
+
+2E Springfield 0434 1423
+2F Little Rock 0438 1317
+30 Oklahoma City 050E 132E
+31 Dallas 0512 1323
+32 Houston 0515 1317
+
+33 Edmonton 0405 1503
+34 Calgary 0415 1435
+35 Yellowknife 022A 1622
+
+36 Denver 041F 131C
+37 Albaquerque 0433 1316
+38 Phoenix 0502 1327
+39 Boise 0503 141B
+3A Salt Lake City 0437 133B
+
+3B Vancouver 0407 1414
+3C Whitehorse 031F 161F
+
+3D Spokane 0333 1330
+3E Seattle 040B 1408
+3F Salem 041A 133B
+40 Reno 041F 131B
+41 Las Vegas 0417 123B
+
+42 Los Angeles 0429 1306
+43 San Diego 0429 1239
+44 San Francisco 042F 1320
+
+45 Anchorage 0314 1626
+46 Fairbanks 0208 1721
+47 Ketchikan 0304 141D
+
+48 Honolulu 0530 130D
+
+-----Boktai 2 EU
+0300543A - MGBA RAM location for Sunrise Hour
+0300543B - MGBA RAM location for Sunrise Minute
+0300543C - MGBA RAM location for Sunset Hour
+0300543D - MGBA RAM location for Sunset Minute
+
+01 Reykjavik 0237 0000
+02 Dublin 0332 1501
+03 Cork 040F 1435
+
+04 London 032C 1414
+05 Cardiff 0338 141F
+06 Edinburgh 031C 143A
+07 Belfast 032F 1500
+08 Liverpool 032C 142A
+
+09 Lisbon 050C 1403
+0A Porto 043A 140B
+0B Valetta 042F 1314
+
+0C Madrid 052C 142E
+0D Barcelona 0512 141B
+0E Valencia 0523 141E
+0F La Coruna 0535 150F
+10 Seville 0602 142D
+
+11 Paris 0431 1438
+12 Brest 0510 1514
+13 Lyons 0435 1421
+14 Bordeaux 0510 1431
+15 Marseilles 043B 1415
+
+16 Brussels 041F 143A
+17 Bastogne 041C 1433
+18 Amsterdam 0414 1506
+19 Rotterdam 0414 1506
+1A Luxembourg 041A 1429
+
+1B Berlin 032C 141F
+1C Hamburg 0335 1434
+1D Essen 040E 1432
+1E Frankfurt 040D 142A
+1F Munich 040B 1414
+
+20 Bern 0425 141B
+21 Geneve 0428 141A
+22 Vaduz 0417 1418
+23 Wien 0336 133A
+24 Innsbruck 0413 140D
+
+25 Rome 0424 132F
+26 Genova 0429 140C
+27 Venezia 0417 1401
+28 Palermo 042A 1322
+29 Sassari 0438 133B
+
+2A Oslo 023B 1528
+2B Bergen 030C 1608
+2C Trondheim 0204 1624
+2D Copenhagen 031C 1437
+2E Odense 0326 1502
+
+2F Stockholm 021F 1504
+30 Gothenburg 030F 150F
+31 Helsinki 0234 152F
+32 Turku 0303 1601
+33 Mikkeli 021D 1538
+
+34 Warszawa 030E 133B
+35 Gdansk 030C 1417
+36 Poznan 0320 1412
+37 Wroclaw 0320 140A
+38 Krakow 031E 1338
+
+39 Praha 0333 1411
+3A Bratislava 0331 1334
+3B Kosice 0321 1327
+
+3C Budapest 032D 1329
+3D Bucuresti 041F 1402
+
+3E Ljubljana 040A 133A
+3F Zagreb 0408 1331
+40 Sarajevo 0405 131E
+41 Beograd 0335 131A
+42 Skopje 033A 130D
+
+43 Tirane 0509 1411
+44 Sofiya 0431 1407
+45 Athinai 0504 1332
+46 Thessaloniki 043B 1402
+47 Iraklion 0505 1324
+
+48 Ankara 0416 1314
+49 Istanbul 041F 1327
+4A Izmir 042D 1322
+4B Konya 041D 130E
+4C Adana 0413 1301
+
+4D Jerusalem 0423 122E
+
+4E Pretoria 0634 1119
+4F Cape Town 0732 112E
+50 Durban 0631 1104
+
+51 Wellington 072F 103B
+52 Auckland 0721 110D
+53 Dunedin 0812 1101
+
+54 Sydney 063A 1037
+55 Melbourne 0722 1108
+56 Adelaide 0716 110D
+57 Perth 0710 1116
+58 Brisbane 0623 1101
+
+-----Boktai 3
+0300543A - MGBA RAM location for Sunrise Hour
+0300543B - MGBA RAM location for Sunrise Minute
+0300543C - MGBA RAM location for Sunset Hour
+0300543D - MGBA RAM location for Sunset Minute
+
+01 Ibaraki 0415 123A
+02 Tochigi 0418 1301
+03 Gunma  041A 1303
+04 Saitama 041A 1300
+05 Chiba 0418 1238
+
+06 Tokyo 041B 1300
+07 Kanagawa 041B 1300
+08 Ogasawara 0425 121C
+
+09 Niigata 0416 1308
+0A Toyama 0421 130C
+0B Ishikawa 0424 130F
+0C Fukui 0426 130F
+0D Yamanashi 041F 1304
+
+0E Nagano 
+0F Gifu 
+10 Shizuoka 
+11 Aichi 
+
+12 Mie 
+13 Shiga 
+14 Kyoto 
+15 Osaka 
+16 Hyougo 
+
+17 Nara 
+18 Wakayama 
+
+19 Tottori 
+1A Shimane 
+1B Okayama 
+1C Hiroshima 
+1D Yamaguchi 
+
+1E Tokushima 
+1F Kagawa 
+20 Ehime 
+21 Kouchi 
+
+22 Fukuoka 
+23 Saga 
+24 Nagasaki 
+25 Kumamoto 
+26 Ooita 
+
+27 Miyazaki 
+28 Kagoshima 
+29 Okinawa 
+2A Ishigakijima 
+
+2B Sapporo 
+2C Hakodate 
+2D Asahikawa 
+2E Kushiro 
+2F Obihiro 
+
+30 Aomori 
+31 Iwate 
+32 Miyagi 
+
+33 Akita 
+34 Yamagata 
+35 Fukushima 

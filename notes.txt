@@ -171,23 +171,23 @@ General Notes:
 
 Locations of Interest:
  65211C - Small font
- 68B8D4 - Something.. title?
+ 68B8D4 - Opening splash screens
  69A4E0 - Kanji
  70A230 - HUD
- 7466DC - HUD (forging?)
+ 7466DC - HUD (forging/racing?)
  750FAC - Kanji
  9F8F00 - Main Font (english 8x16)
  9FAF00 - Main Font (japanese 16x16)
  B37E74 - "Offset" katakana
- BE2F04 - Parts of some menu (Link Bike Race?)
+ BE2F04 - Bike menus (Custom, Course, Link) and Dungeon challenges
  BF7790 - Bank menu
- C13880 - Some text/menu
+ C13880 - Menu button labels (Buy, sell, equip, etc.)
  C15880 - Menu title graphics
  C37664 - Copyright/title
  C788F0 - Battle graphics
  C81A50 - Map/town names
- CE45C0 - Some kanji (?)
- D05540 - Game menu?
+ CE45C0 - Explain headers
+ D05540 - Game Start/Option menus and Library guide
  D11154 - Kanji
 
 Palettes:
@@ -226,7 +226,7 @@ Start of pointer table: 8D6B1F8
 
 Notes:
 - Graphics located at 70A230
-- Tilemap is loaded from 70C238 at 8216716
+- Tilemap is loaded from 70C238 at 8216716 (Add/subtract 200 for each map)
   - Looks like it's compressed somehow (I think it's custom)
 
 Titles:

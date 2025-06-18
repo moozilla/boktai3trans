@@ -1,0 +1,235 @@
+-----Boktai 2 US
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+0A 
+0B 
+0C 
+0D 
+0E 
+0F 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+1A 
+1B 
+1C 
+1D 
+1E 
+1F 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+2A 
+2B 
+2C 
+2D 
+2E 
+2F 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+3A 
+3B 
+3C 
+3D 
+3E 
+3F 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+
+-----Boktai 2 EU
+01 
+02 
+03 
+04 
+05 
+06 
+07 
+08 
+09 
+0A 
+0B 
+0C 
+0D 
+0E 
+0F 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+1A 
+1B 
+1C 
+1D 
+1E 
+1F 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+2A 
+2B 
+2C 
+2D 
+2E 
+2F 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+38 
+39 
+3A 
+3B 
+3C 
+3D 
+3E 
+3F 
+40 
+41 
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+4A 
+4B 
+4C 
+4D 
+4E 
+4F 
+50 
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+
+-----Boktai 3
+0300543A - MGBA RAM location for Sunrise Minute
+0300543B - MGBA RAM location for Sunrise Hour
+0300543C - MGBA RAM location for Sunset Minute
+0300543D - MGBA RAM location for Sunset Hour
+
+01 Ibaraki 3004 1912 - X
+02 Tochigi 3304 1C12 //3304-412
+03 Gunma  3504 1E12 X
+04 Saitama 3504 1B12 X
+05 Chiba 3204 1812 X -
+
+06 Tokyo 3504 1B12 X
+07 Kanagawa 3504 1B12 X
+08 Ogasawara 3704 0412 - X
+
+09 Niigata 3304 2012
+0A Toyama 0005 2612 X 
+0B Ishikawa 0405 2912
+0C Fukui 0505 2912
+0D Yamanashi 3904 1F12 //3904-139
+
+0E Nagano 3904 2212 //3904-139
+0F Gifu 0505 2712
+10 Shizuoka 3B04 1E12
+11 Aichi 0505 2612 //2612-426
+
+12 Mie 0705 2612
+13 Shiga 0905 2A12 //2A12-255
+14 Kyoto 0905 2A12
+15 Osaka 0B05 2A12
+16 Hyougo 0C05 2A12
+
+17 Nara 0A05 2912
+18 Wakayama 0C05 2A12
+
+19 Tottori 0E05 3012
+1A Shimane 1305 3412
+1B Okayama 1205 3112
+1C Hiroshima 1705 3612
+1D Yamaguchi 1C05 3912
+
+1E Tokushima 0F05 2D12
+1F Kagawa 1005 2F12
+20 Ehime 1805 3412
+21 Kouchi 1505 3012
+
+22 Fukuoka 2105 0013
+23 Saga 2105 0013
+24 Nagasaki 2505 0213
+25 Kumamoto 2205 3A12 //3A12-262
+26 Ooita 1D05 3712
+
+27 Miyazaki 2005 3612
+28 Kagoshima 2405 3912 //3912-160
+29 Okinawa 3705 0113 //3705-139
+2A Ishigakijima 0A06 0C13
+
+2B Sapporo 2004 2212 - X
+2C Hakodate 2604 2212 - X
+2D Asahikawa 1B04 1F12 - X
+2E Kushiro 1504 1512 - X
+2F Obihiro 1904 1912 - X
+
+30 Aomori 2804 2012
+31 Iwate 2704 1B12 - X
+32 Miyagi 2C04 1B12 - X
+
+33 Akita 2B04 1F12 - X
+34 Yamagata 2D04 1D12 - X
+35 Fukushima 2E04 1B12 - X

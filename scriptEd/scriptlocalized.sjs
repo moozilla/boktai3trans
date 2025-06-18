@@ -2384,7 +2384,7 @@ $E=====864=====
 LA VIE EN ROSE
 $E=====865=====
 //ロックバスター
-ROCKBUSTER
+MEGABUSTER
 $E=====866=====
 //Lv.<VAR=0>　威力:<VAR=1>　古代の長剣。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
 Lv.<VAR=0>  Power:<VAR=1>  An ancient longsword. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
@@ -2532,7 +2532,7 @@ $E=====913=====
 Lv.??  Power:??  Proof of Doomy's love. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====914=====
 //Lv.??　威力:<VAR=1>　ロックマンとの友情の証(あかし)。<WEIGHT><EXTEND=0><EXTEND=1><EXTEND=2><EXTEND=3></WEIGHT>
-Lv.??  Power:<VAR=1>  Proof of Rockman's friendship. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
+Lv.??  Power:<VAR=1>  Proof of MegaMan's friendship. <WEIGHT><EXTEND=0> <EXTEND=1> <EXTEND=2> <EXTEND=3></WEIGHT>
 $E=====915=====
 
 $E=====916=====
@@ -2753,13 +2753,13 @@ $E=====987=====
 Dark lens.
 $E=====988=====
 //回復薬
-HEALING POTION
+HEALER
 $E=====989=====
 //大地の実
-EARTH FRUIT
+EARTHLY NUT
 $E=====990=====
 //くさった実
-ROTTEN FRUIT
+ROTTEN NUT
 $E=====991=====
 //干し肉
 JERKY
@@ -2792,7 +2792,7 @@ $E=====1000=====
 MAGICAL POTION
 $E=====1001=====
 //太陽の実
-SOLAR FRUIT
+SOLAR NUT
 $E=====1002=====
 //悪いキノコ
 BAD MUSHROOM
@@ -2807,19 +2807,19 @@ $E=====1005=====
 DROP OF SUN
 $E=====1006=====
 //がまんの実
-ENDURANCE FRUIT
+BEARNUT
 $E=====1007=====
 //はやさの実
-SPEED FRUIT
+SPEED NUT
 $E=====1008=====
 //ちからの実
-POWER FRUIT
+POWER NUT
 $E=====1009=====
 //チョコバナナ
 CHOCOLATE BANANA
 $E=====1010=====
 //しのびの実
-STEALTH FRUIT
+TIPTOE NUT
 $E=====1011=====
 //赤いキノコ
 REDSHROOM
@@ -2828,7 +2828,7 @@ $E=====1012=====
 BLUESHROOM
 $E=====1013=====
 //千里眼の実
-CLAIRVOYANCE FRUIT
+SEE-ALL NUT
 $E=====1014=====
 //転移の葉
 WARP LEAF
@@ -3191,7 +3191,7 @@ $E=====1132=====
 BAT WING
 $E=====1133=====
 //フォルテマント
-FORTE MANTLE
+BASS MANTLE
 $E=====1134=====
 //パワーリスト
 POWER WRIST
@@ -3254,7 +3254,7 @@ $E=====1153=====
 RAT TAIL
 $E=====1154=====
 //ブルースレッグ
-BLUES LEG
+PROTOMAN LEG
 $E=====1155=====
 //魔法石の付いた頭環(とうかん)。ココロが上がる(中)。敵(てき)がアイテムを落としにくくなる。
 A headband with a magic stone attached. Raises Spirit. Decreases odds of item drops.
@@ -3335,7 +3335,7 @@ $E=====1180=====
 A dried-up wing. Weakens Flame, Frost, Cloud, and Earth?
 $E=====1181=====
 //フォルテの力を宿したマント。受けるダメージが半分になる。
-A mantle with the power of Forte. Halves damage taken.
+A mantle with the power of Bass. Halves damage taken.
 $E=====1182=====
 //重りの入った腕輪(うでわ)。チカラが上がる(中)。ソードの受けるダメージが2倍になる。
 A heavy bracelet. Raises Strength. Doubles damage taken when using a sword.
@@ -3398,7 +3398,7 @@ $E=====1201=====
 A crooked tail. ENE decreases during movement?
 $E=====1202=====
 //ブルースの力を宿したブーツ。太陽ゲージがゼロでもダッシュ可能(かのう)になる。
-Boots with the power of Blues. Can dash even when the Solar Gauge is at zero.
+Boots with the power of ProtoMan. Can dash even when the Solar Gauge is at zero.
 $E=====1203=====
 //これを捨てますか?
 Trash this?
@@ -4189,7 +4189,7 @@ $E=====1420=====
 //「ロックエンブレム」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"Rock Emblem"
+"Mega Emblem"
 obtained!</LABEL><PROC=1>
 $E=====1421=====
 <PROC=0>
@@ -4229,7 +4229,7 @@ $E=====1428=====
 //「ブルースチェーン」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Option
-"Blues Chain"
+"ProtoMan Chain"
 obtained!</LABEL><PROC=1>
 $E=====1429=====
 <PROC=0>
@@ -4519,7 +4519,7 @@ $E=====1486=====
 //「ロックブルー」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Bike Color
-"Rock Blue"
+"Mega Blue"
 obtained!</LABEL><PROC=1>
 $E=====1487=====
 <PROC=0>
@@ -4599,7 +4599,7 @@ $E=====1502=====
 //「ロックマン」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
-"Rockman"
+"MegaMan"
 obtained!</LABEL><PROC=1>
 $E=====1503=====
 <PROC=0>
@@ -4609,7 +4609,7 @@ $E=====1504=====
 //「ブルース」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Stuffed Doll
-"Blues"
+"ProtoMan"
 obtained!</LABEL><PROC=1>
 $E=====1505=====
 <PROC=0>
@@ -4739,7 +4739,7 @@ $E=====1530=====
 //「クロ」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Kuro"
+"Nero"
 obtained!</LABEL><PROC=1>
 $E=====1531=====
 <PROC=0>
@@ -4879,7 +4879,7 @@ $E=====1558=====
 //「ロックマン」
 //を手に入れた!!</LABEL><PROC=1>
 <LABEL>Photograph
-"Rockman"
+"MegaMan"
 obtained!</LABEL><PROC=1>
 $E=====1559=====
 <PROC=0>
@@ -4949,7 +4949,7 @@ $E=====1579=====
 $E=====1580=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //ここに会話が入るよ。
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 A conversation goes here.
 $E=====1581=====
 <PROC=0>
@@ -7712,7 +7712,7 @@ $E=====2150=====
 $E=====2151=====
 //「太陽の実」
 //を手に入れた!!
-"Solar Fruit"
+"Solar Nut"
 obtained!
 $E=====2152=====
 <PROC=0>
@@ -8035,7 +8035,7 @@ Press <WEIGHT>START</WEIGHT> to begin the battle. Press the <WEIGHT>B Button</WE
 $E=====2239=====
 //コースを設定中です。しばらくお待ちください。
 Creating course. Please wait.
-$E=====2240=====
+$C=====2240=====
 //強い日差しや気温の変化に注意
 //して、もう一度対戦しますか?
 Rematch? Be careful under
@@ -8093,7 +8093,7 @@ $E=====2252=====
 MAGIC STEP
 $E=====2253=====
 //ロックエンブレム
-ROCK EMBLEM
+MEGA EMBLEM
 $E=====2254=====
 //プラチナプラグ
 PLATINUM PLUG
@@ -8105,7 +8105,7 @@ $E=====2256=====
 HYPER CHARGER
 $E=====2257=====
 //ブルースチェーン
-BLUES CHAIN
+PROTOMAN CHAIN
 $E=====2258=====
 //カーネルギア
 COLONEL GEAR
@@ -8165,7 +8165,7 @@ $E=====2276=====
 An energy-reinforced riding step. Raises Attack.
 $E=====2277=====
 //ロックマンの力が宿ったエンブレム。攻撃力アップ(大)。
-An emblem with the power of Rockman. Greatly raises Attack.
+An emblem with the power of MegaMan. Greatly raises Attack.
 $E=====2278=====
 //高性能スパークプラグ。加速力アップ(小)。
 A high efficiency spark plug. Slightly raises Accel.
@@ -8177,7 +8177,7 @@ $E=====2280=====
 A hyper charger. Slightly raises max Speed.
 $E=====2281=====
 //ブルースの力が宿ったチェーン。最高スピードアップ(小)。
-A chain with the power of Blues. Slightly raises max Speed.
+A chain with the power of ProtoMan. Slightly raises max Speed.
 $E=====2282=====
 //カーネルの力が宿ったギア。最高スピードアップ(小)。
 A gear with the power of Colonel. Slightly raises max Speed.
@@ -8504,7 +8504,7 @@ $E=====2388=====
 TRINITY SP
 $E=====2389=====
 //ロックブルー
-ROCK BLUE
+MEGA BLUE
 $E=====2390=====
 //棺桶(かんおけ)の灰。無と不安の色。
 Coffin ash. The color of anxiety and nothingness.
@@ -8540,7 +8540,7 @@ $E=====2400=====
 Future Boy purple. The color of creation and destruction.
 $E=====2401=====
 //ロックマンの青。友情と知性(ちせい)の色。
-Rockman blue. The color of friendship and intelligence.
+MegaMan blue. The color of friendship and intelligence.
 $E=====2402=====
 //パーツをつけかえる。
 Select parts.
@@ -8601,7 +8601,7 @@ $E=====2419=====
 Make sunlight hit the
 Solar Sensor on the
 Game Pak & you can enjoy
-many effects in BOKTAI 3.
+many effects in BOKTAI3.
 $E=====2420=====
 //「新・ボクらの太陽」では、カ
 //ートリッジ上部の太陽センサー
@@ -8611,7 +8611,7 @@ $E=====2420=====
 Make sunlight hit the
 Solar Sensor on the
 Game Pak & you can enjoy
-many effects in BOKTAI 3.
+many effects in BOKTAI3.
 $E=====2421=====
 //カートリッジ上部にある太陽セ
 //ンサーは、太陽の光の強さを感
@@ -8629,7 +8629,7 @@ with artificial light.
 $E=====2423=====
 //「シンボク」では、太陽センサ
 //ーが感知した太陽の光が、
-IN "BOKTAI 3," the rays
+IN "BOKTAI3," the rays
 caught by the sensor
 affect the game world.
 $E=====2424=====
@@ -8812,16 +8812,16 @@ $E=====2462=====
 $E=====2463=====
 //        バイクバトル
         BIKE BATTLE
-$C=====2464===== //FIXIT
+$C=====2464=====
 //最初のステージを体験プレイ!!
 Try beginner stage!
-$C=====2465===== //FIXIT
+$C=====2465=====
 //バトルドライブと新・ジャンゴを体験プレイ!!
 Try Battle Drive with New Django!
-$C=====2466===== //FIXIT
+$C=====2466=====
 //バイクのカスタマイズとアクションを体験プレイ!!
 Try Bike Custom and Bike Action!
-$C=====2467===== //FIXIT
+$C=====2467=====
 //バイクによる二人用通信対戦を体験プレイ!!
 Try 2-Player Link Battle!
 $X=====2468=====
@@ -9487,7 +9487,7 @@ $E=====2630=====
 Violet
 $E=====2631=====
 //クロ
-Kuro
+Nero
 $E=====2632=====
 //キッド
 Kid
@@ -9529,7 +9529,7 @@ $E=====2644=====
 ???
 $E=====2645=====
 //ロックマン
-Rockman
+MegaMan
 $E=====2646=====
 //ガリガリ君
 GariGari-kun
@@ -11139,8 +11139,8 @@ $E=====3013=====
 //「大地の実やおいしい肉などの
 //生ものは、
 <LABEL=RITA>Lita</LABEL>:
-"Perishables, like Earth
-Fruit and Tasty Meat,
+"Perishables, like Earthly
+Nut and Tasty Meat,
 $E=====3014=====
 //回復量が大きい代わりに、太陽
 //の光を浴びすぎると、くさって
@@ -13714,7 +13714,7 @@ $E=====3511=====
 //<LABEL=LADY>ミステリアスな女性</LABEL>
 //「ありがとう、クロちゃん
 <LABEL=LADY>Mysterious Woman</LABEL>:
-"Thank you, Kuro,
+"Thank you, Nero,
 $E=====3512=====
 //でもあなたには、大切なお仕事
 //があるでしょ?
@@ -13731,7 +13731,7 @@ $E=====3514=====
 $E=====3515=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャ!」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow!"
 $E=====3516=====
 <PROC=0>
@@ -16270,7 +16270,7 @@ adventuring?
 $E=====4007=====
 //それじゃあ、おるすばんはスミ
 //レとクロちゃんがするからね
-Then me an' Kuro will keep
+Then me an' Nero will keep
 taking care of your house.
 $E=====4008=====
 //そうこをつかいたいときは、い
@@ -16434,8 +16434,8 @@ $E=====4045=====
 //「ろっくまん えぐぜ!
 //とらんすみっしょん!!」
 <LABEL=SUMIRE>Violet</LABEL>:
-"Rockman.EXE!
-Transmission!"
+"Jack in!
+MegaMan, Execute!!"
 $E=====4046=====
 <PROC=0>
 <END>
@@ -16562,7 +16562,7 @@ $E=====4073=====
 //スミレもクロちゃんとがっしん
 //したーい!!」
 Lucky...
-I wanna combine with Kuro!"
+I wanna combine with Nero!"
 $E=====4074=====
 <PROC=0>
 <END>
@@ -17343,7 +17343,7 @@ $E=====4231=====
 //「クロちゃんったら、あいかわ
 //らずねてばっかりなの
 <LABEL=SUMIRE>Violet</LABEL>:
-"All Kuro ever does is
+"All Nero ever does is
 sleep,
 $E=====4232=====
 //おきたとおもったら、すぐにど
@@ -17361,7 +17361,7 @@ $E=====4234=====
 $E=====4235=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4236=====
 //<LABEL=SUMIRE>スミレ</LABEL>
@@ -17380,7 +17380,7 @@ $E=====4239=====
 $E=====4240=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?
 $E=====4241=====
 //・・・
@@ -17407,7 +17407,7 @@ $E=====4246=====
 $E=====4247=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4248=====
 <PROC=0>
@@ -17415,7 +17415,7 @@ $E=====4248=====
 $E=====4249=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4250=====
 <PROC=0>
@@ -17423,7 +17423,7 @@ $E=====4250=====
 $E=====4251=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4252=====
 <PROC=0>
@@ -17431,7 +17431,7 @@ $E=====4252=====
 $E=====4253=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4254=====
 <PROC=0>
@@ -17439,7 +17439,7 @@ $E=====4254=====
 $E=====4255=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4256=====
 <PROC=0>
@@ -17447,7 +17447,7 @@ $E=====4256=====
 $E=====4257=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4258=====
 <PROC=0>
@@ -17455,7 +17455,7 @@ $E=====4258=====
 $E=====4259=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4260=====
 <PROC=0>
@@ -17463,7 +17463,7 @@ $E=====4260=====
 $E=====4261=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4262=====
 <PROC=0>
@@ -17471,7 +17471,7 @@ $E=====4262=====
 $E=====4263=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4264=====
 <PROC=0>
@@ -17479,7 +17479,7 @@ $E=====4264=====
 $E=====4265=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4266=====
 <PROC=0>
@@ -17487,7 +17487,7 @@ $E=====4266=====
 $E=====4267=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow."
 $E=====4268=====
 <PROC=0>
@@ -17495,7 +17495,7 @@ $E=====4268=====
 $E=====4269=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア?」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow?"
 $E=====4270=====
 <PROC=0>
@@ -17503,7 +17503,7 @@ $E=====4270=====
 $E=====4271=====
 //<LABEL=KURO>クロ</LABEL>
 //「ミャア・・・」
-<LABEL=KURO>Kuro</LABEL>:
+<LABEL=KURO>Nero</LABEL>:
 "Meow..."
 $E=====4272=====
 <PROC=0>
@@ -19871,10 +19871,10 @@ $E=====4741=====
 LUXANA AND DOOMY
 $E=====4742=====
 //ロックマン
-ROCKMAN
+MEGAMAN
 $E=====4743=====
 //ブルース
-BLUES
+PROTOMAN
 $E=====4744=====
 //カーネル
 COLONEL
@@ -19882,14 +19882,14 @@ $E=====4745=====
  
 $E=====4746=====
 //ロックマンのぬいぐるみだ
-A stuffed doll of Rockman.
+A stuffed doll of MegaMan.
 $E=====4747=====
 <PROC=0>
 <END>
 $E=====4748=====
 //プラグインしますか?
 // <ALTER>はい</ALTER>　<ALTER>いいえ</ALTER>
-Plug in?
+Jack In?
  <ALTER>Yes</ALTER>  <ALTER>No</ALTER>
 $E=====4749=====
 <PROC=0>
@@ -19906,14 +19906,14 @@ $E=====4752=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「やあ、<NAME>くん!!
 //よくここがわかったね!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Hey, <NAME>!
 Good job finding this place!
 $E=====4753=====
 //ボクは熱斗くんのネットナビ
 //ロックマン
-I'm Netto's NetNavi,
-Rockman.
+I'm Lan's NetNavi,
+MegaMan.
 $E=====4754=====
 //今日はここ、サン・ミゲルの電
 //脳(でんのう)に遊びに来てるん
@@ -19948,7 +19948,7 @@ $E=====4760=====
 //てくれれば、いつでも会えるか
 //らね!
 we can always meet up if you
-Plug In to this stuffed
+Jack In to this stuffed
 doll!
 $E=====4761=====
 <PROC=0>
@@ -19982,7 +19982,7 @@ $E=====4767=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「よく来たね、
 //<NAME>くん!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Good to see you,
 <NAME>!
 $E=====4768=====
@@ -20014,7 +20014,7 @@ $E=====4773=====
 //「ロックブルー」
 //を手に入れた!!<LOCK=176>
 Bike Color
-"Rock Blue"
+"Mega Blue"
 obtained!<LOCK=176>
 $E=====4774=====
 <PROC=0>
@@ -20023,7 +20023,7 @@ $E=====4775=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「よく来たね、
 //<NAME>くん!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Good to see you,
 <NAME>!
 $E=====4776=====
@@ -20057,7 +20057,7 @@ $E=====4782=====
 //「ブルースチェーン」
 //を手に入れた!!<LOCK=176>
 Bike Option
-"Blues Chain"
+"ProtoMan Chain"
 obtained!<LOCK=176>
 $E=====4783=====
 <PROC=0>
@@ -20066,7 +20066,7 @@ $E=====4784=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「よく来たね、
 //<NAME>くん!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Good to see you,
 <NAME>!
 $E=====4785=====
@@ -20109,7 +20109,7 @@ $E=====4793=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「よく来たね、
 //<NAME>くん!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Good to see you,
 <NAME>!
 $E=====4794=====
@@ -20139,7 +20139,7 @@ $E=====4799=====
 //「ロックエンブレム」
 //を手に入れた!!<LOCK=176>
 Bike Option
-"Rock Emblem"
+"Mega Emblem"
 obtained!<LOCK=176>
 $E=====4800=====
 <PROC=0>
@@ -20147,7 +20147,7 @@ $E=====4800=====
 $E=====4801=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「やあ、<NAME>くん!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Hey, <NAME>!
 $E=====4802=====
 <PROC=0>
@@ -20156,7 +20156,7 @@ $E=====4803=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「よく来たね、
 //<NAME>くん!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Good to see you,
 <NAME>!
 $E=====4804=====
@@ -20168,7 +20168,7 @@ $E=====4805=====
 // <ALTER>プラグアウト</ALTER>
 <LABEL=ROCKMAN></LABEL>What do you want to do?
  <ALTER>Point Exchange</ALTER>  <ALTER>Gather Info</ALTER>
- <ALTER>Plug Out</ALTER>
+ <ALTER>Jack Out</ALTER>
 $E=====4806=====
 <PROC=0>
 <END>
@@ -20176,14 +20176,14 @@ $E=====4807=====
 //<LABEL=ROCKMAN></LABEL>何をしようか?」
 // <ALTER>情報収集</ALTER>　<ALTER>プラグアウト</ALTER>
 <LABEL=ROCKMAN></LABEL>What do you want to do?
- <ALTER>Gather Info</ALTER>  <ALTER>Plug Out</ALTER>
+ <ALTER>Gather Info</ALTER>  <ALTER>Jack Out</ALTER>
 $E=====4808=====
 <PROC=0>
 <END>
 $E=====4809=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクらの戦いの証(あかし)、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "I see you have some
 Crossover Points,
 $E=====4810=====
@@ -20218,7 +20218,7 @@ $E=====4816=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「現在のクロスオーバーポイン
 //トは、<VAR=0>ポイントだよ
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Current Crossover Point
 Total: <VAR=0> points.
 $E=====4817=====
@@ -20237,7 +20237,7 @@ $E=====4819=====
 $E=====4820=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「バッグがいっぱいだよ
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Your bag is full.
 $E=====4821=====
 //アクセサリーをへらしてきてね
@@ -20251,7 +20251,7 @@ $E=====4823=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ポイント交換(こうかん)をす
 //るには、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "To perform an exchange,
 $E=====4824=====
 //あと<VAR=3>ポイント必要だよ」
@@ -20269,7 +20269,7 @@ $E=====4827=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「残りのクロスオーバーポイン
 //トは、<VAR=2>ポイントだよ」
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Crossover Points left:
 <VAR=2> points."
 $E=====4828=====
@@ -20278,7 +20278,7 @@ $E=====4828=====
 $E=====4829=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「また遊びに来てね!」
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Come play again!"
 $E=====4830=====
 <PROC=0>
@@ -20286,7 +20286,7 @@ $E=====4830=====
 $E=====4831=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「じゃあね!」
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Later!"
 $E=====4832=====
 <PROC=0>
@@ -20294,7 +20294,7 @@ $E=====4832=====
 $E=====4833=====
 //ロックマンに勇気を分けてもら
 //った!
-Above all, Rockman gives you
+Above all, MegaMan gives you
 courage!
 $E=====4834=====
 <PROC=0>
@@ -20302,7 +20302,7 @@ $E=====4834=====
 $E=====4835=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「この世界にはボクの他にも、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "It seems that in this
 world,
 $E=====4836=====
@@ -20323,7 +20323,7 @@ $E=====4838=====
 $E=====4839=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクの仲間のぬいぐるみは、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "It seems that among the
 stuffed dolls of my friends,
 $E=====4840=====
@@ -20341,7 +20341,7 @@ $E=====4843=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「カーネルのぬいぐるみを見つ
 //けたみたいだね!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Looks like you found the
 stuffed doll of Colonel!
 $E=====4844=====
@@ -20366,7 +20366,7 @@ $E=====4847=====
 $E=====4848=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクの仲間のぬいぐるみ、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "There's one more stuffed
 doll of one of my friends,
 $E=====4849=====
@@ -20381,9 +20381,9 @@ $E=====4851=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ブルースのぬいぐるみを見つ
 //けたみたいだね!
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Looks like you found the
-stuffed doll of Blues!
+stuffed doll of ProtoMan!
 $E=====4852=====
 //この世界にある、ボクの仲間の
 //ぬいぐるみはもう1つ
@@ -20406,7 +20406,7 @@ $E=====4855=====
 $E=====4856=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクの仲間のぬいぐるみ、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "There's one more stuffed
 doll of one of my friends,
 $E=====4857=====
@@ -20421,9 +20421,9 @@ $E=====4859=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ブルースとカーネルのぬいぐ
 //るみ・・・
-<LABEL=ROCKMAN>Rockman</LABEL>:
-"The stuffed dolls of Blues
-and Colonel...
+<LABEL=ROCKMAN>MegaMan</LABEL>:
+"The stuffed dolls of
+ProtoMan and Colonel...
 $E=====4860=====
 //両方とも見つけたみたいだね!
 Looks like you found both of
@@ -20445,8 +20445,8 @@ $E=====4864=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「バイクカラーのロックブルー
 //を・・・
-<LABEL=ROCKMAN>Rockman</LABEL>:
-"The bike color, Rock
+<LABEL=ROCKMAN>MegaMan</LABEL>:
+"The bike color, Mega
 Blue...
 $E=====4865=====
 //サーキットや友達とのバイクバ
@@ -20467,8 +20467,8 @@ $E=====4868=====
 $E=====4869=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「バイクカラーのロックブルー
-<LABEL=ROCKMAN>Rockman</LABEL>:
-"The bike color, Rock
+<LABEL=ROCKMAN>MegaMan</LABEL>:
+"The bike color, Mega
 Blue...
 $E=====4870=====
 //まだ使ってないなら、一度試し
@@ -20481,8 +20481,8 @@ $E=====4871=====
 $E=====4872=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ロックバスターは、
-<LABEL=ROCKMAN>Rockman</LABEL>:
-"The power of the RockBuster
+<LABEL=ROCKMAN>MegaMan</LABEL>:
+"The power of the MegaBuster
 varies,
 $E=====4873=====
 //キミの残りライフにおうじて、
@@ -20506,9 +20506,9 @@ $E=====4876=====
 $E=====4877=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ロックバスターは、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "When you use the
-RockBuster,
+MegaBuster,
 $E=====4878=====
 //ある特別な4つのアクセサリー
 //を装備(そうび)すると、
@@ -20528,7 +20528,7 @@ $E=====4881=====
 $E=====4882=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「おてんこさまと<NAME>くん
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "Master Otenko and
 <NAME>.
 $E=====4883=====
@@ -20549,19 +20549,19 @@ If I could fuse with
 $E=====4886=====
 //ソルクロスロックマンだね!」
 I'd become Sol Cross
-Rockman!"
+MegaMan!"
 $E=====4887=====
 <PROC=0>
 <END>
 $E=====4888=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクと<NAME>くんが融合(ゆうごう)する
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "A fusion between <NAME>
 and I...
 $E=====4889=====
 ソルクロスロックマン・・・
-Sol Cross Rockman...
+Sol Cross MegaMan...
 $E=====4890=====
 //ひょっとして、このカートリッ
 //ジをボクがいる[DS]にさしたら
@@ -20575,7 +20575,7 @@ $E=====4891=====
 $E=====4892=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクのいる[DS]の世界にある
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "In the [DS] world where I
 can be found,
 $E=====4893=====
@@ -20617,7 +20617,7 @@ $E=====4898=====
 $E=====4899=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクのいる[DS]の世界で、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "In the [DS] world where I
 can be found,
 $E=====4900=====
@@ -20637,7 +20637,7 @@ $E=====4902=====
 $E=====4903=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクがいる[DS]の世界に、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "In the [DS] world where I
 can be found,
 $E=====4904=====
@@ -20670,7 +20670,7 @@ $E=====4909=====
 //<LABEL=ROCKMAN>ロックマン</LABEL>
 //「ボクがいる[DS]の世界のオラ
 //ン島エリア2に、
-<LABEL=ROCKMAN>Rockman</LABEL>:
+<LABEL=ROCKMAN>MegaMan</LABEL>:
 "In Oran Island Area 2 of
 the [DS] world I'm in,
 $E=====4910=====
@@ -20689,17 +20689,17 @@ $E=====4913=====
 //ロックマンとの友情の証、
 //PETだ!!
 This is... a PET,
-proof of Rockman's
+proof of MegaMan's
 friendship!
 $E=====4914=====
 //これがあればどこかにプラグイ
 //ンできるはずだ
 With this you should be able
-to Plug In somewhere.
+to Jack In somewhere.
 $E=====4915=====
 //見ていると勇気がわいてくるロ
 //ックマンのアレだろうか・・・
-Maybe that thing of Rockman
+Maybe that thing of MegaMan
 that makes you courageous
 while looking at it...
 $E=====4916=====
@@ -20710,13 +20710,13 @@ $E=====4917=====
 //ロックマンとの友情の証、
 //PETだ!!
 This is... a PET,
-proof of Rockman's
+proof of MegaMan's
 friendship!
 $E=====4918=====
 //これがあれば、どこかにプラグ
 //インできるはずだが・・・
 With this you should be able
-to Plug In anywhere, but...
+to Jack In anywhere, but...
 $E=====4919=====
 <PROC=0>
 <END>
@@ -21162,7 +21162,7 @@ $E=====5021=====
 <END>
 $E=====5022=====
 //ブルースのぬいぐるみだ
-A stuffed doll of Blues.
+A stuffed doll of ProtoMan.
 $E=====5023=====
 //そのクールなサングラスを見て
 //いると、心がとぎすまされてい
@@ -22065,10 +22065,10 @@ $E=====5215=====
 Solar Bank and Dark Loans receptionists "Luxana and Doomy" doll. Adjusts interest rates in your favor.
 $E=====5216=====
 //ネットナビ「ロックマン」のぬいぐるみ。エナジーを回復(かいふく)してくれる。
-Net Navi "Rockman" doll. Fully restores your ENE.
+Net Navi "MegaMan" doll. Fully restores your ENE.
 $E=====5217=====
 //ネットナビ「ブルース」のぬいぐるみ。太陽鍛冶(たいようかじ)において、GREAT!を出やすく、SP(特殊効果)を付きやすくしてくれる。
-Net Navi "Blues" doll. Makes it easier to get GREATs and SP effects at the Solar Smith.
+Net Navi "ProtoMan" doll. Makes it easier to get GREATs and SP effects at the Solar Smith.
 $E=====5218=====
 //ネットナビ「カーネル」のぬいぐるみ。トランスゲージを満タンにしてくれる。
 Net Navi "Colonel" doll. Fills your Trance Gauge.
@@ -37912,14 +37912,14 @@ Tree.
 $E=====8679=====
 //その中でも特にエナジーが豊富
 //(ほうふ)な太陽の実だ
-Called a Solar Fruit, it
+Called a Solar Nut, it
 contains a copious amount of
 energy.
 $E=====8680=====
 //太陽の実を使ってエナジーを回
 //復(かいふく)すれば、
 If you recover your energy
-with a Solar Fruit,
+with a Solar Nut,
 $E=====8681=====
 //太陽銃(ガン・デル・ソル)を使
 //うことができる
@@ -41203,18 +41203,18 @@ $E=====9345===== //TODO Changed for factual accuracy, change back if Boktai 2 pa
 //パスワードを入力しますか?
 Enter Zoku Bokura no Taiyou
 password?
-//Enter Boktai 2 password?
+//Enter Boktai2 password?
 $E=====9346=====
 //「続・ボクらの太陽」のデータ
 //を引き継ぎました。
-Boktai 2 data loaded
+Boktai2 data loaded
 successfully.
 $E=====9347=====
 //パスワードが間違っています。
 Incorrect password.
 $E=====9348=====
 //ゾクタイでの称号
-BOKTAI 2 TITLES
+BOKTAI2 TITLES
 $E=====9349=====
 //名前:
 Name:
@@ -41509,6 +41509,7 @@ $E=====9445=====
 $H=====9446=====
 0　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 $H=====9447=====
+//Start of Password Entry values
 あ
 $H=====9448=====
 い
@@ -41647,13 +41648,13 @@ $H=====9514=====
 $H=====9515=====
 アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォッャュョヴン
 $H=====9516=====
-あ
+//あ
 $H=====9517=====
-い
+//い
 $H=====9518=====
-う
+//う
 $H=====9519=====
-え
+//え
 $H=====9520=====
 お
 $H=====9521=====
@@ -42264,8 +42265,8 @@ $E=====9753=====
 //シンボクとエグゼ6、それぞれ
 //のゲームで伯爵(はくしゃく)と
 //戦い、
-For Boktai 3 and Rockman EXE
-6, each game has its own
+For Boktai3 and Rockman EXE6,
+each game has its own
 battle against the Count.
 $E=====9754=====
 //伯爵(はくしゃく)を先にたおす
@@ -42512,14 +42513,15 @@ $E=====9801=====
 $E=====9802=====
 //<LABEL=NONE>ロックマン</LABEL>
 //「<EXTEND=2>」
-<LABEL=NONE>Rockman</LABEL>:
+<LABEL=NONE>MegaMan</LABEL>:
 "<EXTEND=2>"
 $E=====9803=====
 //接続がキャンセルされました。
 Connection cancelled.
 $E=====9804=====
 //相手の接続をまっています。
-Waiting for opponent to connect.
+Waiting for opponent to
+connect.
 $E=====9805=====
 //<WEIGHT>「<EXTEND=2>」</WEIGHT>
 //バトルの申し込みがありました
@@ -42539,7 +42541,7 @@ Crossover Points Earned
 $E=====9809=====
 //クロスオーバーポイントの合計
 Crossover Point Total
-$C=====9810===== //FIXIT?
+$C=====9810=====
 //きょうもクロスオーバー
 Crossover today too
 $E=====9811=====
@@ -42559,10 +42561,10 @@ $E=====9815=====
 Battle with me
 $E=====9816=====
 //しょうぶだ　ねっとくん
-It's game time, Netto
+It's game time, Lan
 $E=====9817=====
 //まけないよ　ロックマン
-Don't lose, Rockman
+Don't lose, MegaMan
 $E=====9818=====
 //ジャンゴ
 DJANGO
@@ -42657,7 +42659,7 @@ $E=====9849=====
 CROW
 $E=====9850=====
 //レイブン
-RAVEN
+GARGOYLE
 $E=====9851=====
 //センチピード
 CENTIPEDE
@@ -42681,7 +42683,7 @@ $E=====9857=====
 OCTOPUS
 $E=====9858=====
 //グール
-GHOUL
+GHOUL(BOK)
 $E=====9859=====
 //ゾンビ
 ZOMBIE
@@ -42693,7 +42695,7 @@ $E=====9861=====
 MUMMY
 $E=====9862=====
 //ガスト
-GHAST
+GUST
 $E=====9863=====
 //マミー+
 MUMMY +
@@ -42849,7 +42851,7 @@ $E=====9913=====
 GHOST
 $E=====9914=====
 //レイス
-WRAITH
+LEYS
 $E=====9915=====
 //伯爵
 Count
