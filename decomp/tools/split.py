@@ -28,19 +28,47 @@ SET_LABEL = re.compile(r"^\t\.set (\w+),")
 C_FUNC = re.compile(r"^(?!static\b)[A-Za-z_][\w \*]*?\b(\w+)\s*\([^;]*\)\s*$|^(?!static\b)[A-Za-z_][\w \*]*?\b(\w+)\s*\([^;]*\)\s*\{", re.M)
 
 
-def c_functions(path):
-    src = open(path).read()
+INCLUDE_ASM = re.compile(r'INCLUDE_ASM\(\s*"[^"]*"\s*,\s*(\w+)\s*\)')
+
+
+def c_functions(path, with_asm=True):
+    """Functions a C unit covers, in file order: C definitions plus
+    INCLUDE_ASM(dir, name) placeholders (unless with_asm=False)."""
+    raw = open(path).read()
+    src = raw
     src = re.sub(r"/\*.*?\*/", "", src, flags=re.S)
     src = re.sub(r"//[^\n]*", "", src)
     src = re.sub(r"^#.*$", "", src, flags=re.M)
-    names = []
+    found = []
     # a definition: identifier( ... ) followed (possibly after newline) by {
     for m in re.finditer(r"\b(\w+)\s*\(([^;{}()]|\([^()]*\))*\)\s*\{", src):
         name = m.group(1)
         if name in ("if", "for", "while", "switch", "return", "sizeof"):
             continue
-        names.append(name)
-    return names
+        found.append((m.start(), name))
+    if with_asm:
+        for m in INCLUDE_ASM.finditer(src):
+            found.append((m.start(), m.group(1)))
+    return [n for _, n in sorted(found)]
+
+
+def write_nonmatching(code, funcs):
+    """build/asm/nonmatching/<name>.s for every function (used by INCLUDE_ASM)."""
+    d = os.path.join(ROOT, "build", "asm", "nonmatching")
+    os.makedirs(d, exist_ok=True)
+    for name, addr, i, j, nonword in funcs:
+        body = code[i:j]
+        globs = set()
+        for ln in body:
+            m = LABEL.match(ln) or SET_LABEL.match(ln)
+            if m:
+                globs.add(m.group(1))
+        # agbcc emits divided syntax; gbadisasm output is unified
+        text = ("\t.syntax unified\n" + "".join(f"\t.global {g}\n" for g in sorted(globs)) +
+                "\n".join(body) + "\n\t.syntax divided\n")
+        p = os.path.join(d, name + ".s")
+        if not os.path.exists(p) or open(p).read() != text:
+            open(p, "w").write(text)
 
 
 def main():
@@ -59,6 +87,7 @@ def main():
         funcs.append((name, addr, i, j, nonword))
     index = {f[0]: n for n, f in enumerate(funcs)}
 
+    write_nonmatching(code, funcs)
     units = []  # (first_func_idx, last_func_idx, path)
     for path in sorted(glob.glob(os.path.join(ROOT, "src", "**", "*.c"), recursive=True)):
         rel = os.path.relpath(path, ROOT)

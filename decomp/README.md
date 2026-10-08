@@ -11,13 +11,16 @@ translation can then be built on.
 | Disassembly | 7,868 functions, reassembles **bit-identical** (`make compare`) |
 | Shiftable | every ROM pointer is a symbol; all 13.7 MB of data can move. Moving it by 64 KiB plays **pixel-identical** in every scripted test (`make shifttest`) |
 | Compiler | identified as **agbcc** (pret's GCC 2.95 GBA compiler), `-O2 -mthumb-interwork` |
-| C pipeline | `src/*.c` → agbcc → spliced into the ROM in place of the asm; 4 functions matched so far |
+| C pipeline | `src/*.c` → agbcc → spliced into the ROM in place of the asm; `INCLUDE_ASM` for unfinished functions; 4 functions matched so far |
+| Libraries | 43 MP2K (`m4a`) functions match pret's pokeemerald `m4a.c` byte-for-byte (`tools/sigmatch.py`); `libagbsyscall` identified |
 | Text | 9,976-string script bank decoded, round-trips byte-exact, merged with the 2007 English (`text/script.jsonl`) |
 | Sound | MP2K engine; 1,483 songs, 5,525 track streams, 81 voicegroups, 415 samples walked |
 | Symbols | `symbols/` — named functions (incl. raphaelr's), data map, confirmed pointers |
 
-See [docs/ROM_MAP.md](docs/ROM_MAP.md) for what lives where, and
-[docs/FINDINGS.md](docs/FINDINGS.md) for engine notes.
+See [docs/ROM_MAP.md](docs/ROM_MAP.md) for what lives where,
+[docs/FINDINGS.md](docs/FINDINGS.md) for engine notes,
+[docs/screens/](docs/screens/) for per-screen graphics sources, and
+[CLAUDE.md](CLAUDE.md) for the decompilation workflow.
 
 ## Setup
 
@@ -69,6 +72,9 @@ tools/        everything that generates or checks the above
   runtime_ptrs.py turn harness evidence into symbols/pointers.txt + nonpointer_runtime.txt
   shift_test.sh   shiftability regression; ramdiff.py / shift_diff.py to debug it
   vram_map.py     which ROM bytes the tiles on screen came from
+  sigmatch.py     find library functions (compiled .o) in the ROM, relocation-masked
+  progress.py     functions/bytes decompiled (+ objdiff-style JSON)
+  ghidra/         headless Ghidra import/analysis/export scripts
   text_dump.py, charmap.py   script bank codec
   gfx.py, lz77.py, coverage.py, asmat.py
 ```

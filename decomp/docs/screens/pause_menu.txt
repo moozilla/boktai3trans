@@ -1,0 +1,209 @@
+# Pause-menu screens: ROM sources of every displayed tile (tools/vram_map.py)
+# Captured from ShinBok2.sav. BG tiles in 089F8F00-08A2AF00 are font glyphs drawn as text;
+# 0870A230.. is the menu frame art; OBJ tiles 08BE..-08C1.. are menu titles / button labels (graphical text to translate).
+
+00_field: DISPCNT=7560 mode 0
+  BG0 char 8000 map F800 4bpp: 21 unique tiles, 1 blank, 0 not in ROM
+    ROM 0870A250-0870A270     1 tiles
+    ROM 0870A7D0-0870AE30    16 tiles
+    ROM 0870B3D0-0870B430     3 tiles
+  BG2 char 0000 map E800 4bpp: 187 unique tiles, 1 blank, 0 not in ROM
+    ROM 0887ADB8-0887ADD8     1 tiles
+    ROM 08889BD8-08889D98     5 tiles
+    ROM 0888AA78-0888AC78     8 tiles
+    ROM 0888BD18-0888BE18     7 tiles
+    ROM 088BCDB8-088BE878   163 tiles
+    ROM 08AD41D4-08AD41F4     1 tiles
+    ROM 08AD4A90-08AD4AB0     1 tiles
+  OBJ: 44 unique tiles, 1 blank, 0 not in ROM
+    ROM 0860CC08-0860CC28     1 tiles
+    ROM 08AE4D14-08AE5294    16 tiles
+    ROM 08B81098-08B810B8     1 tiles
+    ROM 08C32B2C-08C32D6C     4 tiles
+    ROM 08C35EAC-08C360EC     4 tiles
+    ROM 08CC1E3C-08CC207C     4 tiles
+    ROM 08CC3E3C-08CC409C     6 tiles
+    ROM 08CCBE3C-08CCC07C     5 tiles
+    ROM 08CD1E3C-08CD205C     2 tiles
+01_items: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 51 unique tiles, 0 blank, 0 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870A270-0870A770     9 tiles
+    ROM 0870AE50-0870B0B0    11 tiles
+    ROM 0870B650-0870C010    30 tiles
+  OBJ: 97 unique tiles, 1 blank, 0 not in ROM
+    ROM 08B154B4-08B156B4    16 tiles
+    ROM 08C11880-08C11F00    16 tiles
+    ROM 08C12900-08C12A60     6 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C187E0-08C18940    11 tiles
+    ROM 08C34AEC-08C350EC     7 tiles
+    ROM 08C355AC-08C35884     5 tiles
+    ROM 08C3632C-08C3682C    16 tiles
+    ROM 08D09580-08D09940    15 tiles
+02_valuables: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 51 unique tiles, 0 blank, 0 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870A270-0870A770     9 tiles
+    ROM 0870AE50-0870B0B0    11 tiles
+    ROM 0870B650-0870C010    30 tiles
+  OBJ: 94 unique tiles, 1 blank, 0 not in ROM
+    ROM 08B154B4-08B156B4    16 tiles
+    ROM 08C11880-08C11F00    16 tiles
+    ROM 08C12900-08C12A60     6 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C15C80-08C15F40    12 tiles
+    ROM 08C187E0-08C18B60    15 tiles
+    ROM 08C3562C-08C3596C    12 tiles
+    ROM 08C3636C-08C3682C    12 tiles
+03_gun: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 42 unique tiles, 0 blank, 0 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870B030-0870B070     2 tiles
+    ROM 0870B850-0870C010    28 tiles
+    ROM 087475F8-08747BB8    11 tiles
+  OBJ: 208 unique tiles, 1 blank, 0 not in ROM
+    ROM 08B154B4-08B156B4    16 tiles
+    ROM 08BF36C4-08BF5264    52 tiles
+    ROM 08BF5E04-08BF6224     5 tiles
+    ROM 08C11880-08C11F00    16 tiles
+    ROM 08C12800-08C12A60     2 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C16080-08C16340    12 tiles
+    ROM 08C18360-08C18880    12 tiles
+    ROM 08C302EC-08C3052C     4 tiles
+    ROM 08C309EC-08C314EC    76 tiles
+    ROM 08C365AC-08C3682C     8 tiles
+04_sword: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 51 unique tiles, 0 blank, 0 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870A270-0870A770     9 tiles
+    ROM 0870AE50-0870B0B0    11 tiles
+    ROM 0870B650-0870C010    30 tiles
+  OBJ: 115 unique tiles, 1 blank, 0 not in ROM
+    ROM 08B154B4-08B156B4    16 tiles
+    ROM 08C11880-08C11F00    16 tiles
+    ROM 08C12800-08C12A60     7 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C16000-08C16040     2 tiles
+    ROM 08C16820-08C16FA0     6 tiles
+    ROM 08C18680-08C18940    13 tiles
+    ROM 08C3276C-08C32DAC    32 tiles
+    ROM 08C3632C-08C3682C    16 tiles
+    ROM 08D09A80-08D09EC0     2 tiles
+05_accessory: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 41 unique tiles, 0 blank, 0 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870B030-0870B090     3 tiles
+    ROM 0870B850-0870C010    27 tiles
+    ROM 087475F8-08747BB8    10 tiles
+  OBJ: 158 unique tiles, 1 blank, 0 not in ROM
+    ROM 08B154B4-08B156B4    16 tiles
+    ROM 08C11880-08C11F00    16 tiles
+    ROM 08C12800-08C12A60     7 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C16AC0-08C16B00     2 tiles
+    ROM 08C187E0-08C18D60    20 tiles
+    ROM 08C19480-08C19780    16 tiles
+    ROM 08C32F6C-08C3342C    12 tiles
+    ROM 08C339AC-08C3456C    28 tiles
+    ROM 08C3632C-08C3682C    16 tiles
+    ROM 08D095C0-08D09D00    20 tiles
+06_status: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 96 unique tiles, 0 blank, 0 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870A270-0870A870    14 tiles
+    ROM 0870AE50-0870C0F0    65 tiles
+    ROM 089FE500-089FE580     3 tiles
+    ROM 089FF780-08A00040    13 tiles
+  OBJ: 64 unique tiles, 1 blank, 0 not in ROM
+    ROM 08B154B4-08B156B4    16 tiles
+    ROM 08C11900-08C11B80     8 tiles
+    ROM 08C12080-08C123A0     8 tiles
+    ROM 08C12900-08C12A60     6 tiles
+    ROM 08C133E0-08C13440     2 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C16900-08C16F00    14 tiles
+    ROM 08C187E0-08C18880     5 tiles
+07_config: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 131 unique tiles, 0 blank, 16 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870B770-0870C010     7 tiles
+    ROM 087510CC-0875152C     4 tiles
+    ROM 089FB080-089FB960    23 tiles
+    ROM 089FBD80-089FC000     8 tiles
+    ROM 089FD3A0-089FD400     2 tiles
+    ROM 089FDA40-089FF000    29 tiles
+    ROM 089FF780-089FF7E0     3 tiles
+    ROM 08A00420-08A00840     2 tiles
+    ROM 08A02700-08A02780     4 tiles
+    ROM 08A03400-08A03480     4 tiles
+    ROM 08A06380-08A06400     4 tiles
+    ROM 08A09D80-08A09E00     4 tiles
+    ROM 08A1A100-08A1A280     8 tiles
+    ROM 08A1B900-08A1BB80     8 tiles
+    ROM 08A23B80-08A23C00     4 tiles
+  OBJ: 33 unique tiles, 0 blank, 0 not in ROM
+    ROM 08BE6484-08BE6704     8 tiles
+    ROM 08BE6C64-08BE6EA4     3 tiles
+    ROM 08C11900-08C11B80     8 tiles
+    ROM 08C12A40-08C12A60     1 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C159C0-08C15C00     4 tiles
+    ROM 08C161C0-08C16400     4 tiles
+    ROM 08C169A0-08C169C0     1 tiles
+08_sleep: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 51 unique tiles, 0 blank, 16 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870BA70-0870C010     3 tiles
+    ROM 087519AC-08751DEC     3 tiles
+    ROM 089FB500-089FB960    10 tiles
+    ROM 089FBF80-089FC000     4 tiles
+    ROM 089FD3A0-089FD400     2 tiles
+    ROM 089FDA40-089FDC00     3 tiles
+    ROM 089FE5A0-089FE5C0     1 tiles
+    ROM 089FF2C0-089FF2E0     1 tiles
+    ROM 08A00080-08A00100     3 tiles
+    ROM 08A00580-08A008C0     4 tiles
+  OBJ: 28 unique tiles, 1 blank, 0 not in ROM
+    ROM 08BE5344-08BE5AC4    12 tiles
+    ROM 08C11900-08C11B80     8 tiles
+    ROM 08C12A40-08C12A60     1 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C16AC0-08C16B00     2 tiles
+09_save: DISPCNT=7160 mode 0
+  BG0 char 8000 map F800 4bpp: 47 unique tiles, 0 blank, 16 not in ROM
+    ROM 086521FC-0865221C     1 tiles
+    ROM 0870BA70-0870C010     3 tiles
+    ROM 0875178C-08751BCC     4 tiles
+    ROM 089FB500-089FB960    10 tiles
+    ROM 089FBF80-089FC000     4 tiles
+    ROM 089FD3A0-089FD400     2 tiles
+    ROM 089FDA40-089FDC00     3 tiles
+    ROM 08A00580-08A00600     4 tiles
+  OBJ: 24 unique tiles, 1 blank, 0 not in ROM
+    ROM 08C11900-08C11B80     8 tiles
+    ROM 08C12A40-08C12A60     1 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C17120-08C17140     1 tiles
+    ROM 08D0A040-08D0A540     9 tiles
+10_map: DISPCNT=7360 mode 0
+  BG0 char 8000 map F800 4bpp: 32 unique tiles, 1 blank, 0 not in ROM
+    ROM 0870B7F0-0870BD70     4 tiles
+    ROM 089F90E0-089F98C0     7 tiles
+    ROM 089F9DC0-089F9E80     4 tiles
+    ROM 089FBC00-089FBC80     4 tiles
+    ROM 08A05580-08A05600     4 tiles
+    ROM 08A1AF80-08A1B000     4 tiles
+    ROM 08A1C280-08A1C300     4 tiles
+  BG1 char 8000 map F000 4bpp: 18 unique tiles, 0 blank, 0 not in ROM
+    ROM 0875B49C-0875BB3C    18 tiles
+  OBJ: 59 unique tiles, 0 blank, 0 not in ROM
+    ROM 08BE57E4-08BE5804     1 tiles
+    ROM 08C11900-08C11B80     8 tiles
+    ROM 08C12A40-08C12C80     2 tiles
+    ROM 08C13460-08C13480     1 tiles
+    ROM 08C138E0-08C13E60    26 tiles
+    ROM 08C14C80-08C14D00     4 tiles
+    ROM 08C15D40-08C16840    11 tiles
+    ROM 08C82B50-08C82D90     6 tiles
