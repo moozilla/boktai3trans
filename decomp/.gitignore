@@ -1,0 +1,6 @@
+# Never commit Nintendo/Konami ROM data or anything derived byte-for-byte from it
+*.gba
+*.sav
+build/
+extracted/
+__pycache__/
