@@ -1,0 +1,6 @@
+# Ranges where aligned pointer-like words are NOT assumed to be pointers.
+# start    end        [mode]
+#   mode omitted: never pointers (graphics, PCM, text, ...)
+#   mode "tables": only table-shaped runs (adjacent pointers, null entries allowed)
+08D74DDC 08DD6B95           # main script text (ASCII + 2-byte codes)
+08DD6B95 08E88145 tables    # event bytecode: byte-coded, contains pointer tables only

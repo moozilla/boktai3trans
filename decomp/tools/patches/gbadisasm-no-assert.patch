@@ -1,0 +1,28 @@
+diff --git a/disasm.c b/disasm.c
+index 29f4794..f305799 100755
+--- a/disasm.c
++++ b/disasm.c
+@@ -604,7 +604,10 @@ static void analyze(void)
+                             addr += 2;
+                             if (insn[i].size == 2) continue;
+                             tmp_cnt = cs_disasm(sCapstone, gInputFileBuffer + addr - ROM_LOAD_ADDR, 2, addr, 0, &tmp);
+-                            assert(tmp_cnt == 1);
++                            if (tmp_cnt != 1) {
++                                fprintf(stderr, "warning: undecodable thumb at 0x%08X, ending chunk\n", addr);
++                                break;
++                            }
+                             free(insn[i].detail);
+                             insn[i] = *tmp;
+                             free(tmp);
+@@ -1187,7 +1190,10 @@ static void print_disassembly(void)
+                             addr += 2;
+                             if (insn[j].size == 2) continue;
+                             tmp_cnt = cs_disasm(sCapstone, gInputFileBuffer + addr - ROM_LOAD_ADDR, 2, addr, 0, &tmp);
+-                            assert(tmp_cnt == 1);
++                            if (tmp_cnt != 1) {
++                                fprintf(stderr, "warning: undecodable thumb at 0x%08X, ending chunk\n", addr);
++                                break;
++                            }
+                             free(insn[j].detail);
+                             insn[j] = *tmp;
+                             free(tmp);

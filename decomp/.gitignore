@@ -4,3 +4,4 @@
 build/
 extracted/
 __pycache__/
+tools/emu/harness

@@ -1,0 +1,25 @@
+addr,name,mode,confidence,source,notes
+080001B4,crt0_Init,arm,high,disasm,"Nintendo SDK crt0: set IRQ/SYS stacks, install IntrMain, call AgbMain"
+080001F0,IntrMain,arm,high,disasm,"SDK interrupt dispatcher; copied to IWRAM 0x03003A60; table at 0x03003A10"
+0800145C,AgbMain,thumb,high,disasm,"Game main entry (pointer at 0x08000344)"
+0803223C,Text_FindChar,thumb,medium,raphaelr,"strchr variant used by script parsing"
+081DC02C,Menu_EraseRect,thumb,high,raphaelr,"(x, y, w, h) clear UI text area; must be called before overdrawing text"
+081DC054,Menu_DrawText,thumb,high,raphaelr,"(x, y, char *text) draw text in the UI"
+081DC6D0,Time_ShowRegionMenu,thumb,medium,raphaelr,"region select screen; page number at menu+0x1C"
+081DC754,Time_OnRegionListSelect,thumb,medium,raphaelr,
+081DC7A0,Time_HandleRegionKeypad,thumb,medium,raphaelr,
+081DCA6C,Time_DestroyRegionMenu,thumb,medium,raphaelr,
+081DCA9C,Time_LoadRegionList,thumb,medium,raphaelr,
+081DCE34,Time_OnLoadSave,thumb,medium,raphaelr,
+08215698,Video_GetBackgroundMap,thumb,high,raphaelr,"(int bg) -> EWRAM buffer holding that BG's tilemap"
+0821A940,Script_PushCtrlNextKeyword,thumb,medium,raphaelr,
+0821A950,Script_PopCtrlNextKeyword,thumb,medium,raphaelr,
+0821A960,Script_SetPc,thumb,high,raphaelr,"event bytecode interpreter: set PC, returns PC"
+0821A96C,Script_SeekToKeyword,thumb,high,raphaelr,"advance PC to next keyword instruction (char kw)"
+0821AABC,Script_ParseStringRef,thumb,high,raphaelr,"u16 string id operand of the current string-ref instruction"
+0821AB18,Script_GetPc,thumb,high,raphaelr,
+0821AB40,Script_GetValue,thumb,high,raphaelr,"evaluate integer operand at PC"
+0821AB88,Script_GetValueSafe,thumb,medium,raphaelr,"Script_GetValue with null-PC checks"
+0821ADD4,Text_LookupString,thumb,high,"notes.txt+raphaelr","(int id) -> char*; table 0x08D6B1F8, base 0x08D74DDC, mask 0x7FFFFFFF"
+0822A7A8,Time_CalculateSunriseSunsetCore,thumb,medium,raphaelr,
+0822AE00,Time_CalculateSunriseSunset,thumb,high,raphaelr,"(lat, lon, tz_offset) compute+store sunrise/sunset"

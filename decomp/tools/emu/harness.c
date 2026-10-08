@@ -15,6 +15,7 @@
 //   shot NAME           write OUTDIR/NAME.ppm
 //   save NAME / load NAME   savestate to/from OUTDIR/NAME.ss
 //   dump NAME ADDR:LEN  raw memory dump (hex address and length)
+//   watch ADDR:LEN      log stores into a RAM range (hex) to stderr
 //   lux N               solar sensor reading (0-255, game treats lower as brighter)
 //   trace on|off        enable coverage recording (default on)
 //   (env BOKTAI3_SAV=file.sav loads a battery save first)
@@ -50,6 +51,8 @@ static int tracing = 1;
 static uint32_t* rom_reader;
 // Per-halfword code execution: bit0 = executed in Thumb, bit1 = executed in ARM
 static uint8_t* rom_exec;
+// Per-word: PC of the first LDR/LDM that loaded it (pointer evidence), 0 = none
+static uint32_t* rom_word32;
 static uint8_t iwram_exec[0x8000 / 2];
 static uint8_t ewram_exec[0x40000 / 2];
 // Segment (per "mark") copies
@@ -86,7 +89,29 @@ static inline void note_read(uint32_t addr, int width) {
 	}
 }
 
-static uint32_t h_load32(struct ARMCore* c, uint32_t a, int* cc) { note_read(a & ~3u, 4); return orig.load32(c, a, cc); }
+// True if the current instruction is a word load (LDR/LDM), i.e. this access
+// is the program loading a word -- not DMA or a BIOS copy.
+static int cpu_is_word_load(void) {
+	uint32_t pc = cur_pc();
+	if (pc < 0x02000000) return 0; // BIOS (CpuSet/CpuFastSet/decompression)
+	if (cpu->executionMode == MODE_THUMB) {
+		uint16_t op = core->rawRead16(core, pc, -1);
+		return (op & 0xF800) == 0x6800 || (op & 0xFE00) == 0x5800 || (op & 0xF800) == 0x4800 ||
+		       (op & 0xF800) == 0x9800 || (op & 0xF800) == 0xC800 || (op & 0xFE00) == 0xBC00;
+	}
+	uint32_t op = core->rawRead32(core, pc, -1);
+	return (op & 0x0C500000) == 0x04100000 || (op & 0x0E100000) == 0x08100000;
+}
+
+static inline void note_word(uint32_t addr, int nwords) {
+	if (!tracing || addr < 0x08000000 || addr >= 0x0A000000) return;
+	if (!cpu_is_word_load()) return;
+	uint32_t w = ((addr - 0x08000000) & (ROM_SIZE - 1)) >> 2;
+	uint32_t pc = cur_pc() | (cpu->executionMode == MODE_THUMB);
+	for (int i = 0; i < nwords && w + i < ROM_SIZE / 4; ++i)
+		if (!rom_word32[w + i]) rom_word32[w + i] = pc;
+}
+static uint32_t h_load32(struct ARMCore* c, uint32_t a, int* cc) { note_read(a & ~3u, 4); note_word(a & ~3u, 1); return orig.load32(c, a, cc); }
 static uint32_t h_load16(struct ARMCore* c, uint32_t a, int* cc) { note_read(a & ~1u, 2); return orig.load16(c, a, cc); }
 static uint32_t h_load8(struct ARMCore* c, uint32_t a, int* cc) { note_read(a, 1); return orig.load8(c, a, cc); }
 static uint32_t h_loadMultiple(struct ARMCore* c, uint32_t base, int mask, enum LSMDirection dir, int* cc) {
@@ -95,7 +120,29 @@ static uint32_t h_loadMultiple(struct ARMCore* c, uint32_t base, int mask, enum 
 	if (dir & LSM_D) start = base - 4 * n + ((dir & LSM_B) ? 0 : 4);
 	else if (dir & LSM_B) start = base + 4;
 	note_read(start & ~3u, 4 * n);
+	note_word(start & ~3u, n);
 	return orig.loadMultiple(c, base, mask, dir, cc);
+}
+
+// Write watchpoint (watch ADDR:LEN): logs PC/value of stores into the range
+static uint32_t watch_lo = 0, watch_hi = 0;
+static void note_store(uint32_t a, uint32_t v, int w) {
+	if (a + w > watch_lo && a < watch_hi)
+		fprintf(stderr, "[watch] frame %u pc %08X store%d [%08X] = %08X\n", core->frameCounter(core), cur_pc(), w * 8, a, v);
+}
+static void h_store32(struct ARMCore* c, uint32_t a, int32_t v, int* cc) { note_store(a & ~3u, v, 4); orig.store32(c, a, v, cc); }
+static void h_store16(struct ARMCore* c, uint32_t a, int16_t v, int* cc) { note_store(a & ~1u, (uint16_t) v, 2); orig.store16(c, a, v, cc); }
+static void h_store8(struct ARMCore* c, uint32_t a, int8_t v, int* cc) { note_store(a, (uint8_t) v, 1); orig.store8(c, a, v, cc); }
+static uint32_t h_storeMultiple(struct ARMCore* c, uint32_t base, int mask, enum LSMDirection dir, int* cc) {
+	if (watch_hi) {
+		int n = __builtin_popcount(mask & 0xFFFF);
+		uint32_t start = base;
+		if (dir & LSM_D) start = base - 4 * n + ((dir & LSM_B) ? 0 : 4);
+		else if (dir & LSM_B) start = base + 4;
+		if (start < watch_hi && start + 4 * n > watch_lo)
+			fprintf(stderr, "[watch] frame %u pc %08X stm [%08X..+%d]\n", core->frameCounter(core), cur_pc(), start, 4 * n);
+	}
+	return orig.storeMultiple(c, base, mask, dir, cc);
 }
 
 static void note_exec(void) {
@@ -212,6 +259,10 @@ int main(int argc, char** argv) {
 		fclose(in); fclose(out);
 		core->loadSave(core, VFileOpen(path, O_RDWR));
 	}
+	// Deterministic clock: fixed RTC (override with BOKTAI3_RTC=unix seconds)
+	const char* rtc_env = getenv("BOKTAI3_RTC");
+	core->rtc.override = RTC_FIXED;
+	core->rtc.value = (int64_t) (rtc_env ? strtoll(rtc_env, NULL, 10) : 1128150000LL) * 1000; // 2005-10-01 07:00 UTC
 	core->reset(core);
 
 	cpu = core->cpu;
@@ -223,6 +274,7 @@ int main(int argc, char** argv) {
 
 	rom_reader = calloc(ROM_SIZE, 4);
 	rom_exec = calloc(ROM_SIZE / 2, 1);
+	rom_word32 = calloc(ROM_SIZE / 4, 4);
 	seg_reader = NULL;
 	seg_exec = NULL;
 
@@ -250,6 +302,15 @@ int main(int argc, char** argv) {
 			for (unsigned i = 0; i < len; ++i) fputc(core->rawRead8(core, addr + i, -1), f);
 			fclose(f);
 		}
+		else if (!strcmp(cmd, "watch")) {
+			unsigned addr = 0, len = 4;
+			sscanf(a1, "%x:%x", &addr, &len);
+			watch_lo = addr; watch_hi = addr + len;
+			cpu->memory.store32 = h_store32;
+			cpu->memory.store16 = h_store16;
+			cpu->memory.store8 = h_store8;
+			cpu->memory.storeMultiple = h_storeMultiple;
+		}
 		else if (!strcmp(cmd, "lux")) lux = atoi(a1);
 		else if (!strcmp(cmd, "trace")) tracing = !strcmp(a1, "on");
 		else if (!strcmp(cmd, "mark")) {
@@ -265,6 +326,8 @@ int main(int argc, char** argv) {
 	end_segment();
 	write_cov("total", rom_reader, rom_exec);
 	char path[1024];
+	snprintf(path, sizeof(path), "%s/total.word32", outdir);
+	FILE* fw = fopen(path, "wb"); fwrite(rom_word32, 4, ROM_SIZE / 4, fw); fclose(fw);
 	snprintf(path, sizeof(path), "%s/total.iwram_exec", outdir);
 	FILE* f = fopen(path, "wb"); fwrite(iwram_exec, 1, sizeof(iwram_exec), f); fclose(f);
 	snprintf(path, sizeof(path), "%s/total.ewram_exec", outdir);
