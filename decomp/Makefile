@@ -13,15 +13,17 @@ ROM     := build/boktai3.gba
 SHA1    := 2651c5e6875ac60abff734510d152166d211c87c
 
 .PHONY: all compare setup disasm text clean shifttest
-all: compare
+# Default: split asm around src/*.c, compile with agbcc, link, verify SHA-1
+all: build/asm/code_sym.s build/asm/data.s
+	$(PY) tools/build.py
 
 setup:
 	tools/setup.sh
 
-build/asm/code.s: tools/disasm.py symbols/functions.csv
+build/asm/code.s: tools/disasm.py
 	$(PY) tools/disasm.py
 
-build/asm/code_sym.s build/asm/data.s: build/asm/code.s tools/symbolize.py symbols/data.csv
+build/asm/code_sym.s build/asm/data.s: build/asm/code.s tools/symbolize.py tools/m4a.py symbols/*.csv symbols/*.txt
 	$(PY) tools/symbolize.py
 
 disasm: build/asm/code_sym.s
@@ -41,6 +43,7 @@ build/rom.elf: build/rom.o
 $(ROM): build/rom.elf
 	$(OBJCOPY) -O binary $< $@
 
+# Pure-asm build (no C), useful to check the generated asm alone
 compare: $(ROM)
 	@echo "$(SHA1)  $(ROM)" | sha1sum -c -
 

@@ -5,13 +5,8 @@
 set -e
 cd "$(dirname "$0")/.."
 SCRIPT=$1; SHIFT=${2:-0x100}
-make -s build/shifted.gba SHIFT=$SHIFT
-python3 - <<'PY'
-b = open("build/shifted.gba", "rb").read()
-# keep 16 MiB so EEPROM stays mapped at 0x0D000000 (data past the end is zero padding)
-assert not any(b[0x1000000:]), "shifted ROM has data past 16 MiB"
-open("build/shifted.gba", "wb").write(b[:0x1000000])
-PY
+# (build.py trims trailing zero padding back to 16 MiB so EEPROM stays at 0x0D000000)
+python3 tools/build.py --shift $SHIFT --out build/shifted.gba
 OUT=build/shift_test/$(date +%s); mkdir -p $OUT/orig $OUT/shift
 tools/emu/harness baserom.gba "$SCRIPT" $OUT/orig >/dev/null 2>&1
 tools/emu/harness build/shifted.gba "$SCRIPT" $OUT/shift >/dev/null 2>&1
